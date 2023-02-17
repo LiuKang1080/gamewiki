@@ -1,0 +1,171 @@
+Nioh 2 Categories | Each major section is a Main Menu Card, each will have links that lead to individual pages.
+
+
+========== ========== ==========
+Basics [Main Menu Card 1]:
+========== ========== ==========
+[5 Links] 
+    - Basic Game Info / Settings 
+    - Character
+    - The Shrine
+    - The Dojo
+    - Terminology
+
+
+========== ========== ==========
+Combat [Main Menu Card 2]:
+========== ========== ==========
+[8 Links]
+    - Selecting A Weapon / Guardian Spirit
+    - Stances
+    - Ki Pulse
+    - Skills / Skill Trees:
+        - Samurai Skills
+        - Shiftling Skills
+        - Full Hidden Skills Table
+        - Sword Skills
+        - Dual Swords Skills
+        - Spear Skills
+        - Axe Skills
+        - Kusarigama Skills
+        - Odachi Skills
+        - Tonfa Skills
+        - Hatchets Skills
+        - Switchglaive Skills
+        - Splitstaff Skills
+        - Fists Skills
+
+    - Dodging / Guarding / Parrying
+    - Yokai Shift / Burst Counters
+    - Status Effects
+    - Advanced Tech
+
+
+========== ========== ==========
+Equipment [Main Menu Card 3]:
+========== ========== ==========
+[10 Links]
+    - Weapons
+        - Sword
+        - Dual Swords
+        - Spear
+        - Axe
+        - Kusarigama
+        - Odachi
+        - Tonfa
+        - Hatchets
+        - Switchglaive
+        - Splitstaff
+        - Fists
+        - Bows
+        - Rifles
+        - Cannons
+    
+    - Armor
+        - Light Armor
+        - Medium Armor
+        - Heavy Armor
+
+    - Ninjutsu
+    - Onmyo Magic
+    - Soul Cores
+    - Guardian Spirits
+    - Accessories 
+    - Demon Parade Picture Scrolls
+    - Graces & Sets
+    - Items
+
+
+========== ========== ==========
+World [Main Menu Card 4]:
+========== ========== ==========
+[8 Links]
+    - Missions:
+        - Awakening Region (1st Region)
+        - Soaring Region (2nd Region)
+        - Shadow Region (3rd Region)
+        - Dawn Region (4th Region)
+        - Twilight Region (5th Region)
+        - Dream Region (6th Region)
+        - Afterglow Region (7th Region)
+        - The Tengu's Disciple (DLC 1)
+        - The Darkness in the Capital (DLC 2)
+        - The First Samurai (DLC 3)
+		- Twilight Missions
+        - Dojo Missions
+    
+    - Enemies:
+        - We can have a small section about Human Enemies before the main list of Yokai enemies
+            since there are only a few handful of Human Enemies.
+    
+    - Bosses
+    - The Underworld:
+        - Floors 1 - 108:
+            [Have Grace Pools at the top of the Floors page]
+        
+        - Lapis Lazuli table
+        - Jizo Kodama
+
+    - The Depths of the Underworld
+    - Kodama & Sudama:
+        [Link video for all Kodama locations]
+        [Link to Achievements for Kodamas]
+    
+    - Characters
+    - Secrets
+
+
+========== ========== ==========
+Tools & Resources [Main Menu Card 5]:
+========== ========== ==========
+[6 Links]
+    - Smithing Texts
+    - Special Effects Table
+    - Blacksmith:
+        - Forging:
+            [Link to Farming Yokai parts / Divine Fragments] 
+        
+        - Soul Matching
+        - Inheritables
+        - Tempering
+        - Remodeling
+        - Disassembling Gear
+    
+    - Farming:
+        - Farming Amrita
+        - Farming Yokai Parts
+        - Farming Divine Fragments
+        - Farming Proficiency Points
+        - Farming Gold
+        - Farming Glory
+
+    - Builds
+    - Achievements
+
+
+========== ========== ==========
+Online [Main Menu Card 6]:
+========== ========== ==========
+[6 Links]
+    - Online Modes
+    - Matchmaking
+    - Hidden Tea House:
+        - Clans
+    
+    - Revenants
+    - Benevolent Graves
+    - Communities
+
+
+========== ========== ==========
+Travel Guides
+========== ========== ==========
+    - Per Cycle Guides:
+        - Dream of the Samurai
+        - Dream of the Strong
+        - Dream of the Demon
+        - Dream of the Wise
+        - Dream of the Nioh
+        - The Underworld
+        - The Depths of the Underworld
+        - Recommended Missions to reach the next difficulty

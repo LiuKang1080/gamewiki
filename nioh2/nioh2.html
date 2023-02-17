@@ -1,0 +1,788 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nioh 2 Wiki</title>
+    <!-- ========== ========== ==========
+    Google Fonts
+    ========== ========== ========== -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Asul&display=swap" rel="stylesheet">
+
+    <!-- ========== ========== ==========
+    FlowBite CSS
+    ========== ========== ========== -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.css"  rel="stylesheet" />
+    
+    <!-- ========== ========== ==========
+    TailWindCSS Link
+    ========== ========== ========== -->
+    <link href="../css/output.css" rel="stylesheet">
+
+    <!-- ========== ========== ==========
+    Manual CSS Link
+    ========== ========== ========== -->
+    <link href="../css/manual.css" rel="stylesheet">
+
+    <!-- ========== ========== ==========
+    TailWind CSS build process:
+    npx tailwindcss -i ./css/input.css -o ./css/output.css --watch
+    ========== ========== ========== -->
+</head>
+<body class="bg-fixed lg:bg-cover">
+    <!-- 
+    ========== ========== ==========
+    Header
+    ========== ========== ========== -->
+    <header class="bg-transparent text-white">
+        <!-- sticky top-0 z-10 -->
+
+        <!-- ========== ========== ==========
+        Desktop Navbar Menu (Navbar)
+        ========== ========== ========== -->
+        <div class="w-full flex justify-start items-center">
+            <div class="w-full flex justify-between items-center px-5 py-3 gap-5
+                lg:w-fit">
+                
+                <!-- HOME -->
+                <a href="../index.html">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-house-fill" viewBox="0 0 16 16">
+                        <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.707 1.5Z"/>
+                        <path d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6Z"/>
+                    </svg>
+                </a>
+
+                <!-- Nioh 2 Logo -->
+                <a href="./nioh2.html"><img src="./img/nioh2_logo.png" alt=""></a>
+
+                <!-- Navbar Buttons -->
+                <!-- hidden nav for mobile viewports -->
+                <button id="hamburger-button" class="text-3xl md:hidden cursor-pointer">&#9776;</button>
+                <!-- Hamburger UNICODE -->
+
+                <!-- Navbar links (DESKTOP VERSION) -->
+                <nav class="hidden md:block gap-5" aria-label="main">
+                    <!-- ========== ==========
+                    New Player Guide
+                    ========== ========== -->
+                    <button id="newplayer_button" data-dropdown-toggle="newplayer_dropdown" class="text-white bg-transparent text-center inline-flex items-center" type="button">
+                        New Player Guide <img class="p-2" src="./img/dropdown_icon.png" alt="">
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="newplayer_dropdown" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
+                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Dashboard</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Settings</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Earnings</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Sign out</a></li>
+                        </ul>
+                    </div>
+                    
+                    <!-- ========== ==========
+                    Travel Guides Button
+                    ========== ========== -->
+                    <button id="travel_button" data-dropdown-toggle="travel_dropdown" class="text-white bg-transparent text-center inline-flex items-center" type="button">
+                        Travel Guides <img class="p-2" src="./img/dropdown_icon.png" alt="">
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="travel_dropdown" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
+                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Dashboard</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Settings</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Earnings</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Sign out</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Basics Button
+                    ========== ========== -->
+                    <button id="basics_button" data-dropdown-toggle="basics_dropdown" class="text-white bg-transparent text-center inline-flex items-center" type="button">
+                        Basics <img class="p-2" src="./img/dropdown_icon.png" alt="">
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="basics_dropdown" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
+                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Basic Game Info</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Character</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">The Shrine</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">The Dojo</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Terminology</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Combat Button
+                    ========== ========== -->
+                    <button id="combat_button" data-dropdown-toggle="combat_dropdown" class="text-white bg-transparent text-center inline-flex items-center" type="button">
+                        Combat <img class="p-2" src="./img/dropdown_icon.png" alt="">
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="combat_dropdown" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
+                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="combatButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Selecting A Weapon & Guardian Spirit</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Stances</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Ki Pulse</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Skills / Skill Trees</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Dodging / Guarding / Parrying</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Yokai Shift / Burst Counters</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Status Effects</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Advanced Tech</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Equipment Button
+                    ========== ========== -->
+                    <button id="equipment_button" data-dropdown-toggle="equipment_dropdown" class="text-white bg-transparent text-center inline-flex items-center" type="button">
+                        Equipment <img class="p-2" src="./img/dropdown_icon.png" alt="">
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="equipment_dropdown" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
+                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="equipmentButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Weapons</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Armor</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Ninjutsu</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Onmyo Magic</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Soul Cores</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Guardian Spirits</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Accessories</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Demon Parade Picture Scrolls</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Graces & Sets</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Items</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    World Button
+                    ========== ========== -->
+                    <button id="world_button" data-dropdown-toggle="world_dropdown" class="text-white bg-transparent text-center inline-flex items-center" type="button">
+                        World <img class="p-2" src="./img/dropdown_icon.png" alt="">
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="world_dropdown" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
+                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="worldButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Missions</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Enemies</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Bosses</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">The Underworld</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">The Depths of the Underworld</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Kodama & Sudama</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Characters</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Secrets</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Guides Button
+                    ========== ========== -->
+                    <button id="guides_button" data-dropdown-toggle="guides_dropdown" class="text-white bg-transparent text-center inline-flex items-center" type="button">
+                        Guides <img class="p-2" src="./img/dropdown_icon.png" alt="">
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="guides_dropdown" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
+                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="guidesButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Smithing Texts</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Special Effects Table</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Blacksmith</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Farming</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Builds</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Achievements</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Tools & Resources Button
+                    ========== ========== -->
+                    <button id="tools_button" data-dropdown-toggle="tools_dropdown" class="text-white bg-transparent text-center inline-flex items-center" type="button">
+                        Tools & Resources <img class="p-2" src="./img/dropdown_icon.png" alt="">
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="tools_dropdown" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
+                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="toolsButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Online Modes</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Matchmaking</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Hidden Tea House</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Revenants</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Benevolent Graves</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Communities</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+
+        <!-- 
+        ========== ========== ==========
+        Mobile Only Menu (Navbar)
+        ========== ========== ==========
+        -->
+        <div id="mobile-menu" class="absolute top-0 bg-dark-gray w-full text-4xl flex-col justify-center
+            origin-top animate-open-menu hidden">
+
+            <!-- closing button -->
+            <button class="text-8xl self-end px-6">&times;</button>
+
+            <!-- Navbar Links Mobile -->
+            <nav class="flex flex-col min-h-screen items-center py-8" aria-label="mobile">
+                <a class="w-full text-center py-6 text-slate-400" href="../index.html">HOME</a>
+                <a class="w-full text-center py-6 text-slate-400" href="">NEW PLAYER GUIDES</a>
+                <a class="w-full text-center py-6 text-slate-400" href="">TRAVEL GUIDES</a>
+                <a class="w-full text-center py-6 text-slate-400" href="">BASICS</a>
+                <a class="w-full text-center py-6 text-slate-400" href="">COMBAT</a>
+                <a class="w-full text-center py-6 text-slate-400" href="">WORLD</a>
+                <a class="w-full text-center py-6 text-slate-400" href="">EQUIPMENT</a>
+                <a class="w-full text-center py-6 text-slate-400" href="">TOOLS & RESOURCES</a>
+                <a class="w-full text-center py-6 text-slate-400" href="">ONLINE</a>
+            </nav>
+        </div>
+    </header>
+
+
+    <!-- ========== ========== ==========
+    Hero Section
+    ========== ========== ========== -->
+    <section class="mt-6 lg:mt-80 flex flex-col items-center justify-center">
+        <h1 class="font-asul text-white text-6xl">
+            Nioh <span class="text-red-500">2</span> Wiki
+        </h1>
+    </section>
+
+
+    <!-- ========== ========== ==========
+    Card Section
+    ========== ========== ========== -->
+    <section class="mx-auto mt-6 gap-4
+        lg:w-[1320px] lg:mt-12 lg:mb-[200px] lg:grid lg:grid-cols-3">
+
+        <!-- GRID
+            New Player Guide    |                   Travel Guides   
+            Card 1              |       Card 2          |       Card 3
+            Card 4              |       Card 5          |       Card 6
+        -->
+
+        <!-- ========== ==========
+        Left Section
+        ========== ========== -->
+        <div class="px-6 rounded-xl flex flex-col items-center bg-medium-gray pb-6
+            lg:w-[430px] lg:h-[476px] lg:pb-0">
+
+            <!-- top row -->
+            <div class="my-3 lg:my-6 w-full flex justify-between items-center">
+                <img src="./img/signpost_icon.png" alt="">
+                <h2 class="font-asul text-2xl text-white">New Player Guide</h2>
+                <a href=""><img src="./img/yellow_arrow_right.png" alt=""></a>
+            </div>
+
+            <!-- Region list -->
+            <div class="w-full flex flex-col gap-2">
+                <!-- Awakening Region -->
+                <a class="mask flex justify-between items-center px-6 py-3 lg:py-4 rounded font-asul text-2xl text-white" href="">
+                    <span>Awakening</span>
+                    <img src="./img/kanji.png" alt="">
+                </a>
+                
+                <!-- Soaring Region -->
+                <a class="mask flex justify-between items-center px-6 py-3 lg:py-4 rounded font-asul text-2xl text-white" href="">
+                    <span>Soaring</span>
+                    <img src="./img/kanji.png" alt="">
+                </a>
+
+                <!-- Shadow Region -->
+                <a class="mask flex justify-between items-center px-6 py-3 lg:py-4 rounded font-asul text-2xl text-white" href="">
+                    <span>Shadow</span>
+                    <img src="./img/kanji.png" alt="">
+                </a>
+
+                <!-- Dawn Region -->
+                <a class="mask flex justify-between items-center px-6 py-3 lg:py-4 rounded font-asul text-2xl text-white" href="">
+                    <span>Dawn</span>
+                    <img src="./img/kanji.png" alt="">
+                </a>
+
+                <!-- + More -->
+                <a class="mask lg:mt-2 flex justify-center items-center px-6 py-3 lg:py-4 rounded font-asul text-xl text-white" href="">
+                    <span>+6 More</span>
+                </a>
+            </div>
+        </div>
+
+        <!-- ========== ==========
+        Right Section
+        ========== ========== -->
+        <div class="mt-6 px-6 pb-6 rounded-xl flex flex-col items-center bg-medium-gray
+            lg:mt-0 lg:pb-6 lg:w-[874px] lg:h-[476] lg:col-span-2">
+
+            <!-- ==========
+            Top Row
+            ========== -->
+            <div class="w-full mt-6 flex justify-between items-center">
+                <!-- Travel Guides text -->
+                <div class="flex items-center gap-4">
+                    <img src="./img/signpost_icon.png" alt="">
+                    <h2 class="font-asul text-2xl text-white">Travel Guides</h2>
+                </div>
+
+                <!-- See all link -->
+                <a class="flex items-center gap-2" href="">
+                    <span class="text-yellow-400">See All</span>
+                    <img src="./img/yellow_arrow_right.png" alt="">
+                </a>
+            </div>
+
+            <!-- ==========
+            Middle Row
+            ========== -->
+            <div class="w-full mt-6 flex flex-col justify-start items-center gap-3
+                lg:flex-row lg:w-auto lg:px-4">
+                
+                <!-- Card 1 -->
+                <a class="mask w-full p-4 rounded flex flex-col items-start justify-between bg-light-gray
+                    lg:w-[268px] lg:h-[312px]" href="">
+                    
+                    <!-- + cycle text -->
+                    <span class="text-light-gray text-[14px]">NG+</span>
+
+                    <!-- Main Image -->
+                    <img class="place-self-center" src="./img/large_amrita_crystal_1.png" alt="">
+
+                    <!-- Dream of the... text -->
+                    <div class="flex flex-col">
+                        <span class="font-asul text-[14px] text-white">Dream of the </span>
+                        <span class="font-asul text-[28px] text-white">Strong</span>
+                    </div>
+                </a>
+
+                <!-- Card 2 -->
+                <a class="mask w-full p-4 rounded flex flex-col items-start justify-between
+                    lg:w-[268px] lg:h-[312px]" href="">
+                    
+                    <!-- + cycle text -->
+                    <span class="text-light-gray text-[14px]">NG+2</span>
+
+                    <!-- Main Image -->
+                    <img class="place-self-center" src="./img/large_amrita_crystal_2.png" alt="">
+
+                    <!-- Dream of the... text -->
+                    <div class="flex flex-col">
+                        <span class="font-asul text-[14px] text-white">Dream of the </span>
+                        <span class="font-asul text-[28px] text-white">Demon</span>
+                    </div>
+                </a>
+
+                <!-- Card 3 -->
+                <a class="mask w-full p-4 rounded flex flex-col items-start justify-between
+                    lg:w-[268px] lg:h-[312px]" href="">
+                    
+                    <!-- + cycle text -->
+                    <span class="text-light-gray text-[14px]">NG+3</span>
+
+                    <!-- Main Image -->
+                    <img class="place-self-center" src="./img/large_amrita_crystal_3.png" alt="">
+
+                    <!-- Dream of the... text -->
+                    <div class="flex flex-col">
+                        <span class="font-asul text-[14px] text-white">Dream of the </span>
+                        <span class="font-asul text-[28px] text-white">Wise</span>
+                    </div>
+                </a>
+            </div>
+
+            <!-- ==========
+            Bottom Row
+            ========== -->
+            <a class="mask w-full mt-3 flex justify-center items-center rounded" href="">
+                <span class="p-1 font-asul text-white">+2 More</span>
+            </a>
+        </div>
+
+        <!-- ========== ==========
+        Basics (Main Card 1)
+        ========== ========== -->
+        <div class="my-6 lg:my-0 w-full md:h-[550px] p-6 rounded-xl flex flex-col items-start bg-medium-gray">
+            <!-- ========== 
+            top row 
+            ========== -->
+            <div class="w-full flex justify-between items-center">
+                <!-- Icon and Text -->
+                <div class="flex items-center gap-4">
+                    <!-- Icon -->
+                    <img src="./img/basics_icon.png" alt="">
+
+                    <!-- Text -->
+                    <a class="font-asul text-[24px] text-white" href="">Basics</a>
+                </div>
+
+                <!-- see more icon -->
+                <a href=""><img src="./img/yellow_arrow_right.png" alt=""></a>
+            </div>
+
+            <!-- ========== 
+            link list
+            ========== -->
+            <ul class="mt-5 w-full flex flex-col items-start justify-center gap-1">
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Basic Game Info / Settings</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Character</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">The Shrine</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">The Dojo</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Terminology</a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- ========== ==========
+        Combat (Main Card 2)
+        ========== ========== -->
+        <div class="my-6 lg:my-0 w-full md:h-[550px] p-6 rounded-xl flex flex-col items-start bg-[#5f1823]">
+            <!-- ========== 
+            top row 
+            ========== -->
+            <div class="w-full flex justify-between items-center">
+                <!-- Icon and Text -->
+                <div class="flex items-center gap-4">
+                    <!-- Icon -->
+                    <img src="./img/combat_icon.png" alt="">
+
+                    <!-- Text -->
+                    <a class="font-asul text-[24px] text-white" href="">Combat</a>
+                </div>
+
+                <!-- see more icon -->
+                <a href=""><img src="./img/yellow_arrow_right.png" alt=""></a>
+            </div>
+
+            <!-- ========== 
+            link list
+            ========== -->
+            <ul class="mt-5 w-full flex flex-col items-start justify-center gap-1">
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Selecting A Weapon & Guardian Spirit</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Stances</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Ki Pulse</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Skills / Skill Trees</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Dodging / Guarding / Parrying</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Yokai Shift & Burst Counters</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Status Effects</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Advanced Tech</a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- ========== ==========
+        Equipment (Main Card 3)
+        ========== ========== -->
+        <div class="my-6 lg:my-0 w-full md:h-[550px] p-6 rounded-xl flex flex-col items-start bg-[#30171b]">
+            <!-- ========== 
+            top row 
+            ========== -->
+            <div class="w-full flex justify-between items-center">
+                <!-- Icon and Text -->
+                <div class="flex items-center gap-4">
+                    <!-- Icon -->
+                    <img src="./img/equipment_icon.png" alt="">
+
+                    <!-- Text -->
+                    <a class="font-asul text-[24px] text-white" href="./equipment/equipment_index.html">Equipment</a>
+                </div>
+
+                <!-- see more icon -->
+                <a href="./equipment/equipment_index.html"><img src="./img/yellow_arrow_right.png" alt=""></a>
+            </div>
+
+            <!-- ========== 
+            link list
+            ========== -->
+            <ul class="mt-5 w-full flex flex-col items-start justify-center gap-1">
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Weapons</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Armor</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Ninjutsu</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Onmyo Magic</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Soul Cores</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Guardian Spirits</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Accessories</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Demon Parade Picture Scrolls</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Graces & Sets</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Items</a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- ========== ==========
+        World (Main Card 4)
+        ========== ========== -->
+        <div class="my-6 lg:my-0 w-full md:h-[550px] p-6 rounded-xl flex flex-col items-start bg-medium-gray">
+            <!-- ========== 
+            top row 
+            ========== -->
+            <div class="w-full flex justify-between items-center">
+                <!-- Icon and Text -->
+                <div class="flex items-center gap-4">
+                    <!-- Icon -->
+                    <img src="./img/world_icon.png" alt="">
+
+                    <!-- Text -->
+                    <a class="font-asul text-[24px] text-white" href="">World</a>
+                </div>
+
+                <!-- see more icon -->
+                <a href=""><img src="./img/yellow_arrow_right.png" alt=""></a>
+            </div>
+
+            <!-- ========== 
+            link list
+            ========== -->
+            <ul class="mt-5 w-full flex flex-col items-start justify-center gap-1">
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Missions</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Enemies</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Bosses</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">The Underworld</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">The Depths of the Underworld</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Kodama & Sudama</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Other Characters</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Secrets</a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- ========== ==========
+        Tools & Resources (Main Card 5)
+        ========== ========== -->
+        <div class="my-6 lg:my-0 w-full md:h-[550px] p-6 rounded-xl flex flex-col items-start bg-medium-gray">
+            <!-- ========== 
+            top row 
+            ========== -->
+            <div class="w-full flex justify-between items-center">
+                <!-- Icon and Text -->
+                <div class="flex items-center gap-4">
+                    <!-- Icon -->
+                    <img src="./img/tools_icon.png" alt="">
+
+                    <!-- Text -->
+                    <a class="font-asul text-[24px] text-white" href="">Tools & Resources</a>
+                </div>
+
+                <!-- see more icon -->
+                <a href=""><img src="./img/yellow_arrow_right.png" alt=""></a>
+            </div>
+
+            <!-- ========== 
+            link list
+            ========== -->
+            <ul class="mt-5 w-full flex flex-col items-start justify-center gap-1">
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Smithing Texts</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Attributes / Special Effects Table</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Blacksmith</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Farming</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Builds</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Achievements</a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- ========== ==========
+        Online (Main Card 6)
+        ========== ========== -->
+        <div class="my-6 lg:my-0 w-full md:h-[550px] p-6 rounded-xl flex flex-col items-start bg-medium-gray">
+            <!-- ========== 
+            top row 
+            ========== -->
+            <div class="w-full flex justify-between items-center">
+                <!-- Icon and Text -->
+                <div class="flex items-center gap-4">
+                    <!-- Icon -->
+                    <img src="./img/online_icon.png" alt="">
+
+                    <!-- Text -->
+                    <a class="font-asul text-[24px] text-white" href="">Online</a>
+                </div>
+
+                <!-- see more icon -->
+                <a href=""><img src="./img/yellow_arrow_right.png" alt=""></a>
+            </div>
+
+            <!-- ========== 
+            link list
+            ========== -->
+            <ul class="mt-5 w-full flex flex-col items-start justify-center gap-1">
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Online Modes</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Matchmaking</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Hidden Tea House & Clans</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Revenants</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Benevolent Graves</a>
+                </li>
+                <li class="w-full py-2 rounded flex items-center gap-1 hover:bg-light-gray">
+                    <img src="./img/list_icon.png" alt="">
+                    <a class="w-full text-yellow-400" href="">Communities</a>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ==========
+    Footer 
+    ========== ========== ========== -->
+    <footer class="footer-border w-full p-5 flex flex-col justify-between items-center gap-1
+        md:flex-row">
+        
+        <div class="flex flex-col items-center gap-1 md:gap-3
+            lg:flex-row">
+        
+            <a class="font-asul text-xl text-white" href="">
+                Nioh <span class="text-red-500">2</span> Wiki
+            </a>
+
+            <span class="text-[#4a454d]">Devlopment: Shivakumar Mahakali (LiuKang1080)</span>
+            <span class="text-[#4a454d]">Design: Matsu</span>
+        </div>
+
+        <span class="text-[#4a454d]">&copy; 2023</span>
+    </footer>
+
+
+    <!-- ========== ========== ==========
+    JavaScript
+    ========== ========== ========== -->
+    <!-- FlowBite JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>
+
+    <!-- Local JavaScript -->
+    <script src="./js/main.js" type="text/javascript" defer></script>
+    <!-- defer ensures that the page gets fully loaded before the JavaScript executes -->
+
+</body>
+</html>
+
+<!-- TODO -->
+<!--
+    - 
+-->
+
+
+<!-- Credits -->
+<!--
+    - Website Development - LiuKang1080
+    - Website Design - Matsu
+-->

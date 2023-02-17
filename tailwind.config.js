@@ -1,0 +1,67 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+	content: [
+		/* ========== ========== ==========
+		Main Landing Page
+		========== ========== ========== */
+		"./*.{html,js}",
+
+		/* ========== ========== ==========
+		Nioh 2
+		========== ========== ========== */
+		// Index:
+		"./nioh2/*.{html,js}",
+		"./nioh2/**/*.{html,js}",
+
+		// Basics:
+
+		// Combat:
+
+		// Equipment:
+		"./nioh2/equipment/*.{html,js}",
+		"./nioh2/equipment/**/*.{html,js}",
+
+		// World:
+
+		// Tools & Resources:
+
+		// Online:
+	],
+	
+	theme: {
+		extend: {
+			/* ==========
+			Colors
+			========== */
+			colors: {
+				'light-gray': '#332d35',
+				'medium-gray': '#201c21',
+				'dark-gray': '#131014',
+			},
+			
+			/* ==========
+			Animations
+			========== */
+			keyframes: {
+				'open-menu': {
+					'0%': { transform: 'scaleY(0)' },
+					'80%': { transform: 'scaleY(1.1)' },
+					'100%': { transform: 'scaleY(1)' }
+				},
+			},
+
+			animation: {
+				'open-menu': 'open-menu 0.35s ease-in-out forwards'
+			},
+
+			/* ==========
+			Font Family
+			========== */ 
+			fontFamily: {
+				asul: "'Asul', sans-serif;"
+			}
+		},
+	},
+	
+	plugins: [],
+}
