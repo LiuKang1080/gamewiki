@@ -4,12 +4,11 @@ Nioh 2 Categories | Each major section is a Main Menu Card, each will have links
 ========== ========== ==========
 Basics [Main Menu Card 1]:
 ========== ========== ==========
-[5 Links] 
+[4 Links]
     - Basic Game Info / Settings 
-    - Character
+    - Character Stats
     - The Shrine
     - The Dojo
-    - Terminology
 
 
 ========== ========== ==========
@@ -21,8 +20,9 @@ Combat [Main Menu Card 2]:
     - Ki Pulse
     - Skills / Skill Trees:
         - Samurai Skills
+            - Full Hidden Skills Table
+        
         - Shiftling Skills
-        - Full Hidden Skills Table
         - Sword Skills
         - Dual Swords Skills
         - Spear Skills
@@ -35,8 +35,8 @@ Combat [Main Menu Card 2]:
         - Splitstaff Skills
         - Fists Skills
 
-    - Dodging / Guarding / Parrying
     - Yokai Shift / Burst Counters
+    - Dodging / Guarding / Parrying
     - Status Effects
     - Advanced Tech
 
@@ -79,7 +79,7 @@ Equipment [Main Menu Card 3]:
 ========== ========== ==========
 World [Main Menu Card 4]:
 ========== ========== ==========
-[8 Links]
+[7 Links]
     - Missions:
         - Awakening Region (1st Region)
         - Soaring Region (2nd Region)
@@ -112,7 +112,6 @@ World [Main Menu Card 4]:
         [Link to Achievements for Kodamas]
     
     - Characters
-    - Secrets
 
 
 ========== ========== ==========
@@ -146,7 +145,7 @@ Tools & Resources [Main Menu Card 5]:
 ========== ========== ==========
 Online [Main Menu Card 6]:
 ========== ========== ==========
-[6 Links]
+[5 Links]
     - Online Modes
     - Matchmaking
     - Hidden Tea House:
@@ -154,18 +153,3 @@ Online [Main Menu Card 6]:
     
     - Revenants
     - Benevolent Graves
-    - Communities
-
-
-========== ========== ==========
-Travel Guides
-========== ========== ==========
-    - Per Cycle Guides:
-        - Dream of the Samurai
-        - Dream of the Strong
-        - Dream of the Demon
-        - Dream of the Wise
-        - Dream of the Nioh
-        - The Underworld
-        - The Depths of the Underworld
-        - Recommended Missions to reach the next difficulty

@@ -34,9 +34,15 @@ module.exports = {
 			Colors
 			========== */
 			colors: {
-				'light-gray': '#332d35',
-				'medium-gray': '#201c21',
-				'dark-gray': '#131014',
+				'light-gray': '#3d3d3d',
+				'medium-gray': '#333338',
+			},
+
+			/* ==========
+			Font Family
+			========== */ 
+			fontFamily: {
+				asul: "'Asul', sans-serif;"
 			},
 			
 			/* ==========
@@ -54,12 +60,6 @@ module.exports = {
 				'open-menu': 'open-menu 0.35s ease-in-out forwards'
 			},
 
-			/* ==========
-			Font Family
-			========== */ 
-			fontFamily: {
-				asul: "'Asul', sans-serif;"
-			}
 		},
 	},
 	
