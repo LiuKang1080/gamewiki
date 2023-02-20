@@ -774,10 +774,6 @@ video {
   background-attachment: fixed;
 }
 
-.p-1 {
-  padding: 0.25rem;
-}
-
 .p-2 {
   padding: 0.5rem;
 }
@@ -788,10 +784,6 @@ video {
 
 .p-5 {
   padding: 1.25rem;
-}
-
-.p-6 {
-  padding: 1.5rem;
 }
 
 .px-2 {
@@ -865,10 +857,6 @@ video {
 .text-8xl {
   font-size: 6rem;
   line-height: 1;
-}
-
-.text-\[24px\] {
-  font-size: 24px;
 }
 
 .text-sm {
@@ -960,11 +948,6 @@ video {
   background-color: rgb(75 85 99 / var(--tw-bg-opacity));
 }
 
-.hover\:bg-light-gray:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(61 61 61 / var(--tw-bg-opacity));
-}
-
 .hover\:bg-light-red:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(95 24 35 / var(--tw-bg-opacity));
@@ -1009,10 +992,6 @@ video {
 
   .md\:hidden {
     display: none;
-  }
-
-  .md\:h-\[550px\] {
-    height: 550px;
   }
 
   .md\:h-\[660px\] {
