@@ -4,24 +4,39 @@ Nioh 2 Categories | Each major section is a Main Menu Card, each will have links
 ========== ========== ==========
 Basics [Main Menu Card 1]:
 ========== ========== ==========
-[4 Links]
-    - Basic Game Info / Settings 
-    - Character Stats
-    - The Shrine
+[6 Links]
+    - Recommended Settings
+    - Starting Recommendations
+    - Character Stats:
+        - Recommended level up sequence
+        - Max level on each NG+ Cycle
+        - Weight & Agility
+    
+    - The Shrine:
+        - Boons
+        - Kodama Bazaar
+        - Kodama Blessings
+    
     - The Dojo
+    - NG+ Cycles
+        - Dream of the Demon Curse
+        - Dream of the Wise Curse
+        - Dream of the Nioh Curse
+        - Red Enemies (DotD and above)
+        - Purple Enemies (Underworld / Depths)
 
 
 ========== ========== ==========
 Combat [Main Menu Card 2]:
 ========== ========== ==========
-[8 Links]
-    - Selecting A Weapon / Guardian Spirit
+[7 Links]
     - Stances
-    - Ki Pulse
+    - Ki Pulse:
+        - Flux
+        - Flash Attack
+    
     - Skills / Skill Trees:
         - Samurai Skills
-            - Full Hidden Skills Table
-        
         - Shiftling Skills
         - Sword Skills
         - Dual Swords Skills
@@ -34,6 +49,7 @@ Combat [Main Menu Card 2]:
         - Switchglaive Skills
         - Splitstaff Skills
         - Fists Skills
+        - Full Hidden Skills Table
 
     - Yokai Shift / Burst Counters
     - Dodging / Guarding / Parrying
@@ -45,7 +61,7 @@ Combat [Main Menu Card 2]:
 Equipment [Main Menu Card 3]:
 ========== ========== ==========
 [10 Links]
-    - Weapons
+    - Weapons:
         - Sword
         - Dual Swords
         - Spear
@@ -61,7 +77,7 @@ Equipment [Main Menu Card 3]:
         - Rifles
         - Cannons
     
-    - Armor
+    - Armor:
         - Light Armor
         - Medium Armor
         - Heavy Armor
@@ -74,6 +90,7 @@ Equipment [Main Menu Card 3]:
     - Demon Parade Picture Scrolls
     - Graces & Sets
     - Items
+        - Yokai Parts
 
 
 ========== ========== ==========
@@ -117,9 +134,17 @@ World [Main Menu Card 4]:
 ========== ========== ==========
 Tools & Resources [Main Menu Card 5]:
 ========== ========== ==========
-[6 Links]
+[7 Links]
     - Smithing Texts
-    - Special Effects Table
+    - Temper Tables:
+        - Temper Table: Melee
+        - Temper Table: Ranged
+        - Temper Table: Helmet
+        - Temper Table: Gloves
+        - Temper Table: Waist
+        - Temper Table: Boots
+        - Temper Table: Accessories
+    
     - Blacksmith:
         - Forging:
             [Link to Farming Yokai parts / Divine Fragments] 
@@ -129,17 +154,20 @@ Tools & Resources [Main Menu Card 5]:
         - Tempering
         - Remodeling
         - Disassembling Gear
+        - Patronage Points
     
+    - Stone of Penance
     - Farming:
-        - Farming Amrita
-        - Farming Yokai Parts
-        - Farming Divine Fragments
         - Farming Proficiency Points
-        - Farming Gold
+        - Farming Soul Cores [different page]
+        - Farming Amrita
         - Farming Glory
+        - Farming Gold (Mention Tea Sets)
+        - Farming Divine Fragments
+        - Farming Yokai Parts
 
-    - Builds
     - Achievements
+    - Builds
 
 
 ========== ========== ==========
@@ -149,6 +177,7 @@ Online [Main Menu Card 6]:
     - Online Modes
     - Matchmaking
     - Hidden Tea House:
+        - Tea Sets
         - Clans
     
     - Revenants

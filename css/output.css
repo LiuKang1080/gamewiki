@@ -746,6 +746,11 @@ video {
   background-color: rgb(95 24 35 / var(--tw-bg-opacity));
 }
 
+.bg-dark-red {
+  --tw-bg-opacity: 1;
+  background-color: rgb(48 23 27 / var(--tw-bg-opacity));
+}
+
 .bg-medium-gray {
   --tw-bg-opacity: 1;
   background-color: rgb(51 51 56 / var(--tw-bg-opacity));
@@ -775,6 +780,10 @@ video {
 
 .p-2 {
   padding: 0.5rem;
+}
+
+.p-4 {
+  padding: 1rem;
 }
 
 .p-5 {
@@ -901,16 +910,6 @@ video {
   color: rgb(55 65 81 / var(--tw-text-opacity));
 }
 
-.text-light-gray {
-  --tw-text-opacity: 1;
-  color: rgb(61 61 61 / var(--tw-text-opacity));
-}
-
-.text-red-500 {
-  --tw-text-opacity: 1;
-  color: rgb(239 68 68 / var(--tw-text-opacity));
-}
-
 .text-slate-300 {
   --tw-text-opacity: 1;
   color: rgb(203 213 225 / var(--tw-text-opacity));
@@ -941,11 +940,6 @@ video {
   color: rgb(24 24 27 / var(--tw-text-opacity));
 }
 
-.text-medium-gray {
-  --tw-text-opacity: 1;
-  color: rgb(51 51 56 / var(--tw-text-opacity));
-}
-
 .shadow {
   --tw-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color), 0 1px 2px -1px var(--tw-shadow-color);
@@ -969,6 +963,11 @@ video {
 .hover\:bg-light-gray:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(61 61 61 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-light-red:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(95 24 35 / var(--tw-bg-opacity));
 }
 
 .hover\:text-sky-500:hover {
@@ -1014,6 +1013,10 @@ video {
 
   .md\:h-\[550px\] {
     height: 550px;
+  }
+
+  .md\:h-\[660px\] {
+    height: 660px;
   }
 
   .md\:flex-row {
