@@ -51,7 +51,7 @@ Combat [Main Menu Card 2]:
         - Fists Skills
         - Full Hidden Skills Table
 
-    - Yokai Shift / Burst Counters
+    - Yokai Shift & Burst Counters
     - Dodging / Guarding / Parrying
     - Status Effects
     - Advanced Tech

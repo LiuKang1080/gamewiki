@@ -51,14 +51,14 @@
                 
                 <!-- HOME -->
                 <a href="https://liukang1080.github.io/gamewiki/index.html">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-house-fill" viewBox="0 0 16 16">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-house-fill" viewBox="0 0 16 16">
                         <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.707 1.5Z"/>
                         <path d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6Z"/>
                     </svg>
                 </a>
 
                 <!-- Nioh 2 Logo -->
-                <a href="./nioh2.html"><img src="./img/nioh2_logo.png" alt=""></a>
+                <a href="./nioh2.html"><img src="./img/nioh2_logo_small.png" alt=""></a>
 
                 <!-- Navbar Buttons -->
                 <!-- hidden nav for mobile viewports -->
@@ -70,33 +70,40 @@
                     <!-- ========== ==========
                     Basics Button
                     ========== ========== -->
-                    <button id="basics_button" data-dropdown-toggle="basics_dropdown" class="px-2 inline-flex items-center bg-transparent font-asul text-center text-xl text-white" type="button">
-                        Basics <img class="p-1" src="./img/dropdown_icon.png" alt="">
+                    <button id="basics_button" data-dropdown-toggle="basics_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent font-asul text-center text-xl text-white" type="button">
+                        Basics
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
                     </button>
                     <!-- Dropdown menu -->
                     <div id="basics_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
                         <ul class="py-2 font-asul text-gray-200" aria-labelledby="generalButton">
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Game Info / Settings</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Recommended Settings</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Starting Recommendations</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Character Stats</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Shrine</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Dojo</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">NG+ Cycles</a></li>
                         </ul>
                     </div>
 
                     <!-- ========== ==========
                     Combat Button
                     ========== ========== -->
-                    <button id="combat_button" data-dropdown-toggle="combat_dropdown" class="px-2 inline-flex items-center bg-transparent font-asul text-center text-xl text-white" type="button">
-                        Combat <img class="p-1" src="./img/dropdown_icon.png" alt="">
+                    <button id="combat_button" data-dropdown-toggle="combat_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent font-asul text-center text-xl text-white" type="button">
+                        Combat
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
                     </button>
                     <!-- Dropdown menu -->
                     <div id="combat_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
                         <ul class="py-2 font-asul text-gray-200" aria-labelledby="generalButton">
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Selecting A Weapon / Guardian Spirit</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Stances</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Ki Pulse</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Skills / Skill Trees</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Yokai Shift / Burst Counters</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Yokai Shift & Burst Counters</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Doding / Guarding / Parrying</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Status Effects</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Advanced Tech</a></li>
@@ -106,8 +113,11 @@
                     <!-- ========== ==========
                     Equipment Button
                     ========== ========== -->
-                    <button id="equipment_button" data-dropdown-toggle="equipment_dropdown" class="px-2 inline-flex items-center bg-transparent font-asul text-center text-xl text-white" type="button">
-                        Equipment <img class="p-1" src="./img/dropdown_icon.png" alt="">
+                    <button id="equipment_button" data-dropdown-toggle="equipment_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent font-asul text-center text-xl text-white" type="button">
+                        Equipment
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
                     </button>
                     <!-- Dropdown menu -->
                     <div id="equipment_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
@@ -128,8 +138,11 @@
                     <!-- ========== ==========
                     World Button
                     ========== ========== -->
-                    <button id="world_button" data-dropdown-toggle="world_dropdown" class="px-2 inline-flex items-center bg-transparent font-asul text-center text-xl text-white" type="button">
-                        World <img class="p-1" src="./img/dropdown_icon.png" alt="">
+                    <button id="world_button" data-dropdown-toggle="world_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent font-asul text-center text-xl text-white" type="button">
+                        World
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
                     </button>
                     <!-- Dropdown menu -->
                     <div id="world_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
@@ -147,26 +160,33 @@
                     <!-- ========== ==========
                     Tools & Resources Button
                     ========== ========== -->
-                    <button id="tools_button" data-dropdown-toggle="tools_dropdown" class="px-2 inline-flex items-center bg-transparent font-asul text-center text-xl text-white" type="button">
-                        Tools & Resources <img class="p-1" src="./img/dropdown_icon.png" alt="">
+                    <button id="tools_button" data-dropdown-toggle="tools_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent font-asul text-center text-xl text-white" type="button">
+                        Tools & Resources
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
                     </button>
                     <!-- Dropdown menu -->
                     <div id="tools_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
                         <ul class="py-2 font-asul text-gray-200" aria-labelledby="generalButton">
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Smithing Texts</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Special Effects Table</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Temper Tables</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Blacksmith</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Farming</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Builds</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Stone of Penance</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Farming Resources</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Achievements</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Builds</a></li>
                         </ul>
                     </div>
 
                     <!-- ========== ==========
                     Online Button
                     ========== ========== -->
-                    <button id="online_button" data-dropdown-toggle="online_dropdown" class="px-2 inline-flex items-center bg-transparent font-asul text-center text-xl text-white" type="button">
-                        Online <img class="p-1" src="./img/dropdown_icon.png" alt="">
+                    <button id="online_button" data-dropdown-toggle="online_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent font-asul text-center text-xl text-white" type="button">
+                        Online
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
                     </button>
                     <!-- Dropdown menu -->
                     <div id="online_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
