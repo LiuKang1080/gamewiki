@@ -157,7 +157,7 @@ Tools & Resources [Main Menu Card 5]:
         - Patronage Points
     
     - Stone of Penance
-    - Farming:
+    - Farming Resources:
         - Farming Proficiency Points
         - Farming Soul Cores [different page]
         - Farming Amrita

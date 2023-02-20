@@ -10,11 +10,11 @@ const initApp = () => {
         - toggle the "hidden" attribute for mobile-menu.
         - Add event listeners for the toggle.
     
-    Parameters
+    Parameters:
     ----------
     [none]
 
-    Return
+    Return:
     ----------
     [none]
     */
@@ -57,11 +57,11 @@ function change_background() {
         - Construct the final url as a string: "url( picture_array[random_number] )"
         - Set the background-image using the complete_url [document.body.style.backgroundImage = value;]
     
-    Parameters
+    Parameters:
     ----------
     [none]
 
-    Return
+    Return:
     ----------
     [none]
     */
