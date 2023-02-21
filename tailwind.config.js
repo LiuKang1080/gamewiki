@@ -26,6 +26,13 @@ module.exports = {
 		// Tools & Resources:
 
 		// Online:
+
+
+		/* ========== ========== ==========
+		Wo Long: Fallen Dynasty
+		========== ========== ========== */
+		"./wolong/*.{html,js}",
+		"./wolong/**/*.{html,js}",
 	],
 	
 	theme: {

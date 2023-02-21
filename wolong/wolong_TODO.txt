@@ -1,4 +1,4 @@
-Nioh 2 Categories | Each major section is a Main Menu Card, each will have links that lead to individual pages.
+Wo Long Categories | Each major section is a Main Menu Card, each will have links that lead to individual pages.
 
 
 ========== ========== ==========
@@ -12,55 +12,30 @@ Basics [Main Menu Card 1]:
         - Max level on each NG+ Cycle
         - Weight & Agility
     
-    - The Shrine:
+    - ??? The Shrine ???:
         - Boons
-        - Kodama Bazaar
-        - Kodama Blessings
     
     - The Dojo
     - NG+ Cycles
-        - Dream of the Demon Curse
-        - Dream of the Wise Curse
-        - Dream of the Nioh Curse
-        - Red Enemies (DotD and above)
-        - Purple Enemies (Underworld / Depths)
+        - ???
 
 
 ========== ========== ==========
 Combat [Main Menu Card 2]:
 ========== ========== ==========
-[7 Links]
-    - Stances
-    - Ki Pulse:
-        - Flux
-        - Flash Attack
-    
-    - Skills / Skill Trees:
-        - Samurai Skills
-        - Shiftling Skills
-        - Sword Skills
-        - Dual Swords Skills
-        - Spear Skills
-        - Axe Skills
-        - Kusarigama Skills
-        - Odachi Skills
-        - Tonfa Skills
-        - Hatchets Skills
-        - Switchglaive Skills
-        - Splitstaff Skills
-        - Fists Skills
-        - Full Hidden Skills Table
-
-    - Yokai Shift & Burst Counters
-    - Dodging / Guarding / Parrying
-    - Status Effects
-    - Advanced Tech
+[6 Links]
+    - Deflect
+    - Spirit Guage
+    - Morale Rank
+    - Five Phases / Status Effects
+    - Dodging / Guarding
+    - ??? Advanced Tech ???
 
 
 ========== ========== ==========
 Equipment [Main Menu Card 3]:
 ========== ========== ==========
-[10 Links]
+[8 Links]
     - Weapons:
         - Sword
         - Dual Swords
@@ -82,12 +57,14 @@ Equipment [Main Menu Card 3]:
         - Medium Armor
         - Heavy Armor
 
-    - Ninjutsu
-    - Onmyo Magic
-    - Soul Cores
-    - Guardian Spirits
+    - Martial Arts
+        - ??? Hidden Martial Art Skills ???
+    
+    - Wizardry Spells
+        - ??? Hidden Wizardry Skills ???
+
+    - Divine Beasts
     - Accessories 
-    - Demon Parade Picture Scrolls
     - Graces & Sets
     - Items
         - Yokai Parts
@@ -96,7 +73,7 @@ Equipment [Main Menu Card 3]:
 ========== ========== ==========
 World [Main Menu Card 4]:
 ========== ========== ==========
-[7 Links]
+[5 Links]
     - Missions:
         - Awakening Region (1st Region)
         - Soaring Region (2nd Region)
@@ -116,15 +93,7 @@ World [Main Menu Card 4]:
             since there are only a few handful of Human Enemies.
 
     - Bosses
-    - The Underworld:
-        - Floors 1 - 108:
-            [Have Grace Pools at the top of the Floors page]
-        
-        - Lapis Lazuli table
-        - Jizo Kodama
-
-    - The Depths of the Underworld
-    - Kodama & Sudama:
+    - Shitieshou Locations:
         [Link video for all Kodama locations]
         [Link to Achievements for Kodamas]
 
@@ -173,9 +142,10 @@ Tools & Resources [Main Menu Card 5]:
 ========== ========== ==========
 Online [Main Menu Card 6]:
 ========== ========== ==========
-[5 Links]
-    - Online Modes
-    - Matchmaking
+[6 Links]
+    - Co-op
+    - Invasions
+    - Vengeance System
     - Hidden Tea House:
         - Tea Sets
         - Clans
