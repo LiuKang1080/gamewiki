@@ -43,8 +43,14 @@ module.exports = {
 			colors: {
 				'light-gray': '#3d3d3d',
 				'medium-gray': '#333338',
+				
 				'light-red': '#5f1823',
+				'medium-red': '#48181F',
 				'dark-red': '#30171b',
+
+				'light-peach': '#eee3d6',
+				'medium-peach': '#c2955a',
+				'dark-peach': '#9d7a46',
 			},
 
 			/* ==========
