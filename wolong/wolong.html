@@ -6,11 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Wo Long: Fallen Dynasty Wiki</title>
     <!-- ========== ========== ==========
-    Google Fonts
+    Google Fonts (Bellefair)
     ========== ========== ========== -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Asul&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bellefair&display=swap" rel="stylesheet">
 
     <!-- ========== ========== ==========
     FlowBite CSS
@@ -34,19 +34,19 @@
     npx tailwindcss -i ./css/input.css -o ./css/output.css --watch
     ========== ========== ========== -->
 </head>
-<body class="bg-fixed lg:bg-cover">
+<body class="bg-fixed lg:bg-cover font-bellefair">
     <!-- 
     ========== ========== ==========
     Header
     ========== ========== ========== -->
-    <header class="mask bg-medium-gray text-white">
+    <header class="h-[95px] mask bg-medium-gray text-white">
         <!-- sticky top-0 z-10 -->
 
         <!-- ========== ========== ==========
         Desktop Navbar Menu (Navbar)
         ========== ========== ========== -->
-        <div class="w-full flex justify-start items-center">
-            <div class="w-full flex justify-between items-center px-5 py-3 gap-5
+        <div class="w-full h-[95px] flex justify-start items-center">
+            <div class="w-full flex justify-between items-center px-5 py-2 gap-5
                 lg:w-fit">
                 
                 <!-- HOME -->
@@ -57,8 +57,8 @@
                     </svg>
                 </a>
 
-                <!-- Nioh 2 Logo -->
-                <a href="./nioh2.html"><img src="./img/wolong_logo_small.png" alt=""></a>
+                <!-- Wo Long Logo -->
+                <a href="./wolong.html"><img src="./img/wolong_logo_small.png" alt=""></a>
 
                 <!-- Navbar Buttons -->
                 <!-- hidden nav for mobile viewports -->
@@ -70,7 +70,7 @@
                     <!-- ========== ==========
                     Basics Button
                     ========== ========== -->
-                    <button id="basics_button" data-dropdown-toggle="basics_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent font-asul text-center text-xl text-white" type="button">
+                    <button id="basics_button" data-dropdown-toggle="basics_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent  text-center text-xl text-white" type="button">
                         Basics
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
                             <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
@@ -78,11 +78,11 @@
                     </button>
                     <!-- Dropdown menu -->
                     <div id="basics_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
-                        <ul class="py-2 font-asul text-gray-200" aria-labelledby="generalButton">
+                        <ul class="py-2  text-gray-200" aria-labelledby="generalButton">
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Recommended Settings</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Starting Recommendations</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Character Stats</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Shrine</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">??? The Shrine ???</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Dojo</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">NG+ Cycles</a></li>
                         </ul>
@@ -91,7 +91,7 @@
                     <!-- ========== ==========
                     Combat Button
                     ========== ========== -->
-                    <button id="combat_button" data-dropdown-toggle="combat_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent font-asul text-center text-xl text-white" type="button">
+                    <button id="combat_button" data-dropdown-toggle="combat_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent  text-center text-xl text-white" type="button">
                         Combat
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
                             <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
@@ -99,21 +99,20 @@
                     </button>
                     <!-- Dropdown menu -->
                     <div id="combat_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
-                        <ul class="py-2 font-asul text-gray-200" aria-labelledby="generalButton">
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Stances</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Ki Pulse</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Skills / Skill Trees</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Yokai Shift & Burst Counters</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Doding / Guarding / Parrying</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Status Effects</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Advanced Tech</a></li>
+                        <ul class="py-2  text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Deflect</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Spirit System</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Martial Arts</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Morale Rank</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Five Phases / Status Effects</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">??? Advanced Tech ???</a></li>
                         </ul>
                     </div>
 
                     <!-- ========== ==========
                     Equipment Button
                     ========== ========== -->
-                    <button id="equipment_button" data-dropdown-toggle="equipment_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent font-asul text-center text-xl text-white" type="button">
+                    <button id="equipment_button" data-dropdown-toggle="equipment_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent  text-center text-xl text-white" type="button">
                         Equipment
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
                             <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
@@ -121,15 +120,12 @@
                     </button>
                     <!-- Dropdown menu -->
                     <div id="equipment_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
-                        <ul class="py-2 font-asul text-gray-200" aria-labelledby="generalButton">
+                        <ul class="py-2  text-gray-200" aria-labelledby="generalButton">
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Weapons</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Armor</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Ninjutsu</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Onmyo Magic</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Soul Cores</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Guardian Spirits</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Wizardry Spells</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Divine Beasts</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Accessories</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Demon Parade Picture Scrolls</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Graces & Sets</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Items</a></li>
                         </ul>
@@ -138,7 +134,7 @@
                     <!-- ========== ==========
                     World Button
                     ========== ========== -->
-                    <button id="world_button" data-dropdown-toggle="world_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent font-asul text-center text-xl text-white" type="button">
+                    <button id="world_button" data-dropdown-toggle="world_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent  text-center text-xl text-white" type="button">
                         World
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
                             <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
@@ -146,13 +142,12 @@
                     </button>
                     <!-- Dropdown menu -->
                     <div id="world_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
-                        <ul class="py-2 font-asul text-gray-200" aria-labelledby="generalButton">
+                        <ul class="py-2  text-gray-200" aria-labelledby="generalButton">
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Missions</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Enemies</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Oaths & Alliances</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Bosses</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Underworld</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Depths of the Underworld</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Kodama & Sudama</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Enemies</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Shitieshou Locations</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Characters</a></li>
                         </ul>
                     </div>
@@ -160,7 +155,7 @@
                     <!-- ========== ==========
                     Tools & Resources Button
                     ========== ========== -->
-                    <button id="tools_button" data-dropdown-toggle="tools_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent font-asul text-center text-xl text-white" type="button">
+                    <button id="tools_button" data-dropdown-toggle="tools_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent  text-center text-xl text-white" type="button">
                         Tools & Resources
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
                             <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
@@ -168,7 +163,7 @@
                     </button>
                     <!-- Dropdown menu -->
                     <div id="tools_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
-                        <ul class="py-2 font-asul text-gray-200" aria-labelledby="generalButton">
+                        <ul class="py-2  text-gray-200" aria-labelledby="generalButton">
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Smithing Texts</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Temper Tables</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Blacksmith</a></li>
@@ -182,7 +177,7 @@
                     <!-- ========== ==========
                     Online Button
                     ========== ========== -->
-                    <button id="online_button" data-dropdown-toggle="online_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent font-asul text-center text-xl text-white" type="button">
+                    <button id="online_button" data-dropdown-toggle="online_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent  text-center text-xl text-white" type="button">
                         Online
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
                             <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
@@ -190,9 +185,10 @@
                     </button>
                     <!-- Dropdown menu -->
                     <div id="online_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
-                        <ul class="py-2 font-asul text-gray-200" aria-labelledby="generalButton">
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Online Modes</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Matchmaking</a></li>
+                        <ul class="py-2  text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Co-Op</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Invasions</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Vengeance System</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Hidden Tea House</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Revenants</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Benevolent Graves</a></li>
@@ -232,7 +228,7 @@
     ========== ========== ========== -->
     <section class="mt-6 lg:mt-28 flex flex-col items-center justify-center gap-4">
         <img src="./img/wolong_logo_large.png" alt="">
-        <h1 class="font-asul text-white text-6xl">Wiki</h1>
+        <h1 class=" text-white text-6xl">Wiki</h1>
     </section>
 
 
@@ -253,13 +249,13 @@
         <!-- ========== ==========
         Basics (Main Card 1)
         ========== ========== -->
-        <div class="mask my-6 lg:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach">
+        <div class="mask my-6 lg:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach ">
             <!-- ========== 
             top row 
             ========== -->
             <div class="mask w-full h-[98px] py-2 rounded flex flex-col items-center justify-center bg-medium-peach">
                 <img src="./img/basics_icon.png" alt=""> 
-                <span class="font-asul text-2xl text-stone-900">Basics</span>
+                <span class="text-2xl text-stone-900">Basics</span>
             </div>
 
             <!-- ========== 
@@ -267,22 +263,22 @@
             ========== -->
             <ul class="mt-5 w-full flex flex-col items-start justify-center gap-2">
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Recommended Settings</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Recommended Settings</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Starting Recommendations</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Starting Recommendations</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Character Stats</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Character Stats</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">The Shrine</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">??? The Shrine ???</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">The Dojo</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">The Dojo</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">NG+ Cycles</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">NG+ Cycles</a>
                 </li>
             </ul>
         </div>
@@ -296,7 +292,7 @@
             ========== -->
             <div class="mask w-full h-[98px] py-2 rounded flex flex-col items-center justify-center bg-medium-peach">
                 <img src="./img/combat_icon.png" alt="">
-                <span class="font-asul text-2xl text-stone-900">Combat</span>
+                <span class=" text-2xl text-stone-900">Combat</span>
             </div>
 
             <!-- ========== 
@@ -304,25 +300,22 @@
             ========== -->
             <ul class="mt-5 w-full flex flex-col items-start justify-center gap-2">
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Stances</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Deflect</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Ki Pulse</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Spirit System</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Skills / Skill Trees</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Martial Arts</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Yokai Shift & Burst Counters</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Morale Rank</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Doding / Guarding / Parrying</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Five Phases / Status Effects</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Status Effects</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Advanced Tech</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">??? Advanced Tech ???</a>
                 </li>
             </ul>
         </div>
@@ -336,7 +329,7 @@
             ========== -->
             <div class="mask w-full h-[98px] py-2 rounded flex flex-col items-center justify-center bg-medium-peach">
                 <img src="./img/basics_icon.png" alt=""> 
-                <span class="font-asul text-2xl text-stone-900">Equipment</span>
+                <span class=" text-2xl text-stone-900">Equipment</span>
             </div>
 
             <!-- ========== 
@@ -344,28 +337,31 @@
             ========== -->
             <ul class="mt-5 w-full flex flex-col items-start justify-center gap-2">
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Recommended Settings</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Weapons</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Starting Recommendations</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Armor</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Character Stats</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Wizardry Spells</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">The Shrine</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Divine Beasts</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">The Dojo</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Accessories</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">NG+ Cycles</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Graces & Sets</a>
+                </li>
+                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Items</a>
                 </li>
             </ul>
         </div>
 
         <!-- ========== ==========
-        Basics (Main Card 1)
+        World (Main Card 4)
         ========== ========== -->
         <div class="mask my-6 lg:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach">
             <!-- ========== 
@@ -373,7 +369,7 @@
             ========== -->
             <div class="mask w-full h-[98px] py-2 rounded flex flex-col items-center justify-center bg-medium-peach">
                 <img src="./img/basics_icon.png" alt=""> 
-                <span class="font-asul text-2xl text-stone-900">Basics</span>
+                <span class=" text-2xl text-stone-900">World</span>
             </div>
 
             <!-- ========== 
@@ -381,28 +377,28 @@
             ========== -->
             <ul class="mt-5 w-full flex flex-col items-start justify-center gap-2">
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Recommended Settings</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Missions</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Starting Recommendations</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Oaths & Alliances</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Character Stats</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Bosses</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">The Shrine</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Enemies</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">The Dojo</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Shitieshou Locations</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">NG+ Cycles</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Characters</a>
                 </li>
             </ul>
         </div>
 
         <!-- ========== ==========
-        Basics (Main Card 1)
+        Tools & Resources (Main Card 5)
         ========== ========== -->
         <div class="mask my-6 lg:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach">
             <!-- ========== 
@@ -410,7 +406,7 @@
             ========== -->
             <div class="mask w-full h-[98px] py-2 rounded flex flex-col items-center justify-center bg-medium-peach">
                 <img src="./img/basics_icon.png" alt=""> 
-                <span class="font-asul text-2xl text-stone-900">Basics</span>
+                <span class=" text-2xl text-stone-900">Tools & Resources</span>
             </div>
 
             <!-- ========== 
@@ -418,28 +414,31 @@
             ========== -->
             <ul class="mt-5 w-full flex flex-col items-start justify-center gap-2">
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Recommended Settings</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Smithing Texts</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Starting Recommendations</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Temper Tables</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Character Stats</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Blacksmith</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">The Shrine</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Stone of Penance</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">The Dojo</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Farming Resources</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">NG+ Cycles</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Achievements</a>
+                </li>
+                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Builds</a>
                 </li>
             </ul>
         </div>
 
         <!-- ========== ==========
-        Basics (Main Card 1)
+        Online (Main Card 6)
         ========== ========== -->
         <div class="mask my-6 lg:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach">
             <!-- ========== 
@@ -447,7 +446,7 @@
             ========== -->
             <div class="mask w-full h-[98px] py-2 rounded flex flex-col items-center justify-center bg-medium-peach">
                 <img src="./img/basics_icon.png" alt=""> 
-                <span class="font-asul text-2xl text-stone-900">Basics</span>
+                <span class=" text-2xl text-stone-900">Online</span>
             </div>
 
             <!-- ========== 
@@ -455,22 +454,22 @@
             ========== -->
             <ul class="mt-5 w-full flex flex-col items-start justify-center gap-2">
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Recommended Settings</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Co-Op</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Starting Recommendations</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Invasions</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">Character Stats</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Vengeance System</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">The Shrine</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Hidden Tea House</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">The Dojo</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Revenants</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full font-asul text-xl text-stone-900" href="">NG+ Cycles</a>
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Benevolent Graves</a>
                 </li>
             </ul>
         </div>
@@ -486,7 +485,7 @@
         <div class="flex flex-col items-center gap-1 md:gap-3
             lg:flex-row">
         
-            <a class="font-asul text-xl text-slate-300" href="">Wo Long: Fallen Dynasty Wiki</a>
+            <a class=" text-xl text-slate-300" href="">Wo Long: Fallen Dynasty Wiki</a>
 
             <span class="text-slate-300">Development: LiuKang1080</span>
         </div>

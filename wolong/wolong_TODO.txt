@@ -25,17 +25,21 @@ Combat [Main Menu Card 2]:
 ========== ========== ==========
 [6 Links]
     - Deflect
-    - Spirit Guage
+    - Spirit System
+        - Dodging / Guarding
+
+    - Martial Arts
+        - ??? Hidden Martial Art Skills ???
+
     - Morale Rank
     - Five Phases / Status Effects
-    - Dodging / Guarding
     - ??? Advanced Tech ???
 
 
 ========== ========== ==========
 Equipment [Main Menu Card 3]:
 ========== ========== ==========
-[8 Links]
+[7 Links]
     - Weapons:
         - Sword
         - Dual Swords
@@ -56,9 +60,6 @@ Equipment [Main Menu Card 3]:
         - Light Armor
         - Medium Armor
         - Heavy Armor
-
-    - Martial Arts
-        - ??? Hidden Martial Art Skills ???
     
     - Wizardry Spells
         - ??? Hidden Wizardry Skills ???
@@ -73,7 +74,7 @@ Equipment [Main Menu Card 3]:
 ========== ========== ==========
 World [Main Menu Card 4]:
 ========== ========== ==========
-[5 Links]
+[6 Links]
     - Missions:
         - Awakening Region (1st Region)
         - Soaring Region (2nd Region)
@@ -88,11 +89,12 @@ World [Main Menu Card 4]:
 		- Twilight Missions
         - Dojo Missions
     
+    - Oaths & Alliances
+    - Bosses
     - Enemies:
         - We can have a small section about Human Enemies before the main list of Yokai enemies
             since there are only a few handful of Human Enemies.
 
-    - Bosses
     - Shitieshou Locations:
         [Link video for all Kodama locations]
         [Link to Achievements for Kodamas]

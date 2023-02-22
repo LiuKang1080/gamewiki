@@ -69,7 +69,8 @@ function change_background() {
     // Set up an array with images
     let picture_array = [
         './img/wolong_index_image_1.png',
-        './img/wolong_index_image_2.png'
+        './img/wolong_index_image_2.png',
+        './img/wolong_index_image_3.png'
     ];
     
     // get a random number

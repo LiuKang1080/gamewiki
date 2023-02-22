@@ -43,6 +43,7 @@ module.exports = {
 			colors: {
 				'light-gray': '#3d3d3d',
 				'medium-gray': '#333338',
+				// dark-gray is stone-900
 				
 				'light-red': '#5f1823',
 				'medium-red': '#48181F',
@@ -57,7 +58,8 @@ module.exports = {
 			Font Family
 			========== */ 
 			fontFamily: {
-				asul: "'Asul', sans-serif;"
+				asul: "'Asul', sans-serif;",
+				bellefair: "'Bellefair', serif;"
 			},
 			
 			/* ==========

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nioh 2 Wiki</title>
     <!-- ========== ========== ==========
-    Google Fonts
+    Google Fonts (Asul)
     ========== ========== ========== -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -20,33 +20,33 @@
     <!-- ========== ========== ==========
     TailWindCSS Link
     ========== ========== ========== -->
-    <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/output.css" rel="stylesheet">
-    <!-- <link type="text/css" href="../css/output.css" rel="stylesheet"> -->
+    <!-- <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/output.css" rel="stylesheet"> -->
+    <link type="text/css" href="../css/output.css" rel="stylesheet">
 
     <!-- ========== ========== ==========
     Manual CSS Link
     ========== ========== ========== -->
-    <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/manual.css" rel="stylesheet">
-    <!-- <link type="text/css" href="../css/manual.css" rel="stylesheet"> -->
+    <!-- <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/manual.css" rel="stylesheet"> -->
+    <link type="text/css" href="../css/manual.css" rel="stylesheet">
 
     <!-- ========== ========== ==========
     TailWind CSS build process:
     npx tailwindcss -i ./css/input.css -o ./css/output.css --watch
     ========== ========== ========== -->
 </head>
-<body class="bg-fixed lg:bg-cover">
+<body class="bg-fixed lg:bg-cover font-asul">
     <!-- 
     ========== ========== ==========
     Header
     ========== ========== ========== -->
-    <header class="mask bg-medium-gray text-white">
+    <header class="h-[95px] mask bg-medium-gray text-white">
         <!-- sticky top-0 z-10 -->
 
         <!-- ========== ========== ==========
         Desktop Navbar Menu (Navbar)
         ========== ========== ========== -->
-        <div class="w-full flex justify-start items-center">
-            <div class="w-full flex justify-between items-center px-5 py-3 gap-5
+        <div class="w-full h-[95px] flex justify-start items-center">
+            <div class="w-full flex justify-between items-center px-5 py-2 gap-5
                 lg:w-fit">
                 
                 <!-- HOME -->
@@ -70,7 +70,7 @@
                     <!-- ========== ==========
                     Basics Button
                     ========== ========== -->
-                    <button id="basics_button" data-dropdown-toggle="basics_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent font-asul text-center text-xl text-white" type="button">
+                    <button id="basics_button" data-dropdown-toggle="basics_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent   text-center text-xl text-white" type="button">
                         Basics
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
                             <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
@@ -78,7 +78,7 @@
                     </button>
                     <!-- Dropdown menu -->
                     <div id="basics_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
-                        <ul class="py-2 font-asul text-gray-200" aria-labelledby="generalButton">
+                        <ul class="py-2   text-gray-200" aria-labelledby="generalButton">
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Recommended Settings</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Starting Recommendations</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Character Stats</a></li>
@@ -91,7 +91,7 @@
                     <!-- ========== ==========
                     Combat Button
                     ========== ========== -->
-                    <button id="combat_button" data-dropdown-toggle="combat_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent font-asul text-center text-xl text-white" type="button">
+                    <button id="combat_button" data-dropdown-toggle="combat_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent   text-center text-xl text-white" type="button">
                         Combat
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
                             <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
@@ -99,7 +99,7 @@
                     </button>
                     <!-- Dropdown menu -->
                     <div id="combat_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
-                        <ul class="py-2 font-asul text-gray-200" aria-labelledby="generalButton">
+                        <ul class="py-2   text-gray-200" aria-labelledby="generalButton">
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Stances</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Ki Pulse</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Skills / Skill Trees</a></li>
@@ -113,7 +113,7 @@
                     <!-- ========== ==========
                     Equipment Button
                     ========== ========== -->
-                    <button id="equipment_button" data-dropdown-toggle="equipment_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent font-asul text-center text-xl text-white" type="button">
+                    <button id="equipment_button" data-dropdown-toggle="equipment_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent   text-center text-xl text-white" type="button">
                         Equipment
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
                             <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
@@ -121,7 +121,7 @@
                     </button>
                     <!-- Dropdown menu -->
                     <div id="equipment_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
-                        <ul class="py-2 font-asul text-gray-200" aria-labelledby="generalButton">
+                        <ul class="py-2   text-gray-200" aria-labelledby="generalButton">
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Weapons</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Armor</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Ninjutsu</a></li>
@@ -138,7 +138,7 @@
                     <!-- ========== ==========
                     World Button
                     ========== ========== -->
-                    <button id="world_button" data-dropdown-toggle="world_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent font-asul text-center text-xl text-white" type="button">
+                    <button id="world_button" data-dropdown-toggle="world_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent   text-center text-xl text-white" type="button">
                         World
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
                             <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
@@ -146,10 +146,10 @@
                     </button>
                     <!-- Dropdown menu -->
                     <div id="world_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
-                        <ul class="py-2 font-asul text-gray-200" aria-labelledby="generalButton">
+                        <ul class="py-2   text-gray-200" aria-labelledby="generalButton">
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Missions</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Enemies</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Bosses</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Enemies</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Underworld</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Depths of the Underworld</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Kodama & Sudama</a></li>
@@ -160,7 +160,7 @@
                     <!-- ========== ==========
                     Tools & Resources Button
                     ========== ========== -->
-                    <button id="tools_button" data-dropdown-toggle="tools_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent font-asul text-center text-xl text-white" type="button">
+                    <button id="tools_button" data-dropdown-toggle="tools_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent   text-center text-xl text-white" type="button">
                         Tools & Resources
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
                             <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
@@ -168,7 +168,7 @@
                     </button>
                     <!-- Dropdown menu -->
                     <div id="tools_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
-                        <ul class="py-2 font-asul text-gray-200" aria-labelledby="generalButton">
+                        <ul class="py-2   text-gray-200" aria-labelledby="generalButton">
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Smithing Texts</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Temper Tables</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Blacksmith</a></li>
@@ -182,7 +182,7 @@
                     <!-- ========== ==========
                     Online Button
                     ========== ========== -->
-                    <button id="online_button" data-dropdown-toggle="online_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent font-asul text-center text-xl text-white" type="button">
+                    <button id="online_button" data-dropdown-toggle="online_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent   text-center text-xl text-white" type="button">
                         Online
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
                             <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
@@ -190,7 +190,7 @@
                     </button>
                     <!-- Dropdown menu -->
                     <div id="online_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
-                        <ul class="py-2 font-asul text-gray-200" aria-labelledby="generalButton">
+                        <ul class="py-2   text-gray-200" aria-labelledby="generalButton">
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Online Modes</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Matchmaking</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Hidden Tea House</a></li>
@@ -232,7 +232,7 @@
     ========== ========== ========== -->
     <section class="mt-6 lg:mt-28 flex flex-col items-center justify-center gap-4">
         <img src="./img/nioh2_logo_large.png" alt="">
-        <h1 class="font-asul text-white text-6xl">Wiki</h1>
+        <h1 class="  text-white text-6xl">Wiki</h1>
     </section>
 
 
@@ -259,7 +259,7 @@
             ========== -->
             <div class="mask w-full h-[98px] py-2 rounded flex flex-col items-center justify-center bg-medium-red">
                 <img src="./img/basics_icon.png" alt="">
-                <span class="font-asul text-2xl text-slate-300">Basics</span>
+                <span class="  text-2xl text-slate-300">Basics</span>
             </div>
 
             <!-- ========== 
@@ -267,22 +267,22 @@
             ========== -->
             <ul class="mt-5 w-full flex flex-col items-start justify-center gap-2">
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Recommended Settings</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Recommended Settings</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Starting Recommendations</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Starting Recommendations</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Character Stats</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Character Stats</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">The Shrine</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">The Shrine</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">The Dojo</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">The Dojo</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">NG+ Cycles</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">NG+ Cycles</a>
                 </li>
             </ul>
         </div>
@@ -296,7 +296,7 @@
             ========== -->
             <div class="mask w-full h-[98px] py-2 rounded flex flex-col items-center justify-center bg-medium-red">
                 <img src="./img/combat_icon.png" alt="">
-                <span class="font-asul text-2xl text-slate-300">Combat</span>
+                <span class="  text-2xl text-slate-300">Combat</span>
             </div>
 
             <!-- ========== 
@@ -304,25 +304,25 @@
             ========== -->
             <ul class="mt-5 w-full flex flex-col items-start justify-center gap-2">
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Stances</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Stances</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Ki Pulse</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Ki Pulse</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Skills / Skill Trees</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Skills / Skill Trees</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Yokai Shift & Burst Counters</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Yokai Shift & Burst Counters</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Doding / Guarding / Parrying</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Doding / Guarding / Parrying</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Status Effects</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Status Effects</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Advanced Tech</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Advanced Tech</a>
                 </li>
             </ul>
         </div>
@@ -336,7 +336,7 @@
             ========== -->
             <div class="mask w-full h-[98px] py-2 rounded flex flex-col items-center justify-center bg-medium-red">
                 <img src="./img/equipment_icon.png" alt="">
-                <span class="font-asul text-2xl text-slate-300">Equipment</span>
+                <span class="  text-2xl text-slate-300">Equipment</span>
             </div>
 
             <!-- ========== 
@@ -344,34 +344,34 @@
             ========== -->
             <ul class="mt-5 w-full flex flex-col items-start justify-center gap-2">
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Weapons</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Weapons</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Armor</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Armor</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Ninjutsu</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Ninjutsu</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Onmyo Magic</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Onmyo Magic</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Soul Cores</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Soul Cores</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Guardian Spirits</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Guardian Spirits</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Accessories</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Accessories</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Demon Parade Picture Scrolls</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Demon Parade Picture Scrolls</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Graces & Sets</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Graces & Sets</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Items</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Items</a>
                 </li>
             </ul>
         </div>
@@ -385,7 +385,7 @@
             ========== -->
             <div class="mask w-full h-[98px] py-2 rounded flex flex-col items-center justify-center bg-medium-red">
                 <img src="./img/world_icon.png" alt="">
-                <span class="font-asul text-2xl text-slate-300">World</span>
+                <span class="  text-2xl text-slate-300">World</span>
             </div>
 
             <!-- ========== 
@@ -393,25 +393,25 @@
             ========== -->
             <ul class="mt-5 w-full flex flex-col items-start justify-center gap-2">
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Missions</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Missions</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Enemies</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Bosses</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Bosses</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Enemies</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">The Underworld</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">The Underworld</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">The Depths of the Underworld</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">The Depths of the Underworld</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Kodama & Sudama</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Kodama & Sudama</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Characters</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Characters</a>
                 </li>
             </ul>
         </div>
@@ -425,7 +425,7 @@
             ========== -->
             <div class="mask w-full h-[98px] py-2 rounded flex flex-col items-center justify-center bg-medium-red">
                 <img src="./img/tools_icon.png" alt="">
-                <span class="font-asul text-2xl text-slate-300">Tools & Resources</span>
+                <span class="  text-2xl text-slate-300">Tools & Resources</span>
             </div>
 
             <!-- ========== 
@@ -433,25 +433,25 @@
             ========== -->
             <ul class="mt-5 w-full flex flex-col items-start justify-center gap-2">
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Smithing Texts</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Smithing Texts</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Temper Tables</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Temper Tables</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Blacksmith</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Blacksmith</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Stone of Penance</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Stone of Penance</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Farming Resources</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Farming Resources</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Achievements</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Achievements</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Builds</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Builds</a>
                 </li>
             </ul>
         </div>
@@ -465,7 +465,7 @@
             ========== -->
             <div class="mask w-full h-[98px] py-2 rounded flex flex-col items-center justify-center bg-medium-red">
                 <img src="./img/online_icon.png" alt="">
-                <span class="font-asul text-2xl text-slate-300">Online</span>
+                <span class="  text-2xl text-slate-300">Online</span>
             </div>
 
             <!-- ========== 
@@ -473,19 +473,19 @@
             ========== -->
             <ul class="mt-5 w-full flex flex-col items-start justify-center gap-2">
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Online Modes</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Online Modes</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Matchmaking</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Matchmaking</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Hidden Tea House</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Hidden Tea House</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Revenants</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Revenants</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-red">
-                    <a class="px-2 w-full font-asul text-xl text-yellow-400" href="">Benevolent Graves</a>
+                    <a class="px-2 w-full   text-xl text-yellow-400" href="">Benevolent Graves</a>
                 </li>
             </ul>
         </div>
@@ -501,7 +501,7 @@
         <div class="flex flex-col items-center gap-1 md:gap-3
             lg:flex-row">
         
-            <a class="font-asul text-xl text-slate-300" href="">Nioh 2 Wiki</a>
+            <a class="  text-xl text-slate-300" href="">Nioh 2 Wiki</a>
 
             <span class="text-slate-300">Development: LiuKang1080</span>
         </div>
