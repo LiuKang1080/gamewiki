@@ -61,6 +61,13 @@ module.exports = {
 				asul: "'Asul', sans-serif;",
 				bellefair: "'Bellefair', serif;"
 			},
+
+			/* ==========
+			Max Width
+			========== */
+			maxWidth: {
+				'section-width' : '1632px',
+			},
 			
 			/* ==========
 			Animations
