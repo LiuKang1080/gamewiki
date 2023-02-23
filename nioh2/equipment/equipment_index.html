@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nioh 2 Equipment</title>
     <!-- ========== ========== ==========
-    Google Fonts
+    Google Fonts (Asul)
     ========== ========== ========== -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -34,183 +34,168 @@
     npx tailwindcss -i ./css/input.css -o ./css/output.css --watch
     ========== ========== ========== -->
 </head>
-<body class="bg-stone-900">
-    <!--
+<body class="bg-stone-900 font-asul">
+    <!-- 
     ========== ========== ==========
     Header
     ========== ========== ========== -->
-    <header class="bg-[#333338] text-white">
+    <header class="h-[95px] mask bg-medium-gray text-white">
         <!-- sticky top-0 z-10 -->
 
         <!-- ========== ========== ==========
         Desktop Navbar Menu (Navbar)
         ========== ========== ========== -->
-        <div class="w-full flex justify-start items-center">
-            <div class="w-full flex justify-between items-center px-5 py-3 gap-5
+        <div class="w-full h-[95px] flex justify-start items-center">
+            <div class="w-full flex justify-between items-center px-5 py-2 gap-5
                 lg:w-fit">
-
+                
                 <!-- HOME -->
                 <a href="https://liukang1080.github.io/gamewiki/index.html">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-house-fill" viewBox="0 0 16 16">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-house-fill" viewBox="0 0 16 16">
                         <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.707 1.5Z"/>
                         <path d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6Z"/>
                     </svg>
                 </a>
 
                 <!-- Nioh 2 Logo -->
-                <a href="https://liukang1080.github.io/gamewiki/nioh2/nioh2.html"><img src="https://liukang1080.github.io/gamewiki/nioh2/img/nioh2_logo.png" alt=""></a>
+                <a href="https://liukang1080.github.io/gamewiki/nioh2/nioh2.html"><img src="https://liukang1080.github.io/gamewiki/nioh2/img/nioh2_logo_2.png" alt=""></a>
 
                 <!-- Navbar Buttons -->
                 <!-- hidden nav for mobile viewports -->
-                <button id="hamburger-button" class="text-3xl md:hidden cursor-pointer">&#9776;</button>
+                <button id="hamburger-button" class="text-3xl lg:hidden cursor-pointer">&#9776;</button>
                 <!-- Hamburger UNICODE -->
 
                 <!-- Navbar links (DESKTOP VERSION) -->
-                <nav class="hidden md:block gap-5" aria-label="main">
-                    <!-- ========== ==========
-                    New Player Guide
-                    ========== ========== -->
-                    <button id="newplayer_button" data-dropdown-toggle="newplayer_dropdown" class="text-white bg-transparent text-center inline-flex items-center" type="button">
-                        New Player Guide <img class="p-2" src="../img/dropdown_icon.png" alt="">
-                    </button>
-                    <!-- Dropdown menu -->
-                    <div id="newplayer_dropdown" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="generalButton">
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Dashboard</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Settings</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Earnings</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Sign out</a></li>
-                        </ul>
-                    </div>
-
-                    <!-- ========== ==========
-                    Travel Guides Button
-                    ========== ========== -->
-                    <button id="travel_button" data-dropdown-toggle="travel_dropdown" class="text-white bg-transparent text-center inline-flex items-center" type="button">
-                        Travel Guides <img class="p-2" src="../img/dropdown_icon.png" alt="">
-                    </button>
-                    <!-- Dropdown menu -->
-                    <div id="travel_dropdown" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="generalButton">
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Dashboard</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Settings</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Earnings</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Sign out</a></li>
-                        </ul>
-                    </div>
-
+                <nav class="hidden lg:block gap-5" aria-label="main">
                     <!-- ========== ==========
                     Basics Button
                     ========== ========== -->
-                    <button id="basics_button" data-dropdown-toggle="basics_dropdown" class="text-white bg-transparent text-center inline-flex items-center" type="button">
-                        Basics <img class="p-2" src="../img/dropdown_icon.png" alt="">
+                    <button id="basics_button" data-dropdown-toggle="basics_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent   text-center text-xl text-white" type="button">
+                        Basics
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
                     </button>
                     <!-- Dropdown menu -->
-                    <div id="basics_dropdown" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="generalButton">
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Basic Game Info</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Character</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">The Shrine</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">The Dojo</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Terminology</a></li>
+                    <div id="basics_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2   text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Recommended Settings</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Starting Recommendations</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Character Stats</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Shrine</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Dojo</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">NG+ Cycles</a></li>
                         </ul>
                     </div>
 
                     <!-- ========== ==========
                     Combat Button
                     ========== ========== -->
-                    <button id="combat_button" data-dropdown-toggle="combat_dropdown" class="text-white bg-transparent text-center inline-flex items-center" type="button">
-                        Combat <img class="p-2" src="../img/dropdown_icon.png" alt="">
+                    <button id="combat_button" data-dropdown-toggle="combat_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent   text-center text-xl text-white" type="button">
+                        Combat
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
                     </button>
                     <!-- Dropdown menu -->
-                    <div id="combat_dropdown" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="combatButton">
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Selecting A Weapon & Guardian Spirit</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Stances</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Ki Pulse</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Skills / Skill Trees</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Dodging / Guarding / Parrying</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Yokai Shift / Burst Counters</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Status Effects</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Advanced Tech</a></li>
+                    <div id="combat_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2   text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Stances</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Ki Pulse</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Skills / Skill Trees</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Yokai Shift & Burst Counters</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Doding / Guarding / Parrying</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Status Effects</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Advanced Tech</a></li>
                         </ul>
                     </div>
 
                     <!-- ========== ==========
                     Equipment Button
                     ========== ========== -->
-                    <button id="equipment_button" data-dropdown-toggle="equipment_dropdown" class="text-white bg-transparent text-center inline-flex items-center" type="button">
-                        Equipment <img class="p-2" src="../img/dropdown_icon.png" alt="">
+                    <button id="equipment_button" data-dropdown-toggle="equipment_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent   text-center text-xl text-white" type="button">
+                        Equipment
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
                     </button>
                     <!-- Dropdown menu -->
-                    <div id="equipment_dropdown" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="equipmentButton">
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Weapons</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Armor</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Ninjutsu</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Onmyo Magic</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Soul Cores</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Guardian Spirits</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Accessories</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Demon Parade Picture Scrolls</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Graces & Sets</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Items</a></li>
+                    <div id="equipment_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2   text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Weapons</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Armor</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Ninjutsu</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Onmyo Magic</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Soul Cores</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Guardian Spirits</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Accessories</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Demon Parade Picture Scrolls</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Graces & Sets</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Items</a></li>
                         </ul>
                     </div>
 
                     <!-- ========== ==========
                     World Button
                     ========== ========== -->
-                    <button id="world_button" data-dropdown-toggle="world_dropdown" class="text-white bg-transparent text-center inline-flex items-center" type="button">
-                        World <img class="p-2" src="../img/dropdown_icon.png" alt="">
+                    <button id="world_button" data-dropdown-toggle="world_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent   text-center text-xl text-white" type="button">
+                        World
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
                     </button>
                     <!-- Dropdown menu -->
-                    <div id="world_dropdown" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="worldButton">
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Missions</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Enemies</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Bosses</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">The Underworld</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">The Depths of the Underworld</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Kodama & Sudama</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Characters</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Secrets</a></li>
-                        </ul>
-                    </div>
-
-                    <!-- ========== ==========
-                    Guides Button
-                    ========== ========== -->
-                    <button id="guides_button" data-dropdown-toggle="guides_dropdown" class="text-white bg-transparent text-center inline-flex items-center" type="button">
-                        Guides <img class="p-2" src="../img/dropdown_icon.png" alt="">
-                    </button>
-                    <!-- Dropdown menu -->
-                    <div id="guides_dropdown" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="guidesButton">
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Smithing Texts</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Special Effects Table</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Blacksmith</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Farming</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Builds</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Achievements</a></li>
+                    <div id="world_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2   text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Missions</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Bosses</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Enemies</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Underworld</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Depths of the Underworld</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Kodama & Sudama</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Characters</a></li>
                         </ul>
                     </div>
 
                     <!-- ========== ==========
                     Tools & Resources Button
                     ========== ========== -->
-                    <button id="tools_button" data-dropdown-toggle="tools_dropdown" class="text-white bg-transparent text-center inline-flex items-center" type="button">
-                        Tools & Resources <img class="p-2" src="../img/dropdown_icon.png" alt="">
+                    <button id="tools_button" data-dropdown-toggle="tools_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent   text-center text-xl text-white" type="button">
+                        Tools & Resources
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
                     </button>
                     <!-- Dropdown menu -->
-                    <div id="tools_dropdown" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="toolsButton">
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Online Modes</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Matchmaking</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Hidden Tea House</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Revenants</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Benevolent Graves</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white" href="#">Communities</a></li>
+                    <div id="tools_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2   text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Smithing Texts</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Temper Tables</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Blacksmith</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Stone of Penance</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Farming Resources</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Achievements</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Builds</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Online Button
+                    ========== ========== -->
+                    <button id="online_button" data-dropdown-toggle="online_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent   text-center text-xl text-white" type="button">
+                        Online
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="online_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2   text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Online Modes</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Matchmaking</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Hidden Tea House</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Revenants</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Benevolent Graves</a></li>
                         </ul>
                     </div>
                 </nav>
@@ -222,7 +207,7 @@
         Mobile Only Menu (Navbar)
         ========== ========== ==========
         -->
-        <div id="mobile-menu" class="absolute top-0 bg-dark-gray w-full text-4xl flex-col justify-center
+        <div id="mobile-menu" class="absolute top-0 bg-medium-gray w-full text-4xl flex-col justify-center
             origin-top animate-open-menu hidden">
 
             <!-- closing button -->
@@ -230,56 +215,52 @@
 
             <!-- Navbar Links Mobile -->
             <nav class="flex flex-col min-h-screen items-center py-8" aria-label="mobile">
-                <a class="w-full text-center py-6 text-slate-400" href="../index.html">HOME</a>
-                <a class="w-full text-center py-6 text-slate-400" href="">NEW PLAYER GUIDES</a>
-                <a class="w-full text-center py-6 text-slate-400" href="">TRAVEL GUIDES</a>
-                <a class="w-full text-center py-6 text-slate-400" href="">BASICS</a>
-                <a class="w-full text-center py-6 text-slate-400" href="">COMBAT</a>
-                <a class="w-full text-center py-6 text-slate-400" href="">WORLD</a>
-                <a class="w-full text-center py-6 text-slate-400" href="">EQUIPMENT</a>
-                <a class="w-full text-center py-6 text-slate-400" href="">TOOLS & RESOURCES</a>
-                <a class="w-full text-center py-6 text-slate-400" href="">ONLINE</a>
+                <a class="w-full text-center py-6 text-slate-300" href="https://liukang1080.github.io/gamewiki/index.html">HOME</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">BASICS</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">COMBAT</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">WORLD</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">EQUIPMENT</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">TOOLS & RESOURCES</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">ONLINE</a>
             </nav>
         </div>
     </header>
 
-    <!-- Gray Slate Stone -->
-    <!-- 
-        Best Colors: 
-            - Dark: 
-                - stone-900 - backgrounds
-            
-            - Medium:
-                - bg-zinc-750 == bg-[#333338]
-            
-            - Light:  
-    
-    -->
-    <div class="flex justify-around">
-        <div class="w-64 h-64 bg-dark-gray text-yellow-400 text-2xl text-center">Dark Gray</div>
-        
-        <div class="mask flex flex-col justify-center items-center gap-2 w-64 h-64 bg-[#30171b] text-slate-300 text-2xl text-center">
-            <span class="text-yellow-400 text-xl">Yellow</span>
-            <span class="text-white text-xl">White</span>
-            <span class="text-slate-300 text-xl">slate-300</span>
-            
 
-            <div class="mask w-32 h-32 bg-[#5f1823] text-black">
-                <span class="text-black text-xl">Black</span>
-                <span class="text-slate-900 text-xl">Slate-900</span>
-                <span class="text-zinc-900 text-xl">zinc-900</span>
-            </div>
+    <!-- Title Section -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="">
+            <h1 class="text-yellow-400 text-5xl">Equipment</h1>
         </div>
+    </section>
+
+
+    <!-- ========== ========== ==========
+    Footer 
+    ========== ========== ========== -->
+    <footer class="mask footer-border w-full p-5 flex flex-col justify-between items-center gap-1 bg-medium-gray
+        md:flex-row">
         
-        <div class="mask w-64 h-64 bg-[#3d3d3d] text-black text-2xl text-center">Dark Gray</div>
-    </div>
-    
+        <div class="flex flex-col items-center gap-1 md:gap-3
+            lg:flex-row">
+        
+            <a class="text-xl text-slate-300" href="https://liukang1080.github.io/gamewiki/nioh2/nioh2.html">Nioh 2 Wiki</a>
+            <span class="text-slate-300">Development: LiuKang1080</span>
+        </div>
+
+        <span class="text-slate-300">&copy; 2023</span>
+    </footer>
+
 
     <!-- ========== ========== ==========
     JavaScript
     ========== ========== ========== -->
     <!-- FlowBite JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>
+
+    <!-- Local JavaScript -->
+    <script src="./js/main.js" type="text/javascript" defer></script>
+    <!-- defer ensures that the page gets fully loaded before the JavaScript executes -->
 
 </body>
 </html>
@@ -293,5 +274,4 @@
 <!-- Credits -->
 <!--
     - Website Development - LiuKang1080
-    - Website Design - Matsu
 -->
