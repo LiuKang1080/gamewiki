@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wo Long: Fallen Dynasty Wiki</title>
+    <title>Equipment</title>
     <!-- ========== ========== ==========
     Google Fonts (Bellefair)
     ========== ========== ========== -->
@@ -21,20 +21,20 @@
     TailWindCSS Link
     ========== ========== ========== -->
     <!-- <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/output.css" rel="stylesheet"> -->
-    <link type="text/css" href="../css/output.css" rel="stylesheet">
+    <link type="text/css" href="../../css/output.css" rel="stylesheet">
 
     <!-- ========== ========== ==========
     Manual CSS Link
     ========== ========== ========== -->
     <!-- <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/manual.css" rel="stylesheet"> -->
-    <link type="text/css" href="../css/manual.css" rel="stylesheet">
+    <link type="text/css" href="../../css/manual.css" rel="stylesheet">
 
     <!-- ========== ========== ==========
     TailWind CSS build process:
     npx tailwindcss -i ./css/input.css -o ./css/output.css --watch
     ========== ========== ========== -->
 </head>
-<body class="bg-fixed lg:bg-cover font-bellefair">
+<body class="bg-stone-900 font-bellefair">
     <!-- 
     ========== ========== ==========
     Header
@@ -224,274 +224,108 @@
 
 
     <!-- ========== ========== ==========
-    Hero Section
+    Title Section
     ========== ========== ========== -->
-    <section class="mt-6 lg:mt-28 flex flex-col items-center justify-center gap-4">
-        <img src="./img/wolong_logo_large.png" alt="">
-        <h1 class=" text-white text-6xl">Wiki</h1>
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
+            <h1 class="text-yellow-400 text-6xl">Equipment</h1>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+        </div>
     </section>
 
 
     <!-- ========== ========== ==========
     Card Section
     ========== ========== ========== -->
-    <section class="mx-auto mt-6 gap-4
-        lg:w-[1320px] lg:mt-12 lg:mb-[200px] lg:grid lg:grid-cols-3">
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="w-full px-4 flex flex-col items-center gap-4 
+            lg:max-w-section-width lg:grid lg:grid-cols-3 lg:px-0">
 
-        <!-- 
-        ==========
-        GRID:
-        ==========
-            Card 1  |   Card 2  |   Card 3
-            Card 4  |   Card 5  |   Card 6
-        -->
-
-        <!-- ========== ==========
-        Basics (Main Card 1)
-        ========== ========== -->
-        <div class="mask my-6 lg:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach ">
-            <!-- ========== 
-            top row 
+            <!-- ==========
+            Card 1 (Weapons)
             ========== -->
-            <div class="mask w-full h-[98px] py-2 rounded flex flex-col items-center justify-center bg-medium-peach">
-                <img src="./img/basics_icon.png" alt=""> 
-                <span class="text-2xl text-stone-900">Basics</span>
-            </div>
+            <a class="mask w-full p-4 flex flex-col items-center rounded bg-medium-peach text-4xl text-stone-900 hover:bg-light-peach" 
+                href="">
+                
+                <!-- weapon logo -->
 
-            <!-- ========== 
-            link list
-            ========== -->
-            <ul class="mt-5 w-full flex flex-col items-start justify-center gap-2">
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Recommended Settings</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Starting Recommendations</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Character Stats</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">??? The Shrine ???</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">The Dojo</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">NG+ Cycles</a>
-                </li>
-            </ul>
-        </div>
+                <!-- card text -->
+                <h1 class="">Weapons</h1>
+            </a>
 
-        <!-- ========== ==========
-        Combat (Main Card 2)
-        ========== ========== -->
-        <div class="mask my-6 lg:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach">
-            <!-- ========== 
-            top row 
+            <!-- ==========
+            Card 2 (Armor)
             ========== -->
-            <div class="mask w-full h-[98px] py-2 rounded flex flex-col items-center justify-center bg-medium-peach">
-                <img src="./img/combat_icon.png" alt="">
-                <span class=" text-2xl text-stone-900">Combat</span>
-            </div>
+            <a class="mask w-full p-4 flex flex-col items-center rounded bg-medium-peach text-4xl text-stone-900 hover:bg-light-peach" 
+                href="">
+                
+                <!-- armor logo -->
 
-            <!-- ========== 
-            link list
-            ========== -->
-            <ul class="mt-5 w-full flex flex-col items-start justify-center gap-2">
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Deflect</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Spirit System</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Martial Arts</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Morale Rank</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Five Phases / Status Effects</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">??? Advanced Tech ???</a>
-                </li>
-            </ul>
-        </div>
+                <!-- card text -->
+                <h1 class="">Armor</h1>
+            </a>
 
-        <!-- ========== ==========
-        Equipment (Main Card 3)
-        ========== ========== -->
-        <div class="mask my-6 lg:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach">
-            <!-- ========== 
-            top row 
+            <!-- ==========
+            Card 3 (Wizardry Spells)
             ========== -->
-            <div class="mask w-full h-[98px] py-2 rounded flex flex-col items-center justify-center bg-medium-peach">
-                <img src="./img/basics_icon.png" alt=""> 
-                <span class=" text-2xl text-stone-900">Equipment</span>
-            </div>
+            <a class="mask w-full p-4 flex flex-col items-center rounded bg-medium-peach text-4xl text-stone-900 hover:bg-light-peach" 
+                href="">
+                
+                <!-- weapon logo -->
 
-            <!-- ========== 
-            link list
-            ========== -->
-            <ul class="mt-5 w-full flex flex-col items-start justify-center gap-2">
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Weapons</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Armor</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Wizardry Spells</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Divine Beasts</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Accessories</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Graces & Sets</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Items</a>
-                </li>
-            </ul>
-        </div>
+                <!-- card text -->
+                <h1 class="">Wizardry Spells</h1>
+            </a>
 
-        <!-- ========== ==========
-        World (Main Card 4)
-        ========== ========== -->
-        <div class="mask my-6 lg:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach">
-            <!-- ========== 
-            top row 
+            <!-- ==========
+            Card 4 (Divine Beasts)
             ========== -->
-            <div class="mask w-full h-[98px] py-2 rounded flex flex-col items-center justify-center bg-medium-peach">
-                <img src="./img/basics_icon.png" alt=""> 
-                <span class=" text-2xl text-stone-900">World</span>
-            </div>
+            <a class="mask w-full p-4 flex flex-col items-center rounded bg-medium-peach text-4xl text-stone-900 hover:bg-light-peach" 
+                href="">
+                
+                <!-- weapon logo -->
 
-            <!-- ========== 
-            link list
-            ========== -->
-            <ul class="mt-5 w-full flex flex-col items-start justify-center gap-2">
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Missions</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Oaths & Alliances</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Bosses</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Enemies</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Shitieshou Locations</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Characters</a>
-                </li>
-            </ul>
-        </div>
+                <!-- card text -->
+                <h1 class="">Divine Beasts</h1>
+            </a>
 
-        <!-- ========== ==========
-        Tools & Resources (Main Card 5)
-        ========== ========== -->
-        <div class="mask my-6 lg:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach">
-            <!-- ========== 
-            top row 
+            <!-- ==========
+            Card 5 (Accessories)
             ========== -->
-            <div class="mask w-full h-[98px] py-2 rounded flex flex-col items-center justify-center bg-medium-peach">
-                <img src="./img/basics_icon.png" alt=""> 
-                <span class=" text-2xl text-stone-900">Tools & Resources</span>
-            </div>
+            <a class="mask w-full p-4 flex flex-col items-center rounded bg-medium-peach text-4xl text-stone-900 hover:bg-light-peach" 
+                href="">
+                
+                <!-- weapon logo -->
 
-            <!-- ========== 
-            link list
-            ========== -->
-            <ul class="mt-5 w-full flex flex-col items-start justify-center gap-2">
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Smithing Texts</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Temper Tables</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Blacksmith</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Stone of Penance</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Farming Resources</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Achievements</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Builds</a>
-                </li>
-            </ul>
-        </div>
+                <!-- card text -->
+                <h1 class="">Accessories</h1>
+            </a>
 
-        <!-- ========== ==========
-        Online (Main Card 6)
-        ========== ========== -->
-        <div class="mask my-6 lg:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach">
-            <!-- ========== 
-            top row 
+            <!-- ==========
+            Card 6 (Graces & Sets)
             ========== -->
-            <div class="mask w-full h-[98px] py-2 rounded flex flex-col items-center justify-center bg-medium-peach">
-                <img src="./img/basics_icon.png" alt=""> 
-                <span class=" text-2xl text-stone-900">Online</span>
-            </div>
+            <a class="mask w-full p-4 flex flex-col items-center rounded bg-medium-peach text-4xl text-stone-900 hover:bg-light-peach" 
+                href="">
+                
+                <!-- weapon logo -->
 
-            <!-- ========== 
-            link list
+                <!-- card text -->
+                <h1 class="">Graces & Sets</h1>
+            </a>
+
+            <!-- ==========
+            Card 7 (Items)
             ========== -->
-            <ul class="mt-5 w-full flex flex-col items-start justify-center gap-2">
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Co-Op</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Invasions</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Vengeance System</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Hidden Tea House</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Revenants</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Benevolent Graves</a>
-                </li>
-            </ul>
+            <a class="mask w-full p-4 flex flex-col items-center rounded bg-medium-peach text-4xl text-stone-900 hover:bg-light-peach" 
+                href="">
+                
+                <!-- weapon logo -->
+
+                <!-- card text -->
+                <h1 class="">Items</h1>
+            </a>
         </div>
     </section>
-
-
-    <!-- ========== ========== ==========
-    Footer 
-    ========== ========== ========== -->
-    <footer class="mask footer-border w-full p-5 flex flex-col justify-between items-center gap-1 bg-medium-gray
-        md:flex-row">
-        
-        <div class="flex flex-col items-center gap-1 md:gap-3
-            lg:flex-row">
-        
-            <a class=" text-xl text-slate-300" href="">Wo Long: Fallen Dynasty Wiki</a>
-
-            <span class="text-slate-300">Development: LiuKang1080</span>
-        </div>
-
-        <span class="text-slate-300">&copy; 2023</span>
-    </footer>
 
 
     <!-- ========== ========== ==========
@@ -505,13 +339,8 @@
     ========== -->
     <!-- Navbar JS -->
     <!-- <script src="https://liukang1080.github.io/gamewiki/js/navbar.js" type="text/javascript" defer></script> -->
-    <script src="../js/navbar.js" type="text/javascript" defer></script>
-    <!-- defer ensures that the page gets fully loaded before the JavaScript executes -->
+    <script src="../../js/navbar.js" type="text/javascript" defer></script>
     
-    <!-- Background JS -->
-    <!-- <script src="https://liukang1080.github.io/gamewiki/js/wolong_background_image.js" type="text/javascript" defer></script> -->
-    <script src="../js/wolong_background_image.js" type="text/javascript" defer></script>
-
 </body>
 </html>
 

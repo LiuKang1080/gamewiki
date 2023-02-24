@@ -580,6 +580,10 @@ video {
   display: none;
 }
 
+.h-\[2px\] {
+  height: 2px;
+}
+
 .h-\[95px\] {
   height: 95px;
 }
@@ -590,14 +594,6 @@ video {
 
 .h-auto {
   height: auto;
-}
-
-.h-px {
-  height: 1px;
-}
-
-.h-\[2px\] {
-  height: 2px;
 }
 
 .min-h-screen {
@@ -727,11 +723,6 @@ video {
   border-color: rgb(0 0 0 / var(--tw-border-opacity));
 }
 
-.border-slate-300 {
-  --tw-border-opacity: 1;
-  border-color: rgb(203 213 225 / var(--tw-border-opacity));
-}
-
 .bg-dark-peach {
   --tw-bg-opacity: 1;
   background-color: rgb(157 122 70 / var(--tw-bg-opacity));
@@ -757,6 +748,11 @@ video {
   background-color: rgb(72 24 31 / var(--tw-bg-opacity));
 }
 
+.bg-stone-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(87 83 78 / var(--tw-bg-opacity));
+}
+
 .bg-stone-900 {
   --tw-bg-opacity: 1;
   background-color: rgb(28 25 23 / var(--tw-bg-opacity));
@@ -769,41 +765,6 @@ video {
 .bg-white {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
-}
-
-.bg-slate-300 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(203 213 225 / var(--tw-bg-opacity));
-}
-
-.bg-gray-300 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(209 213 219 / var(--tw-bg-opacity));
-}
-
-.bg-gray-200 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(229 231 235 / var(--tw-bg-opacity));
-}
-
-.bg-gray-700 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(55 65 81 / var(--tw-bg-opacity));
-}
-
-.bg-slate-700 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(51 65 85 / var(--tw-bg-opacity));
-}
-
-.bg-stone-700 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(68 64 60 / var(--tw-bg-opacity));
-}
-
-.bg-stone-600 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(87 83 78 / var(--tw-bg-opacity));
 }
 
 .bg-fixed {
@@ -1034,10 +995,6 @@ video {
     width: fit-content;
   }
 
-  .lg\:max-w-\[1632px\] {
-    max-width: 1632px;
-  }
-
   .lg\:max-w-section-width {
     max-width: 1632px;
   }
@@ -1052,5 +1009,10 @@ video {
 
   .lg\:bg-cover {
     background-size: cover;
+  }
+
+  .lg\:px-0 {
+    padding-left: 0px;
+    padding-right: 0px;
   }
 }

@@ -3,7 +3,7 @@
 Randomly change background image upon page landing / refresh
 ========== ========== ==========
 */
-function change_background() {
+function change_background_nioh() {
     /*
     Function that randomly displayes the background image in the <body> tag of the page.
         - Set up array of paths to the images (picture_array)
@@ -22,14 +22,14 @@ function change_background() {
 
     // Set up an array with images
     let picture_array = [
-        './img/nioh2_index_image_1.png',
-        './img/nioh2_index_image_2.png',
-        './img/nioh2_index_image_3.png',
-        './img/nioh2_index_image_4.png',
-        './img/nioh2_index_image_5.png',
-        './img/nioh2_index_image_6.png',
-        './img/nioh2_index_image_7.png',
-        './img/nioh2_index_image_8.png'
+        './nioh2/img/nioh2_index_image_1.png',
+        './nioh2/img/nioh2_index_image_2.png',
+        './nioh2/img/nioh2_index_image_3.png',
+        './nioh2/img/nioh2_index_image_4.png',
+        './nioh2/img/nioh2_index_image_5.png',
+        './nioh2/img/nioh2_index_image_6.png',
+        './nioh2/img/nioh2_index_image_7.png',
+        './nioh2/img/nioh2_index_image_8.png'
     ];
     
     // get a random number
@@ -44,4 +44,4 @@ function change_background() {
 
 
 // call function to randomly change the background image
-change_background();
+change_background_nioh();
