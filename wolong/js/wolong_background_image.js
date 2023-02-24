@@ -22,9 +22,9 @@ function change_background_wolong() {
 
     // Set up an array with images
     let picture_array = [
-        './wolong/img/wolong_index_image_1.png',
-        './wolong/img/wolong_index_image_2.png',
-        './wolong/img/wolong_index_image_3.png'
+        './img/wolong_index_image_1.png',
+        './img/wolong_index_image_2.png',
+        './img/wolong_index_image_3.png'
     ];
     
     // get a random number

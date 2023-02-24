@@ -24,7 +24,15 @@ Basics [Main Menu Card 1]:
 Combat [Main Menu Card 2]:
 ========== ========== ==========
 [6 Links]
+    - Basics
+        - Normal Attack
+        - Spirit Attack
+
     - Deflect
+        - Critical Blows
+        - Deflect Attack
+        - Deflect Weapon Swap
+
     - Spirit System
         - Dodging / Guarding
 

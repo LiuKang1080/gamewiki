@@ -22,14 +22,14 @@ function change_background_nioh() {
 
     // Set up an array with images
     let picture_array = [
-        './nioh2/img/nioh2_index_image_1.png',
-        './nioh2/img/nioh2_index_image_2.png',
-        './nioh2/img/nioh2_index_image_3.png',
-        './nioh2/img/nioh2_index_image_4.png',
-        './nioh2/img/nioh2_index_image_5.png',
-        './nioh2/img/nioh2_index_image_6.png',
-        './nioh2/img/nioh2_index_image_7.png',
-        './nioh2/img/nioh2_index_image_8.png'
+        './img/nioh2_index_image_1.png',
+        './img/nioh2_index_image_2.png',
+        './img/nioh2_index_image_3.png',
+        './img/nioh2_index_image_4.png',
+        './img/nioh2_index_image_5.png',
+        './img/nioh2_index_image_6.png',
+        './img/nioh2_index_image_7.png',
+        './img/nioh2_index_image_8.png'
     ];
     
     // get a random number
