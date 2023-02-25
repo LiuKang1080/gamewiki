@@ -49,20 +49,19 @@ Equipment [Main Menu Card 3]:
 ========== ========== ==========
 [7 Links]
     - Weapons:
+        - Straight Sabre
+        - Curved Sabre
+        - Dual Sabres
         - Sword
         - Dual Swords
+        - Glaive
+        - Halberd
+        - Dual Halberds
         - Spear
-        - Axe
-        - Kusarigama
-        - Odachi
-        - Tonfa
-        - Hatchets
-        - Switchglaive
-        - Splitstaff
-        - Fists
-        - Bows
-        - Rifles
-        - Cannons
+        - Slashing Spear
+        - Staff
+        - Hammer
+        - Poleaxe
     
     - Armor:
         - Light Armor
@@ -73,6 +72,9 @@ Equipment [Main Menu Card 3]:
         - ??? Hidden Wizardry Skills ???
 
     - Divine Beasts
+        - Summon Divine Beast (Triangle + Circle)
+        - Divine Beast Resonation (Square + X)
+
     - Accessories 
     - Graces & Sets
     - Items
