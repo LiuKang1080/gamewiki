@@ -11,12 +11,12 @@ Basics [Main Menu Card 1]:
         - Recommended level up sequence
         - Max level on each NG+ Cycle
         - Weight & Agility
-    
+
     - The Shrine:
         - Boons
         - Kodama Bazaar
         - Kodama Blessings
-    
+
     - The Dojo
     - NG+ Cycles
         - Dream of the Demon Curse
@@ -34,7 +34,7 @@ Combat [Main Menu Card 2]:
     - Ki Pulse:
         - Flux
         - Flash Attack
-    
+
     - Skills / Skill Trees:
         - Samurai Skills
         - Shiftling Skills
@@ -76,7 +76,7 @@ Equipment [Main Menu Card 3]:
         - Bows
         - Rifles
         - Cannons
-    
+
     - Armor:
         - Light Armor
         - Medium Armor
@@ -110,7 +110,7 @@ World [Main Menu Card 4]:
         - The First Samurai (DLC 3)
 		- Twilight Missions
         - Dojo Missions
-    
+
     - Enemies:
         - We can have a small section about Human Enemies before the main list of Yokai enemies
             since there are only a few handful of Human Enemies.
@@ -119,7 +119,7 @@ World [Main Menu Card 4]:
     - The Underworld:
         - Floors 1 - 108:
             [Have Grace Pools at the top of the Floors page]
-        
+
         - Lapis Lazuli table
         - Jizo Kodama
 
@@ -144,18 +144,18 @@ Tools & Resources [Main Menu Card 5]:
         - Temper Table: Waist
         - Temper Table: Boots
         - Temper Table: Accessories
-    
+
     - Blacksmith:
         - Forging:
             [Link to Farming Yokai parts / Divine Fragments] 
-        
+
         - Soul Matching
         - Inheritables
         - Tempering
         - Remodeling
         - Disassembling Gear
         - Patronage Points
-    
+
     - Stone of Penance
     - Farming Resources:
         - Farming Proficiency Points
@@ -179,6 +179,6 @@ Online [Main Menu Card 6]:
     - Hidden Tea House:
         - Tea Sets
         - Clans
-    
+
     - Revenants
     - Benevolent Graves
