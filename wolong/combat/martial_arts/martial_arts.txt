@@ -1,28 +1,138 @@
+========== ========== ==========
 Martial Arts List:
+========== ========== ==========
 
 
-- Straight Sabre:
+Straight Sabre:
+    - Drifting Cloud
+    - Gouging Star
+    - Ill Wind
+    - Meteor Shower
+    - Meteoric Strike
+    - Moon Break
+    - Star Fall
+    - Swift Lightning
 
-- Curved Sabre:
 
-- Dual Sabres:
+Sword:
+    - Drifting Cloud
+    - Earth Shaper
+    - Gouging Star
+    - Ill Wind
+    - Swift Lightning
+    - Meteor Shower
+    - Meteoric Strike
+    - Whirlwind Advance
 
-- Sword:
 
-- Dual Swords:
+Curved Sabre:
+    - Drifting Cloud
+    - Gouging Star
+    - Increscent Slash
+    - Looming Cloud
+    - Meteoric Strike
+    - Star Fall
+    - Whirlwind Advance
 
-- Glaive:
 
-- Halberd:
+Glaive:
+    - Antelope Horn
+    - Dragon Flash
+    - Dragon Slayer
+    - Dragontail Whip
+    - Horn Strike
+    - Iron Calf
+    - Marching Dragon
+    - Phoenix Wings
 
-- Dual Halberds:
 
-- Spear:
+Halberd:
+    - Dragon Flash
+    - Dragon Slayer
+    - Dragontail Whip
+    - Horn Strike
+    - Iron Calf
+    - Marching Dragon
+    - Wyvern Claw
 
-- Slashing Spear:
 
-- Staff:
+Staff:
+    - Antelope Horn
+    - Dragon Flash
+    - Dragontail Whip
+    - Falcon Strike
+    - Goshawk's Dance
+    - Monkey's Wisdom
+    - Plummeting Ape
+    - Stag Hunter
+    - Tigertail Lash
 
-- Hammer:
 
-- Poleaxe:
+Hammer:
+    - Heaven Divide
+    - Heaven Reversal
+    - Mountain Strike
+    - Sea Split
+    - Stone Shatter
+    - Rising Tides
+    - Rock Crash
+    - Undercurrent Sprint
+    
+    ========== Boss Skills ==========
+    - Boulder Glide
+
+
+Poleaxe:
+    -
+
+
+Spear:
+    - Dragon Flash
+    - Dragontail Whip
+    - Falcon Strike
+    - Goshawk's Dance
+    - Horn Strike
+    - Marching Dragon
+    - Monkey's Wisdom
+    - Serpent's Torment
+    
+    ========== Boss Skills ==========
+    - Whistling Vortex
+
+
+Slashing Spear:
+    - Dragon Flash
+    - Dragon Slayer
+    - Dragontail Whip
+    - Falcon Strike
+    - Goshawk's Dance
+    - Horn Strike
+    - Marching Dragon
+    - Monkey's Wisdom
+
+
+Dual Swords:
+    - Bamboo Sever
+    - Beckoning Pine
+    - Blossom Stream
+    - Peach Blossom
+    - Plum Rend
+    - Skyward Evergreen
+    - Sudden Tordando
+    - Thorn Prick
+    - Waiving Willow
+
+
+Dual Sabres:
+    - 
+
+
+Dual Halberds:
+    - Bamboo Sever
+    - Beckoning Pine
+    - Falling Leaves
+    - Plum Rend
+    - Skyward Evergreen
+    - Sudden Tornado
+    - Vine's Grasp
+    - Waving Willow

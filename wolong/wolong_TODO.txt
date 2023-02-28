@@ -50,18 +50,18 @@ Equipment [Main Menu Card 3]:
 [7 Links]
     - Weapons:
         - Straight Sabre
-        - Curved Sabre
-        - Dual Sabres
         - Sword
-        - Dual Swords
+        - Curved Sabre
         - Glaive
         - Halberd
-        - Dual Halberds
-        - Spear
-        - Slashing Spear
         - Staff
         - Hammer
         - Poleaxe
+        - Spear
+        - Slashing Spear
+        - Dual Swords
+        - Dual Sabres
+        - Dual Halberds
 
     - Armor:
         - Light Armor
