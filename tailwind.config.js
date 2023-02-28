@@ -41,7 +41,7 @@ module.exports = {
 			Colors
 			========== */
 			colors: {
-				'light-gray': '#3d3d3d',
+				'light-gray': '#E4E5EA', 
 				'medium-gray': '#333338',
 				// dark-gray is stone-900
 				

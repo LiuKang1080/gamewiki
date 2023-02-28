@@ -576,6 +576,10 @@ video {
   display: inline-flex;
 }
 
+.table {
+  display: table;
+}
+
 .hidden {
   display: none;
 }
@@ -609,8 +613,8 @@ video {
   width: 100%;
 }
 
-.w-1\/2 {
-  width: 50%;
+.border-collapse {
+  border-collapse: collapse;
 }
 
 .origin-top {
@@ -641,6 +645,14 @@ video {
 
 .cursor-pointer {
   cursor: pointer;
+}
+
+.list-inside {
+  list-style-position: inside;
+}
+
+.list-decimal {
+  list-style-type: decimal;
 }
 
 .flex-col {
@@ -687,10 +699,6 @@ video {
   gap: 1.5rem;
 }
 
-.gap-12 {
-  gap: 3rem;
-}
-
 .divide-y > :not([hidden]) ~ :not([hidden]) {
   --tw-divide-y-reverse: 0;
   border-top-width: calc(1px * calc(1 - var(--tw-divide-y-reverse)));
@@ -726,6 +734,10 @@ video {
   border-width: 0px;
 }
 
+.border-solid {
+  border-style: solid;
+}
+
 .border-black {
   --tw-border-opacity: 1;
   border-color: rgb(0 0 0 / var(--tw-border-opacity));
@@ -736,6 +748,11 @@ video {
   border-color: rgb(238 227 214 / var(--tw-border-opacity));
 }
 
+.border-stone-900 {
+  --tw-border-opacity: 1;
+  border-color: rgb(28 25 23 / var(--tw-border-opacity));
+}
+
 .bg-dark-peach {
   --tw-bg-opacity: 1;
   background-color: rgb(157 122 70 / var(--tw-bg-opacity));
@@ -744,6 +761,11 @@ video {
 .bg-dark-red {
   --tw-bg-opacity: 1;
   background-color: rgb(48 23 27 / var(--tw-bg-opacity));
+}
+
+.bg-light-gray {
+  --tw-bg-opacity: 1;
+  background-color: rgb(228 229 234 / var(--tw-bg-opacity));
 }
 
 .bg-medium-gray {
@@ -784,6 +806,21 @@ video {
   background-attachment: fixed;
 }
 
+.object-contain {
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.object-none {
+  -o-object-fit: none;
+     object-fit: none;
+}
+
+.object-scale-down {
+  -o-object-fit: scale-down;
+     object-fit: scale-down;
+}
+
 .p-4 {
   padding: 1rem;
 }
@@ -817,6 +854,11 @@ video {
   padding-bottom: 0.5rem;
 }
 
+.py-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
 .py-6 {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
@@ -837,6 +879,10 @@ video {
 
 .font-bellefair {
   font-family: 'Bellefair', serif;;
+}
+
+.font-serif {
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
 .text-2xl {
@@ -873,6 +919,10 @@ video {
   font-weight: 700;
 }
 
+.font-extrabold {
+  font-weight: 800;
+}
+
 .italic {
   font-style: italic;
 }
@@ -885,6 +935,16 @@ video {
 .text-gray-200 {
   --tw-text-opacity: 1;
   color: rgb(229 231 235 / var(--tw-text-opacity));
+}
+
+.text-sky-400 {
+  --tw-text-opacity: 1;
+  color: rgb(56 189 248 / var(--tw-text-opacity));
+}
+
+.text-sky-500 {
+  --tw-text-opacity: 1;
+  color: rgb(14 165 233 / var(--tw-text-opacity));
 }
 
 .text-slate-300 {
@@ -907,9 +967,14 @@ video {
   color: rgb(250 204 21 / var(--tw-text-opacity));
 }
 
-.text-slate-200 {
+.text-sky-600 {
   --tw-text-opacity: 1;
-  color: rgb(226 232 240 / var(--tw-text-opacity));
+  color: rgb(2 132 199 / var(--tw-text-opacity));
+}
+
+.text-blue-600 {
+  --tw-text-opacity: 1;
+  color: rgb(37 99 235 / var(--tw-text-opacity));
 }
 
 .shadow {
@@ -940,6 +1005,11 @@ video {
 .hover\:text-sky-500:hover {
   --tw-text-opacity: 1;
   color: rgb(14 165 233 / var(--tw-text-opacity));
+}
+
+.hover\:text-sky-600:hover {
+  --tw-text-opacity: 1;
+  color: rgb(2 132 199 / var(--tw-text-opacity));
 }
 
 .hover\:text-white:hover {
@@ -1003,6 +1073,10 @@ video {
     height: 100vh;
   }
 
+  .lg\:w-1\/2 {
+    width: 50%;
+  }
+
   .lg\:w-\[1320px\] {
     width: 1320px;
   }
@@ -1010,14 +1084,6 @@ video {
   .lg\:w-fit {
     width: -moz-fit-content;
     width: fit-content;
-  }
-
-  .lg\:w-3\/4 {
-    width: 75%;
-  }
-
-  .lg\:w-1\/2 {
-    width: 50%;
   }
 
   .lg\:max-w-section-width {
@@ -1037,6 +1103,28 @@ video {
   }
 
   .lg\:px-0 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .xl\:max-w-section-width {
+    max-width: 1632px;
+  }
+
+  .xl\:px-0 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+
+@media (min-width: 1536px) {
+  .\32xl\:max-w-section-width {
+    max-width: 1632px;
+  }
+
+  .\32xl\:px-0 {
     padding-left: 0px;
     padding-right: 0px;
   }
