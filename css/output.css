@@ -806,19 +806,9 @@ video {
   background-attachment: fixed;
 }
 
-.object-contain {
-  -o-object-fit: contain;
-     object-fit: contain;
-}
-
 .object-none {
   -o-object-fit: none;
      object-fit: none;
-}
-
-.object-scale-down {
-  -o-object-fit: scale-down;
-     object-fit: scale-down;
 }
 
 .p-4 {
@@ -869,6 +859,10 @@ video {
   padding-bottom: 2rem;
 }
 
+.pl-6 {
+  padding-left: 1.5rem;
+}
+
 .text-center {
   text-align: center;
 }
@@ -915,6 +909,11 @@ video {
   line-height: 1.75rem;
 }
 
+.text-5xl {
+  font-size: 3rem;
+  line-height: 1;
+}
+
 .font-bold {
   font-weight: 700;
 }
@@ -942,11 +941,6 @@ video {
   color: rgb(56 189 248 / var(--tw-text-opacity));
 }
 
-.text-sky-500 {
-  --tw-text-opacity: 1;
-  color: rgb(14 165 233 / var(--tw-text-opacity));
-}
-
 .text-slate-300 {
   --tw-text-opacity: 1;
   color: rgb(203 213 225 / var(--tw-text-opacity));
@@ -967,14 +961,9 @@ video {
   color: rgb(250 204 21 / var(--tw-text-opacity));
 }
 
-.text-sky-600 {
+.text-sky-500 {
   --tw-text-opacity: 1;
-  color: rgb(2 132 199 / var(--tw-text-opacity));
-}
-
-.text-blue-600 {
-  --tw-text-opacity: 1;
-  color: rgb(37 99 235 / var(--tw-text-opacity));
+  color: rgb(14 165 233 / var(--tw-text-opacity));
 }
 
 .shadow {
@@ -1103,17 +1092,6 @@ video {
   }
 
   .lg\:px-0 {
-    padding-left: 0px;
-    padding-right: 0px;
-  }
-}
-
-@media (min-width: 1280px) {
-  .xl\:max-w-section-width {
-    max-width: 1632px;
-  }
-
-  .xl\:px-0 {
     padding-left: 0px;
     padding-right: 0px;
   }

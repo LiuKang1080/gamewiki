@@ -253,6 +253,7 @@
                 <li><a class="hover:text-sky-600" href="">Dual Swords Martial Arts</a></li>
                 <li><a class="hover:text-sky-600" href="">Dual Sabres Martial Arts</a></li>
                 <li><a class="hover:text-sky-600" href="">Dual Halberds Martial Arts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: credits()">Credits</a></li>
             </ol>
         </div>
     </section>
@@ -288,7 +289,10 @@
                     </th>
                     <th>
                         <div class="flex items-center gap-2">
-                            <span>Spirit Cost</span>
+                            <div class="flex flex-col justify-center">
+                                <span>Spirit Cost</span>
+                                <img class="object-none" src="./img/spirit_cost_logo.png" alt="">
+                            </div>
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
                                 <path fill-rule="evenodd" d="M11.5 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L11 2.707V14.5a.5.5 0 0 0 .5.5zm-7-14a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L4 13.293V1.5a.5.5 0 0 1 .5-.5z"/>
                             </svg>
@@ -323,11 +327,28 @@
     </section>
 
 
+    <!-- ========== ========== ==========
+    Credits
+    ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full px-4 2xl:px-0 flex flex-col items-start gap-4">
+            <h1 id="credits" class="text-yellow-400 text-4xl">Credits:</h1>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+            
+            <div class="flex flex-col gap-2 text-slate-300 text-xl">
+                <span>LiuKang1080, LOLSAN</span>
+                <span>Link to the Martial Arts google doc: <a class="text-sky-500 font-bold" 
+                    href="https://docs.google.com/spreadsheets/d/1b4IWj0avgNtueRyFFWa_vwOj1JxX93pHqDQEJcJ2Vgw/edit#gid=0" 
+                    target="_blank" rel="noopener noreferrer">here</a></span>
+            </div>
+        </div>
+    </section>
 
 
-
-
-
+    <!-- ========== ========== ==========
+    Back to top button
+    ========== ========== ========== -->
+    <a id="back-to-top-button" href="#">Top</a>
 
 
     <!-- ========== ========== ==========
@@ -336,12 +357,13 @@
     <!-- FlowBite JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>
 
-    <!-- ==========
-    Local JavaScript
-    ========== -->
     <!-- Navbar JS -->
-    <script src="https://liukang1080.github.io/gamewiki/js/navbar.js" type="text/javascript" defer></script>
+    <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/js/navbar.js" defer></script>
     <!-- <script src="../../js/navbar.js" type="text/javascript" defer></script> -->
+
+    <!-- local JavaScript -->
+    <!-- <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/wolong/combat/martial_arts/js/martial_arts.js" defer></script> -->
+    <script type="text/javascript" src="./js/martial_arts.js" defer></script>
 
 </body>
 </html>
