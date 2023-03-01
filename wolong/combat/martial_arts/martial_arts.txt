@@ -4,13 +4,13 @@ Martial Arts List:
 
 
 Straight Sabre:
-    - Drifting Cloud [done]
-    - Gouging Star [done]
-    - Ill Wind [done]
-    - Meteor Shower [done]
-    - Meteoric Strike [done]
+    - [done] Drifting Cloud
+    - [done] [done] Gouging Star
+    - [done] Ill Wind
+    - [done] [done] Meteor Shower
+    - [done] [done] Meteoric Strike
     - Moon Break
-    - Star Fall [done]
+    - [done] [done] Star Fall
     - Swift Lightning 
     - Whirlwind Advance
 
