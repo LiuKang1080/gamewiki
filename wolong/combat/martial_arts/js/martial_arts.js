@@ -6,6 +6,11 @@
 Table of Contents JavaScript 
 ========== ========== ========== ========== ==========
 */
+function straight_sabre() {
+    let element = document.getElementById("straight_sabre");
+    element.scrollIntoView();
+}
+
 function credits() {
     let element = document.getElementById("credits");
     element.scrollIntoView();
