@@ -757,6 +757,10 @@ video {
   border-color: rgb(28 25 23 / var(--tw-border-opacity));
 }
 
+.bg-dark-gray {
+  background-color: #625d5d57;
+}
+
 .bg-dark-peach {
   --tw-bg-opacity: 1;
   background-color: rgb(157 122 70 / var(--tw-bg-opacity));
@@ -846,6 +850,11 @@ video {
 .py-2 {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
+}
+
+.py-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .py-6 {
@@ -966,6 +975,10 @@ video {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.even\:bg-dark-gray-2:nth-child(even) {
+  background-color: #625d5d99;
+}
+
 .hover\:bg-gray-600:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(75 85 99 / var(--tw-bg-opacity));
@@ -1084,6 +1097,11 @@ video {
   .lg\:px-0 {
     padding-left: 0px;
     padding-right: 0px;
+  }
+
+  .lg\:px-16 {
+    padding-left: 4rem;
+    padding-right: 4rem;
   }
 }
 

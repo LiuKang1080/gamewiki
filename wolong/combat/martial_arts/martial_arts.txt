@@ -27,13 +27,13 @@ Sword:
 
 
 Curved Sabre:
-    - Drifting Cloud
-    - Gouging Star
-    - Increscent Slash
-    - Looming Cloud
-    - Meteoric Strike
-    - Star Fall
-    - Whirlwind Advance
+    - [done] [done] Drifting Cloud
+    - [done] [done] Gouging Star
+    - [done] [done] Increscent Slash
+    - [done] [done] Looming Cloud
+    - [done] [done] Meteoric Strike
+    - [done] [done] Star Fall
+    - [done] [done] Whirlwind Advance
 
 
 Glaive:

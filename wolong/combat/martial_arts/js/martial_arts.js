@@ -16,6 +16,10 @@ function sword() {
     element.scrollIntoView();
 }
 
+function curved_sabre() {
+    let element = document.getElementById("curved_sabre");
+    element.scrollIntoView();
+}
 
 function credits() {
     let element = document.getElementById("credits");
