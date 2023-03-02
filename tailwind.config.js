@@ -59,7 +59,8 @@ module.exports = {
 			========== */ 
 			fontFamily: {
 				asul: "'Asul', sans-serif;",
-				bellefair: "'Bellefair', serif;"
+				bellefair: "'Bellefair', serif;",
+				tinos: "'Tinos', serif;"
 			},
 
 			/* ==========
