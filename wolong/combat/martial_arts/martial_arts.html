@@ -249,16 +249,16 @@
                 <li><a class="hover:text-sky-600" href="javascript: straight_sabre()">Straight Sabre Martial Arts</a></li>
                 <li><a class="hover:text-sky-600" href="javascript: sword()">Sword Martial Arts</a></li>
                 <li><a class="hover:text-sky-600" href="javascript: curved_sabre()">Curved Sabre Martial Arts</a></li>
-                <li><a class="hover:text-sky-600" href="javascript: ">Glaive Martial Arts</a></li>
-                <li><a class="hover:text-sky-600" href="javascript: ">Halberd Martial Arts</a></li>
-                <li><a class="hover:text-sky-600" href="javascript: ">Staff Martial Arts</a></li>
-                <li><a class="hover:text-sky-600" href="javascript: ">Hammer Martial Arts</a></li>
-                <li><a class="hover:text-sky-600" href="javascript: ">Poleaxe Martial Arts</a></li>
-                <li><a class="hover:text-sky-600" href="javascript: ">Spear Martial Arts</a></li>
-                <li><a class="hover:text-sky-600" href="javascript: ">Slashing Spear Martial Arts</a></li>
-                <li><a class="hover:text-sky-600" href="javascript: ">Dual Swords Martial Arts</a></li>
-                <li><a class="hover:text-sky-600" href="javascript: ">Dual Sabres Martial Arts</a></li>
-                <li><a class="hover:text-sky-600" href="javascript: ">Dual Halberds Martial Arts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: glaive()">Glaive Martial Arts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: halberd()">Halberd Martial Arts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: staff()">Staff Martial Arts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: hammer()">Hammer Martial Arts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: poleaxe()">Poleaxe Martial Arts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: spear()">Spear Martial Arts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: slashing_spear()">Slashing Spear Martial Arts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: dual_swords()">Dual Swords Martial Arts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: dual_sabres()">Dual Sabres Martial Arts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: dual_halberds()">Dual Halberds Martial Arts</a></li>
                 <li><a class="hover:text-sky-600" href="javascript: credits()">Credits</a></li>
             </ol>
         </div>
@@ -668,7 +668,371 @@
     <!-- ========== ========== ==========
     Glaive Martial Arts
     ========== ========== ========== -->
+    <section id="glaive" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded
+            2xl:max-w-section-width lg:px-16">
 
+            <!-- ==========
+            section header
+            ========== -->
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Glaive Martial Arts</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <!-- ==========
+            Table
+            ========== -->
+            <table id="glaive_table" class="bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th onclick="sort_table(0, this)">
+                        <div class="flex items-center gap-2">
+                            <span>Martial Art</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M11.5 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L11 2.707V14.5a.5.5 0 0 0 .5.5zm-7-14a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L4 13.293V1.5a.5.5 0 0 1 .5-.5z"/>
+                            </svg>
+                        </div>
+                    </th>
+                    <th onclick="sort_table(1, this)">
+                        <div class="flex items-center gap-2">
+                            <div class="flex flex-col justify-center">
+                                <span>Spirit Cost</span>
+                                <img class="object-none" src="./img/spirit_cost_logo.png" alt="">
+                            </div>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M11.5 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L11 2.707V14.5a.5.5 0 0 0 .5.5zm-7-14a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L4 13.293V1.5a.5.5 0 0 1 .5-.5z"/>
+                            </svg>
+                        </div>
+                    </th>
+                    <th>Description</th>
+                </tr>
+
+                <!-- ==========
+                Content
+                ========== -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Antelope Horn</span>
+                        <img class="object-none" src="./img/antelope_horn.png" alt="">
+                    </div></td>
+                    <td>256</td>
+                    <td>
+                        Spin your weapon around while holding down the Arts button. Release the button to then perform one final
+                        attack.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Dragon Flash</span>
+                        <img class="object-none" src="./img/dragon_flash.png" alt="">
+                    </div></td>
+                    <td>296</td>
+                    <td>
+                        Perform a spinning attack to cut down surrounding enemies, then release a powerful forward thrust.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Dragon Slayer</span>
+                        <img class="object-none" src="./img/dragon_slayer.png" alt="">
+                    </div></td>
+                    <td>424</td>
+                    <td>
+                        Leap high and forcefully slash downward.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Dragontail Whip</span>
+                        <img class="object-none" src="./img/dragontail_whip.png" alt="">
+                    </div></td>
+                    <td>256</td>
+                    <td>
+                        Spin your weapon, attacking your surroundings.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Horn Strike</span>
+                        <img class="object-none" src="./img/horn_strike.png" alt="">
+                    </div></td>
+                    <td>424</td>
+                    <td>
+                        Stab and enemy's feet, then pull your weapon upward.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Iron Calf</span>
+                        <img class="object-none" src="./img/iron_calf.png" alt="">
+                    </div></td>
+                    <td>760</td>
+                    <td>
+                        Raise your weapon up high, then forcefully swing it to the ground.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Marching Dragon</span>
+                        <img class="object-none" src="./img/marching_dragon.png" alt="">
+                    </div></td>
+                    <td>256</td>
+                    <td>
+                        Advance forward while sweeping the enemies in front of you, then finish with a powerful blow. 
+                        [Additional Input: After] Press the Arts button during the sweep attack to immediately execute the
+                        finishing blow.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Phoenix Wings</span>
+                        <img class="object-none" src="./img/phoenix_wings.png" alt="">
+                    </div></td>
+                    <td>376</td>
+                    <td>
+                        Slice through the ground upward, causing an energy wave to fly forward.
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ==========
+    Halberd Martial Arts
+    ========== ========== ========== -->
+    <section id="halberd" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded
+            2xl:max-w-section-width lg:px-16">
+
+            <!-- ==========
+            section header
+            ========== -->
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Halberd Martial Arts</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <!-- ==========
+            Table
+            ========== -->
+            <table id="halberd_table" class="bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th onclick="sort_table(0, this)">
+                        <div class="flex items-center gap-2">
+                            <span>Martial Art</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M11.5 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L11 2.707V14.5a.5.5 0 0 0 .5.5zm-7-14a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L4 13.293V1.5a.5.5 0 0 1 .5-.5z"/>
+                            </svg>
+                        </div>
+                    </th>
+                    <th onclick="sort_table(1, this)">
+                        <div class="flex items-center gap-2">
+                            <div class="flex flex-col justify-center">
+                                <span>Spirit Cost</span>
+                                <img class="object-none" src="./img/spirit_cost_logo.png" alt="">
+                            </div>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M11.5 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L11 2.707V14.5a.5.5 0 0 0 .5.5zm-7-14a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L4 13.293V1.5a.5.5 0 0 1 .5-.5z"/>
+                            </svg>
+                        </div>
+                    </th>
+                    <th>Description</th>
+                </tr>
+
+                <!-- ==========
+                Content
+                ========== -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Dragon Flash</span>
+                        <img class="object-none" src="./img/dragon_flash.png" alt="">
+                    </div></td>
+                    <td>296</td>
+                    <td>
+                        Perform a spinning attack to cut down surrounding enemies, then release a powerful forward thrust.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Dragon Slayer</span>
+                        <img class="object-none" src="./img/dragon_slayer.png" alt="">
+                    </div></td>
+                    <td>424</td>
+                    <td>
+                        Leap high and forcefully slash downward.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Dragontail Whip</span>
+                        <img class="object-none" src="./img/dragontail_whip.png" alt="">
+                    </div></td>
+                    <td>256</td>
+                    <td>
+                        Spin your weapon, attacking your surroundings.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Horn Strike</span>
+                        <img class="object-none" src="./img/horn_strike.png" alt="">
+                    </div></td>
+                    <td>424</td>
+                    <td>
+                        Stab and enemy's feet, then pull your weapon upward.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Iron Calf</span>
+                        <img class="object-none" src="./img/iron_calf.png" alt="">
+                    </div></td>
+                    <td>760</td>
+                    <td>
+                        Raise your weapon up high, then forcefully swing it to the ground.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Marching Dragon</span>
+                        <img class="object-none" src="./img/marching_dragon.png" alt="">
+                    </div></td>
+                    <td>256</td>
+                    <td>
+                        Advance forward while sweeping the enemies in front of you, then finish with a powerful blow. 
+                        [Additional Input: After] Press the Arts button during the sweep attack to immediately execute the
+                        finishing blow.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Wyvern Claw</span>
+                        <img class="object-none" src="./img/wyvern_claw.png" alt="">
+                    </div></td>
+                    <td>424</td>
+                    <td>
+                        Catch an enemy with your weapon's tip and pull them towards you.
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ==========
+    Staff Martial Arts
+    ========== ========== ========== -->
+    <section id="staff" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded
+            2xl:max-w-section-width lg:px-16">
+
+            <!-- ==========
+            section header
+            ========== -->
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Staff Martial Arts</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <!-- ==========
+            Table
+            ========== -->
+            <table id="staff_table" class="bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th onclick="sort_table(0, this)">
+                        <div class="flex items-center gap-2">
+                            <span>Martial Art</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M11.5 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L11 2.707V14.5a.5.5 0 0 0 .5.5zm-7-14a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L4 13.293V1.5a.5.5 0 0 1 .5-.5z"/>
+                            </svg>
+                        </div>
+                    </th>
+                    <th onclick="sort_table(1, this)">
+                        <div class="flex items-center gap-2">
+                            <div class="flex flex-col justify-center">
+                                <span>Spirit Cost</span>
+                                <img class="object-none" src="./img/spirit_cost_logo.png" alt="">
+                            </div>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M11.5 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L11 2.707V14.5a.5.5 0 0 0 .5.5zm-7-14a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L4 13.293V1.5a.5.5 0 0 1 .5-.5z"/>
+                            </svg>
+                        </div>
+                    </th>
+                    <th>Description</th>
+                </tr>
+
+                <!-- ==========
+                Content
+                ========== -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Antelope Horn</span>
+                        <img class="object-none" src="./img/antelope_horn.png" alt="">
+                    </div></td>
+                    <td>256</td>
+                    <td>
+                        Spin your weapon around while holding down the Arts button. Release the button to then perform one final
+                        attack.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Dragon Flash</span>
+                        <img class="object-none" src="./img/dragon_flash.png" alt="">
+                    </div></td>
+                    <td>296</td>
+                    <td>
+                        Perform a spinning attack to cut down surrounding enemies, then release a powerful forward thrust.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Dragontail Whip</span>
+                        <img class="object-none" src="./img/dragontail_whip.png" alt="">
+                    </div></td>
+                    <td>256</td>
+                    <td>
+                        Spin your weapon, attacking your surroundings.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Falcon Strike</span>
+                        <img class="object-none" src="./img/falcon_strike.png" alt="">
+                    </div></td>
+                    <td>424</td>
+                    <td>
+                        Jump up while launching an enemy, then bring your weapon back down with a thud.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Goshawk's Dance</span>
+                        <img class="object-none" src="./img/goshawks_dance.png" alt="">
+                    </div></td>
+                    <td>256</td>
+                    <td>
+                        Thrust your weapon into the ground and jump up, performing a spinning slice. [Additional Input: Turn]
+                        Moving while performing the technique will cause you to jump in that direction.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Monkey's Wisdom</span>
+                        <img class="object-none" src="./img/monkeys_wisdom.png" alt="">
+                    </div></td>
+                    <td>256</td>
+                    <td>
+                        Spin your body around, attacking your surroundings. Allows you to move while spinning.
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </section>
 
 
     <!-- ========== ========== ==========

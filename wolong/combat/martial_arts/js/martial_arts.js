@@ -21,6 +21,56 @@ function curved_sabre() {
     element.scrollIntoView();
 }
 
+function glaive() {
+    let element = document.getElementById("glaive");
+    element.scrollIntoView();
+}
+
+function halberd() {
+    let element = document.getElementById("halberd");
+    element.scrollIntoView();
+}
+
+function staff() {
+    let element = document.getElementById("staff");
+    element.scrollIntoView();
+}
+
+function hammer() {
+    let element = document.getElementById("hammer");
+    element.scrollIntoView();
+}
+
+function poleaxe() {
+    let element = document.getElementById("poleaxe");
+    element.scrollIntoView();
+}
+
+function spear() {
+    let element = document.getElementById("spear");
+    element.scrollIntoView();
+}
+
+function slashing_spear() {
+    let element = document.getElementById("slashing_spear");
+    element.scrollIntoView();
+}
+
+function dual_swords() {
+    let element = document.getElementById("dual_swords");
+    element.scrollIntoView();
+}
+
+function dual_sabres() {
+    let element = document.getElementById("dual_sabres");
+    element.scrollIntoView();
+}
+
+function dual_halberds() {
+    let element = document.getElementById("dual_halberds");
+    element.scrollIntoView();
+}
+
 function credits() {
     let element = document.getElementById("credits");
     element.scrollIntoView();

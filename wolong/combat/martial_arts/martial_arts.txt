@@ -37,33 +37,33 @@ Curved Sabre:
 
 
 Glaive:
-    - Antelope Horn
-    - Dragon Flash
-    - Dragon Slayer
-    - Dragontail Whip
-    - Horn Strike
-    - Iron Calf
-    - Marching Dragon
-    - Phoenix Wings
+    - [done] [done] Antelope Horn
+    - [done] [done] Dragon Flash
+    - [done] [done] Dragon Slayer
+    - [done] [done] Dragontail Whip
+    - [done] [done] Horn Strike
+    - [done] [done] Iron Calf
+    - [done] [done] Marching Dragon
+    - [done] [done] Phoenix Wings
 
 
 Halberd:
-    - Dragon Flash
-    - Dragon Slayer
-    - Dragontail Whip
-    - Horn Strike
-    - Iron Calf
-    - Marching Dragon
-    - Wyvern Claw
+    - [done] [done] Dragon Flash
+    - [done] [done] Dragon Slayer
+    - [done] [done] Dragontail Whip
+    - [done] [done] Horn Strike
+    - [done] [done] Iron Calf
+    - [done] [done] Marching Dragon
+    - [done] [done] Wyvern Claw
 
 
 Staff:
-    - Antelope Horn
-    - Dragon Flash
-    - Dragontail Whip
-    - Falcon Strike
-    - Goshawk's Dance
-    - Monkey's Wisdom
+    - [done] [done] Antelope Horn
+    - [done] [done] Dragon Flash
+    - [done] [done] Dragontail Whip
+    - [done] [done] Falcon Strike
+    - [done] [done] Goshawk's Dance
+    - [done] [done] Monkey's Wisdom
     - Plummeting Ape
     - Stag Hunter
     - Tigertail Lash
