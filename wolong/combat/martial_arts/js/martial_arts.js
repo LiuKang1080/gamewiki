@@ -88,7 +88,7 @@ function sort_table(n, event) {
     let table, rows, switching;
     let shouldSwitch, dir;
     let switchcount = 0;
-    let current_table_id
+    let current_table_id;
 
     /*
         - Get the element that clicked, it will be a <th>. 

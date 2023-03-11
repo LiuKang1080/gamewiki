@@ -1,0 +1,54 @@
+==========
+TEMPLATE ()
+==========
+    - Recommended level: 
+    - Battle Flags: 
+    - Marking Flags: 
+    - Number of Shitieshou:
+    - Dragon Vein Essence:
+    - Dragon Vein Crystals:
+    - Bosses: 
+    - Divine Beasts Unlocked:
+    - Mission rewards upon first completion:
+    - Mission rewards upon subsequent completions:
+
+========== ========== ==========
+Part 1: Encounter
+========== ========== ==========
+    ==========
+    Village of Calamity (Main Battlefield)
+    ==========
+        - Recommended Level: 1
+        - Battle Flags: 3
+        - Marking Flags: 3
+        - Number of Shitieshou: 0
+        - Dragon Vein Essence: 0
+        - Dragon Vein Crystals: 0
+        - Bosses: Zhang Liang
+        - Divine Beasts Unlocked: None
+        - Mission Rewards:
+            - None
+        - Mission rewards upon subsequent completions:
+            - None
+
+
+========== ========== ==========
+Part 2: Delusion
+========== ========== ==========
+    ==========
+    Two Chivalrous Heroes (Main Battlefield)
+    ==========
+        - Recommended level: 5
+        - Battle Flags: 7
+        - Marking Flags: 5
+        - Dragon Vein Crystals: 1
+        - Dragon Vein Essence:
+        - Number of Shitieshou: 0
+        - Bosses: Zhuyan, 
+        - Divine Beasts Unlocked: Qilin (Defeat Zhuyan)
+        - Mission rewards upon first completion:
+            - X3 Rank 1 Leather
+            - X1 Yellow Turban Soldier Cap
+            - X1 Yellow Turban Soldier Armor
+            - X1 Iron Sword
+        - Mission rewards upon subsequent completions:
