@@ -5,12 +5,12 @@ TEMPLATE ()
     - Battle Flags: 
     - Marking Flags: 
     - Number of Shitieshou:
-    - Dragon Vein Essence:
     - Dragon Vein Crystals:
+    - Dragon Vein Essence:
     - Bosses: 
     - Divine Beasts Unlocked:
-    - Mission rewards upon first completion:
-    - Mission rewards upon subsequent completions:
+    - Mission Rewards:
+
 
 ========== ========== ==========
 Part 1: Encounter
@@ -22,13 +22,11 @@ Part 1: Encounter
         - Battle Flags: 3
         - Marking Flags: 3
         - Number of Shitieshou: 0
-        - Dragon Vein Essence: 0
         - Dragon Vein Crystals: 0
+        - Dragon Vein Essence: 0
         - Bosses: Zhang Liang
         - Divine Beasts Unlocked: None
         - Mission Rewards:
-            - None
-        - Mission rewards upon subsequent completions:
             - None
 
 
@@ -44,11 +42,54 @@ Part 2: Delusion
         - Dragon Vein Crystals: 1
         - Dragon Vein Essence:
         - Number of Shitieshou: 0
-        - Bosses: Zhuyan, 
+        - Bosses: 
+            - Zhuyan
+            - Fengxi
         - Divine Beasts Unlocked: Qilin (Defeat Zhuyan)
-        - Mission rewards upon first completion:
+        - Mission Rewards:
             - X3 Rank 1 Leather
             - X1 Yellow Turban Soldier Cap
             - X1 Yellow Turban Soldier Armor
             - X1 Iron Sword
-        - Mission rewards upon subsequent completions:
+
+    ==========
+    The Yellow Heaven Burns (Sub Battlefield)
+    ==========
+        - Recommended level: 10
+        - Battle Flags: 2
+        - Marking Flags: 7
+        - Number of Shitieshou: 0
+        - Dragon Vein Crystals: 0
+        - Dragon Vein Essence: 1
+        - Bosses: Bo Cai (miniboss)
+        - Divine Beasts Unlocked: None
+        - Mission Rewards:
+            - X3 Rank 1 Leather
+            - X1 Yellow Turban Bandit Braces
+            - X1 Yellow Turban Bandit Footwear
+            - X1 Polearm Podao
+
+    ==========
+    The Valley of Crying Wraiths (Main Battlefield)
+    ==========
+        - Recommended level: 11
+        - Battle Flags: 7
+        - Marking Flags: 5
+        - Number of Shitieshou: 
+        - Dragon Vein Crystals: 
+        - Dragon Vein Essence: 
+        - Bosses: Zhang Bao
+        - Divine Beasts Unlocked:
+        - Mission Rewards:
+            - X4 Rank 1 Steel
+            - X3 Rank 2 Leather
+            - X1 Yellow Turban Champion Helmet
+            - X1 Yellow Yurban Champion Armor
+
+
+
+
+
+
+
+
