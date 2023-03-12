@@ -45,7 +45,8 @@ Part 2: Delusion
         - Bosses: 
             - Zhuyan
             - Fengxi
-        - Divine Beasts Unlocked: Qilin (Defeat Zhuyan)
+        - Divine Beasts Unlocked: 
+            - Qilin (Defeat Zhuyan)
         - Mission Rewards:
             - X3 Rank 1 Leather
             - X1 Yellow Turban Soldier Cap
@@ -61,8 +62,10 @@ Part 2: Delusion
         - Number of Shitieshou: 0
         - Dragon Vein Crystals: 0
         - Dragon Vein Essence: 1
-        - Bosses: Bo Cai (miniboss)
-        - Divine Beasts Unlocked: None
+        - Bosses: 
+            - Bo Cai (miniboss)
+        - Divine Beasts Unlocked: 
+            - None
         - Mission Rewards:
             - X3 Rank 1 Leather
             - X1 Yellow Turban Bandit Braces
@@ -75,19 +78,37 @@ Part 2: Delusion
         - Recommended level: 11
         - Battle Flags: 7
         - Marking Flags: 5
-        - Number of Shitieshou: 
-        - Dragon Vein Crystals: 
-        - Dragon Vein Essence: 
-        - Bosses: Zhang Bao
-        - Divine Beasts Unlocked:
+        - Number of Shitieshou: 1
+        - Dragon Vein Crystals: 0
+        - Dragon Vein Essence: 1
+        - Bosses: 
+            - Zhang Bao
+        - Divine Beasts Unlocked: 
+            - Qinglong (Defeat Zhang Bao)
         - Mission Rewards:
             - X4 Rank 1 Steel
             - X3 Rank 2 Leather
             - X1 Yellow Turban Champion Helmet
             - X1 Yellow Yurban Champion Armor
 
-
-
+    ==========
+    Tale of Guiguzi ()
+    ==========
+        - Recommended level: 13
+        - Battle Flags: 1 (auto)
+        - Marking Flags: 0
+        - Number of Shitieshou: 0
+        - Dragon Vein Crystals: 0
+        - Dragon Vein Essence: 0
+        - Bosses: 
+            - Zhuyan
+        - Divine Beasts Unlocked: 
+            - None
+        - Mission Rewards:
+            - X2 Elixir
+            - X3 Rank 2 Steel
+            - X1 Witch Ritual Robe
+            - X1 Witch Armlets
 
 
 
