@@ -4,12 +4,35 @@ TEMPLATE ()
     - Recommended level: 
     - Battle Flags: 
     - Marking Flags: 
-    - Number of Shitieshou:
-    - Dragon Vein Crystals:
-    - Dragon Vein Essence:
+    - Number of Shitieshou: 
+    - Dragon Vein Crystals: 
+    - Dragon Vein Essence: 
     - Bosses: 
-    - Divine Beasts Unlocked:
-    - Mission Rewards:
+        - 
+    - Divine Beasts Unlocked: 
+        - 
+    - Mission Rewards: 
+        - 
+
+
+========== ========== ========== ========== ==========
+Hidden Village of Mt.Tianzhushan
+========== ========== ========== ========== ==========
+    ==========
+    Wizardry Spell Mastery (Sub Battlefield)
+    ==========
+        - Recommended level: 32
+        - Battle Flags: 1 (auto)
+        - Marking Flags: 0
+        - Number of Shitieshou: 0
+        - Dragon Vein Crystals: 0
+        - Dragon Vein Essence: 0
+        - Bosses: 
+            - 
+        - Divine Beasts Unlocked: 
+            - 
+        - Mission Rewards: 
+            - Unlocks a tier of Wizardry Spells
 
 
 ========== ========== ========== ========== ==========
@@ -24,9 +47,11 @@ Part 1: Encounter
         - Number of Shitieshou: 0
         - Dragon Vein Crystals: 0
         - Dragon Vein Essence: 0
-        - Bosses: Zhang Liang
-        - Divine Beasts Unlocked: None
-        - Mission Rewards:
+        - Bosses: 
+            - Zhang Liang
+        - Divine Beasts Unlocked: 
+            - None
+        - Mission Rewards: 
             - None
 
 
@@ -47,7 +72,7 @@ Part 2: Delusion
             - Fengxi
         - Divine Beasts Unlocked: 
             - Qilin (Defeat Zhuyan)
-        - Mission Rewards:
+        - Mission Rewards: 
             - X3 Rank 1 Leather
             - X1 Yellow Turban Soldier Cap
             - X1 Yellow Turban Soldier Armor
@@ -66,7 +91,7 @@ Part 2: Delusion
             - Bo Cai (miniboss)
         - Divine Beasts Unlocked: 
             - None
-        - Mission Rewards:
+        - Mission Rewards: 
             - X3 Rank 1 Leather
             - X1 Yellow Turban Bandit Braces
             - X1 Yellow Turban Bandit Footwear
@@ -85,7 +110,7 @@ Part 2: Delusion
             - Zhang Bao
         - Divine Beasts Unlocked: 
             - Qinglong (Defeat Zhang Bao)
-        - Mission Rewards:
+        - Mission Rewards: 
             - X4 Rank 1 Steel
             - X3 Rank 2 Leather
             - X1 Yellow Turban Champion Helmet
@@ -104,7 +129,7 @@ Part 2: Delusion
             - Zhuyan
         - Divine Beasts Unlocked: 
             - None
-        - Mission Rewards:
+        - Mission Rewards: 
             - X2 Elixir
             - X3 Rank 2 Steel
             - X1 Witch Ritual Robe
@@ -121,9 +146,9 @@ Part 2: Delusion
         - Dragon Vein Essence: 0
         - Bosses: 
             - Zhang Jiao
-        - Divine Beasts Unlocked:
+        - Divine Beasts Unlocked: 
             - Baihu (Defeat Zhang Jiao)
-        - Mission Rewards:
+        - Mission Rewards: 
             - X2 Rank 2 Steel
             - X1 Yellow Turban Commander Helmet
             - X1 Yellow Turban Commander Armor
@@ -140,9 +165,9 @@ Part 2: Delusion
         - Dragon Vein Essence: 0
         - Bosses: 
             - Zhang Yan
-        - Divine Beasts Unlocked:
+        - Divine Beasts Unlocked: 
             - None
-        - Mission Rewards:
+        - Mission Rewards: 
             - X3 Rank 3 Leather
             - X1 Yellow Turban Commander Gauntlets
             - X1 Yellow Turban Champion Footwear
@@ -158,18 +183,76 @@ Part 3: Corruption
         - Recommended level: 25
         - Battle Flags: 5
         - Marking Flags: 5
-        - Number of Shitieshou: 
-        - Dragon Vein Crystals:
-        - Dragon Vein Essence:
-        - Bosses:
-            - 
-        - Divine Beasts Unlocked:
-            - 
-        - Mission Rewards:
+        - Number of Shitieshou: 1
+        - Dragon Vein Crystals: 0
+        - Dragon Vein Essence: 1
+        - Bosses: 
+            - Aoye
+        - Divine Beasts Unlocked: 
+            - Baize (Defeat Aoye)
+        - Mission Rewards: 
             - X1 Talismanic Water
             - X3 Rank 3 Steel
             - X1 Iron Spetum
             - X1 Incense Container
+
+    ==========
+    Shadow of the Sacred Mountain (Sub Battlefield)
+    ==========
+        - Recommended level: 27
+        - Battle Flags: 3
+        - Marking Flags: 2
+        - Number of Shitieshou: 1
+        - Dragon Vein Crystals: 0
+        - Dragon Vein Essence: 0
+        - Bosses: 
+            - Suanyu
+        - Divine Beasts Unlocked: 
+            - None
+        - Mission Rewards: 
+            - X1 Oil of Awakening
+            - X1 Bear Gall
+            - X3 Rank 3 Leather
+            - X1 Wooden Poled Spear
+
+    ==========
+    Fall of the Corrupted Eunuch (Main Battlefield)
+    ==========
+        - Recommended level: 29
+        - Battle Flags: 7
+        - Marking Flags: 6
+        - Number of Shitieshou: 1
+        - Dragon Vein Crystals: 1
+        - Dragon Vein Essence: 1
+        - Bosses: 
+            - Baishe
+            - Zhang Rang
+        - Divine Beasts Unlocked: 
+            - Zhuque (Defeat Zhang Rang)
+        - Mission Rewards: 
+            - X3 Small Genuine Qi Clot
+            - X1 Han Soldier Cap
+            - X1 Han Soldier Armor
+            - X1 Hundred-Forged Sabres
+
+    ==========
+    Escape From the Capital (Sub Battlefield)
+    ==========
+        - Recommended level: 33
+        - Battle Flags: 3
+        - Marking Flags: 5
+        - Number of Shitieshou: 1
+        - Dragon Vein Crystals: 0
+        - Dragon Vein Essence: 0
+        - Bosses: 
+            - None
+        - Divine Beasts Unlocked: 
+            - None
+        - Mission Rewards: 
+            - X1 Five Minerals Powder
+            - X3 Rank 4 Leather
+            - X1 Han Soldier Footwear
+            - X1 Han Soldier Bracers
 
 
 
