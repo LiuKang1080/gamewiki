@@ -12,9 +12,9 @@ TEMPLATE ()
     - Mission Rewards:
 
 
-========== ========== ==========
+========== ========== ========== ========== ==========
 Part 1: Encounter
-========== ========== ==========
+========== ========== ========== ========== ==========
     ==========
     Village of Calamity (Main Battlefield)
     ==========
@@ -30,9 +30,9 @@ Part 1: Encounter
             - None
 
 
-========== ========== ==========
+========== ========== ========== ========== ==========
 Part 2: Delusion
-========== ========== ==========
+========== ========== ========== ========== ==========
     ==========
     Two Chivalrous Heroes (Main Battlefield)
     ==========
@@ -92,7 +92,7 @@ Part 2: Delusion
             - X1 Yellow Yurban Champion Armor
 
     ==========
-    Tale of Guiguzi ()
+    Tale of Guiguzi (Sub Battlefield)
     ==========
         - Recommended level: 13
         - Battle Flags: 1 (auto)
@@ -110,7 +110,66 @@ Part 2: Delusion
             - X1 Witch Ritual Robe
             - X1 Witch Armlets
 
+    ==========
+    The Demon Fort of the Yellow Heaven (Main Battlefield)
+    ==========
+        - Recommended level: 17
+        - Battle Flags: 6
+        - Marking Flags: 7
+        - Number of Shitieshou: 1
+        - Dragon Vein Crystals: 1
+        - Dragon Vein Essence: 0
+        - Bosses: 
+            - Zhang Jiao
+        - Divine Beasts Unlocked:
+            - Baihu (Defeat Zhang Jiao)
+        - Mission Rewards:
+            - X2 Rank 2 Steel
+            - X1 Yellow Turban Commander Helmet
+            - X1 Yellow Turban Commander Armor
+            - X1 Chivalrous Swordsman Dual Swords
 
+    ==========
+    The Flying Swallow of Heishan (Sub Battlefield)
+    ==========
+        - Recommended level: 20
+        - Battle Flags: 1 (auto)
+        - Marking Flags: 0
+        - Number of Shitieshou: 1
+        - Dragon Vein Crystals: 0
+        - Dragon Vein Essence: 0
+        - Bosses: 
+            - Zhang Yan
+        - Divine Beasts Unlocked:
+            - None
+        - Mission Rewards:
+            - X3 Rank 3 Leather
+            - X1 Yellow Turban Commander Gauntlets
+            - X1 Yellow Turban Champion Footwear
+            - X1 Witch Mask
+
+
+========== ========== ========== ========== ==========
+Part 3: Corruption
+========== ========== ========== ========== ==========
+    ==========
+    In Search of the Immortal Wizard (Main Battlefield)
+    ==========
+        - Recommended level: 25
+        - Battle Flags: 5
+        - Marking Flags: 5
+        - Number of Shitieshou: 
+        - Dragon Vein Crystals:
+        - Dragon Vein Essence:
+        - Bosses:
+            - 
+        - Divine Beasts Unlocked:
+            - 
+        - Mission Rewards:
+            - X1 Talismanic Water
+            - X3 Rank 3 Steel
+            - X1 Iron Spetum
+            - X1 Incense Container
 
 
 

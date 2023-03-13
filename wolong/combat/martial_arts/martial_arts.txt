@@ -25,10 +25,14 @@ Sword:
     - [done] [done] Meteoric Strike
     - [done] [done] Whirlwind Advance
 
+    ========== Boss Skills ==========
+    - Sword of Chaos (Boss Skill)
+
 
 Curved Sabre:
     - [done] [done] Drifting Cloud
     - [done] [done] Gouging Star
+    - Ill Wind
     - [done] [done] Increscent Slash
     - [done] [done] Looming Cloud
     - [done] [done] Meteoric Strike
@@ -68,6 +72,8 @@ Staff:
     - Stag Hunter
     - Tigertail Lash
 
+    ========== Boss Skills ==========
+    - Fanning Peacock (Boss Skill)
 
 Hammer:
     - Heaven Divide
@@ -84,10 +90,16 @@ Hammer:
 
 
 Poleaxe:
-    -
+    - Impregnable Keep
+    - Heaven Reversal
+    - Undercurrent Sprint
+    - Sea Split
+    - Rock Crash
+    - 
 
 
 Spear:
+    - Antelope Horn
     - Dragon Flash
     - Dragontail Whip
     - Falcon Strike
@@ -105,6 +117,7 @@ Slashing Spear:
     - Dragon Flash
     - Dragon Slayer
     - Dragontail Whip
+    - Emerging Dragon
     - Falcon Strike
     - Goshawk's Dance
     - Horn Strike
