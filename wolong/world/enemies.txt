@@ -1,0 +1,41 @@
+==========
+TEMPLATE ()
+==========
+    - 
+
+
+========== ========== ========== ========== ==========
+Part 1: Encounter
+========== ========== ========== ========== ==========
+    ==========
+    Village of Calamity (Main Battlefield)
+    ==========
+        - Yellow Turban Bandit (first time)
+        - Changgui (first time)
+        - Demonized Fanatic (first time)
+        - Yellow Turban Commander (first time)
+        - Zhang Liang (first time) (boss)
+
+
+========== ========== ========== ========== ==========
+Part 2: Delusion
+========== ========== ========== ========== ==========
+    ==========
+    Two Chivalrous Heroes (Main Battlefield)
+    ==========
+        - Yellow Turban Soldier
+        - Yellow Turban Bandit
+        - Dog (first time)
+        - Demonized Fanatic
+        - Zhuyan (first time) (boss)
+        - Demonized Soldier (first time)
+        - Demonized Officer (first time)
+        - Fengxi (first time) (boss)
+
+    ==========
+    The Yellow Heaven Burns (Sub Battlefield)
+    ==========
+        - 
+
+
+
