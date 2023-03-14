@@ -5,8 +5,10 @@ TEMPLATE ()
     - Battle Flags: 
     - Marking Flags: 
     - Number of Shitieshou: 
+    - Golden Cicada Shell: 
     - Dragon Vein Crystals: 
     - Dragon Vein Essence: 
+    - Tablets: 
     - Bosses: 
         - 
     - Divine Beasts Unlocked: 
@@ -25,8 +27,10 @@ Hidden Village of Mt.Tianzhushan
         - Battle Flags: 1 (auto)
         - Marking Flags: 0
         - Number of Shitieshou: 0
+        - Golden Cicada Shell: 0
         - Dragon Vein Crystals: 0
         - Dragon Vein Essence: 0
+        - Tablets: 0
         - Bosses: 
             - 
         - Divine Beasts Unlocked: 
@@ -45,8 +49,10 @@ Part 1: Encounter
         - Battle Flags: 3
         - Marking Flags: 3
         - Number of Shitieshou: 0
+        - Golden Cicada Shell: 0
         - Dragon Vein Crystals: 0
         - Dragon Vein Essence: 0
+        - Tablets: 1
         - Bosses: 
             - Zhang Liang
         - Divine Beasts Unlocked: 
@@ -64,9 +70,11 @@ Part 2: Delusion
         - Recommended level: 5
         - Battle Flags: 7
         - Marking Flags: 5
-        - Dragon Vein Crystals: 1
-        - Dragon Vein Essence:
         - Number of Shitieshou: 0
+        - Golden Cicada Shell: 1
+        - Dragon Vein Crystals: 1
+        - Dragon Vein Essence: 0
+        - Tablets: 0
         - Bosses: 
             - Zhuyan
             - Fengxi
@@ -85,8 +93,10 @@ Part 2: Delusion
         - Battle Flags: 2
         - Marking Flags: 7
         - Number of Shitieshou: 0
+        - Golden Cicada Shell: 0 
         - Dragon Vein Crystals: 0
         - Dragon Vein Essence: 1
+        - Tablets: 0
         - Bosses: 
             - Bo Cai (miniboss)
         - Divine Beasts Unlocked: 
@@ -104,8 +114,10 @@ Part 2: Delusion
         - Battle Flags: 7
         - Marking Flags: 5
         - Number of Shitieshou: 1
+        - Golden Cicada Shell: 1
         - Dragon Vein Crystals: 0
         - Dragon Vein Essence: 1
+        - Tablets: 0
         - Bosses: 
             - Zhang Bao
         - Divine Beasts Unlocked: 
@@ -123,8 +135,10 @@ Part 2: Delusion
         - Battle Flags: 1 (auto)
         - Marking Flags: 0
         - Number of Shitieshou: 0
+        - Golden Cicada Shell: 0
         - Dragon Vein Crystals: 0
         - Dragon Vein Essence: 0
+        - Tablets: 0
         - Bosses: 
             - Zhuyan
         - Divine Beasts Unlocked: 
@@ -142,8 +156,10 @@ Part 2: Delusion
         - Battle Flags: 6
         - Marking Flags: 7
         - Number of Shitieshou: 1
+        - Golden Cicada Shell: 1
         - Dragon Vein Crystals: 1
         - Dragon Vein Essence: 0
+        - Tablets: 1
         - Bosses: 
             - Zhang Jiao
         - Divine Beasts Unlocked: 
@@ -161,8 +177,10 @@ Part 2: Delusion
         - Battle Flags: 1 (auto)
         - Marking Flags: 0
         - Number of Shitieshou: 1
+        - Golden Cicada Shell: 0
         - Dragon Vein Crystals: 0
         - Dragon Vein Essence: 0
+        - Tablets: 0
         - Bosses: 
             - Zhang Yan
         - Divine Beasts Unlocked: 
@@ -184,8 +202,10 @@ Part 3: Corruption
         - Battle Flags: 5
         - Marking Flags: 5
         - Number of Shitieshou: 1
+        - Golden Cicada Shell: 1
         - Dragon Vein Crystals: 0
         - Dragon Vein Essence: 1
+        - Tablets: 1
         - Bosses: 
             - Aoye
         - Divine Beasts Unlocked: 
@@ -203,8 +223,10 @@ Part 3: Corruption
         - Battle Flags: 3
         - Marking Flags: 2
         - Number of Shitieshou: 1
+        - Golden Cicada Shell: 0
         - Dragon Vein Crystals: 0
         - Dragon Vein Essence: 0
+        - Tablets: 0
         - Bosses: 
             - Suanyu
         - Divine Beasts Unlocked: 
@@ -222,8 +244,10 @@ Part 3: Corruption
         - Battle Flags: 7
         - Marking Flags: 6
         - Number of Shitieshou: 1
+        - Golden Cicada Shell: 2
         - Dragon Vein Crystals: 1
         - Dragon Vein Essence: 1
+        - Tablets: 2
         - Bosses: 
             - Baishe
             - Zhang Rang
@@ -242,10 +266,13 @@ Part 3: Corruption
         - Battle Flags: 3
         - Marking Flags: 5
         - Number of Shitieshou: 1
+        - Golden Cicada Shell: 0
         - Dragon Vein Crystals: 0
         - Dragon Vein Essence: 0
+        - Tablets: 0
         - Bosses: 
-            - None
+            - Li Jue
+            - Guo Si
         - Divine Beasts Unlocked: 
             - None
         - Mission Rewards: 
