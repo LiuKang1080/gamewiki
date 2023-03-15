@@ -35,7 +35,13 @@ Part 2: Delusion
     ==========
     The Yellow Heaven Burns (Sub Battlefield)
     ==========
-        - 
+        - Yellow Turban Champion
+        - Yellow Turban Bandit
+        - Dog
+        - Changgui
+        - Bo Cai (miniboss) (first time)
+
+    
 
 
 

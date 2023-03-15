@@ -710,6 +710,10 @@ video {
   border-color: rgb(243 244 246 / var(--tw-divide-opacity));
 }
 
+.place-self-start {
+  place-self: start;
+}
+
 .self-end {
   align-self: flex-end;
 }
@@ -920,9 +924,18 @@ video {
   font-style: italic;
 }
 
+.leading-relaxed {
+  line-height: 1.625;
+}
+
 .text-blue-500 {
   --tw-text-opacity: 1;
   color: rgb(59 130 246 / var(--tw-text-opacity));
+}
+
+.text-boss-skill {
+  --tw-text-opacity: 1;
+  color: rgb(220 113 13 / var(--tw-text-opacity));
 }
 
 .text-gray-200 {

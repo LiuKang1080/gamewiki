@@ -34,25 +34,35 @@ module.exports = {
 		"./wolong/*.{html,js}",
 		"./wolong/**/*.{html,js}",
 	],
-	
+
 	theme: {
 		extend: {
 			/* ==========
 			Colors
 			========== */
 			colors: {
+				/* ==========
+				General Colors:
+				========== */
 				'light-gray': '#E4E5EA',
 				'medium-gray': '#333338',
 				'dark-gray': "#625d5d57",
 				'dark-gray-2': "#625d5d99",
-				
+
+				/* ==========
+				Nioh 2:
+				========== */
 				'light-red': '#5f1823',
 				'medium-red': '#48181F',
 				'dark-red': '#30171b',
 
+				/* ==========
+				Wo Long:
+				========== */
 				'light-peach': '#eee3d6',
 				'medium-peach': '#c2955a',
 				'dark-peach': '#9d7a46',
+				'boss-skill': '#dc710d',
 			},
 
 			/* ==========
@@ -62,13 +72,6 @@ module.exports = {
 				asul: "'Asul', sans-serif;",
 				bellefair: "'Bellefair', serif;",
 				tinos: "'Tinos', serif;"
-			},
-
-			/* ==========
-			Max Width
-			========== */
-			maxWidth: {
-				'section-width' : '1632px',
 			},
 			
 			/* ==========
@@ -86,8 +89,14 @@ module.exports = {
 				'open-menu': 'open-menu 0.35s ease-in-out forwards'
 			},
 
+			/* ==========
+			Max Width
+			========== */
+			maxWidth: {
+				'section-width' : '1632px',
+			},
 		},
 	},
-	
+
 	plugins: [],
 }
