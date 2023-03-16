@@ -14,7 +14,7 @@ Part 1: Encounter
         - Changgui (first time)
         - Demonized Fanatic (first time)
         - Yellow Turban Commander (first time)
-        - Zhang Liang (boss) (first time)
+        - Zhang Liang - General of Man (boss) (first time)
 
 
 ========== ========== ========== ========== ==========
@@ -55,7 +55,7 @@ Part 2: Delusion
         - Demonized Officer
         - [ Shitieshou (first time) ]
         - Shuigui (first time)
-        - Zhang Bao (boss) (first time)
+        - Zhang Bao - General of Earth (boss) (first time)
 
     ==========
     Tale of Guiguzi (Sub Battlefield)
@@ -65,5 +65,46 @@ Part 2: Delusion
     ==========
     The Demon Fort of the Yellow Heaven (Main Battlefield)
     ==========
-        - 
+        - Yellow Turban Bandit
+        - Yellow Turban Soldier
+        - Demonized Warlock
+        - Yellow Turban Champion
+        - Huoshu (first time)
+        - Demonized Soldier
+        - Demonized Fanatic
+        - Suanyu
+        - Changgui
+        - Demonized Officer
+        - Zhang Jiao - General of Heaven (boss) (first time)
+
+    ==========
+    The Flying Swallow of Heishan (Sub Battlefield)
+    ==========
+        - Demonized Soldier
+        - Demonized Fanatic
+        - Demonized Warlock
+        - Demonized Officer
+        - Zhang Yan (boss) (first time)
+
+
+========== ========== ========== ========== ==========
+Part 3: Corruption
+========== ========== ========== ========== ==========
+    ==========
+    In Search of the Immortal Wizard (Main Battlefield)
+    ==========
+        - Dog
+        - Shuigui
+        - Huoshu
+        - Zhuyan
+        - Changgui
+        - Zhupolong (first time)
+        - Aoye (boss) (first time)
+
+
+
+
+
+
+
 

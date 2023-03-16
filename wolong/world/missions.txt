@@ -54,7 +54,7 @@ Part 1: Encounter
         - Dragon Vein Essence: 0
         - Tablets: 1
         - Bosses: 
-            - Zhang Liang
+            - Zhang Liang - General of Man
         - Divine Beasts Unlocked: 
             - None
         - Mission Rewards: 
@@ -119,7 +119,7 @@ Part 2: Delusion
         - Dragon Vein Essence: 1
         - Tablets: 0
         - Bosses: 
-            - Zhang Bao
+            - Zhang Bao - General of Earth
         - Divine Beasts Unlocked: 
             - Qinglong (Defeat Zhang Bao)
         - Mission Rewards: 
@@ -161,7 +161,7 @@ Part 2: Delusion
         - Dragon Vein Essence: 0
         - Tablets: 1
         - Bosses: 
-            - Zhang Jiao
+            - Zhang Jiao - General of Heaven
         - Divine Beasts Unlocked: 
             - Baihu (Defeat Zhang Jiao)
         - Mission Rewards: 
