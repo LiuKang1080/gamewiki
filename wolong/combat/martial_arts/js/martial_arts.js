@@ -85,6 +85,8 @@ Sort table JavaScript
 function sort_table(n, event) {
     // declare variables
     let i, x, y;
+    let x_inner_text;
+    let y_inner_text;
     let table, rows, switching;
     let shouldSwitch, dir;
     let switchcount = 0;
@@ -119,16 +121,28 @@ function sort_table(n, event) {
             x = rows[i].getElementsByTagName("TD")[n];
             y = rows[i + 1].getElementsByTagName("TD")[n];
 
+            /* set what x_inner_text and y_inner_text will be */
+            if (n === 0) {
+                // if user clicked on the first TD, then get the innet text from the second inner nested child element
+                x_inner_text = x.firstElementChild.firstElementChild.innerText;
+                y_inner_text = y.firstElementChild.firstElementChild.innerText;
+            } else {
+                //  else the user clicked on the second TD, get the inner text directly
+                x_inner_text = x.innerText;
+                y_inner_text = y.innerText;
+            }
+
+
             /* Check if the two rows should switch place, based on the direction, asc or desc: */
             if (dir == "asc") {
-                if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+                if (x_inner_text.toLowerCase() > y_inner_text.toLowerCase()) {
                     // If so, mark as a switch and break the loop:
                     shouldSwitch = true;
                     break;
                 } 
             
             } else if (dir == "desc") {
-                if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+                if (x_inner_text.toLowerCase() < y_inner_text.toLowerCase()) {
                     // If so, mark as a switch and break the loop:
                     shouldSwitch = true;
                     break;

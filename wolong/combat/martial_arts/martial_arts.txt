@@ -14,30 +14,42 @@ Straight Sabre:
     - [done] [done] Swift Lightning 
     - [done] [done] Whirlwind Advance
 
+    ========== Boss Skills ==========
+    - Lightspeed Gust
+    - Violet Sandstorm
+
 
 Sword:
     - [done] [done] Drifting Cloud
     - [done] [done] Earth Shaper
     - [done] [done] Gouging Star
     - [done] [done] Ill Wind
-    - [done] [done] Swift Lightning
     - [done] [done] Meteor Shower
     - [done] [done] Meteoric Strike
+    - [done] [done] Swift Lightning
     - [done] [done] Whirlwind Advance
 
     ========== Boss Skills ==========
-    - Sword of Chaos (Boss Skill)
+    - Cosmic Syzygy
+    - Dawning Sky
+    - Starlight Blade
+    - Sun Piercer
+    - Sword of Chaos
 
 
 Curved Sabre:
     - [done] [done] Drifting Cloud
     - [done] [done] Gouging Star
-    - Ill Wind
+    - [done] [done] Ill Wind
     - [done] [done] Increscent Slash
     - [done] [done] Looming Cloud
     - [done] [done] Meteoric Strike
     - [done] [done] Star Fall
     - [done] [done] Whirlwind Advance
+
+    ========== Boss Skills ==========
+    - Shimmering Sun
+    - Thunderous Impact
 
 
 Glaive:
