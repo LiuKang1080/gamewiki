@@ -150,9 +150,9 @@
                     <div id="world_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
                         <ul class="py-2  text-gray-200" aria-labelledby="generalButton">
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Missions</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Oaths & Alliances</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Bosses</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Enemies</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Oaths & Alliances</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Shitieshou Locations</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Characters</a></li>
                         </ul>
@@ -484,7 +484,7 @@
                 Header 
                 ========== -->
                 <tr>
-                    <th onclick="sort_table(0, this)">
+                    <th onclick="sort_table(0, this)" class="cursor-pointer">
                         <div class="flex items-center gap-2">
                             <span>Martial Art</span>
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
@@ -492,7 +492,7 @@
                             </svg>
                         </div>
                     </th>
-                    <th onclick="sort_table(1, this)">
+                    <th onclick="sort_table(1, this)" class="cursor-pointer">
                         <div class="flex items-center gap-2">
                             <div class="flex flex-col justify-center">
                                 <span>Spirit Cost</span>
@@ -668,7 +668,7 @@
                 Header 
                 ========== -->
                 <tr>
-                    <th onclick="sort_table(0, this)">
+                    <th onclick="sort_table(0, this)" class="cursor-pointer">
                         <div class="flex items-center gap-2">
                             <span>Martial Art</span>
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
@@ -676,7 +676,7 @@
                             </svg>
                         </div>
                     </th>
-                    <th onclick="sort_table(1, this)">
+                    <th onclick="sort_table(1, this)" class="cursor-pointer">
                         <div class="flex items-center gap-2">
                             <div class="flex flex-col justify-center">
                                 <span>Spirit Cost</span>
@@ -811,6 +811,7 @@
             <!-- ==========
             section header
             ========== -->
+            <img src="./img/glaive_logo.png" alt="">
             <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Glaive Martial Arts</h2>
             <hr class="w-full h-[2px] bg-stone-600 border-0">
 
@@ -822,7 +823,7 @@
                 Header 
                 ========== -->
                 <tr>
-                    <th onclick="sort_table(0, this)">
+                    <th onclick="sort_table(0, this)" class="cursor-pointer">
                         <div class="flex items-center gap-2">
                             <span>Martial Art</span>
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
@@ -830,7 +831,7 @@
                             </svg>
                         </div>
                     </th>
-                    <th onclick="sort_table(1, this)">
+                    <th onclick="sort_table(1, this)" class="cursor-pointer">
                         <div class="flex items-center gap-2">
                             <div class="flex flex-col justify-center">
                                 <span>Spirit Cost</span>
@@ -930,6 +931,36 @@
                         Slice through the ground upward, causing an energy wave to fly forward.
                     </td>
                 </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span class="text-boss-skill">Feasting Ursine</span>
+                        <img class="object-none" src="" alt="">
+                    </div></td>
+                    <td>-</td>
+                    <td>
+                        -
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span class="text-boss-skill">Mongrel's Rampart</span>
+                        <img class="object-none" src="" alt="">
+                    </div></td>
+                    <td>-</td>
+                    <td>
+                        -
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span class="text-boss-skill">Soaring Phoenix</span>
+                        <img class="object-none" src="" alt="">
+                    </div></td>
+                    <td>-</td>
+                    <td>
+                        -
+                    </td>
+                </tr>
             </table>
         </div>
     </section>
@@ -945,6 +976,7 @@
             <!-- ==========
             section header
             ========== -->
+            <img src="./img/halberd_logo.png" alt="">
             <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Halberd Martial Arts</h2>
             <hr class="w-full h-[2px] bg-stone-600 border-0">
 
@@ -956,7 +988,7 @@
                 Header 
                 ========== -->
                 <tr>
-                    <th onclick="sort_table(0, this)">
+                    <th onclick="sort_table(0, this)" class="cursor-pointer">
                         <div class="flex items-center gap-2">
                             <span>Martial Art</span>
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
@@ -964,7 +996,7 @@
                             </svg>
                         </div>
                     </th>
-                    <th onclick="sort_table(1, this)">
+                    <th onclick="sort_table(1, this)" class="cursor-pointer">
                         <div class="flex items-center gap-2">
                             <div class="flex flex-col justify-center">
                                 <span>Spirit Cost</span>
@@ -1053,6 +1085,16 @@
                         Catch an enemy with your weapon's tip and pull them towards you.
                     </td>
                 </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span class="text-boss-skill">Prancing Dragon</span>
+                        <img class="object-none" src="" alt="">
+                    </div></td>
+                    <td>-</td>
+                    <td>
+                        -
+                    </td>
+                </tr>
             </table>
         </div>
     </section>
@@ -1068,6 +1110,7 @@
             <!-- ==========
             section header
             ========== -->
+            <img src="./img/staff_logo.png" alt="">
             <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Staff Martial Arts</h2>
             <hr class="w-full h-[2px] bg-stone-600 border-0">
 
@@ -1079,7 +1122,7 @@
                 Header 
                 ========== -->
                 <tr>
-                    <th onclick="sort_table(0, this)">
+                    <th onclick="sort_table(0, this)" class="cursor-pointer">
                         <div class="flex items-center gap-2">
                             <span>Martial Art</span>
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
@@ -1087,7 +1130,7 @@
                             </svg>
                         </div>
                     </th>
-                    <th onclick="sort_table(1, this)">
+                    <th onclick="sort_table(1, this)" class="cursor-pointer">
                         <div class="flex items-center gap-2">
                             <div class="flex flex-col justify-center">
                                 <span>Spirit Cost</span>
@@ -1178,10 +1221,50 @@
                 </tr>
                 <tr class="even:bg-dark-gray-2">
                     <td><div class="flex flex-col justify-center">
-                        <span>Plummeting Ape</span>
+                        <span>Stag Hunter</span>
                         <img class="object-none" src="" alt="">
                     </div></td>
-                    <td>256</td>
+                    <td>-</td>
+                    <td>
+                        -
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Tigertail Lash</span>
+                        <img class="object-none" src="" alt="">
+                    </div></td>
+                    <td>-</td>
+                    <td>
+                        -
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span class="text-boss-skill">Fanning Peacock</span>
+                        <img class="object-none" src="" alt="">
+                    </div></td>
+                    <td>-</td>
+                    <td>
+                        -
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span class="text-boss-skill">Nightbird Spin</span>
+                        <img class="object-none" src="" alt="">
+                    </div></td>
+                    <td>-</td>
+                    <td>
+                        -
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span class="text-boss-skill">Panther's Grit</span>
+                        <img class="object-none" src="" alt="">
+                    </div></td>
+                    <td>-</td>
                     <td>
                         -
                     </td>

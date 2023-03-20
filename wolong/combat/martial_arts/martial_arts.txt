@@ -62,6 +62,11 @@ Glaive:
     - [done] [done] Marching Dragon
     - [done] [done] Phoenix Wings
 
+    ========== Boss Skills ==========
+    - Feasting Ursine
+    - Mongrel's Rampart
+    - Soaring Phoenix
+
 
 Halberd:
     - [done] [done] Dragon Flash
@@ -71,6 +76,9 @@ Halberd:
     - [done] [done] Iron Calf
     - [done] [done] Marching Dragon
     - [done] [done] Wyvern Claw
+
+    ========== Boss Skills ==========
+    - Prancing Dragon
 
 
 Staff:
@@ -85,29 +93,37 @@ Staff:
     - Tigertail Lash
 
     ========== Boss Skills ==========
-    - Fanning Peacock (Boss Skill)
+    - Fanning Peacock
+    - Nightbird Spin
+    - Panther's Grit
+
 
 Hammer:
     - Heaven Divide
     - Heaven Reversal
     - Mountain Strike
-    - Sea Split
-    - Stone Shatter
     - Rising Tides
     - Rock Crash
+    - Sea Split
+    - Stone Shatter
     - Undercurrent Sprint
     
     ========== Boss Skills ==========
     - Boulder Glide
+    - Mountain Buster
 
 
 Poleaxe:
-    - Impregnable Keep
+    - Heaven Divide
     - Heaven Reversal
-    - Undercurrent Sprint
-    - Sea Split
+    - Impregnable Keep
+    - Mountain Strike
+    - Rising Tides
     - Rock Crash
-    - 
+    - Undercurrent Sprint
+
+    ========== Boss Skills ==========
+    - Hidden Undercurrents
 
 
 Spear:
@@ -126,6 +142,7 @@ Spear:
 
 
 Slashing Spear:
+    - Antelope Horn
     - Dragon Flash
     - Dragon Slayer
     - Dragontail Whip
@@ -135,6 +152,10 @@ Slashing Spear:
     - Horn Strike
     - Marching Dragon
     - Monkey's Wisdom
+
+    ========== Boss Skills ==========
+    - Parting Grass
+    - Python Turnover
 
 
 Dual Swords:
@@ -148,9 +169,21 @@ Dual Swords:
     - Thorn Prick
     - Waiving Willow
 
+    ========== Boss Skills ==========
+    - Endless Flowering
+
 
 Dual Sabres:
-    - 
+    - Bamboo Sever
+    - Beckoning Pine
+    - Plum Rend
+    - Skyward Evergreen
+    - Sudden Tornado
+    - Thorn Prick
+    - Waving Willow
+
+    ========== Boss Skills ==========
+    - Falling Leaf
 
 
 Dual Halberds:
@@ -158,7 +191,12 @@ Dual Halberds:
     - Beckoning Pine
     - Falling Leaves
     - Plum Rend
+    - Scattered Leaves
     - Skyward Evergreen
     - Sudden Tornado
     - Vine's Grasp
     - Waving Willow
+
+    ========== Boss Skills ==========
+    - Crescent Gale
+    - Thorn Cleave

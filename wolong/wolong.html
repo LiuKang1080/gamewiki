@@ -144,9 +144,9 @@
                     <div id="world_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
                         <ul class="py-2  text-gray-200" aria-labelledby="generalButton">
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Missions</a></li>
-                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Oaths & Alliances</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Bosses</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Enemies</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Oaths & Alliances</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Shitieshou Locations</a></li>
                             <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Characters</a></li>
                         </ul>
@@ -226,17 +226,18 @@
     <!-- ========== ========== ==========
     Hero Section
     ========== ========== ========== -->
-    <section class="mt-6 lg:mt-28 flex flex-col items-center justify-center gap-4">
+    <section class="mt-28 flex flex-col items-center justify-center gap-4">
         <img src="./img/wolong_logo_large.png" alt="">
-        <h1 class=" text-white text-6xl">Wiki</h1>
+        <h1 class="text-white text-6xl">Wiki</h1>
     </section>
 
 
     <!-- ========== ========== ==========
     Card Section
     ========== ========== ========== -->
-    <section class="mx-auto mt-6 gap-4
-        lg:w-[1320px] lg:mt-12 lg:mb-[200px] lg:grid lg:grid-cols-3">
+    <section class="w-full mx-auto mt-12 mb-32 px-6 gap-4
+        md:w-11/12 md:grid md:grid-cols-2
+        2xl:w-9/12 2xl:grid 2xl:grid-cols-3">
 
         <!-- 
         ==========
@@ -249,7 +250,7 @@
         <!-- ========== ==========
         Basics (Main Card 1)
         ========== ========== -->
-        <div class="mask my-6 lg:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach ">
+        <div class="mask my-6 md:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach">
             <!-- ========== 
             top row 
             ========== -->
@@ -264,9 +265,6 @@
             <ul class="mt-5 w-full flex flex-col items-start justify-center gap-2">
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
                     <a class="px-2 w-full  text-xl text-stone-900" href="">Recommended Settings</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Starting Recommendations</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
                     <a class="px-2 w-full  text-xl text-stone-900" href="">Character Stats</a>
@@ -286,7 +284,7 @@
         <!-- ========== ==========
         Combat (Main Card 2)
         ========== ========== -->
-        <div class="mask my-6 lg:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach">
+        <div class="mask my-6 md:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach">
             <!-- ========== 
             top row 
             ========== -->
@@ -323,7 +321,7 @@
         <!-- ========== ==========
         Equipment (Main Card 3)
         ========== ========== -->
-        <div class="mask my-6 lg:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach">
+        <div class="mask my-6 md:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach">
             <!-- ========== 
             top row 
             ========== -->
@@ -337,16 +335,16 @@
             ========== -->
             <ul class="mt-5 w-full flex flex-col items-start justify-center gap-2">
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Weapons</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Armor</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
                     <a class="px-2 w-full  text-xl text-stone-900" href="">Wizardry Spells</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
                     <a class="px-2 w-full  text-xl text-stone-900" href="">Divine Beasts</a>
+                </li>
+                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Weapons</a>
+                </li>
+                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Armor</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
                     <a class="px-2 w-full  text-xl text-stone-900" href="">Accessories</a>
@@ -363,7 +361,7 @@
         <!-- ========== ==========
         World (Main Card 4)
         ========== ========== -->
-        <div class="mask my-6 lg:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach">
+        <div class="mask my-6 md:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach">
             <!-- ========== 
             top row 
             ========== -->
@@ -380,13 +378,13 @@
                     <a class="px-2 w-full  text-xl text-stone-900" href="">Missions</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
-                    <a class="px-2 w-full  text-xl text-stone-900" href="">Oaths & Alliances</a>
-                </li>
-                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
                     <a class="px-2 w-full  text-xl text-stone-900" href="">Bosses</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
                     <a class="px-2 w-full  text-xl text-stone-900" href="">Enemies</a>
+                </li>
+                <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
+                    <a class="px-2 w-full  text-xl text-stone-900" href="">Oaths & Alliances</a>
                 </li>
                 <li class="mask w-full py-2 rounded flex items-center gap-1 hover:bg-light-peach">
                     <a class="px-2 w-full  text-xl text-stone-900" href="">Shitieshou Locations</a>
@@ -400,7 +398,7 @@
         <!-- ========== ==========
         Tools & Resources (Main Card 5)
         ========== ========== -->
-        <div class="mask my-6 lg:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach">
+        <div class="mask my-6 md:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach">
             <!-- ========== 
             top row 
             ========== -->
@@ -440,7 +438,7 @@
         <!-- ========== ==========
         Online (Main Card 6)
         ========== ========== -->
-        <div class="mask my-6 lg:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach">
+        <div class="mask my-6 md:my-0 md:h-[660px] w-full p-4 rounded-xl flex flex-col items-start bg-dark-peach">
             <!-- ========== 
             top row 
             ========== -->
