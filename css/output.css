@@ -517,6 +517,10 @@ video {
   position: absolute;
 }
 
+.relative {
+  position: relative;
+}
+
 .sticky {
   position: sticky;
 }
@@ -623,6 +627,14 @@ video {
 
 .w-full {
   width: 100%;
+}
+
+.table-auto {
+  table-layout: auto;
+}
+
+.table-fixed {
+  table-layout: fixed;
 }
 
 .border-collapse {
@@ -732,6 +744,10 @@ video {
 
 .self-end {
   align-self: flex-end;
+}
+
+.overflow-x-auto {
+  overflow-x: auto;
 }
 
 .scroll-smooth {
@@ -1043,16 +1059,12 @@ video {
     display: grid;
   }
 
-  .md\:h-\[660px\] {
-    height: 660px;
-  }
-
-  .md\:h-auto {
-    height: auto;
-  }
-
   .md\:h-\[510px\] {
     height: 510px;
+  }
+
+  .md\:h-\[660px\] {
+    height: 660px;
   }
 
   .md\:w-11\/12 {
@@ -1069,6 +1081,10 @@ video {
 
   .md\:gap-3 {
     gap: 0.75rem;
+  }
+
+  .md\:place-self-center {
+    place-self: center;
   }
 }
 
@@ -1116,6 +1132,10 @@ video {
 
   .lg\:flex-row {
     flex-direction: row;
+  }
+
+  .lg\:place-self-center {
+    place-self: center;
   }
 
   .lg\:bg-cover {
