@@ -104,7 +104,19 @@ Part 3: Corruption
     ==========
     Shadow of the Sacred Mountain (Sub Battlefield)
     ==========
+        - Dog
+        - Shuigui
+        - Huoshu
+        - Changgui
+        - Zhuyan
+        - Suanyu (boss)
+
+    ==========
+    Fall of the Corrupted Eunuch (Main Battlefield)
+    ==========
         - 
+
+    
 
 
 

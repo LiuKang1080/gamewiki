@@ -4,50 +4,51 @@ Wo Long Categories | Each major section is a Main Menu Card, each will have link
 ========== ========== ==========
 Basics [Main Menu Card 1]:
 ========== ========== ==========
-[6 Links]
-    - Recommended Settings
-    - Starting Recommendations
-    - Character Stats:
+[4 Links]
+	- Recommended Settings
+	- Character Stats:
         - Recommended level up sequence
         - Max level on each NG+ Cycle
         - Weight & Agility
 
-    - ??? The Shrine ???:
+	- The Battleflag
         - Boons
 
-    - The Dojo
-    - NG+ Cycles
-        - ???
+	- NG+ Cycles
 
 
 ========== ========== ==========
 Combat [Main Menu Card 2]:
 ========== ========== ==========
-[6 Links]
-    - Combat Basics
+[7 Links]
+	- Combat Basics
         - Normal Attack
         - Spirit Attack
 
-    - Deflect
+	- Deflect
         - Critical Blows
         - Deflect Attack
         - Deflect Weapon Swap
 
-    - Spirit System
+	- Spirit System
+		- Generators and Spenders
         - Dodging / Guarding
 
-    - Martial Arts
-        - ??? Hidden Martial Art Skills ???
-
-    - Morale Rank
-    - Five Phases / Status Effects
-    - ??? Advanced Tech ???
+	- Martial Arts
+	- Morale Rank
+	- Five Phases / Status Effects
+	- Advanced Tech
 
 
 ========== ========== ==========
 Equipment [Main Menu Card 3]:
 ========== ========== ==========
 [7 Links]
+    - Wizardry Spells
+	- Divine Beasts
+        - Summon Divine Beast (Triangle + Circle)
+        - Divine Beast Resonation (Square + X)
+	
     - Weapons:
         - Straight Sabre
         - Sword
@@ -63,104 +64,65 @@ Equipment [Main Menu Card 3]:
         - Dual Sabres
         - Dual Halberds
 
-    - Armor:
-        - Light Armor
-        - Medium Armor
-        - Heavy Armor
+	- Armor:
+    	- Light Armor
+    	- Medium Armor
+    	- Heavy Armor
 
-    - Wizardry Spells
-        - ??? Hidden Wizardry Skills ???
-
-    - Divine Beasts
-        - Summon Divine Beast (Triangle + Circle)
-        - Divine Beast Resonation (Square + X)
-
-    - Accessories 
-    - Graces & Sets
-    - Items
-        - Yokai Parts
+	- Accessories
+	- Graces & Sets
+	- Items
 
 
 ========== ========== ==========
 World [Main Menu Card 4]:
 ========== ========== ==========
 [6 Links]
-    - Missions:
-        - Awakening Region (1st Region)
-        - Soaring Region (2nd Region)
-        - Shadow Region (3rd Region)
-        - Dawn Region (4th Region)
-        - Twilight Region (5th Region)
-        - Dream Region (6th Region)
-        - Afterglow Region (7th Region)
-        - The Tengu's Disciple (DLC 1)
-        - The Darkness in the Capital (DLC 2)
-        - The First Samurai (DLC 3)
-		- Twilight Missions
-        - Dojo Missions
+	- Missions:
+        - Part 1: Encounter
+        - Part 2: Delusion
+        - Part 3: Corruption
+        - Part 4: Tyranny
+        - Part 5: 
+        - Part 6:
+        - Part 7:
+        - Part 8: Battle of Zhongyuan (DLC 1)
+        - Part 9: Conqueror of Jiangdong (DLC 2)
+        - Part 10: Upheaval in Jingxiang (DLC 3)
+   		- Wizardry Missions
 
-    - Oaths & Alliances
-    - Bosses
-    - Enemies:
-        - We can have a small section about Human Enemies before the main list of Yokai enemies
-            since there are only a few handful of Human Enemies.
-
-    - Shitieshou Locations:
-        [Link video for all Kodama locations]
-        [Link to Achievements for Kodamas]
-
-    - Characters
+	- Bosses
+	- Enemies
+	- Oaths & Alliances
+	- Shitieshou Locations:
+	- Characters
 
 
 ========== ========== ==========
 Tools & Resources [Main Menu Card 5]:
 ========== ========== ==========
-[7 Links]
-    - Smithing Texts
-    - Temper Tables:
-        - Temper Table: Melee
-        - Temper Table: Ranged
-        - Temper Table: Helmet
-        - Temper Table: Gloves
-        - Temper Table: Waist
-        - Temper Table: Boots
-        - Temper Table: Accessories
+[5 Links]
+	- Blacksmith:
+    	- Upgrade
+    	- Decorate
+    	- Salvage
+    	- Sell / Buy
 
-    - Blacksmith:
-        - Forging:
-            [Link to Farming Yokai parts / Divine Fragments] 
+    - Embedment / Embedment Tables:
+        - Embedment Table: Melee
+        - Embedment Table: Ranged
+        - Embedment Table: Armor
+        - Embedment Table: Accessories
 
-        - Soul Matching
-        - Inheritables
-        - Tempering
-        - Remodeling
-        - Disassembling Gear
-        - Patronage Points
-
-    - Stone of Penance
-    - Farming Resources:
-        - Farming Proficiency Points
-        - Farming Soul Cores [different page]
-        - Farming Amrita
-        - Farming Glory
-        - Farming Gold (Mention Tea Sets)
-        - Farming Divine Fragments
-        - Farming Yokai Parts
-
-    - Achievements
-    - Builds
+    - Farming Resources (Luck / Drop Rate)
+	- Achievements
+	- Builds
 
 
 ========== ========== ==========
 Online [Main Menu Card 6]:
 ========== ========== ==========
-[6 Links]
-    - Co-op
-    - Invasions
-    - Vengeance System
-    - Hidden Tea House:
-        - Tea Sets
-        - Clans
-
-    - Revenants
-    - Benevolent Graves
+[3 Links]
+	- Co-op
+	- Invasions
+	- Vengeance System
