@@ -237,7 +237,7 @@
         <div class="2xl:max-w-section-width w-full px-4 2xl:px-0 flex flex-col items-start">
             <ol class="list-decimal list-inside text-xl text-sky-400">
                 <li><a class="hover:text-sky-600" href="javascript: wood()">Wood Phase Wizardry Spells</a></li>
-                <li><a class="hover:text-sky-600" href="javascript: ">Fire Phase Wizardry Spells</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: fire()">Fire Phase Wizardry Spells</a></li>
                 <li><a class="hover:text-sky-600" href="javascript: ">Earth Phase Wizardry Spells</a></li>
                 <li><a class="hover:text-sky-600" href="javascript: ">Metal Phase Wizardry Spells</a></li>
                 <li><a class="hover:text-sky-600" href="javascript: ">Water Phase Wizardry Spells</a></li>
@@ -287,7 +287,16 @@
                             </svg>
                         </div>
                     </th>
-                    <th>Virtue Requirement</th>
+                    <th onclick="sort_table(2, this)" class="cursor-pointer">
+                        <div class="flex items-center gap-2">
+                            <div class="flex flex-col justify-center">
+                                <span>Virtue Requirement</span>
+                            </div>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M11.5 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L11 2.707V14.5a.5.5 0 0 0 .5.5zm-7-14a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L4 13.293V1.5a.5.5 0 0 1 .5-.5z"/>
+                            </svg>
+                        </div>
+                    </th>
                     <th>Morale Requirement</th>
                     <th>Description</th>
                 </tr>
@@ -342,6 +351,230 @@
                     <td>0</td>
                     <td>
                         You and your nearby allies can restore HP upon dealing damage to enemies.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Spirit Fervor</span>
+                        <img class="object-none" src="./img/spirit_fervor.png" alt="">
+                    </div></td>
+                    <td>840</td>
+                    <td>6</td>
+                    <td>3</td>
+                    <td>
+                        Grants you and your allies a positive effect that increases Spirit gain when attacking.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Inner Breath</span>
+                        <img class="object-none" src="./img/inner_breath.png" alt="">
+                    </div></td>
+                    <td>730</td>
+                    <td>4</td>
+                    <td>0</td>
+                    <td>
+                        Increases the accumulation of the Divine Beast Gauge for a certain period of time.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Lightning Weapon</span>
+                        <img class="object-none" src="./img/lightning_weapon.png" alt="">
+                    </div></td>
+                    <td>680</td>
+                    <td>12</td>
+                    <td>7</td>
+                    <td>
+                        For a certain period of time, enchants your current melee weapon with Lightning.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Lightning Rush</span>
+                        <img class="object-none" src="./img/lightning_rush.png" alt="">
+                    </div></td>
+                    <td>570</td>
+                    <td>15</td>
+                    <td>7</td>
+                    <td>
+                        Hurls a lightning bolt that rushes forward.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Guard Formation</span>
+                        <img class="object-none" src="./img/guard_formation.png" alt="">
+                    </div></td>
+                    <td>680</td>
+                    <td>10</td>
+                    <td>3</td>
+                    <td>
+                        Creates an area that reduces the damage allies inside it take from enemies.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Focus Zone</span>
+                        <img class="object-none" src="" alt="">
+                    </div></td>
+                    <td>890</td>
+                    <td>20</td>
+                    <td>7</td>
+                    <td>
+                        <span class="text-red-500">Unlock Requirement</span>: Complete the mission - 
+                        <a class="text-sky-400 hover:text-sky-600" href="">Wizardry Spell Mastery</a>
+                        <br><br>
+
+                        Generates an area in which allies inside it deal additional damage to enemies.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Cleanse</span>
+                        <img class="object-none" src="./img/cleanse.png" alt="">
+                    </div></td>
+                    <td>360</td>
+                    <td>20</td>
+                    <td>0</td>
+                    <td>
+                        Resets all current negative effect accumulation to zero for you and your neary allies, while granting a 
+                        positive effect that reduces the amount of negative effect accumulation for all Phases except for Metal.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Barbed Nightmare</span>
+                        <img class="object-none" src="" alt="">
+                    </div></td>
+                    <td>1050</td>
+                    <td>40</td>
+                    <td>12</td>
+                    <td>
+                        <span class="text-red-500">Unlock Requirement</span>: Complete the mission - 
+                        <a class="text-sky-400 hover:text-sky-600" href="">Wizardry Spell Mastery</a>
+                        <br><br>
+
+                        Summons thorns from the ground to attack enemies. Deals damage to enemies and restores the HP of you and 
+                        nearby allies for a portion of the damage dealt.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Heaven's Rage</span>
+                        <img class="object-none" src="" alt="">
+                    </div></td>
+                    <td>730</td>
+                    <td>25</td>
+                    <td>7</td>
+                    <td>
+                        <span class="text-red-500">Unlock Requirement</span>: Complete the mission - 
+                        <a class="text-sky-400 hover:text-sky-600" href="">The Scarlet Crystal</a>
+                        <br><br>
+
+                        Calls down many bolts of lightning to strike in front of you.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Perfect Restoral</span>
+                        <img class="object-none" src="" alt="">
+                    </div></td>
+                    <td>1050</td>
+                    <td>30</td>
+                    <td>15</td>
+                    <td>
+                        <span class="text-red-500">Unlock Requirement</span>: Complete the mission - 
+                        <a class="text-sky-400 hover:text-sky-600" href="">The Scarlet Crystal</a>
+                        <br><br>
+
+                        Grants you and your allies a positive effect that completely negates an enemy attack once.
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ==========
+    Fire Phase Wizardry Spells
+    ========== ========== ========== -->
+    <section id="fire" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded relative overflow-x-auto
+            2xl:max-w-section-width lg:px-16">
+
+            <!-- ==========
+            section header
+            ========== -->
+            <img src="./img/fire_logo.png" alt="">
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Fire Phase Wizardry Spells</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <!-- ==========
+            Table
+            ========== -->
+            <table id="fire_table" class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th onclick="sort_table(0, this)" class="cursor-pointer">
+                        <div class="flex items-center gap-2">
+                            <span>Wizardry Spell</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M11.5 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L11 2.707V14.5a.5.5 0 0 0 .5.5zm-7-14a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L4 13.293V1.5a.5.5 0 0 1 .5-.5z"/>
+                            </svg>
+                        </div>
+                    </th>
+                    <th onclick="sort_table(1, this)" class="cursor-pointer">
+                        <div class="flex items-center gap-2">
+                            <div class="flex flex-col justify-center">
+                                <span>Spirit Cost</span>
+                            </div>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M11.5 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L11 2.707V14.5a.5.5 0 0 0 .5.5zm-7-14a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L4 13.293V1.5a.5.5 0 0 1 .5-.5z"/>
+                            </svg>
+                        </div>
+                    </th>
+                    <th onclick="sort_table(2, this)" class="cursor-pointer">
+                        <div class="flex items-center gap-2">
+                            <div class="flex flex-col justify-center">
+                                <span>Virtue Requirement</span>
+                            </div>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M11.5 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L11 2.707V14.5a.5.5 0 0 0 .5.5zm-7-14a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L4 13.293V1.5a.5.5 0 0 1 .5-.5z"/>
+                            </svg>
+                        </div>
+                    </th>
+                    <th>Morale Requirement</th>
+                    <th>Description</th>
+                </tr>
+
+                <!-- ==========
+                Content
+                ========== -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Blasting Flare</span>
+                        <img class="object-none" src="./img/blasting_flare.png" alt="">
+                    </div></td>
+                    <td>420</td>
+                    <td>1</td>
+                    <td>3</td>
+                    <td>
+                        Emits an eruption of flames to the front.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Fire Bolt</span>
+                        <img class="object-none" src="./img/fire_bolt.png" alt="">
+                    </div></td>
+                    <td>260</td>
+                    <td>2</td>
+                    <td>0</td>
+                    <td>
+                        Hurls a mote of fire in front of you.
                     </td>
                 </tr>
             </table>

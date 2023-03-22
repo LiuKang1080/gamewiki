@@ -81,32 +81,50 @@ function sort_table(n, event) {
             x = rows[i].getElementsByTagName("TD")[n];
             y = rows[i + 1].getElementsByTagName("TD")[n];
 
+            
+
             /* set what x_inner_text and y_inner_text will be */
             if (n === 0) {
-                // if user clicked on the first TD, then get the innet text from the second inner nested child element
+                // The user clicked on the first TD, get the innet text from the second inner nested child element
                 x_inner_text = x.firstElementChild.firstElementChild.innerText;
                 y_inner_text = y.firstElementChild.firstElementChild.innerText;
             } else {
-                //  else the user clicked on the second TD, get the inner text directly
-                x_inner_text = x.innerText;
-                y_inner_text = y.innerText;
+                // The user clicked on the 3rd TD, get the inner text and convert it to a number
+                x_inner_text = Number(x.innerText);
+                y_inner_text = Number(y.innerText);
             }
-
 
             /* Check if the two rows should switch place, based on the direction, asc or desc: */
             if (dir == "asc") {
-                if (x_inner_text.toLowerCase() > y_inner_text.toLowerCase()) {
-                    // If so, mark as a switch and break the loop:
-                    shouldSwitch = true;
-                    break;
-                } 
-            
-            } else if (dir == "desc") {
-                if (x_inner_text.toLowerCase() < y_inner_text.toLowerCase()) {
-                    // If so, mark as a switch and break the loop:
-                    shouldSwitch = true;
-                    break;
+                if (n === 0) {
+                    if (x_inner_text.toLowerCase() > y_inner_text.toLowerCase()) {
+                        // If so, mark as a switch and break the loop:
+                        shouldSwitch = true;
+                        break;
+                    } 
+                } else {
+                    if (x_inner_text > y_inner_text) {
+                        // If so, mark as a switch and break the loop:
+                        shouldSwitch = true;
+                        break;
+                    } 
                 }
+
+            } else if (dir == "desc") {
+                if (n === 0) {
+                    if (x_inner_text.toLowerCase() < y_inner_text.toLowerCase()) {
+                        // If so, mark as a switch and break the loop:
+                        shouldSwitch = true;
+                        break;
+                    }
+                } else {
+                    if (x_inner_text < y_inner_text) {
+                        // If so, mark as a switch and break the loop:
+                        shouldSwitch = true;
+                        break;
+                    }
+                }
+                
             }
         }
       
