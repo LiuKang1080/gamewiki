@@ -991,7 +991,337 @@
                         <br><br>
 
                         Allows you to charge foward using the power of Earth Phase. You will not falter while charging unless an
-                        enemy's attack is sufficiently powerful. MOve farther by holding down the input for Wizardry Spells.
+                        enemy's attack is sufficiently powerful. Move farther by holding down the input for Wizardry Spells.
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ==========
+    Metal Phase Wizardry Spells
+    ========== ========== ========== -->
+    <section id="metal" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded relative overflow-x-auto
+            2xl:max-w-section-width lg:px-16">
+
+            <!-- ==========
+            section header
+            ========== -->
+            <img src="./img/metal_logo.png" alt="">
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Metal Phase Wizardry Spells</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <!-- ==========
+            Table
+            ========== -->
+            <table id="earth_table" class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th onclick="sort_table(0, this)" class="cursor-pointer">
+                        <div class="flex items-center gap-2">
+                            <span>Wizardry Spell</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M11.5 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L11 2.707V14.5a.5.5 0 0 0 .5.5zm-7-14a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L4 13.293V1.5a.5.5 0 0 1 .5-.5z"/>
+                            </svg>
+                        </div>
+                    </th>
+                    <th onclick="sort_table(1, this)" class="cursor-pointer">
+                        <div class="flex items-center gap-2">
+                            <div class="flex flex-col justify-center">
+                                <span>Spirit Cost</span>
+                            </div>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M11.5 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L11 2.707V14.5a.5.5 0 0 0 .5.5zm-7-14a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L4 13.293V1.5a.5.5 0 0 1 .5-.5z"/>
+                            </svg>
+                        </div>
+                    </th>
+                    <th onclick="sort_table(2, this)" class="cursor-pointer">
+                        <div class="flex items-center gap-2">
+                            <div class="flex flex-col justify-center">
+                                <span>Virtue Requirement</span>
+                            </div>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M11.5 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L11 2.707V14.5a.5.5 0 0 0 .5.5zm-7-14a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L4 13.293V1.5a.5.5 0 0 1 .5-.5z"/>
+                            </svg>
+                        </div>
+                    </th>
+                    <th>Morale Requirement</th>
+                    <th>Description</th>
+                </tr>
+
+                <!-- ==========
+                Content
+                ========== -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Poison Bubbles</span>
+                        <img class="object-none" src="./img/poison_bubbles.png" alt="">
+                    </div></td>
+                    <td>360</td>
+                    <td>1</td>
+                    <td>0</td>
+                    <td>
+                        Releases bubbles of poison that will burst and generate a poison bog when they hit enemies or terrain. 
+                        The bog will cause damage over time to enemies touching it.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Repression Crush</span>
+                        <img class="object-none" src="./img/repression_crush.png" alt="">
+                    </div></td>
+                    <td>360</td>
+                    <td>2</td>
+                    <td>0</td>
+                    <td>
+                        Releases a curse bolt ot the front. Enemies hit will recover from Spirit Disruption slower for a certain
+                        period of time.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Poison Corrosion</span>
+                        <img class="object-none" src="./img/poison_corrosion.png" alt="">
+                    </div></td>
+                    <td>420</td>
+                    <td>3</td>
+                    <td>0</td>
+                    <td>
+                        Emits a poison fog. The fog will cause damage over time to enemies touching it.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Venomous Discharge</span>
+                        <img class="object-none" src="./img/venomous_discharge.png" alt="">
+                    </div></td>
+                    <td>780</td>
+                    <td>5</td>
+                    <td>3</td>
+                    <td>
+                        Releases bubbles of poison that will burst and generate poison bogs. These bogs will cause damage over
+                        time to enemies touching them.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Calamity Bolts</span>
+                        <img class="object-none" src="./img/calamity_bolts.png" alt="">
+                    </div></td>
+                    <td>570</td>
+                    <td>4</td>
+                    <td>3</td>
+                    <td>
+                        Releases curse bolts to the front. Enemmies will deal less damage for a certain period of time.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Life Wither</span>
+                        <img class="object-none" src="./img/life_wither.png" alt="">
+                    </div></td>
+                    <td>630</td>
+                    <td>7</td>
+                    <td>15</td>
+                    <td>
+                        Releases a curse bolt to the front. Enemies hit will receive more damage for a certain period of time.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Toxin Weapon</span>
+                        <img class="object-none" src="./img/toxin_weapon.png" alt="">
+                    </div></td>
+                    <td>680</td>
+                    <td>12</td>
+                    <td>7</td>
+                    <td>
+                        For a certain period of time, enchants your current melee weapon with Toxin.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Thorny Ground</span>
+                        <img class="object-none" src="./img/thorny_ground.png" alt="">
+                    </div></td>
+                    <td>420</td>
+                    <td>20</td>
+                    <td>12</td>
+                    <td>
+                        Summons thorns from the ground. Enemies that step on the thorns will have reduced movement speed for a
+                        set period of time.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Elemental Plague</span>
+                        <img class="object-none" src="./img/elemental_plague.png" alt="">
+                    </div></td>
+                    <td>310</td>
+                    <td>9</td>
+                    <td>3</td>
+                    <td>
+                        Increases the accumulation of all status effects dealt to enemies for a certain period of time.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Toxin Bubbles</span>
+                        <img class="object-none" src="./img/toxin_bubbles.png" alt="">
+                    </div></td>
+                    <td>730</td>
+                    <td>13</td>
+                    <td>7</td>
+                    <td>
+                        Releases bubbles of poison to the front. Bubbles will burst and create a poison bog when they hit enemies
+                        or terrain. The bog will cause damage over time to enemies touching it.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Devouring Sweep</span>
+                        <img class="object-none" src="" alt="">
+                    </div></td>
+                    <td>420</td>
+                    <td>13</td>
+                    <td>3</td>
+                    <td>
+                        <span class="text-red-500">Unlock Requirement</span>: Complete the mission - 
+                        <a class="text-sky-400 hover:text-sky-600" href="">Wizardry Spell Mastery</a>
+                        <br><br>
+
+                        Emits a poisonous fog to sweep within a cone-shaped area of effect.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Molten Calamity Thorn</span>
+                        <img class="object-none" src="" alt="">
+                    </div></td>
+                    <td>840</td>
+                    <td>30</td>
+                    <td>3</td>
+                    <td>
+                        <span class="text-red-500">Unlock Requirement</span>: Complete the mission - 
+                        <a class="text-sky-400 hover:text-sky-600" href="">Wizardry Spell Mastery</a>
+                        <br><br>
+
+                        Releases a Metal Phase attack that deals damage to enemies it touches. If those enemies are inflicted
+                        with any ailments, they will be fully cured, and they will take additional damage corresponding to the 
+                        number of ailments cured.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Thorn Shot</span>
+                        <img class="object-none" src="" alt="">
+                    </div></td>
+                    <td>360</td>
+                    <td>25</td>
+                    <td>0</td>
+                    <td>
+                        <span class="text-red-500">Unlock Requirement</span>: Complete the mission - 
+                        <a class="text-sky-400 hover:text-sky-600" href="">The Scarlet Crystal</a>
+                        <br><br>
+
+                        Releases a curse bolts that create thorns on contact with enemies or terrain. Enemies that step on the
+                        thorns will be slowed for a certain period of time.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Venom Snare</span>
+                        <img class="object-none" src="" alt="">
+                    </div></td>
+                    <td>840</td>
+                    <td>40</td>
+                    <td>12</td>
+                    <td>
+                        <span class="text-red-500">Unlock Requirement</span>: Complete the mission - 
+                        <a class="text-sky-400 hover:text-sky-600" href="">The Scarlet Crystal</a>
+                        <br><br>
+
+                        Releases a curse bolt to the front that will form a poison fog around the enemy it hits. The fog will
+                        cause damage over time to enemies touching it.
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ==========
+    Water Phase Wizardry Spells
+    ========== ========== ========== -->
+    <section id="water" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded relative overflow-x-auto
+            2xl:max-w-section-width lg:px-16">
+
+            <!-- ==========
+            section header
+            ========== -->
+            <img src="./img/water_logo.png" alt="">
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Water Phase Wizardry Spells</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <!-- ==========
+            Table
+            ========== -->
+            <table id="water_table" class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th onclick="sort_table(0, this)" class="cursor-pointer">
+                        <div class="flex items-center gap-2">
+                            <span>Wizardry Spell</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M11.5 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L11 2.707V14.5a.5.5 0 0 0 .5.5zm-7-14a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L4 13.293V1.5a.5.5 0 0 1 .5-.5z"/>
+                            </svg>
+                        </div>
+                    </th>
+                    <th onclick="sort_table(1, this)" class="cursor-pointer">
+                        <div class="flex items-center gap-2">
+                            <div class="flex flex-col justify-center">
+                                <span>Spirit Cost</span>
+                            </div>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M11.5 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L11 2.707V14.5a.5.5 0 0 0 .5.5zm-7-14a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L4 13.293V1.5a.5.5 0 0 1 .5-.5z"/>
+                            </svg>
+                        </div>
+                    </th>
+                    <th onclick="sort_table(2, this)" class="cursor-pointer">
+                        <div class="flex items-center gap-2">
+                            <div class="flex flex-col justify-center">
+                                <span>Virtue Requirement</span>
+                            </div>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M11.5 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L11 2.707V14.5a.5.5 0 0 0 .5.5zm-7-14a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L4 13.293V1.5a.5.5 0 0 1 .5-.5z"/>
+                            </svg>
+                        </div>
+                    </th>
+                    <th>Morale Requirement</th>
+                    <th>Description</th>
+                </tr>
+
+                <!-- ==========
+                Content
+                ========== -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Frost Lance</span>
+                        <img class="object-none" src="./img/frost_lance.png" alt="">
+                    </div></td>
+                    <td>260</td>
+                    <td>1</td>
+                    <td>0</td>
+                    <td>
+                        Summons a sharply pointed icicle to the front. The icile will accelerate forward or toward the target you
+                        locked on to prior to casting the spell.
                     </td>
                 </tr>
             </table>
@@ -1011,9 +1341,6 @@
                 <span>LiuKang1080, SacredForce</span>
                 <span>Link to the Wo Long: Fallen Dynasty Data Doc by ShinSeiKen: <a class="text-sky-500 font-bold" 
                     href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQHvS8111EBIv01FqnOnJJ5Iv6HUsicqnlu-l9pVXoOHLBKOfMD7YGdjJnTMcb_LTDuc_Ux9ATrJfNZ/pubhtml#"
-                    target="_blank" rel="noopener noreferrer">here</a></span>
-                <span>Link to the Martial Arts google doc: <a class="text-sky-500 font-bold" 
-                    href="https://docs.google.com/spreadsheets/d/1b4IWj0avgNtueRyFFWa_vwOj1JxX93pHqDQEJcJ2Vgw/edit#gid=0" 
                     target="_blank" rel="noopener noreferrer">here</a></span>
             </div>
         </div>
