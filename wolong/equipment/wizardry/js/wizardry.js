@@ -89,7 +89,7 @@ function sort_table(n, event) {
                 x_inner_text = x.firstElementChild.firstElementChild.innerText;
                 y_inner_text = y.firstElementChild.firstElementChild.innerText;
             } else {
-                // The user clicked on the 3rd TD, get the inner text and convert it to a number
+                // The user clicked on the 2nd or 3rd TD, get the inner text and convert it to a number
                 x_inner_text = Number(x.innerText);
                 y_inner_text = Number(y.innerText);
             }

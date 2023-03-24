@@ -238,10 +238,10 @@
             <ol class="list-decimal list-inside text-xl text-sky-400">
                 <li><a class="hover:text-sky-600" href="javascript: wood()">Wood Phase Wizardry Spells</a></li>
                 <li><a class="hover:text-sky-600" href="javascript: fire()">Fire Phase Wizardry Spells</a></li>
-                <li><a class="hover:text-sky-600" href="javascript: ">Earth Phase Wizardry Spells</a></li>
-                <li><a class="hover:text-sky-600" href="javascript: ">Metal Phase Wizardry Spells</a></li>
-                <li><a class="hover:text-sky-600" href="javascript: ">Water Phase Wizardry Spells</a></li>
-                <li><a class="hover:text-sky-600" href="javascript: ">Credits</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: earth()">Earth Phase Wizardry Spells</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: metal()">Metal Phase Wizardry Spells</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: water()">Water Phase Wizardry Spells</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: credits()">Credits</a></li>
             </ol>
         </div>
     </section>
@@ -738,6 +738,260 @@
                         <br><br>
 
                         Shoots a stream of fire from both hands, engulfing nearby enemies in flames.
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ==========
+    Earth Phase Wizardry Spells
+    ========== ========== ========== -->    
+    <section id="earth" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded relative overflow-x-auto
+            2xl:max-w-section-width lg:px-16">
+
+            <!-- ==========
+            section header
+            ========== -->
+            <img src="./img/earth_logo.png" alt="">
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Earth Phase Wizardry Spells</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <!-- ==========
+            Table
+            ========== -->
+            <table id="earth_table" class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th onclick="sort_table(0, this)" class="cursor-pointer">
+                        <div class="flex items-center gap-2">
+                            <span>Wizardry Spell</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M11.5 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L11 2.707V14.5a.5.5 0 0 0 .5.5zm-7-14a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L4 13.293V1.5a.5.5 0 0 1 .5-.5z"/>
+                            </svg>
+                        </div>
+                    </th>
+                    <th onclick="sort_table(1, this)" class="cursor-pointer">
+                        <div class="flex items-center gap-2">
+                            <div class="flex flex-col justify-center">
+                                <span>Spirit Cost</span>
+                            </div>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M11.5 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L11 2.707V14.5a.5.5 0 0 0 .5.5zm-7-14a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L4 13.293V1.5a.5.5 0 0 1 .5-.5z"/>
+                            </svg>
+                        </div>
+                    </th>
+                    <th onclick="sort_table(2, this)" class="cursor-pointer">
+                        <div class="flex items-center gap-2">
+                            <div class="flex flex-col justify-center">
+                                <span>Virtue Requirement</span>
+                            </div>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M11.5 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L11 2.707V14.5a.5.5 0 0 0 .5.5zm-7-14a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L4 13.293V1.5a.5.5 0 0 1 .5-.5z"/>
+                            </svg>
+                        </div>
+                    </th>
+                    <th>Morale Requirement</th>
+                    <th>Description</th>
+                </tr>
+
+                <!-- ==========
+                Content
+                ========== -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Rock Spike</span>
+                        <img class="object-none" src="./img/rock_spike.png" alt="">
+                    </div></td>
+                    <td>360</td>
+                    <td>1</td>
+                    <td>0</td>
+                    <td>
+                        Summons rock pillars in front of you. They will explode and knock the enemies away upon contact.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Enhanced Defense</span>
+                        <img class="object-none" src="./img/enhanced_defense.png" alt="">
+                    </div></td>
+                    <td>630</td>
+                    <td>2</td>
+                    <td>3</td>
+                    <td>
+                        For a certain period of time, you receive less damage from enemeies and will not flinch except from some
+                        powerful attacks.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Mighty Shockwave</span>
+                        <img class="object-none" src="./img/mighty_shockwave.png" alt="">
+                    </div></td>
+                    <td>520</td>
+                    <td>3</td>
+                    <td>7</td>
+                    <td>
+                        Unleashes a shockwave around you that will blow away nearby enemies.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Quakebound</span>
+                        <img class="object-none" src="./img/quakebound.png" alt="">
+                    </div></td>
+                    <td>470</td>
+                    <td>4</td>
+                    <td>0</td>
+                    <td>
+                        For a certain period of time, grants an ability to increase enemies' Stone ailment accumulation by 
+                        deflecting.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Stone Weapon</span>
+                        <img class="object-none" src="./img/stone_weapon.png" alt="">
+                    </div></td>
+                    <td>680</td>
+                    <td>12</td>
+                    <td>7</td>
+                    <td>
+                        For a certain period of time, enchants your current melee weapon with Stone.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Rock Toughness</span>
+                        <img class="object-none" src="./img/rock_toughness.png" alt="">
+                    </div></td>
+                    <td>840</td>
+                    <td>6</td>
+                    <td>7</td>
+                    <td>
+                        Reduces Spirit damage received from enemy attacks, and grants a single-use effect that prevents your 
+                        Morale Rank from decreasing when you are dealt a Critical Blow by an enemy.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Deathly Bog</span>
+                        <img class="object-none" src="./img/deathly_bog.png" alt="">
+                    </div></td>
+                    <td>630</td>
+                    <td>15</td>
+                    <td>7</td>
+                    <td>
+                        Creates a bog in the nearby area. This bog will cause damage over time to enemies touching it, as well as
+                        decrease their movement speed.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Sandsink</span>
+                        <img class="object-none" src="./img/sandsink.png" alt="">
+                    </div></td>
+                    <td>360</td>
+                    <td>15</td>
+                    <td>3</td>
+                    <td>
+                        Generates a whirlpool of sand that draws enemies into its center.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Imposing Slab</span>
+                        <img class="object-none" src="./img/imposing_slab.png" alt="">
+                    </div></td>
+                    <td>730</td>
+                    <td>8</td>
+                    <td>7</td>
+                    <td>
+                        Generates rock pillars in front of you that linger temporarily and explode when enemies touch them.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Force Blow</span>
+                        <img class="object-none" src="./img/force_blow.png" alt="">
+                    </div></td>
+                    <td>310</td>
+                    <td>10</td>
+                    <td>0</td>
+                    <td>
+                        Unleases an attack using the power of Earth Phase.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Lion's Roar</span>
+                        <img class="object-none" src="" alt="">
+                    </div></td>
+                    <td>520</td>
+                    <td>20</td>
+                    <td>7</td>
+                    <td>
+                        <span class="text-red-500">Unlock Requirement</span>: Complete the mission - 
+                        <a class="text-sky-400 hover:text-sky-600" href="">Wizardry Spell Mastery</a>
+                        <br><br>
+
+                        Lets out a shout that generates a shockwave. Enemies hit will be forced to lock on to you. Also decreaes
+                        damage taken from enemy attacks for a certain period of time.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Illusionary Shell</span>
+                        <img class="object-none" src="" alt="">
+                    </div></td>
+                    <td>1050</td>
+                    <td>40</td>
+                    <td>15</td>
+                    <td>
+                        <span class="text-red-500">Unlock Requirement</span>: Complete the mission - 
+                        <a class="text-sky-400 hover:text-sky-600" href="">Wizardry Spell Mastery</a>
+                        <br><br>
+
+                        For a certain period of time, creates an invisible shield around you tht absorbs a certain amount of 
+                        damage.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Boulder Knuckles</span>
+                        <img class="object-none" src="" alt="">
+                    </div></td>
+                    <td>630</td>
+                    <td>25</td>
+                    <td>7</td>
+                    <td>
+                        <span class="text-red-500">Unlock Requirement</span>: Complete the mission - 
+                        <a class="text-sky-400 hover:text-sky-600" href="">The Scarlet Crystal</a>
+                        <br><br>
+
+                        Imbues you with the power of Earth Phase and allows you to perform a frontal jab. This attacks deals more
+                        damage in inverse proportion to your current HP percentage.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center">
+                        <span>Fiend Vanquisher</span>
+                        <img class="object-none" src="" alt="">
+                    </div></td>
+                    <td>520</td>
+                    <td>30</td>
+                    <td>12</td>
+                    <td>
+                        <span class="text-red-500">Unlock Requirement</span>: Complete the mission - 
+                        <a class="text-sky-400 hover:text-sky-600" href="">The Scarlet Crystal</a>
+                        <br><br>
+
+                        Allows you to charge foward using the power of Earth Phase. You will not falter while charging unless an
+                        enemy's attack is sufficiently powerful. MOve farther by holding down the input for Wizardry Spells.
                     </td>
                 </tr>
             </table>
