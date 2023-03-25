@@ -114,14 +114,18 @@ Part 3: Corruption
     ==========
     Fall of the Corrupted Eunuch (Main Battlefield)
     ==========
-        - 
+        - Demon Spider
+        - Demonized Soldier
+        - Demonized Officer
+        - Demonized Fanatic
+        - Huoshu
+        - Han Solider
+        - Han Champion
+        - Shuigui
+        - Baishe (boss) (first time)
+        - Dogs
+        - Assassin (first time)
+        - Changgui
+        - Zhang Rang (boss) (first time)
 
     
-
-
-
-
-
-
-
-
