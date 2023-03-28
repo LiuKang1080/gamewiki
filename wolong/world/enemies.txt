@@ -128,4 +128,44 @@ Part 3: Corruption
         - Changgui
         - Zhang Rang (boss) (first time)
 
+    ==========
+    Escape From the Capital (Sub Battlefield)
+    ==========
+        - Dong Zhuo Soldier
+        - Dong Zhuo Bandit
+        - Demonized Warlock
+        - Dong Zhuo Champion
+        - Demonized Fanatic
+        - Demonized Soldier
+        - Li Jue (boss) (first time)
+        - Guo Si (boss) (first time)
+
+    ==========
+    The Valorous Trio (Sub Battlefield)
+    ==========
+        - Huoshu
+        - Shuigui
+        - Changgui
+        - Zhuyan
+
+
+========== ========== ========== ========== ==========
+Part 4: Tyranny
+========== ========== ========== ========== ==========
+    ==========
+    The Battle of Hulaoguan Pass (Main Battlefield)
+    ==========
+        - Dong Zhuo Soldier
+        - Dong Zhuo Bandit
+        - Dong Zhuo Champion
+        - Demonized Warlock
+        - Xu Rong
+        - Giant Wrestler (first time)
+        - Demonized Fanatic
+        - Demonized Soldier
+        - Changgui
+        - Zhuyan
+        - Hua Xiong (boss) (first time)
+        - Lu Bu (boss) (first time)
+
     

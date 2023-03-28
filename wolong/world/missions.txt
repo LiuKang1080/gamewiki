@@ -281,5 +281,50 @@ Part 3: Corruption
             - X1 Han Soldier Footwear
             - X1 Han Soldier Bracers
 
-    
+    ==========
+    The Valorous Trio (Sub Battlefield)
+    ==========    
+        - Recommended level: 35
+        - Battle Flags: 3
+        - Marking Flags: 0
+        - Number of Shitieshou: 0
+        - Golden Cicada Shell: 0
+        - Dragon Vein Crystals: 0
+        - Dragon Vein Essence: 0
+        - Tablets: 0
+        - Bosses: 
+            - Zhuyan
+        - Divine Beasts Unlocked: 
+            - None
+        - Mission Rewards: 
+            - X3 Rank 4 Steel
+            - X1 White Wooden Cudgel
+            - X1 Decorative Knot
+            - X1 Bronze Spear
+
+
+========== ========== ========== ========== ==========
+Part 4: Tyranny
+========== ========== ========== ========== ==========
+    ==========
+    The Battle of Hulaoguan Pass (Main Battlefield)
+    ==========
+        - Recommended level: 37
+        - Battle Flags: 6
+        - Marking Flags: 7
+        - Number of Shitieshou: 1
+        - Golden Cicada Shell: 1
+        - Dragon Vein Crystals: 0
+        - Dragon Vein Essence: 1
+        - Tablets: 2
+        - Bosses: 
+            - Hua Xiong
+            - Lu Bu
+        - Divine Beasts Unlocked: 
+            - 
+        - Mission Rewards: 
+            - X3 Rank 4 Leather
+            - X1 Dong Zhuo Officer Helmet
+            - X1 Dong Zhuo Armor
+            - X1 Heavy Cavalry Spear
 
