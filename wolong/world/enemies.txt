@@ -5,6 +5,21 @@ TEMPLATE ()
 
 
 ========== ========== ========== ========== ==========
+Hidden Village of Mt.Tianzhushan
+========== ========== ========== ========== ==========
+    ==========
+    Wizardry Spell Mastery (Sub Battlefield)
+    ==========
+        - Demonized Fanatic
+        - Demonized Officer
+        - Demonized Warlock
+        - Suanyu
+        - Huoshu
+        - Zhuyan
+        - Zhupolong
+
+
+========== ========== ========== ========== ==========
 Part 1: Encounter
 ========== ========== ========== ========== ==========
     ==========
@@ -168,4 +183,9 @@ Part 4: Tyranny
         - Hua Xiong (boss) (first time)
         - Lu Bu (boss) (first time)
 
-    
+    ==========
+    Like Father, Like Son (Sub Battlefield)
+    ==========
+        - Sun Ce (boss) (first time)
+        - Sun Jian (boss) (first time)
+

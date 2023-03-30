@@ -39,7 +39,7 @@ Moon Break
 Mountain Buster (boss skill)
 Mountain Strike
 Nightbird Spin (boss skill)
-Panther's Grit (boss skill)
+[done] Panther's Grit (boss skill)
 Parting Grass (boss skill)
 Peach Blossom
 [done] Phoenix Wings

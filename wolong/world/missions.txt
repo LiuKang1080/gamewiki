@@ -32,11 +32,15 @@ Hidden Village of Mt.Tianzhushan
         - Dragon Vein Essence: 0
         - Tablets: 0
         - Bosses: 
-            - 
+            - None
         - Divine Beasts Unlocked: 
-            - 
+            - None
         - Mission Rewards: 
             - Unlocks a tier of Wizardry Spells
+            - X1 Mystic Crane
+            - X1 Talismanic Water
+            - X2 Elixir
+            - X1 Lieutenant-General Greaves
 
 
 ========== ========== ========== ========== ==========
@@ -321,10 +325,33 @@ Part 4: Tyranny
             - Hua Xiong
             - Lu Bu
         - Divine Beasts Unlocked: 
-            - 
+            - None
         - Mission Rewards: 
             - X3 Rank 4 Leather
             - X1 Dong Zhuo Officer Helmet
             - X1 Dong Zhuo Armor
             - X1 Heavy Cavalry Spear
+
+    ==========
+    Like Father, Like Son (Sub Battlefield)
+    ==========
+        - Recommended level: 41
+        - Battle Flags: 1 (auto)
+        - Marking Flags: 0
+        - Number of Shitieshou: 0
+        - Golden Cicada Shell: 0
+        - Dragon Vein Crystals: 0
+        - Dragon Vein Essence: 0
+        - Tablets: 0
+        - Bosses: 
+            - Sun Ce
+            - Sun Jian
+        - Divine Beasts Unlocked: 
+            - None
+        - Mission Rewards: 
+            - X2 Rank 4 Steel
+            - X1 Qiang Scimitar
+            - X1 Dual Marquis Halberds
+            - X1 Dong Zhuo Soldier Cap
+
 
