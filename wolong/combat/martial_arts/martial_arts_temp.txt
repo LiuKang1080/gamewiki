@@ -5,13 +5,13 @@ Blossom Stream
 Boulder Glide (boss skill)
 Cosmic Syzygy (boss skill)
 Crescent Gale (boss skill)
-Dawning Sky (boss skill)
+[done] Dawning Sky (boss skill)
 [done] Dragon Flash
 [done] Dragon Slayer
 [done] Dragontail Whip
 [done] Drifting Cloud
 [done] Earth Shaper
-Emerging Dragon
+[done] Emerging Dragon
 Endless Flowering (boss skill)
 [done] Falcon Strike
 Falling Leaf (boss skill)
@@ -19,8 +19,8 @@ Falling Leaves
 Fanning Peacock (boss skill)
 Feasting Ursine (boss skill)
 [done] Goshawk's Dance
-Gouging Star
-Heaven Divide
+[done] Gouging Star
+[done] Heaven Divide
 Heaven Reversal
 Hidden Undercurrents (boss skill)
 [done] Horn Strike
@@ -35,7 +35,7 @@ Lightspeed Gust (boss skill)
 [done] Meteoric Strike
 Mongrel's Rampart (boss skill)
 [done] Monkey's Wisdom
-Moon Break
+[done] Moon Break
 Mountain Buster (boss skill)
 Mountain Strike
 Nightbird Spin (boss skill)
@@ -44,25 +44,25 @@ Parting Grass (boss skill)
 Peach Blossom
 [done] Phoenix Wings
 Plum Rend
-Plummeting Ape
+[done] Plummeting Ape
 Prancing Dragon (boss skill)
-Python Turnover (boss skill)
+[done] Python Turnover (boss skill)
 Rising Tides
-Rock Crash
+[done] Rock Crash
 Scattered Leaves
 Sea Split
 Serpent's Torment
 Shimmering Sun (boss skill)
 Skyward Evergreen
 Soaring Phoenix (boss skill)
-Stag Hunter
+[done] Stag Hunter
 [done] Star Fall
 Starlight Blade (boss skill)
 Stone Shatter
 Sudden Tornado
 Sun Piercer (boss skill)
 [done] Swift Lightning
-Sword of Chaos (boss skill)
+[done] Sword of Chaos (boss skill)
 Thorn Cleave (boss skill)
 Thorn Prick
 Thunderous Impact (boss skill)
