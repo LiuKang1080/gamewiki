@@ -15,17 +15,17 @@ Crescent Gale (boss skill)
 Endless Flowering (boss skill)
     [done] Falcon Strike
 Falling Leaf (boss skill)
-Falling Leaves
+    [done] Falling Leaves
 Fanning Peacock (boss skill)
 Feasting Ursine (boss skill)
     [done] Goshawk's Dance
     [done] Gouging Star
     [done] Heaven Divide
-Heaven Reversal
+    [done] Heaven Reversal
 Hidden Undercurrents (boss skill)
     [done] Horn Strike
     [done] Ill Wind
-Impregnable Keep
+    [done] Impregnable Keep
     [done] Increscent Slash
     [done] Iron Calf
 Lightspeed Gust (boss skill)
@@ -37,13 +37,13 @@ Mongrel's Rampart (boss skill)
     [done] Monkey's Wisdom
     [done] Moon Break
 Mountain Buster (boss skill)
-Mountain Strike
+    [done] Mountain Strike
 Nightbird Spin (boss skill)
     [done] Panther's Grit (boss skill)
 Parting Grass (boss skill)
-Peach Blossom
+    [done] Peach Blossom
     [done] Phoenix Wings
-Plum Rend
+    [done] Plum Rend
     [done] Plummeting Ape
 Prancing Dragon (boss skill)
     [done] Python Turnover (boss skill)
