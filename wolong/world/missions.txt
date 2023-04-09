@@ -357,18 +357,21 @@ Part 4: Tyranny
     ==========
     Centuries of Glory Burned Away (Main Battlefield)
     ==========
-        - Recommended level: 
-        - Battle Flags: 
-        - Marking Flags: 
-        - Number of Shitieshou: 
-        - Golden Cicada Shell: 
-        - Dragon Vein Crystals: 
-        - Dragon Vein Essence: 
-        - Tablets: 
+        - Recommended level: 43
+        - Battle Flags: 6
+        - Marking Flags: 8
+        - Number of Shitieshou: 1
+        - Golden Cicada Shell: 2
+        - Dragon Vein Crystals: 1
+        - Dragon Vein Essence: 0
+        - Tablets: 3
         - Bosses: 
-            - 
+            - Taotie
         - Divine Beasts Unlocked: 
-            - 
+            - Tengshe
         - Mission Rewards: 
-            - 
+            - X1 Heatproof Ice
+            - X2 Rank 5 Steel
+            - X1 Wolf Fang Club
+            - X1 Bronze Liubo Dice
 

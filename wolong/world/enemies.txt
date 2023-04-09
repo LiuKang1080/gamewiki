@@ -192,5 +192,18 @@ Part 4: Tyranny
     ==========
     Centuries of Glory Burned Away (Main Battlefield)
     ==========
-        - 
+        - Demonized Fanatic
+        - Demonized Soldier
+        - Huoshu
+        - Dong Zhuo Soldier
+        - Dong Zhuo Champion
+        - Demonized Officer
+        - Corpse Demon (first time)
+        - Demon Spider
+        - Shuigui
+        - Niu Fu (first time) (invasion)
+        - Demonized Warlock
+        - Suanyu
+        - Taotie (boss) (first time)
 
+    
