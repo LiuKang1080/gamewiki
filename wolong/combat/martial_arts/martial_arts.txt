@@ -34,7 +34,7 @@ Sword:
     - Dawning Sky
     - Starlight Blade
     - Sun Piercer
-    - Sword of Chaos
+    - [done] [done] Sword of Chaos
 
 
 Curved Sabre:
