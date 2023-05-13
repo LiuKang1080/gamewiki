@@ -2,99 +2,99 @@ Achievements:
 (THE ORDER MATTERS!!!)
 
 Base Game:
-    - [done] Dawn of a Dream
-    - [done] An Electrifying Triumph
-    - [done] Hideyoshi
-    - [done] The Paths We Tread
-    - [done] Dream's Toll
-    - [done] Mother and Child
-    - [done] What is Written
-    - [done] Dream Within a Dream
-    - [done] Bold Wrangler
-    - [done] Grazer Eraser
-    - [done] Devout Believer
-    - [done] Feather Buster
-    - [done] Schemer
-    - [done] Hidden Hopes
-    - [done] Peal of Ten Thousand Bells
-    - [done] Clean Sweep
-    - [done] Seven Wonders
-    - [done] Core Score
-    - [done] Spa Healer
-    - [done] The Beginning of a Samurai
-    - [done] Full-Fledged Samurai
-    - [done] Sudama Swapper
-    - [done] Trinket Triumph
-    - [done] A Weapon's Mind
-    - [done] Help Wanted
-    - [done] Lover of Letters
-    - [done] Friend of Guardians
-    - [done] Burst Breaker
-    - [done] Latest Masterpiece
-    - [done] Match Made in Heaven
-    - [done] Friend to the Kodama
-    - [done] Remodeling Novice
-    - [done] Twilight Walker
-    - [done] Teamwork
-    - [done] Seasoned Traveler
-    - [done] Yokai Quelling Master
-    - [done] Fuse It or Lose It
-    - [done] Sword Master
-    - [done] Dual Sword Master
-    - [done] Spear Master
-    - [done] Axe Master
-    - [done] Kusarigama Master
-    - [done] Odachi Master
-    - [done] Tonfa Master
-    - [done] Hatchet Master
-    - [done] Switchglave Master
-    - [done] Splitstaff Master
-    - [done] Fist Master
-    - [done] Ninjutsu Master
-    - [done] Onmyo Magic Master
-    - [done] Soul Searcher
-    - [done] Let There Be Light
-    - [done] Kodama Leader
-    - [done] Spa Lover
-    - [done] Tea Connoisseur
-    - [done] Dungball Roller
+    - Dawn of a Dream
+    - An Electrifying Triumph
+    - Hideyoshi
+    - The Paths We Tread
+    - Dream's Toll
+    - Mother and Child
+    - What is Written
+    - Dream Within a Dream
+    - Bold Wrangler
+    - Grazer Eraser
+    - Devout Believer
+    - Feather Buster
+    - Schemer
+    - Hidden Hopes
+    - Peal of Ten Thousand Bells
+    - Clean Sweep
+    - Seven Wonders
+    - Core Score
+    - Spa Healer
+    - The Beginning of a Samurai
+    - Full-Fledged Samurai
+    - Sudama Swapper
+    - Trinket Triumph
+    - A Weapon's Mind
+    - Help Wanted
+    - Lover of Letters
+    - Friend of Guardians
+    - Burst Breaker
+    - Latest Masterpiece
+    - Match Made in Heaven
+    - Friend to the Kodama
+    - Remodeling Novice
+    - Twilight Walker
+    - Teamwork
+    - Seasoned Traveler
+    - Yokai Quelling Master
+    - Fuse It or Lose It
+    - Sword Master
+    - Dual Sword Master
+    - Spear Master
+    - Axe Master
+    - Kusarigama Master
+    - Odachi Master
+    - Tonfa Master
+    - Hatchet Master
+    - Switchglave Master
+    - Splitstaff Master
+    - Fist Master
+    - Ninjutsu Master
+    - Onmyo Magic Master
+    - Soul Searcher
+    - Let There Be Light
+    - Kodama Leader
+    - Spa Lover
+    - Tea Connoisseur
+    - Dungball Roller
 
 Tengu's Disciple (DLC 1):
-    - [done] A Kindred Light
-    - [done] The Will to Fight
-    - [done] Casting Out the Shadows
-    - [done] Poetry in Motion
-    - [done] Sundering Arrows
-    - [done] Heretical Glow
-    - [done] Tengu Crusher
-    - [done] Demonic Parade-Goer
-    - [done] Kodama General
-    - [done] Spa Addict
+    - A Kindred Light
+    - The Will to Fight
+    - Casting Out the Shadows
+    - Poetry in Motion
+    - Sundering Arrows
+    - Heretical Glow
+    - Tengu Crusher
+    - Demonic Parade-Goer
+    - Kodama General
+    - Spa Addict
 
 Darkness In The Capital (DLC 2):
-    - [done] The Demon and the Phoenix
-    - [done] Guardian of the Gate
-    - [done] What Must Be Done
-    - [done] The Ultimate Recognition
-    - [done] The Flame That Lights the Darkness
-    - [done] Tsuchigumo Exterminated
-    - [done] Behind the Bamboo Blinds
-    - [done] True Atonement
-    - [done] Kodama Pathfinder
-    - [done] Spa Fanatic
+    - The Demon and the Phoenix
+    - Guardian of the Gate
+    - What Must Be Done
+    - The Ultimate Recognition
+    - The Flame That Lights the Darkness
+    - Tsuchigumo Exterminated
+    - Behind the Bamboo Blinds
+    - True Atonement
+    - Kodama Pathfinder
+    - Spa Fanatic
 
 The First Samurai (DLC 3):
-    - [done] All Things Begin
-    - [done] A Dream of Peace
-    - [done] The Demon's Den
-    - [done] Spirit Guide
-    - [done] Spa Connoisseur
-    - [done] Way of the Vanquisher
-    - [done] The Path We've Taken
-    - [done] Cleansing Caskmaster
-    - [done] Honoring the Dead
-    - [done] Scent of Danger
-    - [done] A Friend Indeed
+    - All Things Begin
+    - A Dream of Peace
+    - The Demon's Den
+    - Spirit Guide
+    - Spa Connoisseur
+    - Way of the Vanquisher
+    - The Path We've Taken
+    - Cleansing Caskmaster
+    - Honoring the Dead
+    - Scent of Danger
+    - A Friend Indeed
 
 Platinum:
     - [done] You Are Nioh
