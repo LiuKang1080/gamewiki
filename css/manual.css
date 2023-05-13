@@ -28,8 +28,8 @@ table {
 
 th, td {
     padding: 0.6em;
-    border: 1px solid #1c1917;
     border-collapse: collapse;
+    border: 1px solid #1c1917;
     text-align: center;
 }
 

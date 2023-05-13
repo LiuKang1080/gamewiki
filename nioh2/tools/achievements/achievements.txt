@@ -2,12 +2,12 @@ Achievements:
 (THE ORDER MATTERS!!!)
 
 Base Game:
-    - Dawn of a Dream
-    - An Electrifying Triumph
-    - Hideyoshi
-    - The Paths We Tread
-    - Dream's Toll
-    - Mother and Child
+    - [done] [done] Dawn of a Dream
+    - [done] [done] An Electrifying Triumph
+    - [done] [done] Hideyoshi
+    - [done] [done] The Paths We Tread
+    - [done] [done] Dream's Toll
+    - [done] [done] Mother and Child
     - What is Written
     - Dream Within a Dream
     - Bold Wrangler
@@ -97,4 +97,4 @@ The First Samurai (DLC 3):
     - A Friend Indeed
 
 Platinum:
-    - [done] You Are Nioh
+    - [done] [done] You Are Nioh

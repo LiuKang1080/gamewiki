@@ -620,6 +620,10 @@ video {
   height: auto;
 }
 
+.h-full {
+  height: 100%;
+}
+
 .min-h-screen {
   min-height: 100vh;
 }
@@ -862,9 +866,34 @@ video {
   background-attachment: fixed;
 }
 
+.object-contain {
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.object-cover {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.object-fill {
+  -o-object-fit: fill;
+     object-fit: fill;
+}
+
 .object-none {
   -o-object-fit: none;
      object-fit: none;
+}
+
+.object-scale-down {
+  -o-object-fit: scale-down;
+     object-fit: scale-down;
+}
+
+.object-top {
+  -o-object-position: top;
+     object-position: top;
 }
 
 .p-1 {
