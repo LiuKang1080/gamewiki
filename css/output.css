@@ -862,11 +862,6 @@ video {
   background-attachment: fixed;
 }
 
-.object-none {
-  -o-object-fit: none;
-     object-fit: none;
-}
-
 .p-1 {
   padding: 0.25rem;
 }
@@ -952,6 +947,11 @@ video {
 .text-4xl {
   font-size: 2.25rem;
   line-height: 2.5rem;
+}
+
+.text-5xl {
+  font-size: 3rem;
+  line-height: 1;
 }
 
 .text-6xl {
@@ -1120,6 +1120,11 @@ video {
 
   .md\:place-self-center {
     place-self: center;
+  }
+
+  .md\:text-6xl {
+    font-size: 3.75rem;
+    line-height: 1;
   }
 }
 
