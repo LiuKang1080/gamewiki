@@ -8,8 +8,8 @@ Base Game:
     - [done] [done] The Paths We Tread
     - [done] [done] Dream's Toll
     - [done] [done] Mother and Child
-    - What is Written
-    - Dream Within a Dream
+    - [done] [done] What is Written
+    - [done] [done] Dream Within a Dream
     - Bold Wrangler
     - Grazer Eraser
     - Devout Believer
