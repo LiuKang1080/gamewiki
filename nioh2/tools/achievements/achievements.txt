@@ -10,49 +10,49 @@ Base Game:
     - [done] [done] Mother and Child
     - [done] [done] What is Written
     - [done] [done] Dream Within a Dream
-    - Bold Wrangler
-    - Grazer Eraser
-    - Devout Believer
-    - Feather Buster
-    - Schemer
-    - Hidden Hopes
-    - Peal of Ten Thousand Bells
-    - Clean Sweep
-    - Seven Wonders
-    - Core Score
-    - Spa Healer
-    - The Beginning of a Samurai
-    - Full-Fledged Samurai
-    - Sudama Swapper
-    - Trinket Triumph
-    - A Weapon's Mind
-    - Help Wanted
-    - Lover of Letters
-    - Friend of Guardians
-    - Burst Breaker
-    - Latest Masterpiece
-    - Match Made in Heaven
-    - Friend to the Kodama
-    - Remodeling Novice
-    - Twilight Walker
-    - Teamwork
-    - Seasoned Traveler
-    - Yokai Quelling Master
-    - Fuse It or Lose It
-    - Sword Master
-    - Dual Sword Master
-    - Spear Master
-    - Axe Master
-    - Kusarigama Master
-    - Odachi Master
-    - Tonfa Master
-    - Hatchet Master
-    - Switchglave Master
-    - Splitstaff Master
-    - Fist Master
-    - Ninjutsu Master
-    - Onmyo Magic Master
-    - Soul Searcher
+    - [done] [done] Bold Wrangler
+    - [done] [done] Grazer Eraser
+    - [done] [done] Devout Believer
+    - [done] [done] Feather Buster
+    - [done] [done] Schemer
+    - [done] [done] Hidden Hopes
+    - [done] [done] Peal of Ten Thousand Bells
+    - [done] [done] Clean Sweep
+    - [done] [done] Seven Wonders
+    - [done] [done] Core Score
+    - [done] [done] Spa Healer
+    - [done] [done] The Beginning of a Samurai
+    - [done] [done] Full-Fledged Samurai
+    - [done] [done] Sudama Swapper
+    - [done] [done] Trinket Triumph
+    - [done] [done] A Weapon's Mind
+    - [done] [done] Help Wanted
+    - [done] [done] Lover of Letters
+    - [done] [done] Friend of Guardians
+    - [done] [done] Burst Breaker
+    - [done] [done] Latest Masterpiece
+    - [done] [done] Match Made in Heaven
+    - [done] [done] Friend to the Kodama
+    - [done] [done] Remodeling Novice
+    - [done] [done] Twilight Walker
+    - [done] [done] Teamwork
+    - [done] [done] Seasoned Traveler
+    - [done] [done] Yokai Quelling Master
+    - [done] [done] Fuse It or Lose It
+    - [done] [done] Sword Master
+    - [done] [done] Dual Sword Master
+    - [done] [done] Spear Master
+    - [done] [done] Axe Master
+    - [done] [done] Kusarigama Master
+    - [done] [done] Odachi Master
+    - [done] [done] Tonfa Master
+    - [done] [done] Hatchet Master
+    - [done] [done] Switchglave Master
+    - [done] [done] Splitstaff Master
+    - [done] [done] Fist Master
+    - [done] [done] Ninjutsu Master
+    - [done] [done] Onmyo Magic Master
+    - [done] [done] Soul Searcher
     - Let There Be Light
     - Kodama Leader
     - Spa Lover
