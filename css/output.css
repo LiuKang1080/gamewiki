@@ -691,10 +691,6 @@ video {
   flex-wrap: wrap;
 }
 
-.place-content-center {
-  place-content: center;
-}
-
 .items-start {
   align-items: flex-start;
 }
@@ -739,14 +735,6 @@ video {
   gap: 1.5rem;
 }
 
-.gap-12 {
-  gap: 3rem;
-}
-
-.gap-9 {
-  gap: 2.25rem;
-}
-
 .divide-y > :not([hidden]) ~ :not([hidden]) {
   --tw-divide-y-reverse: 0;
   border-top-width: calc(1px * calc(1 - var(--tw-divide-y-reverse)));
@@ -760,10 +748,6 @@ video {
 
 .place-self-start {
   place-self: start;
-}
-
-.place-self-center {
-  place-self: center;
 }
 
 .self-end {
@@ -932,10 +916,6 @@ video {
 .py-8 {
   padding-top: 2rem;
   padding-bottom: 2rem;
-}
-
-.text-left {
-  text-align: left;
 }
 
 .text-center {
