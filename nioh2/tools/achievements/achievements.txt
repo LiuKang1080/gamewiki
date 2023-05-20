@@ -53,14 +53,14 @@ Base Game:
     - [done] [done] Ninjutsu Master
     - [done] [done] Onmyo Magic Master
     - [done] [done] Soul Searcher
-    - Let There Be Light
-    - Kodama Leader
-    - Spa Lover
-    - Tea Connoisseur
-    - Dungball Roller
+    - [done] [done] Let There Be Light
+    - [done] [done] Kodama Leader
+    - [done] [done] Spa Lover
+    - [done] [done] Tea Connoisseur
+    - [done] [done] Dungball Roller
 
 Tengu's Disciple (DLC 1):
-    - A Kindred Light
+    - [done] [done] A Kindred Light
     - The Will to Fight
     - Casting Out the Shadows
     - Poetry in Motion
