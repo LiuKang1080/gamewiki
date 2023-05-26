@@ -84,17 +84,17 @@ Darkness In The Capital (DLC 2):
     - [done] [done] Spa Fanatic
 
 The First Samurai (DLC 3):
-    - All Things Begin
-    - A Dream of Peace
-    - The Demon's Den
-    - Spirit Guide
-    - Spa Connoisseur
-    - Way of the Vanquisher
-    - The Path We've Taken
-    - Cleansing Caskmaster
-    - Honoring the Dead
-    - Scent of Danger
-    - A Friend Indeed
+    - [done] [done] All Things Begin
+    - [done] [done] A Dream of Peace
+    - [done] [done] The Demon's Den
+    - [done] [done] Spirit Guide
+    - [done] [done] Spa Connoisseur
+    - [done] [done] Way of the Vanquisher
+    - [done] [done] The Path We've Taken
+    - [done] [done] Cleansing Caskmaster
+    - [done] [done] Honoring the Dead
+    - [done] [done] Scent of Danger
+    - [done] [done] A Friend Indeed
 
 Platinum:
     - [done] [done] You Are Nioh
