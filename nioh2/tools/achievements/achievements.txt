@@ -72,16 +72,16 @@ Tengu's Disciple (DLC 1):
     - [done] [done] Spa Addict
 
 Darkness In The Capital (DLC 2):
-    - The Demon and the Phoenix
-    - Guardian of the Gate
-    - What Must Be Done
-    - The Ultimate Recognition
-    - The Flame That Lights the Darkness
-    - Tsuchigumo Exterminated
-    - Behind the Bamboo Blinds
-    - True Atonement
-    - Kodama Pathfinder
-    - Spa Fanatic
+    - [done] [done] The Demon and the Phoenix
+    - [done] [done] Guardian of the Gate
+    - [done] [done] What Must Be Done
+    - [done] [done] The Ultimate Recognition
+    - [done] [done] The Flame That Lights the Darkness
+    - [done] [done] Tsuchigumo Exterminated
+    - [done] [done] Behind the Bamboo Blinds
+    - [done] [done] True Atonement
+    - [done] [done] Kodama Pathfinder
+    - [done] [done] Spa Fanatic
 
 The First Samurai (DLC 3):
     - All Things Begin
