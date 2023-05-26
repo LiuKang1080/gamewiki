@@ -624,6 +624,14 @@ video {
   height: auto;
 }
 
+.h-\[144px\] {
+  height: 144px;
+}
+
+.h-\[160px\] {
+  height: 160px;
+}
+
 .min-h-screen {
   min-height: 100vh;
 }
@@ -1122,6 +1130,14 @@ video {
 
   .md\:h-\[660px\] {
     height: 660px;
+  }
+
+  .md\:h-\[\] {
+    height: ;
+  }
+
+  .md\:h-\[568px\] {
+    height: 568px;
   }
 
   .md\:w-11\/12 {
