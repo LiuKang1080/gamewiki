@@ -1,0 +1,833 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wo Long: Fallen Dynasty - Achievements</title>
+    <!-- ========== ========== ==========
+    Google Fonts (Bellefair)
+    ========== ========== ========== -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bellefair&display=swap" rel="stylesheet">
+    <!-- ========== ========== ==========
+    Google Fonts (Tinos)
+    ========== ========== ========== -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Tinos&display=swap" rel="stylesheet">
+
+    <!-- ========== ========== ==========
+    FlowBite CSS
+    ========== ========== ========== -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.css"  rel="stylesheet" />
+
+    <!-- ========== ========== ==========
+    TailWindCSS Link
+    ========== ========== ========== -->
+    <!-- <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/output.css" rel="stylesheet"> -->
+    <link type="text/css" href="../../../css/output.css" rel="stylesheet">
+
+    <!-- ========== ========== ==========
+    Manual CSS Link
+    ========== ========== ========== -->
+    <!-- <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/manual.css" rel="stylesheet"> -->
+    <link type="text/css" href="../../../css/manual.css" rel="stylesheet">
+
+    <!-- ========== ========== ==========
+    TailWind CSS build process:
+    npx tailwindcss -i ./css/input.css -o ./css/output.css --watch
+    ========== ========== ========== -->
+</head>
+<body class="bg-stone-900 font-bellefair">
+    <!-- ========== ========== ========== ========== ==========
+    Header
+    ========== ========== ========== ========== ========== -->
+    <header class="h-[95px] mask bg-medium-gray text-white">
+        <!-- sticky top-0 z-10 -->
+
+        <!-- ========== ========== ==========
+        Desktop Navbar Menu (Navbar)
+        ========== ========== ========== -->
+        <div class="w-full h-[95px] flex justify-start items-center">
+            <div class="w-full flex justify-between items-center px-5 py-2 gap-5
+                lg:w-fit">
+
+                <!-- HOME -->
+                <a href="https://liukang1080.github.io/gamewiki/index.html">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-house-fill" viewBox="0 0 16 16">
+                        <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.707 1.5Z"/>
+                        <path d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6Z"/>
+                    </svg>
+                </a>
+
+                <!-- Wo Long Logo -->
+                <a href="https://liukang1080.github.io/gamewiki/wolong/wolong.html"><img src="https://liukang1080.github.io/gamewiki/wolong/img/wolong_logo_small.png" alt=""></a>
+
+                <!-- Navbar Buttons -->
+                <!-- hidden nav for mobile viewports -->
+                <button id="hamburger-button" class="text-3xl lg:hidden cursor-pointer">&#9776;</button>
+                <!-- Hamburger UNICODE -->
+
+                <!-- Navbar links (DESKTOP VERSION) -->
+                <nav class="hidden lg:block gap-5" aria-label="main">
+                    <!-- ========== ==========
+                    Basics Button
+                    ========== ========== -->
+                    <button id="basics_button" data-dropdown-toggle="basics_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Basics
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="basics_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2  text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Recommended Settings</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Character Stats</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Battleflag</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">NG+ Cycles</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Combat Button
+                    ========== ========== -->
+                    <button id="combat_button" data-dropdown-toggle="combat_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Combat
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="combat_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2  text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Combat Basics</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Deflect</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Spirit System</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="https://liukang1080.github.io/gamewiki/wolong/combat/martial_arts/martial_arts.html">Martial Arts</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Morale Rank</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Five Phases / Status Effects</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Equipment Button
+                    ========== ========== -->
+                    <button id="equipment_button" data-dropdown-toggle="equipment_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Equipment
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="equipment_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2  text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Wizardry Spells</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Divine Beasts</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Weapons</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Armor</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Accessories</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Graces & Sets</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Items</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    World Button
+                    ========== ========== -->
+                    <button id="world_button" data-dropdown-toggle="world_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        World
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="world_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2  text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Missions</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Bosses</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Enemies</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Oaths & Alliances</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Shitieshou Locations</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Characters</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Tools & Resources Button
+                    ========== ========== -->
+                    <button id="tools_button" data-dropdown-toggle="tools_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Tools & Resources
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="tools_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2  text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Blacksmith</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Embedment Tables</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Farming Resources</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Achievements</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Builds</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Online Button
+                    ========== ========== -->
+                    <button id="online_button" data-dropdown-toggle="online_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Online
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="online_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2  text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Co-Op</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Invasions</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Vengeance System</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+
+        <!-- ========== ========== ==========
+        Mobile Only Menu (Navbar)
+        ========== ========== ========== -->
+        <div id="mobile-menu" class="absolute top-0 bg-medium-gray w-full text-4xl flex-col justify-center
+            origin-top animate-open-menu hidden">
+
+            <!-- closing button -->
+            <button class="text-8xl self-end px-6">&times;</button>
+
+            <!-- Navbar Links Mobile -->
+            <nav class="flex flex-col min-h-screen items-center py-8" aria-label="mobile">
+                <a class="w-full text-center py-6 text-slate-300" href="https://liukang1080.github.io/gamewiki/index.html">HOME</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">BASICS</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">COMBAT</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">WORLD</a>
+                <a class="w-full text-center py-6 text-slate-300" href="https://liukang1080.github.io/gamewiki/wolong/equipment/equipment_index.html">EQUIPMENT</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">TOOLS & RESOURCES</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">ONLINE</a>
+            </nav>
+        </div>
+    </header>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Title Section
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
+            <h1 class="text-yellow-400 text-6xl">Achievements</h1>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Table of Contents
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="2xl:max-w-section-width w-full px-4 2xl:px-0 flex flex-col items-start">
+            <ol class="list-decimal list-inside text-xl text-sky-400">
+                <li><a class="hover:text-sky-600" href="javascript: base()">Base Game Achievements</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: dlc1()">Battle of Zhongyuan (DLC 1) Achievements</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: dlc2()">Conqueror of Jiangdong (DLC 2) Achievements</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: dlc3()">Upheaval in Jingxiang (DLC 3) Achievements</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: credits()">Credits</a></li>
+            </ol>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Description
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Description</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                Wo Long: Fallen Dynasty has a total of: 51 achievements / trophies split into 38 Bronze, 10 Silver, 2 Gold, and 1
+                Platinum trophy. All achievements can be obtained on New Game. Below is a table containing all of the achievements.
+                <br><br>
+
+                <!-- Order of achievements and the data for the guide comes from Kizaru's Wo Long: Fallen Dynasty 100% Achievement Guide 
+                which can be found 
+                <a class="text-sky-400 hover:text-sky-600" href="https://steamcommunity.com/sharedfiles/filedetails/?id=2954868542">here</a>. -->
+            </p>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ========== 
+    Base Game Achievements Table
+    ========== ========== ========== ========== ========== -->
+    <section id="base" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded
+            2xl:max-w-section-width lg:px-16">
+
+            <!-- ==========
+            section header
+            ========== -->
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Base Game Achievements</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <table class="bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th>Achievement</th>
+                    <th>Description</th>
+                </tr>
+
+                <!-- ========== ========== ========== ========== ========== 
+                TEMPLATE:
+
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+                ========== ========== ========== ========== ========== -->
+
+                <!-- Wo Long -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span>Wo Long</span>
+                        <img class="w-[96px] h-[96px] object-contain" src="./img/wolong.png" alt="">
+                    </div></td>
+                    <td><span class="text-red-600 font-bold">[Platinum Trophy]</span> You have unlocked all Achievements!</td>
+                </tr>
+                
+                <!-- Best Flag Forward -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span>Best Flag Forward</span>
+                        <img class="w-[96px] h-[96px] object-contain" src="./img/best_flag_forward.png" alt="">
+                    </div></td>
+                    <td>
+                        Raise your first Battle Flag.
+                    </td>
+                </tr>
+
+                <!-- Sharp Reflexes -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span>Sharp Reflexes</span>
+                        <img class="w-[96px] h-[96px] object-contain" src="./img/sharp_reflexes.png" alt="">
+                    </div></td>
+                    <td>
+                        Successfully deflect 10 critical blows.
+                    </td>
+                </tr>
+
+                <!-- Wizardry Beginner -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span>Wizardry Beginner</span>
+                        <img class="w-[96px] h-[96px] object-contain" src="./img/wizardry_beginner.png" alt="">
+                    </div></td>
+                    <td>
+                        Learn your first Wizardry Spell. You can view all Wizardry Spells
+                        <a class="text-sky-400 hover:text-sky-600" href="https://liukang1080.github.io/gamewiki/wolong/equipment/wizardry/wizardry.html" target="_blank" rel="noopener noreferrer">here</a>.
+                    </td>
+                </tr>
+
+                <!-- Journey's Beginning -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span>Journey's Beginning</span>
+                        <img class="w-[96px] h-[96px] object-contain" src="./img/journeys_beginning.png" alt="">
+                    </div></td>
+                    <td>
+                        Awaken from the sleep of death at the sound of the 
+                        <a class="text-sky-400 hover:text-sky-600" href="">Blindfolded Boy's</a> voice. Complete the main
+                        battlefield: <a class="text-sky-400 hover:text-sky-600" href="">Village of Calamity</a>.
+                    </td>
+                </tr>
+
+                <!-- Righteous Judgment -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span>Righteous Judgment</span>
+                        <img class="w-[96px] h-[96px] object-contain" src="./img/righteous_judgment.png" alt="">
+                    </div></td>
+                    <td>
+                        Exact vengeance 10 times. Vengeance occurs when you kill the same enemy that killed you, recovering your
+                        Morale and Qi. You can also enact vengeance on enemies who have killed other players. You can find purple
+                        graves where another player has died, kill the enemy that killed the player and vengeance will be enacted.
+                    </td>
+                </tr>
+
+                <!-- Vow of the Stalwart -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span>Vow of the Stalwart</span>
+                        <img class="w-[96px] h-[96px] object-contain" src="./img/vow_of_the_stalwart.png" alt="">
+                    </div></td>
+                    <td>
+                        Swear an oath with Zhao Yun. Complete the main battlefield: 
+                        <a class="text-sky-400 hover:text-sky-600" href="">Two Chivalrous Heros</a>.
+                    </td>
+                </tr>
+
+                <!-- Vulnerable Moments -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span>Vulnerable Moments</span>
+                        <img class="w-[96px] h-[96px] object-contain" src="./img/vulnerable_moments.png" alt="">
+                    </div></td>
+                    <td>
+                        Land 50 Fatal Strikes.
+                    </td>
+                </tr>
+
+                <!-- At Fifteen I Joined the Army -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span>At Fifteen I Joined the Army</span>
+                        <img class="w-[96px] h-[96px] object-contain" src="./img/at_15_I_joined_the_army.png" alt="">
+                    </div></td>
+                    <td>
+                        Reached Level 15.
+                    </td>
+                </tr>
+
+                <!-- Unstoppable -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span>Unstoppable</span>
+                        <img class="w-[96px] h-[96px] object-contain" src="./img/unstoppable.png" alt="">
+                    </div></td>
+                    <td>
+                        Raise Morale Rank to 20 for the first time. Achievement can be obtained in the main battlefield:
+                        <a class="text-sky-400 hover:text-sky-600" href="">Two Chivalrous Heros</a>.
+                    </td>
+                </tr>
+
+                <!-- Craftsmanship -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span>Craftsmanship</span>
+                        <img class="w-[96px] h-[96px] object-contain" src="./img/craftsmanship.png" alt="">
+                    </div></td>
+                    <td>
+                        Upgrade your first piece of equipment. Use the "Upgrade" option at the Blacksmith.
+                        The <a class="text-sky-400 hover:text-sky-600" href="">Blacksmith</a> can be unlocked after
+                        completing the main battlefield:
+                        <a class="text-sky-400 hover:text-sky-600" href="">The Demon Fort of the Yellow Heaven</a>, and unlocking 
+                        <a class="text-sky-400 hover:text-sky-600" href="">Hidden Village of Mt.Tianzhushan</a>.
+                    </td>
+                </tr>
+
+                <!-- First Phase -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span>First Phase</span>
+                        <img class="w-[96px] h-[96px] object-contain" src="./img/first_phase.png" alt="">
+                    </div></td>
+                    <td>
+                        Interact with the Five Phases for the first time. You view information on the Five Phases
+                        <a class="text-sky-400 hover:text-sky-600" href="">here</a>.
+                    </td>
+                </tr>
+
+                <!-- Will of the Loyal -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span>Will of the Loyal</span>
+                        <img class="w-[96px] h-[96px] object-contain" src="./img/will_of_the_loyal.png" alt="">
+                    </div></td>
+                    <td>
+                        Swore an oath with <a class="text-sky-400 hover:text-sky-600" href="">Guan Yu</a> and 
+                        <a class="text-sky-400 hover:text-sky-600" href="">Zhang Fei</a>. Complete the main battlefield:
+                        <a class="text-sky-400 hover:text-sky-600" href="">The Valley of Crying Wraiths</a>.
+                    </td>
+                </tr>
+
+                <!-- Ambition of the Tiger -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- How Cute! -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Guardian of Peace -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Awakening of the Unscrupulous Hero -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Mightiest of Men -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Guidance of the Constellations -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Staunching Heresy -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Succession -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- All That Glitters -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Side by Side -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Familial Ties -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Merit beyond Measure -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- The Steadfast Duo -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Fantastic Form -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Dogged Justice -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Fearless Warrior -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Only at Eighty Did I Finally Return -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Entrusted Legacy -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Aspiration and Amity -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Decor Maketh the Man -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Dreams of Unity -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Call to Arms -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Annihilator of Evil -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Open Eyes -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Eye for an Eye -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Keen-edged -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Battle-hardened -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Adamantine -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Strung Bow -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Heroes Will Rise -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Wizardry Master -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Hunting the Great Deer -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Great Gatherings -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Fly It High -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Pots and Potions -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Ascension -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- Well-read -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+
+                <!-- How Precious! -->
+                <tr class="even:bg-dark-gray-2">
+                    <td><div class="flex flex-col justify-center items-center gap-3">
+                        <span></span>
+                        <img class="w-[96px] h-[96px] object-contain" src="" alt="">
+                    </div></td>
+                    <td></td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Back to top button
+    ========== ========== ========== ========== ========== -->
+    <a id="back-to-top-button" href="#">Top</a>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    JavaScript
+    ========== ========== ========== ========== ========== -->
+    <!-- FlowBite JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>
+
+    <!-- ==========
+    Local JavaScript
+    ========== -->
+    <!-- Navbar JS -->
+    <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/js/navbar.js" defer></script>
+    <!-- <script src="../../js/navbar.js" type="text/javascript" defer></script> -->
+
+    <!-- <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/wolong/tools/achievements/js/achievements.js" defer></script> -->
+    <script type="text/javascript" src="./js/achievements.js" defer></script>
+
+</body>
+</html>
+
+<!-- TODO -->
+<!--
+    - 
+-->

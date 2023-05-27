@@ -1,0 +1,64 @@
+Achievements:
+(THE ORDER MATTERS!!!)
+
+Base Game:
+    - [done] [done] Wo Long
+    - [done] [done] Best Flag Forward
+    - [done] [done] Sharp Reflexes
+    - [done] [done] Wizardry Beginner
+    - [done] [done] Journey's Beginning
+    - [done] [done] Righteous Judgment
+    - [done] [done] Vow of the Stalwart
+    - [done] [done] Vulnerable Moments
+    - [done] [done] At Fifteen I Joined the Army
+    - [done] [done] Unstoppable
+    - [done] [done] Craftsmanship
+    - [done] [done] First Phase
+    - [done] [done] Will of the Loyal
+    - Ambition of the Tiger
+    - How Cute!
+    - Guardian of Peace
+    - Awakening of the Unscrupulous Hero
+    - Mightiest of Men
+    - Guidance of the Constellations
+    - Staunching Heresy
+    - Succession
+    - All That Glitters
+    - Side by Side
+    - Familial Ties
+    - Merit beyond Measure
+    - The Steadfast Duo
+    - Fantastic Form
+    - Dogged Justice
+    - Fearless Warrior
+    - Only at Eighty Did I Finally Return
+    - Entrusted Legacy
+    - Aspiration and Amity
+    - Decor Maketh the Man
+    - Dreams of Unity
+    - Call to Arms
+    - Annihilator of Evil
+    - Open Eyes
+    - Eye for an Eye
+    - Keen-edged
+    - Battle-hardened
+    - Adamantine
+    - Strung Bow
+    - Heroes Will Rise
+    - Wizardry Master
+    - Hunting the Great Deer
+    - Great Gatherings
+    - Fly It High
+    - Pots and Potions
+    - Ascension
+    - Well-read
+    - How Precious!
+
+Battle of Zhongyuan (DLC 1):
+    - 
+
+Conqueror of Jiangdong (DLC 2):
+    - 
+
+Upheaval in Jingxiang (DLC 3):
+    - 
