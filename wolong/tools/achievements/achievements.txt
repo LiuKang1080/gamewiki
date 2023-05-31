@@ -42,17 +42,17 @@ Base Game:
     - [done] [done] Dreams of Unity
     - [done] [done] Annihilator of Evil
     - [done] [done] Open Eyes
+    - [done] [done] Great Gatherings
     - [done] [done] Keen-edged
     - [done] [done] Adamantine
     - [done] [done] Battle-hardened
     - [done] [done] Wizardry Master
-    - [done] [done] Hunting the Great Deer
-    - [done] [done] Great Gatherings
-    - [done] [done] Fly It High
-    - [done] [done] Pots and Potions
-    - [done] [done] Ascension
-    - [done] [done] Well-read
-    - [done] [done] How Precious!
+    - Hunting the Great Deer
+    - Fly It High
+    - Pots and Potions
+    - Ascension
+    - Well-read
+    - How Precious!
 
 Battle of Zhongyuan (DLC 1):
     - 
