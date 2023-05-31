@@ -9,7 +9,7 @@ Straight Sabre:
     - [done] [done] Ill Wind
     - [done] [done] Meteor Shower
     - [done] [done] Meteoric Strike
-    - Moon Break
+    - [done] [done] Moon Break
     - [done] [done] Star Fall
     - [done] [done] Swift Lightning 
     - [done] [done] Whirlwind Advance
@@ -49,7 +49,7 @@ Curved Sabre:
 
     ========== Boss Skills ==========
     - Shimmering Sun
-    - Thunderous Impact
+    - [done] [done] Thunderous Impact
 
 
 Glaive:
@@ -88,9 +88,9 @@ Staff:
     - [done] [done] Falcon Strike
     - [done] [done] Goshawk's Dance
     - [done] [done] Monkey's Wisdom
-    - Plummeting Ape
-    - Stag Hunter
-    - Tigertail Lash
+    - [done] [done] Plummeting Ape
+    - [done] [done] Stag Hunter
+    - [done] [done] Tigertail Lash
 
     ========== Boss Skills ==========
     - Fanning Peacock
@@ -99,103 +99,103 @@ Staff:
 
 
 Hammer:
-    - Heaven Divide
-    - Heaven Reversal
-    - Mountain Strike
-    - Rising Tides
-    - Rock Crash
-    - Sea Split
-    - Stone Shatter
-    - Undercurrent Sprint
+    - [done] [done] Heaven Divide
+    - [done] [done] Heaven Reversal
+    - [done] [done] Mountain Strike
+    - [done] [done] Rising Tides
+    - [done] [done] Rock Crash
+    - [done] [done] Sea Split
+    - [done] [done] Stone Shatter
+    - [done] [done] Undercurrent Sprint
     
     ========== Boss Skills ==========
-    - Boulder Glide
+    - [done] [done] Boulder Glide
     - Mountain Buster
 
 
 Poleaxe:
-    - Heaven Divide
-    - Heaven Reversal
-    - Impregnable Keep
-    - Mountain Strike
-    - Rising Tides
-    - Rock Crash
-    - Undercurrent Sprint
+    - [done] [done] Heaven Divide
+    - [done] [done] Heaven Reversal
+    - [done] [done] Impregnable Keep
+    - [done] [done] Mountain Strike
+    - [done] [done] Rising Tides
+    - [done] [done] Rock Crash
+    - [done] [done] Undercurrent Sprint
 
     ========== Boss Skills ==========
     - Hidden Undercurrents
 
 
 Spear:
-    - Antelope Horn
-    - Dragon Flash
-    - Dragontail Whip
-    - Falcon Strike
-    - Goshawk's Dance
-    - Horn Strike
-    - Marching Dragon
-    - Monkey's Wisdom
-    - Serpent's Torment
+    - [done] [done] Antelope Horn
+    - [done] [done] Dragon Flash
+    - [done] [done] Dragontail Whip
+    - [done] [done] Falcon Strike
+    - [done] [done] Goshawk's Dance
+    - [done] [done] Horn Strike
+    - [done] [done] Marching Dragon
+    - [done] [done] Monkey's Wisdom
+    - [done] [done] Serpent's Torment
     
     ========== Boss Skills ==========
-    - Whistling Vortex
+    - [done] [done] Whistling Vortex
 
 
 Slashing Spear:
-    - Antelope Horn
-    - Dragon Flash
-    - Dragon Slayer
-    - Dragontail Whip
-    - Emerging Dragon
-    - Falcon Strike
-    - Goshawk's Dance
-    - Horn Strike
-    - Marching Dragon
-    - Monkey's Wisdom
+    - [done] [done] Antelope Horn
+    - [done] [done] Dragon Flash
+    - [done] [done] Dragon Slayer
+    - [done] [done] Dragontail Whip
+    - [done] [done] Emerging Dragon
+    - [done] [done] Falcon Strike
+    - [done] [done] Goshawk's Dance
+    - [done] [done] Horn Strike
+    - [done] [done] Marching Dragon
+    - [done] [done] Monkey's Wisdom
 
     ========== Boss Skills ==========
     - Parting Grass
-    - Python Turnover
+    - [done] [done] Python Turnover
 
 
 Dual Swords:
-    - Bamboo Sever
-    - Beckoning Pine
-    - Blossom Stream
-    - Peach Blossom
-    - Plum Rend
-    - Skyward Evergreen
-    - Sudden Tordando
-    - Thorn Prick
-    - Waiving Willow
+    - [done] [done] Bamboo Sever
+    - [done] [done] Beckoning Pine
+    - [done] [done] Blossom Stream
+    - [done] [done] Peach Blossom
+    - [done] [done] Plum Rend
+    - [done] [done] Skyward Evergreen
+    - [done] [done] Sudden Tordando
+    - [done] [done] Thorn Prick
+    - [done] [done] Waiving Willow
 
     ========== Boss Skills ==========
     - Endless Flowering
 
 
 Dual Sabres:
-    - Bamboo Sever
-    - Beckoning Pine
-    - Plum Rend
-    - Skyward Evergreen
-    - Sudden Tornado
-    - Thorn Prick
-    - Waving Willow
+    - [done] [done] Bamboo Sever
+    - [done] [done] Beckoning Pine
+    - [done] [done] Plum Rend
+    - [done] [done] Skyward Evergreen
+    - [done] [done] Sudden Tornado
+    - [done] [done] Thorn Prick
+    - [done] [done] Waving Willow
 
     ========== Boss Skills ==========
     - Falling Leaf
 
 
 Dual Halberds:
-    - Bamboo Sever
-    - Beckoning Pine
-    - Falling Leaves
-    - Plum Rend
-    - Scattered Leaves
-    - Skyward Evergreen
-    - Sudden Tornado
-    - Vine's Grasp
-    - Waving Willow
+    - [done] [done] Bamboo Sever
+    - [done] [done] Beckoning Pine
+    - [done] [done] Falling Leaves
+    - [done] [done] Plum Rend
+    - [done] [done] Scattered Leaves
+    - [done] [done] Skyward Evergreen
+    - [done] [done] Sudden Tornado
+    - [done] [done] Vine's Grasp
+    - [done] [done] Waving Willow
 
     ========== Boss Skills ==========
     - Crescent Gale
