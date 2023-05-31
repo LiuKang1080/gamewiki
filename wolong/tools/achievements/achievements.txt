@@ -9,50 +9,50 @@ Base Game:
     - [done] [done] Journey's Beginning
     - [done] [done] Righteous Judgment
     - [done] [done] Vow of the Stalwart
+    - [done] [done] Unstoppable
     - [done] [done] Vulnerable Moments
     - [done] [done] At Fifteen I Joined the Army
-    - [done] [done] Unstoppable
+    - [done] [done] Only at Eighty Did I Finally Return
     - [done] [done] Craftsmanship
     - [done] [done] First Phase
+    - [done] [done] How Cute!
+    - [done] [done] Staunching Heresy
     - [done] [done] Will of the Loyal
-    - Ambition of the Tiger
-    - How Cute!
-    - Guardian of Peace
-    - Awakening of the Unscrupulous Hero
-    - Mightiest of Men
-    - Guidance of the Constellations
-    - Staunching Heresy
-    - Succession
-    - All That Glitters
-    - Side by Side
-    - Familial Ties
-    - Merit beyond Measure
-    - The Steadfast Duo
-    - Fantastic Form
-    - Dogged Justice
-    - Fearless Warrior
-    - Only at Eighty Did I Finally Return
-    - Entrusted Legacy
-    - Aspiration and Amity
-    - Decor Maketh the Man
-    - Dreams of Unity
-    - Call to Arms
-    - Annihilator of Evil
-    - Open Eyes
-    - Eye for an Eye
-    - Keen-edged
-    - Battle-hardened
-    - Adamantine
-    - Strung Bow
-    - Heroes Will Rise
-    - Wizardry Master
-    - Hunting the Great Deer
-    - Great Gatherings
-    - Fly It High
-    - Pots and Potions
-    - Ascension
-    - Well-read
-    - How Precious!
+    - [done] [done] Ambition of the Tiger
+    - [done] [done] Guardian of Peace
+    - [done] [done] Dogged Justice
+    - [done] [done] Awakening of the Unscrupulous Hero
+    - [done] [done] Strung Bow
+    - [done] [done] Mightiest of Men
+    - [done] [done] Heroes Will Rise
+    - [done] [done] Guidance of the Constellations
+    - [done] [done] Succession
+    - [done] [done] All That Glitters
+    - [done] [done] Side by Side
+    - [done] [done] Familial Ties
+    - [done] [done] Merit beyond Measure
+    - [done] [done] The Steadfast Duo
+    - [done] [done] Fantastic Form
+    - [done] [done] Fearless Warrior
+    - [done] [done] Entrusted Legacy
+    - [done] [done] Aspiration and Amity
+    - [done] [done] Decor Maketh the Man
+    - [done] [done] Call to Arms
+    - [done] [done] Eye for an Eye
+    - [done] [done] Dreams of Unity
+    - [done] [done] Annihilator of Evil
+    - [done] [done] Open Eyes
+    - [done] [done] Keen-edged
+    - [done] [done] Adamantine
+    - [done] [done] Battle-hardened
+    - [done] [done] Wizardry Master
+    - [done] [done] Hunting the Great Deer
+    - [done] [done] Great Gatherings
+    - [done] [done] Fly It High
+    - [done] [done] Pots and Potions
+    - [done] [done] Ascension
+    - [done] [done] Well-read
+    - [done] [done] How Precious!
 
 Battle of Zhongyuan (DLC 1):
     - 
