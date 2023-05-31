@@ -879,6 +879,11 @@ video {
      object-fit: contain;
 }
 
+.object-none {
+  -o-object-fit: none;
+     object-fit: none;
+}
+
 .p-1 {
   padding: 0.25rem;
 }
