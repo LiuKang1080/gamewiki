@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Underworld</title>
+    <!-- ========== ========== ==========
+    Google Fonts (Asul)
+    ========== ========== ========== -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Asul&display=swap" rel="stylesheet">
+
+    <!-- ========== ========== ==========
+    FlowBite CSS
+    ========== ========== ========== -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.css"  rel="stylesheet" />
+
+    <!-- ========== ========== ==========
+    TailWindCSS Link
+    ========== ========== ========== -->
+    <!-- <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/output.css" rel="stylesheet"> -->
+    <link type="text/css" href="../../../css/output.css" rel="stylesheet">
+
+    <!-- ========== ========== ==========
+    Manual CSS Link
+    ========== ========== ========== -->
+    <!-- <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/manual.css" rel="stylesheet"> -->
+    <link type="text/css" href="../../../css/manual.css" rel="stylesheet">
+
+    <!-- ========== ========== ==========
+    TailWind CSS build process:
+    npx tailwindcss -i ./css/input.css -o ./css/output.css --watch
+    ========== ========== ========== -->
+</head>
+<body class="bg-stone-900 font-asul">
+    <!-- ========== ========== ========== ========== ==========
+    Header
+    ========== ========== ========== ========== ========== -->
+    <header class="h-[95px] mask bg-medium-gray text-white">
+        <!-- sticky top-0 z-10 -->
+
+        <!-- ========== ========== ==========
+        Desktop Navbar Menu (Navbar)
+        ========== ========== ========== -->
+        <div class="w-full h-[95px] flex justify-start items-center">
+            <div class="w-full flex justify-between items-center px-5 py-2 gap-5
+                lg:w-fit">
+                
+                <!-- HOME -->
+                <a href="https://liukang1080.github.io/gamewiki/index.html">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-house-fill" viewBox="0 0 16 16">
+                        <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.707 1.5Z"/>
+                        <path d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6Z"/>
+                    </svg>
+                </a>
+
+                <!-- Nioh 2 Logo -->
+                <a href="https://liukang1080.github.io/gamewiki/nioh2/nioh2.html"><img src="https://liukang1080.github.io/gamewiki/nioh2/img/nioh2_logo_2.png" alt=""></a>
+
+                <!-- Navbar Buttons -->
+                <!-- hidden nav for mobile viewports -->
+                <button id="hamburger-button" class="text-3xl lg:hidden cursor-pointer">&#9776;</button>
+                <!-- Hamburger UNICODE -->
+
+                <!-- Navbar links (DESKTOP VERSION) -->
+                <nav class="hidden lg:block gap-5" aria-label="main">
+                    <!-- ========== ==========
+                    Basics Button
+                    ========== ========== -->
+                    <button id="basics_button" data-dropdown-toggle="basics_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Basics
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="basics_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Recommended Settings</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Starting Recommendations</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Character Stats</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Shrine</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Dojo</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">NG+ Cycles</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Combat Button
+                    ========== ========== -->
+                    <button id="combat_button" data-dropdown-toggle="combat_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Combat
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="combat_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Stances</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Ki Pulse</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Skills / Skill Trees</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Yokai Shift & Burst Counters</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Doding / Guarding / Parrying</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Status Effects</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Advanced Tech</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Equipment Button
+                    ========== ========== -->
+                    <button id="equipment_button" data-dropdown-toggle="equipment_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Equipment
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="equipment_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Weapons</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Armor</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Ninjutsu</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Onmyo Magic</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Soul Cores</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Guardian Spirits</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Accessories</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Demon Parade Picture Scrolls</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Graces & Sets</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Items</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    World Button
+                    ========== ========== -->
+                    <button id="world_button" data-dropdown-toggle="world_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        World
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="world_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Missions</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Bosses</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Enemies</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Underworld</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Depths of the Underworld</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Kodama & Sudama</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Characters</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Tools & Resources Button
+                    ========== ========== -->
+                    <button id="tools_button" data-dropdown-toggle="tools_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Tools & Resources
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="tools_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Smithing Texts</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Temper Tables</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Blacksmith</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Stone of Penance</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Farming Resources</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Achievements</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Builds</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Online Button
+                    ========== ========== -->
+                    <button id="online_button" data-dropdown-toggle="online_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Online
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="online_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Online Modes</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Matchmaking</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Hidden Tea House</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Revenants</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Benevolent Graves</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+
+        <!-- ========== ========== ==========
+        Mobile Only Menu (Navbar)
+        ========== ========== ========== -->
+        <div id="mobile-menu" class="absolute top-0 bg-medium-gray w-full text-4xl flex-col justify-center
+            origin-top animate-open-menu hidden">
+
+            <!-- closing button -->
+            <button class="text-8xl self-end px-6">&times;</button>
+
+            <!-- Navbar Links Mobile -->
+            <nav class="flex flex-col min-h-screen items-center py-8" aria-label="mobile">
+                <a class="w-full text-center py-6 text-slate-300" href="https://liukang1080.github.io/gamewiki/index.html">HOME</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">BASICS</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">COMBAT</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">WORLD</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">EQUIPMENT</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">TOOLS & RESOURCES</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">ONLINE</a>
+            </nav>
+        </div>
+    </header>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Title Section
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
+            <h1 class="text-yellow-400 text-5xl md:text-6xl">The Underworld</h1>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Table of Contents
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="2xl:max-w-section-width w-full px-4 2xl:px-0 flex flex-col items-start">
+            <ol class="list-decimal list-inside text-xl text-sky-400">
+                <li><a class="hover:text-sky-600" href="javascript: floors()">Underworld Crucible Boss List</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: credits()">Credits</a></li>
+            </ol>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Layout of each Floor
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Layout of each Floor of the Underworld</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                Each Strata or the Floor of the Underworld is comprised of 2 sections: 1) The Netherscape which contains various
+                enemies and 4 Jizo-Kodama; 2) The Crucible which contains the main boss of the Floor. Once spawned into the 
+                Netherscape the player can collect anywhere between 1 and 4 Jizo-Kodama. The player must collect at least 1 Jizo 
+                Kodama in order to move onto the Crucible. Once the player has collected at least 1 Jizo-Kodama a portal will 
+                appear at the location of where the player collected the Jizo-Kodama as well as a portal next to the Shrine. Once
+                the player is in the Crucible they cannot return back to the Netherscape. In order to go the next Floor of the 
+                Underworld the player must defeat the Boss in the Crucible. Below contains the full list of all of the Bosses on 
+                each Floor.
+            </p>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Farming For Graces
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Farming For Graces</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <div class="place-self-start flex flex-col items-start gap-9">
+                <!-- Grace Pool 1 -->
+                <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                    <span class="font-bold text-red-700">If Floor Number / 3 = 0.333: </span>
+                    Acala's Grace, Ame-no-Uzume's Grace, Grace of Kagutsuchi, Izanagi's Grace, Omoikane's Grace, Takeminakata's Grace
+                    <br>
+
+                    <span class="font-bold text-red-700">Floors that this Grace pool appears on: </span>
+                    1, 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46, 49, 52, 55, 58, 61, 64, 67, 70, 73, 76, 79, 82, 85, 88, 
+                    91, 94, 97, 100, 103, 106
+                </p>
+                <hr class="w-3/4 h-[2px] place-self-center bg-stone-600 border-0">
+
+                <!-- Grace Pool 2 -->
+                <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                    <span class="font-bold text-red-700">If Floor Number / 3 = .666: </span>
+                    Grace of Amaterasu, Grace of Owatatsumi, Izanami's Grace, Magatsuhi's Grace, Marici's Grace, Ninigi's Grace
+                    <br>
+
+                    <span class="font-bold text-red-700">Floors that this Grace pool appears on: </span>
+                    2, 5, 8, 11, 14, 17, 20, 23, 26, 29, 32, 35, 38, 41, 44, 47, 50, 53, 56, 59, 62, 65, 68, 71, 74, 77, 80, 83, 86, 89, 
+                    92, 95, 98, 101, 104, 107
+                </p>
+                <hr class="w-3/4 h-[2px] place-self-center bg-stone-600 border-0">
+
+                <!-- Grace Pool 3 -->
+                <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                    <span class="font-bold text-red-700">If Floor Number / 3 = .000: </span>
+                    Grace of Futsunushi, Grace of Susano, Grace of Takemikazuchi, Grace of Tsukuyomi, Okoninushi's Grace, Sarutahiko's Grace
+                    <br>
+
+                    <span class="font-bold text-red-700">Floors that this Grace pool appears on: </span>
+                    3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45, 48, 51, 54, 57, 60, 63, 66, 69, 72, 75, 78, 81, 84, 87, 90, 
+                    93, 96, 99, 102, 105, 108
+                </p>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Floors of the Underworld
+    ========== ========== ========== ========== ========== -->
+    <section id="floors" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded
+            2xl:max-w-section-width lg:px-16">
+
+            <!-- ==========
+            section header
+            ========== -->
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Underworld Floor Crucible Boss List</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <table class="bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+
+                <!-- 
+                ========== ========== ========== ========== ==========
+                TEMPLATE
+
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                ========== ========== ========== ========== ==========
+                -->
+
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th>Floor Number</th>
+                    <th>Crucible Boss</th>
+                    <th>Netherscape Level</th>
+                </tr>
+
+                <tr class="even:bg-dark-gray-2">
+                    <td>1</td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href="">Mezuki</a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href="">Shadows Creep In Kurama</a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>2</td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href="">Honda Tadakatsu</a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href="">Eternal Rivals</a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                    <td><a class="text-sky-400 hover:text-sky-600" href=""></a></td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Credits
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full px-4 2xl:px-0 flex flex-col items-start gap-4">
+            <h1 id="credits" class="text-yellow-400 text-4xl">Credits:</h1>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+            
+            <div class="flex flex-col gap-2 text-slate-300 text-xl">
+                <span>LiuKang1080</span>
+                <span class="bold-text">Nioh Community Discord Server: 
+                    <a class="text-sky-400 hover:text-sky-600" href="https://discord.gg/pAH5U9mRBj" 
+                    target="_blank" rel="noopener noreferrer">Here</a></span>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Back to top button
+    ========== ========== ========== ========== ========== -->
+    <a id="back-to-top-button" href="#">Top</a>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    JavaScript
+    ========== ========== ========== ========== ========== -->
+    <!-- FlowBite JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>
+
+    <!-- ==========
+    Local JavaScript
+    ========== -->
+    <!-- Navbar JS -->
+    <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/js/navbar.js" defer></script>
+    <!-- <script type="text/javascript" src="../../js/navbar.js" defer></script> -->
+
+    <!-- <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/nioh2/world/underworld/js/underworld.js" defer></script> -->
+    <script type="text/javascript" src="./js/underworld.js" defer></script>
+
+</body>
+</html>
+
+<!-- TODO -->
+<!--
+    - 
+-->
