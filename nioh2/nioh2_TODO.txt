@@ -96,7 +96,7 @@ Equipment [Main Menu Card 3]:
 ========== ========== ==========
 World [Main Menu Card 4]:
 ========== ========== ==========
-[7 Links]
+[5 Links]
     - Missions:
         - Awakening Region (1st Region)
         - Soaring Region (2nd Region)
@@ -111,6 +111,10 @@ World [Main Menu Card 4]:
 		- Twilight Missions
         - Dojo Missions
 
+        - Kodama & Sudama:
+            [Link video for all Kodama locations]
+            [Link to Achievements for Kodamas]
+
     - Enemies:
         - We can have a small section about Human Enemies before the main list of Yokai enemies
             since there are only a few handful of Human Enemies.
@@ -120,13 +124,9 @@ World [Main Menu Card 4]:
         - Floors 1 - 108:
             [Have Grace Pools at the top of the Floors page]
 
+        - The Depths of the Underworld
         - Lapis Lazuli table
         - Jizo Kodama
-
-    - The Depths of the Underworld
-    - Kodama & Sudama:
-        [Link video for all Kodama locations]
-        [Link to Achievements for Kodamas]
 
     - Characters
 
