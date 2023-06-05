@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Underworld</title>
+    <title>Lapis Lazuli Table</title>
     <!-- ========== ========== ==========
     Google Fonts (Asul)
     ========== ========== ========== -->
@@ -21,13 +21,13 @@
     TailWindCSS Link
     ========== ========== ========== -->
     <!-- <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/output.css" rel="stylesheet"> -->
-    <link type="text/css" href="../../../css/output.css" rel="stylesheet">
+    <link type="text/css" href="../../../../css/output.css" rel="stylesheet">
 
     <!-- ========== ========== ==========
     Manual CSS Link
     ========== ========== ========== -->
     <!-- <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/manual.css" rel="stylesheet"> -->
-    <link type="text/css" href="../../../css/manual.css" rel="stylesheet">
+    <link type="text/css" href="../../../../css/manual.css" rel="stylesheet">
 
     <!-- ========== ========== ==========
     TailWind CSS build process:
@@ -229,69 +229,215 @@
     ========== ========== ========== ========== ========== -->
     <section class="w-full my-12 flex flex-col items-center">
         <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
-            <h1 class="text-yellow-400 text-5xl md:text-6xl">The Underworld</h1>
+            <h1 class="text-yellow-400 text-5xl md:text-6xl text-center">Lapis Lazuli</h1>
             <hr class="w-full h-[2px] bg-stone-600 border-0">
         </div>
     </section>
 
 
     <!-- ========== ========== ========== ========== ==========
-    Card Section
+    Table of Contents
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="2xl:max-w-section-width w-full px-4 2xl:px-0 flex flex-col items-start">
+            <ol class="list-decimal list-inside text-xl text-sky-400">
+                <li><a class="hover:text-sky-600" href="javascript: lapis_table()">Blessings of the Departed Table</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: credits()">Credits</a></li>
+            </ol>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Description
     ========== ========== ========== ========== ========== -->
     <section class="w-full my-12 lg:px-0 flex flex-col items-center">
-        <div class="w-full px-4 py-6 flex flex-col justify-center items-center gap-6 rounded
+        <div class="lg:max-w-section-width w-full flex flex-col items-center gap-8">
+            <h2 class="py-4 px-4 lg:px-0 text-4xl text-yellow-400 font-extrabold text-center">Description</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <!-- main image -->
+            <img src="./img/lapis_lazuli.png" alt="">
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                <span class="font-bold text-red-700">Lapis Lazuli: </span>Underworld Lapis Lazuli (also known as Gems of the 
+                Departed), is a rare resource that only drops in the Underworld, and the Depths of the Underworld. Regular Enemies
+                , and Red Enemies in the Netherscape have a random chance to drop between ~0 - 5 Lapis Lazuli. Purple enemies have
+                a higher chance to drop more Lapis Lazuli. Bosses in the Crucible have a random chance to drop around ~5 - 15 
+                Lapis Lazuli (guarenteed to drop Lapis Lazuli). When Lapis Lazuli drops, it will drop as an Ethereal rarity item.
+            </p>
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl italic leading-relaxed">
+                <span class="font-bold">"</span> Presenting this to 
+                <a class="text-sky-400 hover:text-sky-600" href="">Ono no Takamura</a> will allow you to receive and strengthen 
+                blessings in the Underworld. A gem found in the Underworld, Lapis Lazuli is regarded as one of seven treasures 
+                in the teachings of Buddhism. When Yama still served as judge to those sent there, the Underworld was decorated 
+                with Lapis Lazuli that shone brilliantly. However, they were scattered and lost after a great calamity occurred.
+                <span class="font-bold">"</span>
+            </p>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Blessings of the Departed Table
+    ========== ========== ========== ========== ========== -->
+    <section id="lapis-table" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded
             2xl:max-w-section-width lg:px-16">
 
-            <div class="w-full flex flex-wrap gap-6
-                md:grid md:grid-cols-2
-                2xl:grid 2xl:grid-cols-3">
+            <!-- ==========
+            section header
+            ========== -->
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Blessings of the Departed Table</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
 
+            <table class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
                 <!-- ==========
-                Floors of the Underworld (Button 1)
+                Header 
                 ========== -->
-                <a class="group w-full p-3 flex flex-col items-center gap-4 rounded text-2xl bg-dark-gray hover:bg-medium-red"
-                    href="https://liukang1080.github.io/gamewiki/nioh2/world/underworld/floors/floors.html">
-                    
-                    <img src="./img/underworld_logo.png" alt="">
-                    <span class="mask w-full p-2 text-center text-yellow-400 bg-dark-gray-2 rounded
-                        group-hover:text-yellow-100 group-hover:bg-light-red">Floors of the Underworld</span>
-                </a>
+                <tr>
+                    <th>Blessing</th>
+                    <th>Maximum number of times this blessing can be enhanced</th>
+                    <th>Increased amount of Lapis Lazuli required after each enhancement</th>
+                    <th>Total Lapis Lazuli required to max out Blessing</th>
+                    <th>Description</th>
+                </tr>
 
-                <!-- ==========
-                Depths of the Underworld (Button 2)
-                ========== -->
-                <a class="group w-full p-3 flex flex-col items-center gap-4 rounded text-2xl bg-dark-gray hover:bg-medium-red"
-                    href="https://liukang1080.github.io/gamewiki/nioh2/world/underworld/depths/depths.html">
-                    
-                    <img src="./img/depths_logo.png" alt="">
-                    <span class="mask w-full p-2 text-center text-yellow-400 bg-dark-gray-2 rounded
-                        group-hover:text-yellow-100 group-hover:bg-light-red">Depths of the Underworld</span>
-                </a>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Loot +Value Modifier</td>
+                    <td>60</td>
+                    <td>
+                        Starting cost: 10 
+                        <br><br>
+                        +1 on each enhancement from 1 to 50, +10 on each enhancement from 51 to 55, +20 on each enhancement from 55 to 60
+                    </td>
+                    <td>3,085</td>
+                    <td>
+                        This modifier makes it easier to receive higher +values on equipment that is dropped by defeated enemies.
+                        If you are outside the Underworld, this blessing is effective even when Level Sync is active.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Effect of Jizo Blessing: Uncommon Strength</td>
+                    <td>5</td>
+                    <td>
+                        Starting cost: 20
+                        <br><br>
+                        +20 on each enhancement
+                    </td>
+                    <td>420</td>
+                    <td>Strengthens the effects of the Jizo Blessing: Uncommon Strength</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Effect of Jizo Blessing: Uncommon Defense</td>
+                    <td>5</td>
+                    <td>
+                        Starting cost: 20
+                        <br><br>
+                        +20 on each enhancement
+                    </td>
+                    <td>420</td>
+                    <td>Strengthens the effects of the Jizo Blessing: Uncommon Defense</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Effect of Jizo Blessing: Uncommon Mercy</td>
+                    <td>5</td>
+                    <td>
+                        Starting cost: 20
+                        <br><br>
+                        +20 on each enhancement
+                    </td>
+                    <td>420</td>
+                    <td>Strengthens the effects of the Jizo Blessing: Uncommon Mercy</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Spectral Salve Limit</td>
+                    <td>5</td>
+                    <td>
+                        Starting cost: 20
+                        <br><br>
+                        +20 on each enhancement
+                    </td>
+                    <td>420</td>
+                    <td>Increases the amount of Spectral Salves you can carry. Spectral Salves are special healing items that
+                        can only be used in the Underworld.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Spectral Salve Potency</td>
+                    <td>5</td>
+                    <td>
+                        Starting cost: 20
+                        <br><br>
+                        +20 on each enhancement
+                    </td>
+                    <td>420</td>
+                    <td>
+                        Increases the amount of health recovered when using Spectral Salves, special healing items that can only
+                        be used in the Underworld.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Ethereal Drop Rate</td>
+                    <td>20</td>
+                    <td>Starting cost: 20
+                        <br><br>
+                        +20 on each enhancement</td>
+                    <td>4,620</td>
+                    <td>
+                        Increases the drop rate of ethereal equipment. This blessing is effective even when you are outside of
+                        the Underworld. 
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Higher Item Level Drop Rate</td>
+                    <td>5</td>
+                    <td>
+                        Starting cost: 20
+                        <br><br>
+                        +20 on each enhancement
+                    </td>
+                    <td>420</td>
+                    <td>
+                        Increases the drop rate of equipment that possess a higher Item Level than you would normally receive.
+                        This blessing is effective even when you are outside of the Underworld.
+                    </td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Total Lapis Lazuli required to max out the entire Blessings of the Departed table</td>
+                    <td colspan="4"><span class="font-bold text-red-700">10,225 Lapis Lazuli Required</span></td>
+                </tr>
+            </table>
+        </div>
+    </section>
 
-                <!-- ==========
-                Lapis Lazuli (Button 3)
-                ========== -->
-                <a class="group w-full p-3 flex flex-col items-center gap-4 rounded text-2xl bg-dark-gray hover:bg-medium-red"
-                    href="https://liukang1080.github.io/gamewiki/nioh2/world/underworld/lapis/lapis.html">
-                    
-                    <img src="./img/lapis_logo.png" alt="">
-                    <span class="mask w-full p-2 text-center text-yellow-400 bg-dark-gray-2 rounded
-                        group-hover:text-yellow-100 group-hover:bg-light-red">Lapis Lazuli Table</span>
-                </a>
 
-                <!-- ==========
-                Jizo Kodama (Button 4)
-                ========== -->
-                <a class="group w-full p-3 flex flex-col items-center gap-4 rounded text-2xl bg-dark-gray hover:bg-medium-red"
-                    href="https://liukang1080.github.io/gamewiki/nioh2/world/underworld/jizo/jizo.html">
-                    
-                    <img src="./img/jizo_logo.png" alt="">
-                    <span class="mask w-full p-2 text-center text-yellow-400 bg-dark-gray-2 rounded
-                        group-hover:text-yellow-100 group-hover:bg-light-red">Jizo Kodama</span>
-                </a>
+    <!-- ========== ========== ========== ========== ==========
+    Credits
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full px-4 2xl:px-0 flex flex-col items-start gap-4">
+            <h1 id="credits" class="text-yellow-400 text-4xl">Credits:</h1>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+            
+            <div class="flex flex-col gap-2 text-slate-300 text-xl">
+                <span>LiuKang1080, FloorGeneral, DumChickenBiryani, u/Lupinos-Cas</span>
+                <span class="bold-text">Nioh 2 Build Bible: Ocean Machine:
+                    <a class="text-sky-400 hover:text-sky-600" href="https://docs.google.com/spreadsheets/d/1A-uFgSck8pU5NOLh2OVpK_V5-AVfDW42wuiumuf7tlE/edit#gid=2119503531" 
+                    target="_blank" rel="noopener noreferrer">Link to Nioh 2 Build Bible</a></span>
+                <span class="bold-text">Nioh Community Discord Server: 
+                    <a class="text-sky-400 hover:text-sky-600" href="https://discord.gg/pAH5U9mRBj" 
+                    target="_blank" rel="noopener noreferrer">Here</a></span>
             </div>
         </div>
     </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Back to top button
+    ========== ========== ========== ========== ========== -->
+    <a id="back-to-top-button" href="#">Top</a>
 
 
     <!-- ========== ========== ========== ========== ==========
@@ -307,8 +453,8 @@
     <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/js/navbar.js" defer></script>
     <!-- <script type="text/javascript" src="../../js/navbar.js" defer></script> -->
 
-    <!-- <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/nioh2/world/" defer></script> -->
-    <!-- <script type="text/javascript" src="" defer></script> -->
+    <!-- <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/nioh2/world/underworld/lapis/js/lapis.js" defer></script> -->
+    <script type="text/javascript" src="./js/lapis.js" defer></script>
 
 </body>
 </html>
