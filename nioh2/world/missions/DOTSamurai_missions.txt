@@ -7,6 +7,7 @@
         - Number of Kodama: 
         - Number of Sudama: 
         - Number of Hot Springs: 
+        - Number of Dark Realms: 
         - Bosses: 
             - 
         - Guardian Spirit Unlocked: 
@@ -30,13 +31,33 @@ Awakening Region (Region 1)
         - Number of Kodama: 7
         - Number of Sudama: 0
         - Number of Hot Springs: 0
+        - Number of Dark Realms: 1
         - Bosses: 
             - Gozuki
             - Mezuki
         - Guardian Spirit Unlocked: 
             - Masaru
         - Notable Items In Mission / Mission Rewards:
-            - Samurai Skill points in level
+            - Samurai Skill points (in level)
+
+    ==========
+    The Forest Veiled in Darkness (Sub Mission)
+    ==========
+        - Recommended level: 9
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 2
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+    
 
 
 

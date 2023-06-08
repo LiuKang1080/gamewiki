@@ -10,4 +10,19 @@ Base Game Missions:
     ==========
     The Village of Cursed Blossoms (Main Mission)
     ==========
-        - 
+        - Gaki (first time)
+        - Gozuki (boss) (first time)
+        - Enki (first time)
+        - Outlaw (first time)
+        - Rouge (first time)
+        - Yoki (first time)
+        - Mezuki (boss) (first time)
+
+    ==========
+    The Forest Veiled in Darkness (Sub Mission)
+    ==========
+        - Outlaw
+        - Rouge
+        - Gaki
+        - Enki
+        
