@@ -26,7 +26,8 @@ function rand_num(limit) {
     Parameters: limit: This is the upper limit, we will add 1 to this because Math.random() is excluding the upper limit.
     ==========
 
-    Return: random number
+    Return: random number.
+    ==========
     */
 
     return Math.floor(Math.random() * (limit + 1));

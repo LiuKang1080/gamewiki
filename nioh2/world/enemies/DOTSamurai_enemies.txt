@@ -25,4 +25,19 @@ Base Game Missions:
         - Rouge
         - Gaki
         - Enki
-        
+
+    ==========
+    The Beast Born of Smoke and Flames (Main Mission)
+    ==========
+        - Outlaw
+        - Rouge
+        - Ippon-Datara (first time)
+        - Gaki
+        - Sohaya Warrior (first time)
+        - Yoki
+        - Enki
+        - Dweller (first time)
+        - Mujina (first time)
+        - Nurikabe (first time)
+        - Skeleton (first time)
+        - Enenra (first time)

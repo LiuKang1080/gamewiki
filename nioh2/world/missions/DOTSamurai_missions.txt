@@ -57,7 +57,23 @@ Awakening Region (Region 1)
         - Notable Items In Mission / Mission Rewards:
             - None
 
-    
+    ==========
+    The Beast Born of Smoke and Flames (Main Mission)
+    ==========
+        - Recommended level: 10
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 7
+        - Number of Sudama: 1
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 2
+        - Bosses: 
+            - Enenra
+        - Guardian Spirit Unlocked: 
+            - 
+        - Notable Items In Mission / Mission Rewards:
+            - Ninja Hair Locks
+            - Onmyo Mage Hair Locks
 
 
 
