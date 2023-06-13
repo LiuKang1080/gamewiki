@@ -17,6 +17,27 @@
 
 
 ========== ========== ========== ========== ========== ========== ==========
+Dojo Missions:
+========== ========== ========== ========== ========== ========== ==========
+    ==========
+    The Way of the Warrior: Novice (Dojo Mission)
+    ==========
+        - Recommended level: 35
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Samurai's Locks
+
+
+========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
 ========== ========== ========== ========== ========== ========== ==========
 ========== ========== ==========
@@ -70,12 +91,10 @@ Awakening Region (Region 1)
         - Bosses: 
             - Enenra
         - Guardian Spirit Unlocked: 
-            - 
+            - None
         - Notable Items In Mission / Mission Rewards:
             - Ninja Hair Locks
             - Onmyo Mage Hair Locks
-
-
 
 
 
