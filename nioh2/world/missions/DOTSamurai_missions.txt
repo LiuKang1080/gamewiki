@@ -113,6 +113,26 @@ Awakening Region (Region 1)
         - Notable Items In Mission / Mission Rewards:
             - None
 
+    ==========
+    Dark Omens (Sub Mission)
+    ==========
+        - Recommended level: 21
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 3
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 1
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Onmyo Mage Hair Locks
+            - Ninja Hair Locks
+
+
+
 
 
 

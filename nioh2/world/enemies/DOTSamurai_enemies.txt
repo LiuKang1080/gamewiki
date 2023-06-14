@@ -61,6 +61,19 @@ Base Game Missions:
         - Thunderstorm Oni-Bi (first time)
         - Gozuki (boss)
 
+    ==========
+    Dark Omens (Sub Mission)
+    ==========
+        - Outlaw
+        - Rouge
+        - Abbarant Soldier (first time)
+        - Enki
+        - Gaki
+        - One-Eyed Oni (first time)
+        - Sohaya Warrior
+        - Yoki
+        - Karasu Tengu (first time)
+
 
 
 
