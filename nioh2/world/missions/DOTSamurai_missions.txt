@@ -96,7 +96,22 @@ Awakening Region (Region 1)
             - Ninja Hair Locks
             - Onmyo Mage Hair Locks
 
-
+    ==========
+    A Voice in the Twilight (Sub Mission)
+    ==========
+        - Recommended level: 20
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Gozuki
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
 
 
 

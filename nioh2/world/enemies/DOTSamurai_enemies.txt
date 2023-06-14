@@ -51,9 +51,15 @@ Base Game Missions:
         - Skeleton (first time)
         - Enenra (first time)
 
-    
-
-
+    ==========
+    A Voice in the Twilight (Sub Mission)
+    ==========
+        - Gaki
+        - Infernal Oni-Bi (first time)
+        - Yoki
+        - Enki
+        - Thunderstorm Oni-Bi (first time)
+        - Gozuki (boss)
 
 
 
