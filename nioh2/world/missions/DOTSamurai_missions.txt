@@ -16,6 +16,15 @@
             - 
 
 
+==========
+Other Notes:
+==========
+    - "The Way of the Warrior: Novice" unlocks after beating "The Beast Born of Smoke and Flames"
+    - Twilight Missions unlocks after beating "The Viper's Sanctum"
+    - "The Way of the Ninja: Novice" unlocks after beating "The Viper's Sanctum"
+    - "The Way of the Onmyo: Novice" unlocks after beating "The Viper's Sanctum"
+
+
 ========== ========== ========== ========== ========== ========== ==========
 Dojo Missions:
 ========== ========== ========== ========== ========== ========== ==========
@@ -131,7 +140,41 @@ Awakening Region (Region 1)
             - Onmyo Mage Hair Locks
             - Ninja Hair Locks
 
-
+    ==========
+    The Viper's Sanctum (Main Mission)
+    ==========
+        - Recommended level: 24
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 6
+        - Number of Sudama: 2
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 3
+        - Bosses: 
+            - Yatsu-no-Kami
+        - Guardian Spirit Unlocked: 
+            - Shirohami
+        - Notable Items In Mission / Mission Rewards:
+            - Onmyo Mage Hair Locks
+            - Ninja Hair Locks
+        
+    ==========
+    A Favor for the Blacksmith (Sub Mission)
+    ==========
+        - Recommended level: 30
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Kagatsuchi Magatama (Mission Reward - Increases the level of gear that can be forged)
+    
 
 
 

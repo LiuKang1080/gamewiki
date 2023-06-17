@@ -16,6 +16,9 @@ Dojo Missions:
 ========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
 ========== ========== ========== ========== ========== ========== ==========
+========== ========== ==========
+Awakening Region (Region 1)
+========== ========== ==========
     ==========
     The Village of Cursed Blossoms (Main Mission)
     ==========
@@ -73,6 +76,40 @@ Base Game Missions:
         - Sohaya Warrior
         - Yoki
         - Karasu Tengu (first time)
+
+    ==========
+    The Viper's Sanctum (Main Mission)
+    ==========
+        - Warrior (first time)
+        - Ninja (first time)
+        - Gaki
+        - Yoki
+        - Sohaya Warrior
+        - Abbarant Soldier
+        - Nure-Onna (first time)
+        - Nurikabe
+        - Enki
+        - Toxic Slime (first time)
+        - Ippon-Datara
+        - Yatsu-no-Kami (first time)
+
+    ==========
+    A Favor for the Blacksmith (Sub Mission)
+    ==========
+        - Dweller
+        - Lesser Umi-Bozu (first time)
+        - Gaki
+        - Yoki
+        - Ippon-Datara
+        - Wheel Monk (first time)
+        - Warrior
+        - Outlaw
+
+
+
+
+
+
 
 
 
