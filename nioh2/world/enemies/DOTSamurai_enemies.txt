@@ -14,6 +14,29 @@ Dojo Missions:
 
 
 ========== ========== ========== ========== ========== ========== ==========
+Twilight Missions:
+========== ========== ========== ========== ========== ========== ==========
+    ==========
+    Traces of the Raging Blaze
+    ==========
+        - Yoki
+        - Skeleton Warrior
+        - Gaki
+        - Kappa
+        - Ippon-Datara
+        - Infernal Oni-Bi
+        - Enki
+        - Karakasa Umbrella
+        - Dweller
+        - Enenra (boss)
+
+    ==========
+     ()
+    ==========
+        - 
+
+
+========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
 ========== ========== ========== ========== ========== ========== ==========
 ========== ========== ==========
@@ -51,7 +74,7 @@ Awakening Region (Region 1)
         - Dweller (first time)
         - Mujina (first time)
         - Nurikabe (first time)
-        - Skeleton (first time)
+        - Skeleton Warrior (first time)
         - Enenra (first time)
 
     ==========
