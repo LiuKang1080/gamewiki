@@ -173,7 +173,7 @@ Awakening Region (Region 1)
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Kagatsuchi Magatama (Mission Reward - Increases the level of gear that can be forged)
+            - Kagatsuchi Magatama (Mission Reward - Increases the average rarity of uncommon+ forged items by 1%)
     
 
 
