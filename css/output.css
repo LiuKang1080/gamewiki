@@ -628,6 +628,22 @@ video {
   height: auto;
 }
 
+.h-\[300px\] {
+  height: 300px;
+}
+
+.h-\[200px\] {
+  height: 200px;
+}
+
+.h-\[250px\] {
+  height: 250px;
+}
+
+.h-\[225px\] {
+  height: 225px;
+}
+
 .min-h-screen {
   min-height: 100vh;
 }
@@ -651,6 +667,10 @@ video {
 
 .w-full {
   width: 100%;
+}
+
+.w-auto {
+  width: auto;
 }
 
 .border-collapse {
@@ -707,6 +727,14 @@ video {
   flex-wrap: wrap;
 }
 
+.place-content-end {
+  place-content: end;
+}
+
+.place-items-end {
+  place-items: end;
+}
+
 .items-start {
   align-items: flex-start;
 }
@@ -717,6 +745,10 @@ video {
 
 .justify-start {
   justify-content: flex-start;
+}
+
+.justify-end {
+  justify-content: flex-end;
 }
 
 .justify-center {
@@ -774,12 +806,20 @@ video {
   place-self: start;
 }
 
+.place-self-end {
+  place-self: end;
+}
+
 .place-self-center {
   place-self: center;
 }
 
 .self-end {
   align-self: flex-end;
+}
+
+.justify-self-end {
+  justify-self: end;
 }
 
 .overflow-x-auto {
@@ -895,9 +935,19 @@ video {
      object-fit: contain;
 }
 
+.object-fill {
+  -o-object-fit: fill;
+     object-fit: fill;
+}
+
 .object-none {
   -o-object-fit: none;
      object-fit: none;
+}
+
+.object-scale-down {
+  -o-object-fit: scale-down;
+     object-fit: scale-down;
 }
 
 .p-1 {

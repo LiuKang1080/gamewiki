@@ -124,7 +124,7 @@ Awakening Region (Region 1)
         - Gaki
         - Yoki
         - Ippon-Datara
-        - Wheel Monk (first time)
+        - Wheelmonk (first time)
         - Warrior
         - Outlaw
 
