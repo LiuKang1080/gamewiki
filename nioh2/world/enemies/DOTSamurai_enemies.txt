@@ -17,7 +17,7 @@ Dojo Missions:
 Twilight Missions:
 ========== ========== ========== ========== ========== ========== ==========
     ==========
-    Traces of the Raging Blaze
+    Traces of the Raging Blaze (A Beast Born of Smoke and Flames)
     ==========
         - Yoki
         - Skeleton Warrior
@@ -31,9 +31,17 @@ Twilight Missions:
         - Enenra (boss)
 
     ==========
-     ()
+    The Blood Tainted Samurai (Dark Omens)
     ==========
-        - 
+        - Enki
+        - Abbarant Soldier
+        - Gaki
+        - Revenant
+        - Yoki
+        - Ippon-Datara
+        - Biwa Boku-Boku
+        - Thunderstorm Oni-Bi
+        - Karasu Tengu
 
 
 ========== ========== ========== ========== ========== ========== ==========
