@@ -128,7 +128,13 @@ Awakening Region (Region 1)
         - Warrior
         - Outlaw
 
-
+    ==========
+    The Search (Sub Mission)
+    ==========
+        - Gaki
+        - Ippon-Datara
+        - Nure-Onna
+        - Enki
 
 
 

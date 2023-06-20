@@ -175,7 +175,22 @@ Awakening Region (Region 1)
         - Notable Items In Mission / Mission Rewards:
             - Kagatsuchi Magatama (Mission Reward - Increases the average rarity of uncommon+ forged items by 1%)
     
-
+    ==========
+    The Search (Sub Mission)
+    ==========
+        - Recommended level: 32
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Smithing Text: Possessed Kodama Bowl
 
 
 
