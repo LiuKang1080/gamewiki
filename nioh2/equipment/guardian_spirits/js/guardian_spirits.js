@@ -1,4 +1,4 @@
-/* JavaScript for achievements.html */
+/* JavaScript for guardian_spirits.html */
 
 
 /* 
@@ -6,23 +6,18 @@
 Table of Contents JavaScript 
 ========== ========== ========== ========== ==========
 */
-function base() {
-    let element = document.getElementById("base");
+function gs_list() {
+    let element = document.getElementById("gs_list");
     element.scrollIntoView();
 }
 
-function dlc1() {
-    let element = document.getElementById("dlc1");
+function combination_list() {
+    let element = document.getElementById("combination_list");
     element.scrollIntoView();
 }
 
-function dlc2() {
-    let element = document.getElementById("dlc2");
-    element.scrollIntoView();
-}
-
-function dlc3() {
-    let element = document.getElementById("dlc3");
+function tier_list() {
+    let element = document.getElementById("tier_list");
     element.scrollIntoView();
 }
 
