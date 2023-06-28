@@ -232,7 +232,7 @@
     ========== ========== ========== ========== ========== -->
     <section class="w-full my-12 flex flex-col items-center">
         <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
-            <h1 class="text-yellow-400 text-6xl">Guardian Spirits</h1>
+            <h1 class="text-yellow-400 text-6xl text-center">Guardian Spirits</h1>
             <hr class="w-full h-[2px] bg-stone-600 border-0">
         </div>
     </section>
@@ -249,6 +249,562 @@
                 <li><a class="hover:text-sky-600" href="javascript: tier_list()">rbFrosty's Guardian Spirit Tier List</a></li>
                 <li><a class="hover:text-sky-600" href="javascript: credits()">Credits</a></li>
             </ol>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Description
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Description</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                There are a total of 37 Guardian Spirits. There are 11 Spirits of the <span class="text-red-600">Brute type</span>
+                <img class="inline" src="./img/brute_logo.png" alt="">. 14 Spirits of the <span class="text-purple-500">Phantom type</span>
+                <img class="inline" src="./img/phantom_logo.png" alt="">. And 12 Spirits of the <span class="text-blue-500">Feral type</span>
+                <img class="inline" src="./img/feral_logo.png" alt="">.
+            </p>
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                <span class="text-yellow-400 text-xl">Legend:</span><br>
+                <span class="font-bold">CON: </span>Constitution <br>
+                <span class="font-bold">HRT: </span>Heart <br>
+                <span class="font-bold">CRG: </span>Courage <br>
+                <span class="font-bold">STM: </span>Stamina <br>
+                <span class="font-bold">STR: </span>Strength <br>
+                <span class="font-bold">SKL: </span>Skill <br>
+                <span class="font-bold">DEX: </span>Dexterity <br>
+                <span class="font-bold">MAG: </span>Magic <br>
+
+                <img class="inline" src="./img/buff_logo.png" alt=""> : Buff Effect <br>
+                <img class="inline" src="./img/debuff_logo.png" alt=""> : Debuff Effect <br>
+                <img class="inline scale-75" src="./img/gs_wolf_logo.png" alt=""> : Applied effect as Secondary Guardian Spirit (effect is halved)
+            </p>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Guardian Spirit List
+    ========== ========== ========== ========== ========== -->    
+    <section class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
+            <h2 id="gs_list" class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Guardian Spirit List</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <!-- ========== ========== ==========
+            Hot-Link for Guardian Spirits
+            ========== ========== ========== -->
+            <div class="w-full flex flex-wrap justify-center items-center gap-3 text-xl text-sky-400">
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Amabie</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Ame-no-Mitori</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Atlas Bear</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Baku</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Blue Dragon</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Genbu</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Gyokuto</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Hakutaku</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Hiyobishin</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Hiyokucho</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Ho</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Ho-Oh</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Inosasao</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Isanagami</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Itokuri</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Janomecho</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Kagewani</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Kurama Tengu</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Kuzunoha The Fox</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Makami</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Masaru</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Mizuchi</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Nekomata</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Nine Tails</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Oh</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Okuri-Inu</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Rokugezo</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Saoirse</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Shin-Roku</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Shirohami</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Sohaya</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Suzaku</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Tengen Kujaku</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Usura-Hicho</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Yaonami-Hime</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Yatagarasu</a>
+                <a class="rounded-lg p-3 bg-dark-gray-2 hover:bg-light-red hover:text-yellow-400" href="">Yumehami</a>
+            </div>
+
+            <!-- ========== ========== ==========
+            Guardian Spirits Cards
+            ========== ========== ========== -->
+            <div class="mt-12 px-4 lg:px-0 w-full flex flex-wrap gap-6
+                md:grid md:grid-cols-2
+                2xl:grid 2xl:grid-cols-3">
+
+                <!-- ========== ==========
+                Makami
+                ========== ========== -->
+                <a id="Makami" class="group w-full p-3 flex flex-col items-center justify-start gap-4 rounded-lg text-2xl bg-dark-gray hover:bg-medium-red"
+                    href="">
+                    <!-- ========== Name and Logo ========== -->
+                    <div class="w-full flex justify-center items-center gap-4 text-sky-400 rounded">
+                        <!-- Logo -->
+                        <div class="mask w-1/3 p-3 rounded-lg flex justify-center items-center bg-dark-gray-2
+                            group-hover:text-yellow-400 group-hover:bg-light-red">
+                            
+                            <img src="./img/makami.png" alt="">
+                        </div>
+                        <!-- Name -->
+                        <div class="mask w-2/3 h-full p-3 rounded-lg flex justify-center items-center gap-2 bg-dark-gray-2 
+                            group-hover:text-yellow-400 group-hover:bg-light-red">
+                            
+                            <span class="font-bold text-3xl">Makami</span>
+                            <img src="./img/brute_logo.png" alt="">
+                        </div>
+                    </div>
+
+                    <!-- ========== Attributes ========== -->
+                    <p class="my-3 w-full flex flex-col items-center gap-2 text-slate-300">
+                        <span class="text-yellow-400">Attunement Limit: 20</span>
+                        <span>Attack Scaling X1.10</span>
+                        <span>Defense Scaling X0.90</span>
+                    </p>
+
+                    <!-- ========== Table ========== -->
+                    <div class="mask w-full rounded-lg grow">
+                        <table class="w-full h-full bg-dark-gray group-hover:bg-light-red rounded-lg text-slate-300 text-xl font-tinos">
+                            <!-- ==========
+                            Header 
+                            ========== -->
+                            <tr>
+                                <th>Special Effect</th>
+                                <th>Bonus</th>
+                                <th>Stat Requirement</th>
+                            </tr>
+
+                            <tr>
+                                <td>Anima Bonus (Guard)</td>
+                                <td>A-</td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td>Melee Attack Ki Consumption</td>
+                                <td>-10.0 %</td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td><div class="flex flex-col justify-center items-center gap-3">
+                                    <img src="./img/gs_wolf_small_logo.png" alt="">
+                                    <span>Final Blow Damage</span>
+                                </div></td>
+                                <td>12.5 % / <span class="bold-text red-text">6.2 %</span></td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td>Fire Resistence</td>
+                                <td>12.0 %</td>
+                                <td>CON + STR = 14</td>
+                            </tr>
+                            <tr>
+                                <td>Yokai Ability Damage (All)</td>
+                                <td>15.0 %</td>
+                                <td>DEX + MAG = 12</td>
+                            </tr>
+                        </table>
+                    </div>
+                </a>
+
+                <!-- ========== ==========
+                Ame-no-Mitori
+                ========== ========== -->
+                <a id="Ame-no-Mitori" class="group w-full p-3 flex flex-col items-center justify-start gap-4 rounded-lg text-2xl bg-dark-gray hover:bg-medium-red"
+                    href="">
+                    <!-- ========== Name and Logo ========== -->
+                    <div class="align-self-start w-full flex justify-center items-center gap-4 text-sky-400 rounded">
+                        <!-- Logo -->
+                        <div class="mask w-1/3 p-3 rounded-lg flex justify-center items-center bg-dark-gray-2
+                            group-hover:text-yellow-400 group-hover:bg-light-red">
+                            
+                            <img src="./img/ame-no-mitori.png" alt="">
+                        </div>
+                        <!-- Name -->
+                        <div class="mask w-2/3 h-full p-3 rounded-lg flex justify-center items-center gap-2 bg-dark-gray-2 
+                            group-hover:text-yellow-400 group-hover:bg-light-red">
+                            
+                            <span class="font-bold text-3xl">Ame-no-Mitori</span>
+                            <img src="./img/feral_logo.png" alt="">
+                        </div>
+                    </div>
+
+                    <!-- ========== Attributes ========== -->
+                    <p class="my-3 w-full flex flex-col items-center gap-2 text-slate-300">
+                        <span class="text-yellow-400">Attunement Limit: 21</span>
+                        <span>Attack Scaling X1.00</span>
+                        <span>Defense Scaling X1.05</span>
+                    </p>
+
+                    <!-- ========== Table ========== -->
+                    <div class="mask w-full rounded-lg grow">
+                        <table class="w-full h-full bg-dark-gray group-hover:bg-light-red rounded-lg text-slate-300 text-xl font-tinos">
+                            <!-- ==========
+                            Header 
+                            ========== -->
+                            <tr>
+                                <th>Special Effect</th>
+                                <th>Bonus</th>
+                                <th>Stat Requirement</th>
+                            </tr>
+
+                            <tr>
+                                <td>Anima Charge Bonus (Cumulative Damage)</td>
+                                <td>A-</td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td>Running Speed</td>
+                                <td>10.0 % </td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td>Ki Recovery Speed</td>
+                                <td>12.5 %</td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td>Divine Rice Drop Rate</td>
+                                <td>8.8 %</td>
+                                <td>HRT + CON = 14</td>
+                            </tr>
+                            <tr>
+                                <td><div class="flex flex-col justify-center items-center gap-3">
+                                    <img src="./img/gs_wolf_small_logo.png" alt="">
+                                    <span>Lightning Damage</span>
+                                </div></td>
+                                <td>20.0 % / <span class="text-red-600 group-hover:text-yellow-400">10.0 %</span></td>
+                                <td>CRG + MAG = 12</td>
+                            </tr>
+                        </table>
+                    </div>
+                </a>
+
+                <!-- ========== ==========
+                Kagewani
+                ========== ========== -->
+                <a id="Kagewani" class="group w-full p-3 flex flex-col items-center justify-end gap-4 rounded-lg text-2xl bg-dark-gray hover:bg-medium-red"
+                    href="">
+                    <!-- ========== Name and Logo ========== -->
+                    <div class="w-full flex justify-center items-center gap-4 text-sky-400 rounded">
+                        <!-- Logo -->
+                        <div class="mask w-1/3 p-3 rounded-lg flex justify-center items-center bg-dark-gray-2
+                            group-hover:text-yellow-400 group-hover:bg-light-red">
+                            
+                            <img src="./img/kagewani.png" alt="">
+                        </div>
+                        <!-- Name -->
+                        <div class="mask w-2/3 h-full p-3 rounded-lg flex justify-center items-center gap-2 bg-dark-gray-2 
+                            group-hover:text-yellow-400 group-hover:bg-light-red">
+                            
+                            <span class="font-bold text-3xl">Kagewani</span>
+                            <img src="./img/phantom_logo.png" alt="">
+                        </div>
+                    </div>
+
+                    <!-- ========== Attributes ========== -->
+                    <p class="my-3 w-full flex flex-col items-center gap-2 text-slate-300">
+                        <span class="text-yellow-400">Attunement Limit: 24</span>
+                        <span>Attack Scaling X0.85</span>
+                        <span>Defense Scaling X1.20</span>
+                    </p>
+
+                    <!-- ========== Table ========== -->
+                    <div class="mask w-full rounded-lg grow">
+                        <table class="w-full h-full bg-dark-gray group-hover:bg-light-red rounded-lg text-slate-300 text-xl font-tinos">
+                            <!-- ==========
+                            Header 
+                            ========== -->
+                            <tr>
+                                <th>Special Effect</th>
+                                <th>Bonus</th>
+                                <th>Stat Requirement</th>
+                            </tr>
+
+                            <tr>
+                                <td>Anima Bonus (Ranged Attack)</td>
+                                <td>A-</td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td>Life</td>
+                                <td>200</td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td>Tenacity (Damage Over Time)</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td>Strong Attack Ki Damage</td>
+                                <td>15.0 %</td>
+                                <td>SKL + STR = 14</td>
+                            </tr>
+                            <tr>
+                                <td><div class="flex flex-col justify-center items-center gap-3">
+                                    <img src="./img/gs_wolf_small_logo.png" alt="">
+                                    <span>Life Drain (Yokai Ability Hit)</span>
+                                </div></td>
+                                <td>A / <span class="text-red-600 group-hover:text-yellow-400">C+</span></td>
+                                <td>STM + MAG = 12</td>
+                            </tr>
+                        </table>
+                    </div>
+                </a>
+
+                <!-- ========== ==========
+                Masaru
+                ========== ========== -->
+                <a id="Masaru" class="group w-full p-3 flex flex-col items-center justify-end gap-4 rounded-lg text-2xl bg-dark-gray hover:bg-medium-red"
+                    href="">
+                    <!-- ========== Name and Logo ========== -->
+                    <div class="w-full flex justify-center items-center gap-4 text-sky-400 rounded">
+                        <!-- Logo -->
+                        <div class="mask w-1/3 p-3 rounded-lg flex justify-center items-center bg-dark-gray-2
+                            group-hover:text-yellow-400 group-hover:bg-light-red">
+                            
+                            <img src="./img/masaru.png" alt="">
+                        </div>
+                        <!-- Name -->
+                        <div class="mask w-2/3 h-full p-3 rounded-lg flex justify-center items-center gap-2 bg-dark-gray-2 
+                            group-hover:text-yellow-400 group-hover:bg-light-red">
+                            
+                            <span class="font-bold text-3xl">Masaru</span>
+                            <img src="./img/feral_logo.png" alt="">
+                        </div>
+                    </div>
+
+                    <!-- ========== Attributes ========== -->
+                    <p class="my-3 w-full flex flex-col items-center gap-2 text-slate-300">
+                        <span class="text-yellow-400">Attunement Limit: 23</span>
+                        <span>Attack Scaling X1.02</span>
+                        <span>Defense Scaling X1.00</span>
+                    </p>
+
+                    <!-- ========== Table ========== -->
+                    <div class="mask w-full rounded-lg grow">
+                        <table class="w-full h-full bg-dark-gray group-hover:bg-light-red rounded-lg text-slate-300 text-xl font-tinos">
+                            <!-- ==========
+                            Header 
+                            ========== -->
+                            <tr>
+                                <th>Special Effect</th>
+                                <th>Bonus</th>
+                                <th>Stat Requirement</th>
+                            </tr>
+
+                            <tr>
+                                <td>Anima Charge Bonus (Cumulative Damage)</td>
+                                <td>A-</td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td><div class="flex flex-col justify-center items-center gap-3">
+                                    <img src="./img/buff_logo.png" alt="">
+                                    Increased Attack (Amrita Absorption)
+                                </div></td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td><div class="flex flex-col justify-center items-center gap-3">
+                                    <img src="./img/gs_wolf_small_logo.png" alt="">
+                                    Auto-Grave Recovery
+                                </div></td>
+                                <td>25 % / <span class="text-red-600 group-hover:text-yellow-400">12.5 %</span></td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td>Imbue Purity (Strong Attack)</td>
+                                <td>10</td>
+                                <td>STR + CRG = 18</td>
+                            </tr>
+                            <tr>
+                                <td>Amrita Sensor</td>
+                                <td>-</td>
+                                <td>DEX + CON = 16</td>
+                            </tr>
+                        </table>
+                    </div>
+                </a>
+
+                <!-- ========== ==========
+                Shirohami
+                ========== ========== -->
+                <a id="Shirohami" class="group w-full p-3 flex flex-col items-center justify-end gap-4 rounded-lg text-2xl bg-dark-gray hover:bg-medium-red"
+                    href="">
+                    <!-- ========== Name and Logo ========== -->
+                    <div class="w-full flex justify-center items-center gap-4 text-sky-400 rounded">
+                        <!-- Logo -->
+                        <div class="mask w-1/3 p-3 rounded-lg flex justify-center items-center bg-dark-gray-2
+                            group-hover:text-yellow-400 group-hover:bg-light-red">
+                            
+                            <img src="./img/shirohami.png" alt="">
+                        </div>
+                        <!-- Name -->
+                        <div class="mask w-2/3 h-full p-3 rounded-lg flex justify-center items-center gap-2 bg-dark-gray-2 
+                            group-hover:text-yellow-400 group-hover:bg-light-red">
+                            
+                            <span class="font-bold text-3xl">Shirohami</span>
+                            <img src="./img/brute_logo.png" alt="">
+                        </div>
+                    </div>
+
+                    <!-- ========== Attributes ========== -->
+                    <p class="my-3 w-full flex flex-col items-center gap-2 text-slate-300">
+                        <span class="text-yellow-400">Attunement Limit: 21</span>
+                        <span>Attack Scaling X1.12</span>
+                        <span>Defense Scaling X0.88</span>
+                    </p>
+
+                    <!-- ========== Table ========== -->
+                    <div class="mask w-full rounded-lg grow">
+                        <table class="w-full h-full bg-dark-gray group-hover:bg-light-red rounded-lg text-slate-300 text-xl font-tinos">
+                            <!-- ==========
+                            Header 
+                            ========== -->
+                            <tr>
+                                <th>Special Effect</th>
+                                <th>Bonus</th>
+                                <th>Stat Requirement</th>
+                            </tr>
+
+                            <tr>
+                                <td>Anima Bonus (Guard)</td>
+                                <td>A-</td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td>Life Drain (Melee Kill)</td>
+                                <td>50</td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td>Imbue Poison (Yokai Abilities)</td>
+                                <td>50</td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td><div class="flex flex-col justify-center items-center gap-3">
+                                    <img src="./img/gs_wolf_small_logo.png" alt="">
+                                    Soul Core Drop Rate
+                                </div></td>
+                                <td>5.0 % / <span class="text-red-600 group-hover:text-yellow-400">2.5 %</span></td>
+                                <td>STR + CRG = 19</td>
+                            </tr>
+                            <tr>
+                                <td><div class="flex flex-col justify-center items-center gap-3">
+                                    <img src="./img/debuff_logo.png" alt="">
+                                    Poison Accumulation (Enemy)
+                                </div></td>
+                                <td>15.0 %</td>
+                                <td>DEX + STM = 17</td>
+                            </tr>
+                        </table>
+                    </div>
+                </a>
+
+                <!-- ========== ==========
+                Rokugezo
+                ========== ========== -->
+                <a id="Rokugezo" class="group w-full p-3 flex flex-col items-center justify-end gap-4 rounded-lg text-2xl bg-dark-gray hover:bg-medium-red"
+                    href="">
+                    <!-- ========== Name and Logo ========== -->
+                    <div class="w-full flex justify-center items-center gap-4 text-sky-400 rounded">
+                        <!-- Logo -->
+                        <div class="mask w-1/3 p-3 rounded-lg flex justify-center items-center bg-dark-gray-2
+                            group-hover:text-yellow-400 group-hover:bg-light-red">
+                            
+                            <img src="./img/rokugezo.png" alt="">
+                        </div>
+                        <!-- Name -->
+                        <div class="mask w-2/3 h-full p-3 rounded-lg flex justify-center items-center gap-2 bg-dark-gray-2 
+                            group-hover:text-yellow-400 group-hover:bg-light-red">
+                            
+                            <span class="font-bold text-3xl">Rokugezo</span>
+                            <img src="./img/phantom_logo.png" alt="">
+                        </div>
+                    </div>
+
+                    <!-- ========== Attributes ========== -->
+                    <p class="my-3 w-full flex flex-col items-center gap-2 text-slate-300">
+                        <span class="text-yellow-400">Attunement Limit: 23</span>
+                        <span>Attack Scaling X1.07</span>
+                        <span>Defense Scaling X0.95</span>
+                    </p>
+
+                    <!-- ========== Table ========== -->
+                    <div class="mask w-full rounded-lg grow">
+                        <table class="w-full h-full bg-dark-gray group-hover:bg-light-red rounded-lg text-slate-300 text-xl font-tinos">
+                            <!-- ==========
+                            Header 
+                            ========== -->
+                            <tr>
+                                <th>Special Effect</th>
+                                <th>Bonus</th>
+                                <th>Stat Requirement</th>
+                            </tr>
+
+                            <tr>
+                                <td>Anima Bonus (Ranged Attack)</td>
+                                <td>A</td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td>Yokai Ability Damage (Force Boost)</td>
+                                <td>25.0 %</td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td><div class="flex flex-col justify-center items-center gap-3">
+                                    <img src="./img/gs_wolf_small_logo.png" alt="">
+                                    Toughness
+                                </div></td>
+                                <td>20 / <span class="text-red-600 group-hover:text-yellow-400">10</span></td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td>Anima Bonus (Timley Guard)</td>
+                                <td>3.0</td>
+                                <td>CRG + SKL = 21</td>
+                            </tr>
+                            <tr>
+                                <td>Lightning Resistence</td>
+                                <td>20.0</td>
+                                <td>MAG + STM = 19</td>
+                            </tr>
+                        </table>
+                    </div>
+                </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
         </div>
     </section>
 
@@ -298,7 +854,7 @@
     <!-- <script type="text/javascript" src="../../js/top_button.js" defer></script> -->
 
     <!-- <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/nioh2/world/missions/js/recommended.js " defer></script> -->
-    <script type="text/javascript" src="" defer></script>
+    <script type="text/javascript" src="./js/guardian_spirits.js" defer></script>
 
 </body>
 </html>
