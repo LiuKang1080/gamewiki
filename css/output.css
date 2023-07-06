@@ -1347,6 +1347,20 @@ video {
   }
 }
 
+@media (min-width: 1280px) {
+  .xl\:col-start-2 {
+    grid-column-start: 2;
+  }
+
+  .xl\:col-end-3 {
+    grid-column-end: 3;
+  }
+
+  .xl\:place-self-center {
+    place-self: center;
+  }
+}
+
 @media (min-width: 1536px) {
   .\32xl\:grid {
     display: grid;
