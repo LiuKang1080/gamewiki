@@ -293,6 +293,9 @@
     ========== ========== ========== ========== ========== -->    
     <section class="w-full my-12 lg:px-0 flex flex-col items-center">
         <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
+            <!-- ==========
+            section header
+            ========== -->
             <h2 id="gs_list" class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Guardian Spirit List</h2>
             <hr class="w-full h-[2px] bg-stone-600 border-0">
 
@@ -3092,6 +3095,151 @@
                     </div>
                 </a>
             </div>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Guardian Spirit Combination List
+    ========== ========== ========== ========== ========== -->  
+    <section class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
+            <h2 id="combination_list" class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Guardian Spirit Combination List</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                Combining different spirits results in an extra special effect, this effect is based on the spirit pairing. All 
+                Guardian Spirits are broken up into Element type + Yokai type, EX) <a class="text-sky-400 hover:text-sky-600" href="">Makami</a> 
+                is a Fire type + Brute type. There are 5 Elements: Fire, Water, Lightning, Purity, and Corruption. There are 3 
+                Yokai Forms: Brute, Phantom, and Feral. A general formula is followed to get the special effect. Below is a table 
+                containing the combinations of Guardian Spirits and the special effect.
+            </p>
+
+            <!-- ==========
+            General Combinations
+            ========== -->
+            <table class="mx-2 lg:mx-0 bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th colspan="2">General Combinations</th>
+                </tr>
+                <tr>
+                    <th>Guardian Spirit Combination</th>
+                    <th>Special Effect</th>
+                </tr>
+
+                <tr class="even:bg-dark-gray-2">
+                    <td>Both Guardian Spirits are the same Elemental Type (<span class="text-red-600">Excludes Purity and Corruption</span>)</td>
+                    <td>Increase Element Damage +5.0 %</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Purity Element + Corruption Element</td>
+                    <td>Anima Bonus (Confused Enemy) D</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Both Guardian Spirits are the same Yokai Shift Type</td>
+                    <td>Yokai Ability Damage (Type) +5.0 %</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Brute + Feral</td>
+                    <td>Ki Consumption (Yokai Shift) -6.0 %</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Brute + Phantom</td>
+                    <td>Anima Charge (Strong Attack) +5.0 %</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Phantom + Feral</td>
+                    <td>Anima Charge (Active Skill) +3.0 %</td>
+                </tr>
+            </table>
+
+            <!-- ==========
+            Specific Guardian Spirit Combinations
+            ========== -->
+            <table class="mx-2 lg:mx-0 bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th colspan="2">Specific Guardian Spirit Combinations</th>
+                </tr>
+                <tr>
+                    <th>Guardian Spirit Combination</th>
+                    <th>Special Effect</th>
+                </tr>
+
+                <tr class="even:bg-dark-gray-2">
+                    <td><a class="text-sky-400 hover:text-sky-600" href="">Baku</a> + <a class="text-sky-400 hover:text-sky-600" href="">Sohaya</a></td>
+                    <td>Amrita Bonus (Inflict Purity) C</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><a class="text-sky-400 hover:text-sky-600" href="">Masaru</a> + <a class="text-sky-400 hover:text-sky-600" href="">Yumehami</a></td>
+                    <td>Amrita Earned +1.0 %</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><a class="text-sky-400 hover:text-sky-600" href="">Hiyobishin</a> + <a class="text-sky-400 hover:text-sky-600" href="">Tengen Kujaku</a></td>
+                    <td>Damage Bonus (Enemies Defeated) D-</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><a class="text-sky-400 hover:text-sky-600" href="">Usura-Hicho</a> + <a class="text-sky-400 hover:text-sky-600" href="">Tengen Kujaku</a></td>
+                    <td>Faster Ki Recovery (Surrounded)</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><a class="text-sky-400 hover:text-sky-600" href="">Nine Tails</a> + <a class="text-sky-400 hover:text-sky-600" href="">Hiyokucho</a></td>
+                    <td>Heal Self & Allies (Melee Kill) 50</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><a class="text-sky-400 hover:text-sky-600" href="">Atlas Bear</a> + <a class="text-sky-400 hover:text-sky-600" href="">Hiyobishin</a></td>
+                    <td>High Attack Damage +2.0 %</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><a class="text-sky-400 hover:text-sky-600" href="">Atlas Bear</a> + <a class="text-sky-400 hover:text-sky-600" href="">Tengen Kujaku</a></td>
+                    <td>Increased Attack (Surrounded)</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><a class="text-sky-400 hover:text-sky-600" href="">Shin-Roku</a> + <a class="text-sky-400 hover:text-sky-600" href="">Nekomata</a></td>
+                    <td>Ki Recovery (Critical) +5.0 %</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><a class="text-sky-400 hover:text-sky-600" href="">Saoirse</a> + <a class="text-sky-400 hover:text-sky-600" href="">Gyokuto</a></td>
+                    <td>Ki Recovery Bonus (Amrita Guage) D-</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><a class="text-sky-400 hover:text-sky-600" href="">Usura-Hicho</a> + <a class="text-sky-400 hover:text-sky-600" href="">Hiyobishin</a></td>
+                    <td>Ki Recovery Speed +2.0 %</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><a class="text-sky-400 hover:text-sky-600" href="">Hakutaku</a> + <a class="text-sky-400 hover:text-sky-600" href="">Mizuchi</a></td>
+                    <td>Life Drain (Elemental Attack)</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><a class="text-sky-400 hover:text-sky-600" href="">Baku</a> + <a class="text-sky-400 hover:text-sky-600" href="">Yumehami</a></td>
+                    <td>Max Yokai Ability Ki Damage +3.0 %</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><a class="text-sky-400 hover:text-sky-600" href="">Ho</a> + <a class="text-sky-400 hover:text-sky-600" href="">Oh</a></td>
+                    <td>Melee Damage vs. Purified Enemy +3.0 %</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><a class="text-sky-400 hover:text-sky-600" href="">Usura-Hicho</a> + <a class="text-sky-400 hover:text-sky-600" href="">Shirohami</a></td>
+                    <td>Melee Damage vs. Strong Enemy +2.0 %</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><a class="text-sky-400 hover:text-sky-600" href="">Genbu</a> + <a class="text-sky-400 hover:text-sky-600" href="">Isanagami</a></td>
+                    <td>Onmyo Magic Power</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><a class="text-sky-400 hover:text-sky-600" href="">Kurama Tengu</a> + <a class="text-sky-400 hover:text-sky-600" href="">Ho</a></td>
+                    <td>Quick Attack Damage +3.0 %</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td><a class="text-sky-400 hover:text-sky-600" href="">Nine Tails</a> + <a class="text-sky-400 hover:text-sky-600" href="">Inosasao</a></td>
+                    <td>Toughness</td>
+                </tr>
+            </table>
         </div>
     </section>
 
