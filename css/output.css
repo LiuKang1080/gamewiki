@@ -537,6 +537,11 @@ video {
   z-index: 10;
 }
 
+.mx-2 {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -560,11 +565,6 @@ video {
 .my-6 {
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
-}
-
-.mx-2 {
-  margin-left: 0.5rem;
-  margin-right: 0.5rem;
 }
 
 .mb-32 {
@@ -734,6 +734,10 @@ video {
 
 .list-disc {
   list-style-type: disc;
+}
+
+.flex-row {
+  flex-direction: row;
 }
 
 .flex-col {
@@ -1017,11 +1021,6 @@ video {
 .py-8 {
   padding-top: 2rem;
   padding-bottom: 2rem;
-}
-
-.px-8 {
-  padding-left: 2rem;
-  padding-right: 2rem;
 }
 
 .text-left {
@@ -1344,10 +1343,6 @@ video {
 
   .lg\:bg-cover {
     background-size: cover;
-  }
-
-  .lg\:p-0 {
-    padding: 0px;
   }
 
   .lg\:px-0 {
