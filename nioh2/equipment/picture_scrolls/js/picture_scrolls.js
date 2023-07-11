@@ -6,8 +6,8 @@
 Table of Contents JavaScript 
 ========== ========== ========== ========== ==========
 */
-function attributes_table() {
-    let element = document.getElementById("attributes_table");
+function attribute_tables() {
+    let element = document.getElementById("attribute_tables");
     element.scrollIntoView();
 }
 
