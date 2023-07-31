@@ -12,6 +12,16 @@ Dojo Missions:
     ==========
         - Outlaw
 
+    ==========
+    The Way of the Ninja: Novice (Dojo Mission)
+    ==========
+        - Ninja
+
+    ==========
+    The Way of Onmyo: Novice (Dojo Mission)
+    ==========
+        - Gaki
+
 
 ========== ========== ========== ========== ========== ========== ==========
 Twilight Missions:
@@ -144,7 +154,16 @@ Awakening Region (Region 1)
         - Nure-Onna
         - Enki
 
-
+    ==========
+    The Greedy Hunter (Sub Mission)
+    ==========
+        - Outlaw
+        - Enki
+        - Gaki
+        - Nure-Onna
+        - Abbarant Soldier
+        - Yoki
+        - Sohaya Warrior
 
 
 

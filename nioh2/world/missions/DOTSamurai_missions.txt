@@ -45,6 +45,40 @@ Dojo Missions:
         - Notable Items In Mission / Mission Rewards:
             - Samurai's Locks
 
+    ==========
+    The Way of the Ninja: Novice (Dojo Mission)
+    ==========
+        - Recommended level: 35
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Ninja's Locks
+
+    ==========
+    The Way of Onmyo: Novice (Dojo Mission)
+    ==========
+        - Recommended level: 35
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Onmyo Mage's Locks
+
 
 ========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
@@ -192,7 +226,22 @@ Awakening Region (Region 1)
         - Notable Items In Mission / Mission Rewards:
             - Smithing Text: Possessed Kodama Bowl
 
-
+    ==========
+    The Greedy Hunter (Sub Mission)
+    ==========
+        - Recommended level: 34
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
 
 
 
