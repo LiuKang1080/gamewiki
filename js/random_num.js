@@ -22,12 +22,14 @@ Randomly generate a number between 1 and 11, each number representing a weapon f
 function rand_num(limit) {
     /*
     Generate a random number from 1 to the upper limit provided.
-
-    Parameters: limit: This is the upper limit, we will add 1 to this because Math.random() is excluding the upper limit.
+    
     ==========
+    Parameters: 
+        - [num] limit: This is the upper limit, we will add 1 to this because Math.random() is excluding the upper limit.
 
-    Return: random number.
     ==========
+    Return: 
+        - [num] random number.
     */
 
     return Math.floor(Math.random() * (limit + 1));
