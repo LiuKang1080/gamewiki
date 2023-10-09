@@ -93,7 +93,7 @@ Awakening Region (Region 1)
         - Mujina (first time)
         - Nurikabe (first time)
         - Skeleton Warrior (first time)
-        - Enenra (first time)
+        - Enenra (boss) (first time)
 
     ==========
     A Voice in the Twilight (Sub Mission)
@@ -132,7 +132,7 @@ Awakening Region (Region 1)
         - Enki
         - Toxic Slime (first time)
         - Ippon-Datara
-        - Yatsu-no-Kami (first time)
+        - Yatsu-no-Kami (boss) (first time)
 
     ==========
     A Favor for the Blacksmith (Sub Mission)
@@ -166,9 +166,22 @@ Awakening Region (Region 1)
         - Sohaya Warrior
 
 
-
-
-
+========== ========== ==========
+Soaring Region (Region 2)
+========== ========== ==========
+    ==========
+    The Hidden Monsters of Okehazama (Main Mission)
+    ==========
+        - Gaki
+        - Enkki
+        - Yamanba (first time)
+        - Nure-Onna
+        - Karasu Tengu
+        - Infernal Oni-Bi
+        - Maelstrom Oni-Bi (first time)
+        - One-Eyed Oni
+        - Warrior
+        - Imagawa Yoshimoto (Boss) (first time)
 
 
 

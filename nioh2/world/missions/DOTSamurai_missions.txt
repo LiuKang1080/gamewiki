@@ -244,9 +244,27 @@ Awakening Region (Region 1)
             - None
 
 
-
-
-
+========== ========== ==========
+Soaring Region (Region 2)
+========== ========== ==========
+    ==========
+    The Hidden Monsters of Okehazama (Main Mission)
+    ==========
+        - Recommended level: 35
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 7
+        - Number of Sudama: 2
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 2
+        - Bosses: 
+            - Imagawa Yoshimoto
+        - Guardian Spirit Unlocked: 
+            - Rokugezo
+        - Notable Items In Mission / Mission Rewards:
+            - Ninja Hair Locks
+            - Onmyo Mage Hair Locks
+            - Samurai Hair Locks (Mission Reward)
 
 
 
