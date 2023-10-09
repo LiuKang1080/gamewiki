@@ -283,4 +283,42 @@ Soaring Region (Region 2)
         - Notable Items In Mission / Mission Rewards:
             - None
 
+    ==========
+    Hidetatsu's Dying Wish (Side Mission)
+    ==========
+        - Recommended level: 40
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+    ==========
+    An Error in Calculation (Side Mission)
+    ==========
+        - Recommended level: 41
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+
+
+
+
 
