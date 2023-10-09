@@ -183,6 +183,12 @@ Soaring Region (Region 2)
         - Warrior
         - Imagawa Yoshimoto (Boss) (first time)
 
-
-
+    ==========
+    Imagawa Diehard (Side Mission)
+    ==========
+        - Warrior
+        - Ninja
+        - Okabe Motonobu (first time)
+        - Okabe Masatsuna (first time)
+        - Imagawa Yoshimoto (boss)
 

@@ -266,6 +266,21 @@ Soaring Region (Region 2)
             - Onmyo Mage Hair Locks
             - Samurai Hair Locks (Mission Reward)
 
-
+    ==========
+    Imagawa Diehard (Side Mission)
+    ==========
+        - Recommended level: 39
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Imagawa Yoshimoto
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
 
 
