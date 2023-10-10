@@ -20,9 +20,15 @@
 Other Notes:
 ==========
     - "The Way of the Warrior: Novice" unlocks after beating "The Beast Born of Smoke and Flames"
+
     - Twilight Missions unlocks after beating "The Viper's Sanctum"
+
     - "The Way of the Ninja: Novice" unlocks after beating "The Viper's Sanctum"
     - "The Way of the Onmyo: Novice" unlocks after beating "The Viper's Sanctum"
+
+    - "The Way of the Warrior: Adept" unlocks after beating "The Mysterious One Night Castle"
+    - "The Way of the Ninja: Adept" unlocks after beating "The Mysterious One Night Castle"
+    - "The Way of the Onmyo: Adept" unlocks after beating "The Mysterious One Night Castle"
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -78,6 +84,23 @@ Dojo Missions:
             - None
         - Notable Items In Mission / Mission Rewards:
             - Onmyo Mage's Locks
+
+    ==========
+    The Way of the Warrior: Adept (Dojo Mission)
+    ==========
+        - Recommended level: 59
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Samurai's Locks
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -136,8 +159,8 @@ Awakening Region (Region 1)
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Ninja Hair Locks
-            - Onmyo Mage Hair Locks
+            - Ninja's Locks
+            - Onmyo Mage's Locks
 
     ==========
     A Voice in the Twilight (Sub Mission)
@@ -171,8 +194,8 @@ Awakening Region (Region 1)
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage Hair Locks
-            - Ninja Hair Locks
+            - Onmyo Mage's Locks
+            - Ninja's Locks
 
     ==========
     The Viper's Sanctum (Main Mission)
@@ -189,8 +212,8 @@ Awakening Region (Region 1)
         - Guardian Spirit Unlocked: 
             - Shirohami
         - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage Hair Locks
-            - Ninja Hair Locks
+            - Onmyo Mage's Locks
+            - Ninja's Locks
         
     ==========
     A Favor for the Blacksmith (Sub Mission)
@@ -262,9 +285,9 @@ Soaring Region (Region 2)
         - Guardian Spirit Unlocked: 
             - Rokugezo
         - Notable Items In Mission / Mission Rewards:
-            - Ninja Hair Locks
-            - Onmyo Mage Hair Locks
-            - Samurai Hair Locks (Mission Reward)
+            - Ninja's Locks
+            - Onmyo Mage's Locks
+            - Samurai's Locks (Mission Reward)
 
     ==========
     Imagawa Diehard (Side Mission)
@@ -316,6 +339,78 @@ Soaring Region (Region 2)
             - None
         - Notable Items In Mission / Mission Rewards:
             - None
+
+    ==========
+    The Mysterious One Night Castle (Main Mission)
+    ==========
+        - Recommended level: 43
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 7
+        - Number of Sudama: 1
+        - Number of Hot Springs: 2
+        - Number of Dark Realms: 3
+        - Bosses: 
+            - Kamaitachi
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Ninja's Locks
+            - Onmyo Mage's Locks
+
+    ==========
+    The Sunomata Yokai Hunt (Side Mission)
+    ==========
+        - Recommended level: 46
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+    ==========
+    A Hot-blodded Howl (Side Mission)
+    ==========
+        - Recommended level: 47
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 5
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - Okuri-Inu
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+    ==========
+    The Fire God's Magatama (Side Mission)
+    ==========
+        - Recommended level: 49
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+
+
 
 
 

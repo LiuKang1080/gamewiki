@@ -22,6 +22,11 @@ Dojo Missions:
     ==========
         - Gaki
 
+    ==========
+    The Way of the Warrior: Adept (Dojo Mission)
+    ==========
+        - Tsukahara Bokuden
+
 
 ========== ========== ========== ========== ========== ========== ==========
 Twilight Missions:
@@ -181,6 +186,7 @@ Soaring Region (Region 2)
         - Maelstrom Oni-Bi (first time)
         - One-Eyed Oni
         - Warrior
+        - Nurikabe
         - Imagawa Yoshimoto (Boss) (first time)
 
     ==========
@@ -218,7 +224,60 @@ Soaring Region (Region 2)
         - Biwa Boku-Boku (first time)
         - Enki
         - Waira (first time)
+
+    ==========
+    The Mysterious One Night Castle (Main Mission)
+    ==========
+        - Warrior
+        - Gaki
+        - Abbarant Soldier
+        - Karasu Tengu
+        - Yamanba
+        - Waira
+        - Nure-Onna
+        - Lesser Umi-Bozu
+        - Enki
+        - Sohaya Warrior
+        - Nurikabe
+        - Karakasa Umbrella
+        - Kappa
+        - Kamaitachi (boss) (first time)
+
+    ==========
+    The Sunomata Yokai Hunt (Main Mission)
+    ==========
+        - Skeleton Warrior
+        - Enki
+        - Karasu Tengu
+        - Nure-Onna
+        - Gaki
+        - Lesser Umi-Bozu
+        - Waira
+
+    ==========
+    A Hot-blodded Howl (Side Mission)
+    ==========
+        - Warrior
+        - Rouge
+        - Ippon-Datara
+        - Gaki
+        - Dweller
+        - Enki
+        - One-Eyed Oni
+        - Waira
+        - Abbarant Soldier
+        - Nurikabe
+        - Yoki
+        - Infernal Oni-Bi
+        - Adachi the Beheader (first time)
+
+    ==========
+    The Fire God's Magatama (Side Mission)
+    ==========
         - 
+
+
+
 
 
 
