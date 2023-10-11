@@ -355,8 +355,8 @@ Soaring Region (Region 2)
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Ninja's Locks
             - Onmyo Mage's Locks
+            - Ninja's Locks
 
     ==========
     The Sunomata Yokai Hunt (Side Mission)
