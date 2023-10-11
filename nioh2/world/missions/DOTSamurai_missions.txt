@@ -161,6 +161,7 @@ Awakening Region (Region 1)
         - Notable Items In Mission / Mission Rewards:
             - Ninja's Locks
             - Onmyo Mage's Locks
+            - Unlocks "The Way of the Warrior: Novice" after beating mission.
 
     ==========
     A Voice in the Twilight (Sub Mission)
@@ -214,6 +215,9 @@ Awakening Region (Region 1)
         - Notable Items In Mission / Mission Rewards:
             - Onmyo Mage's Locks
             - Ninja's Locks
+            - Unlocks Twilight Missions after beating level.
+            - Unlocks "The Way of the Ninja: Novice" after beating level.
+            - Unlocks "The Way of the Onmyo: Novice" after beating level.
         
     ==========
     A Favor for the Blacksmith (Sub Mission)
@@ -357,6 +361,9 @@ Soaring Region (Region 2)
         - Notable Items In Mission / Mission Rewards:
             - Onmyo Mage's Locks
             - Ninja's Locks
+            - Unlocks "The Way of the Warrior: Adept" after beating level.
+            - Unlocks "The Way of the Ninja: Adept" after beating level.
+            - Unlocks "The Way of the Onmyo: Adept" after beating level.
 
     ==========
     The Sunomata Yokai Hunt (Side Mission)
