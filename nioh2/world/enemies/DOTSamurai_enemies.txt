@@ -32,6 +32,20 @@ Dojo Missions:
 Twilight Missions:
 ========== ========== ========== ========== ========== ========== ==========
     ==========
+    The Violet Cherry Blossoms (The Village of Cursed Blossoms)
+    ==========
+        - Gaki
+        - Gozuki (boss)
+        - Enki
+        - Yoki
+        - Infernal Oni-Bi
+        - Maelstrom Oni-Bi
+        - Nure-Onna
+        - Abbarant Soldier
+        - Ippon-Datara
+        - Mezuki (boss)
+
+    ==========
     Traces of the Raging Blaze (A Beast Born of Smoke and Flames)
     ==========
         - Yoki
