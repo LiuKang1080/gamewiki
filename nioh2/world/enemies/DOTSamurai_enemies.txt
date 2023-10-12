@@ -58,6 +58,26 @@ Twilight Missions:
         - Thunderstorm Oni-Bi
         - Karasu Tengu
 
+    ==========
+    Blood on the Wind (The Mysterious One Night Castle)
+    ==========
+        - Yoki
+        - Abbarant Soldier
+        - Dweller
+        - Enki
+        - Gaki
+        - Skeleton Warrior
+        - Karasu Tengu
+        - Yamanba
+        - Karakasa Umbrella
+        - Lesser Umi-Bozu
+        - Nure-Onna
+        - Ippon-Datara
+        - Waira
+        - Red Kappa
+        - Biwa Boku-Boku
+        - Kamaitachi (boss)
+
 
 ========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
