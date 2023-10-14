@@ -318,8 +318,18 @@ Soaring Region (Region 2)
         - Toxic Slime
         - Waira
 
-
-
+    ==========
+    The Hollow Fortress (Main Mission)
+    ==========
+        - Dweller
+        - Koroka (first time)
+        - Warrior
+        - Enki
+        - Abbarant Soldier
+        - Rokurokubi (first time)
+        - Onryoki (boss) (first time)
+        - One-Eyed Oni
+        - Saito Yoshitatsu (boss) (first time)
 
 
 

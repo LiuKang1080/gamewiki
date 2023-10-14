@@ -416,6 +416,24 @@ Soaring Region (Region 2)
         - Notable Items In Mission / Mission Rewards:
             - None
 
+    ==========
+    The Hollow Fortress (Main Mission)
+    ==========
+        - Recommended level: 50
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 6
+        - Number of Sudama: 3
+        - Number of Hot Springs: 2
+        - Number of Dark Realms: 2
+        - Bosses: 
+            - Onryoki
+            - Saito Yoshitatsu
+        - Guardian Spirit Unlocked: 
+            - Double Guardian Spirits
+        - Notable Items In Mission / Mission Rewards:
+            - Ninja's Locks
+            - Onmyo Mage's Locks
 
 
 
