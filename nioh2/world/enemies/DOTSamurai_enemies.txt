@@ -308,7 +308,16 @@ Soaring Region (Region 2)
     ==========
     The Fire God's Magatama (Side Mission)
     ==========
-        - 
+        - Skeleton Warrior
+        - Gaki
+        - Nure-Onna
+        - Enki
+        - Yamanba
+        - Karasu Tengu
+        - Infernal Oni-Bi
+        - Toxic Slime
+        - Waira
+
 
 
 
