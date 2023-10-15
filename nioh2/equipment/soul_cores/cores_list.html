@@ -1,0 +1,1045 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nioh 2 Soul Cores List</title>
+    <!-- ========== ========== ==========
+    Google Fonts (Asul)
+    ========== ========== ========== -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Asul&display=swap" rel="stylesheet">
+
+    <!-- ========== ========== ==========
+    FlowBite CSS
+    ========== ========== ========== -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.css"  rel="stylesheet" />
+
+    <!-- ========== ========== ==========
+    TailWindCSS Link
+    ========== ========== ========== -->
+    <!-- <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/output.css" rel="stylesheet"> -->
+    <link type="text/css" href="../../../css/output.css" rel="stylesheet">
+
+    <!-- ========== ========== ==========
+    Manual CSS Link
+    ========== ========== ========== -->
+    <!-- <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/manual.css" rel="stylesheet"> -->
+    <link type="text/css" href="../../../css/manual.css" rel="stylesheet">
+
+    <!-- ========== ========== ==========
+    TailWind CSS build process:
+    npx tailwindcss -i ./css/input.css -o ./css/output.css --watch
+    ========== ========== ========== -->
+</head>
+<body class="bg-stone-900 font-asul">
+    <!-- ========== ========== ========== ========== ==========
+    Header
+    ========== ========== ========== ========== ========== -->
+    <header class="h-[95px] mask bg-medium-gray text-white">
+        <!-- sticky top-0 z-10 -->
+
+        <!-- ========== ========== ==========
+        Desktop Navbar Menu (Navbar)
+        ========== ========== ========== -->
+        <div class="w-full h-[95px] flex justify-start items-center">
+            <div class="w-full flex justify-between items-center px-5 py-2 gap-5
+                lg:w-fit">
+                
+                <!-- HOME -->
+                <a href="https://liukang1080.github.io/gamewiki/index.html">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-house-fill" viewBox="0 0 16 16">
+                        <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.707 1.5Z"/>
+                        <path d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6Z"/>
+                    </svg>
+                </a>
+
+                <!-- Nioh 2 Logo -->
+                <a href="https://liukang1080.github.io/gamewiki/nioh2/nioh2.html"><img src="https://liukang1080.github.io/gamewiki/nioh2/img/nioh2_logo_2.png" alt=""></a>
+
+                <!-- Navbar Buttons -->
+                <!-- hidden nav for mobile viewports -->
+                <button id="hamburger-button" class="text-3xl lg:hidden cursor-pointer">&#9776;</button>
+                <!-- Hamburger UNICODE -->
+
+                <!-- Navbar links (DESKTOP VERSION) -->
+                <nav class="hidden lg:block gap-5" aria-label="main">
+                    <!-- ========== ==========
+                    Basics Button
+                    ========== ========== -->
+                    <button id="basics_button" data-dropdown-toggle="basics_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Basics
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="basics_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Recommended Settings</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Starting Recommendations</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Character Stats</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Shrine</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Dojo</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">NG+ Cycles</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Combat Button
+                    ========== ========== -->
+                    <button id="combat_button" data-dropdown-toggle="combat_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Combat
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="combat_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Stances</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Ki Pulse</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Skills / Skill Trees</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Yokai Shift & Burst Counters</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Doding / Guarding / Parrying</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Status Effects</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Advanced Tech</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Equipment Button
+                    ========== ========== -->
+                    <button id="equipment_button" data-dropdown-toggle="equipment_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Equipment
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="equipment_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Weapons</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Armor</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Ninjutsu</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Onmyo Magic</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Soul Cores</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Guardian Spirits</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Accessories</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Demon Parade Picture Scrolls</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Graces & Sets</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Items</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    World Button
+                    ========== ========== -->
+                    <button id="world_button" data-dropdown-toggle="world_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        World
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="world_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Missions</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Bosses</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Enemies</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Underworld</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Depths of the Underworld</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Kodama & Sudama</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Characters</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Tools & Resources Button
+                    ========== ========== -->
+                    <button id="tools_button" data-dropdown-toggle="tools_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Tools & Resources
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="tools_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Smithing Texts</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Temper Tables</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Blacksmith</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Stone of Penance</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Farming Resources</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Achievements</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Builds</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Online Button
+                    ========== ========== -->
+                    <button id="online_button" data-dropdown-toggle="online_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Online
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="online_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Online Modes</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Matchmaking</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Hidden Tea House</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Revenants</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Benevolent Graves</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+
+        <!-- 
+        ========== ========== ==========
+        Mobile Only Menu (Navbar)
+        ========== ========== ==========
+        -->
+        <div id="mobile-menu" class="absolute top-0 bg-medium-gray w-full text-4xl flex-col justify-center
+            origin-top animate-open-menu hidden">
+
+            <!-- closing button -->
+            <button class="text-8xl self-end px-6">&times;</button>
+
+            <!-- Navbar Links Mobile -->
+            <nav class="flex flex-col min-h-screen items-center py-8" aria-label="mobile">
+                <a class="w-full text-center py-6 text-slate-300" href="https://liukang1080.github.io/gamewiki/index.html">HOME</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">BASICS</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">COMBAT</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">WORLD</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">EQUIPMENT</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">TOOLS & RESOURCES</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">ONLINE</a>
+            </nav>
+        </div>
+    </header>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Title Section
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
+            <h1 class="text-yellow-400 text-5xl md:text-6xl">Soul Cores List</h1>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Table of Contents
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="2xl:max-w-section-width w-full px-4 2xl:px-0 flex flex-col items-start">
+            <ol class="list-decimal list-inside text-xl text-sky-400">
+                <li><a class="hover:text-sky-600" href="javascript: base()">Base Game Soul Cores</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: dlc1()">The Tengu's Disciple (DLC 1) Soul Cores</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: dlc2()">Darkness In The Capital (DLC 2) Soul Cores</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: dlc3()">The First Samurai (DLC 3) Soul Cores</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: credits()">Credits</a></li>
+            </ol>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Description
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Description</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                <span class="text-red-500 font-bold">There are a total of 78 Soul Cores in Nioh 2</span>. 
+                <span class="text-sky-300 font-bold">51 Soul Cores</span> are in the base game, <span class="text-sky-300 font-bold">6 Soul Cores</span>
+                are in The Tengu's Disciple (DLC 1), <span class="text-sky-300 font-bold">9 Soul Cores</span> are in The Darkness in the Capital
+                (DLC 2), and <span class="text-sky-300 font-bold">12 Soul Cores</span> are in The First Samurai (DLC 3).
+            </p>
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                Each Soul Core is 1 of 3 Yokai Forms. The tables below show the default color type of Soul Cores before Mortal 
+                Soul Cores are applied:<br>
+                
+                <ul class="place-self-start px-4 list-disc list-inside text-slate-300 text-xl leading-relaxed">
+                    <li>
+                        Soul Cores that are colored <span class="text-red-600">RED</span> are of the 
+                        <span class="text-red-600">Brute</span> <img src="./img/brute_logo.png" alt="" class="inline"> Yokai Form. <br>
+                    </li>
+
+                    <li>
+                        Soul Cores that are colored <span class="text-purple-500">PURPLE</span> are of the 
+                        <span class="text-purple-500">Phantom</span> <img src="./img/phantom_logo.png" alt="" class="inline"> Yokai Form. <br>
+                    </li>
+
+                    <li>
+                        Soul Cores that are colored <span class="text-blue-500">BLUE</span> are of the 
+                        <span class="text-blue-500">Feral</span> <img src="./img/feral_logo.png" alt="" class="inline"> Yokai Form.
+                    </li>
+                </ul>
+            </p>
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                Below is a full list of all of the Soul Cores present in Nioh 2. You can click on an individual Soul Core to see
+                more information about the enemy that drop that Soul Core.
+            </p>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ========== 
+    Base Game Soul Cores
+    ========== ========== ========== ========== ========== -->
+    <section id="base" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded overflow-x-auto
+            2xl:max-w-section-width lg:px-16">
+
+            <!-- ==========
+            section header
+            ========== -->
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Base Game Soul Cores</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <button id="sort-button-1" class="sort-button base-table w-full max-w-[250px] py-3 rounded-lg bg-yellow-500 text-xl text-stone-900
+                hover:bg-yellow-400">Sort Alphabetically</button>
+            <button id="refresh-button-1" class="sort-button w-full max-w-[250px] py-3 rounded-lg bg-yellow-500 text-xl text-stone-900
+                hover:bg-yellow-400">Sort By Original Order</button>
+
+            <table class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos"
+                id="base-table">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th>Soul Core</th>
+                    <th>Attunement Cost</th>
+                    <th>Yokai Ability Cost</th>
+                    <th class="max-w-[250px]">Transform Invincibility? (Avoids Grab Attacks)</th>
+                    <th class="">Special Effects</th>
+                    <th>Base Rank 1-4</th>
+                    <th>Rank 9</th>
+                    <th>Rank 20</th>
+                    <th>Rank 30</th>
+                </tr>
+
+
+
+                <!-- ========== ========== ==========
+                TEMPLATE
+                ========== ========== ==========-->
+                <!-- 
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600"></span>
+                            <img src="" alt="">
+                        </a></td>
+                        <td rowspan="2"></td>
+                        <td rowspan="2"></td>
+                        <td rowspan="2" class="max-w-[150px]"></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </tbody>
+                -->
+
+
+
+                <!-- ==========
+                Gaki
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600">Gaki</span>
+                            <img src="./img/gaki.png" alt="">
+                        </a></td>
+                        <td rowspan="2">4</td>
+                        <td rowspan="2">3</td>
+                        <td rowspan="2" class="max-w-[150px]">No</td>
+                        <td>Anima Charge (Dark Realm)</td>
+                        <td>8.1%</td>
+                        <td>9.0%</td>
+                        <td>10.2%</td>
+                        <td>11.3%</td>
+                    </tr>
+                    <tr>
+                        <td>Life Drain (Yokai Ability Hit)</td>
+                        <td>D-</td>
+                        <td>C-</td>
+                        <td>B-</td>
+                        <td>A-</td>
+                    </tr>
+                </tbody>
+
+                <!-- ==========
+                Enki
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600">Enki</span>
+                            <img src="./img/enki.png" alt="">
+                        </a></td>
+                        <td rowspan="2">5</td>
+                        <td rowspan="2">5</td>
+                        <td rowspan="2" class="max-w-[150px]">Yes</td>
+                        <td>Anima Bonus (Damage Taken)</td>
+                        <td>C</td>
+                        <td>B</td>
+                        <td>A</td>
+                        <td>AA</td>
+                    </tr>
+                    <tr>
+                        <td>Melee Damage vs. Humans</td>
+                        <td>1.6%</td>
+                        <td>2.0%</td>
+                        <td>2.6%</td>
+                        <td>3.1%</td>
+                    </tr>
+                </tbody>
+
+                <!-- ==========
+                Yoki
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600">Yoki</span>
+                            <img src="./img/yoki.png" alt="">
+                        </a></td>
+                        <td rowspan="2">7</td>
+                        <td rowspan="2">6</td>
+                        <td rowspan="2" class="max-w-[150px]">Yes</td>
+                        <td>Anima Bonus (Amrita Absorption)</td>
+                        <td>D</td>
+                        <td>D+</td>
+                        <td>C</td>
+                        <td>B-</td>
+                    </tr>
+                    <tr>
+                        <td>Defense (Yokai Shift)</td>
+                        <td>32</td>
+                        <td>40</td>
+                        <td>52</td>
+                        <td>63</td>
+                    </tr>
+                </tbody>
+
+                <!-- ==========
+                Gozuki (Boss)
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600">Gozuki (Boss)</span>
+                            <img src="./img/gozuki.png" alt="">
+                        </a></td>
+                        <td rowspan="2">9</td>
+                        <td rowspan="2">8</td>
+                        <td rowspan="2" class="max-w-[150px]">Yes</td>
+                        <td>Charge Attack Boost</td>
+                        <td>2.1%</td>
+                        <td>2.5%</td>
+                        <td>3.1%</td>
+                        <td>3.6%</td>
+                    </tr>
+                    <tr>
+                        <td>Attack (Yokai Shift)</td>
+                        <td>23</td>
+                        <td>30</td>
+                        <td>42</td>
+                        <td>53</td>
+                    </tr>
+                </tbody>
+
+                <!-- ==========
+                Mezuki (Boss)
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600">Mezuki (Boss)</span>
+                            <img src="./img/mezuki.png" alt="">
+                        </a></td>
+                        <td rowspan="2">9</td>
+                        <td rowspan="2">8</td>
+                        <td rowspan="2" class="max-w-[150px]">No</td>
+                        <td>Pleides (Enemy Killed)</td>
+                        <td>28.2%</td>
+                        <td>33.0%</td>
+                        <td>42.6%</td>
+                        <td>51.4%</td>
+                    </tr>
+                    <tr>
+                        <td>Attack (Yokai Shift)</td>
+                        <td>24</td>
+                        <td>30</td>
+                        <td>42</td>
+                        <td>53</td>
+                    </tr>
+                </tbody>
+
+                <!-- ==========
+                Ippon-Datara
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600">Ippon-Datara</span>
+                            <img src="./img/ippon-datara.png" alt="">
+                        </a></td>
+                        <td rowspan="2">7</td>
+                        <td rowspan="2">7</td>
+                        <td rowspan="2" class="max-w-[150px]">Yes</td>
+                        <td>Yokai Ability Damage (Scorched Enemy)</td>
+                        <td>16.0%</td>
+                        <td>20.0%</td>
+                        <td>26.0%</td>
+                        <td>31.5%</td>
+                    </tr>
+                    <tr>
+                        <td>Equipment Drop Rate</td>
+                        <td>2.7%</td>
+                        <td>3.5%</td>
+                        <td>4.7%</td>
+                        <td>5.3%</td>
+                    </tr>
+                </tbody>
+
+                <!-- ==========
+                Kappa
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600">Kappa</span>
+                            <img src="./img/kappa.png" alt="">
+                        </a></td>
+                        <td rowspan="2">4</td>
+                        <td rowspan="2">6</td>
+                        <td rowspan="2" class="max-w-[150px]">No</td>
+                        <td>Life Drain (Water Attack)</td>
+                        <td>D-</td>
+                        <td>C-</td>
+                        <td>B-</td>
+                        <td>A-</td>
+                    </tr>
+                    <tr>
+                        <td>Block</td>
+                        <td>5</td>
+                        <td>7</td>
+                        <td>9</td>
+                        <td>11</td>
+                    </tr>
+                </tbody>
+
+                <!-- ==========
+                Nurikabe
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600">Nurikabe</span>
+                            <img src="./img/nurikabe.png" alt="">
+                        </a></td>
+                        <td rowspan="2">8</td>
+                        <td rowspan="2">2</td>
+                        <td rowspan="2" class="max-w-[150px]">Yes</td>
+                        <td>Damage Taken</td>
+                        <td>-0.6%</td>
+                        <td>-1.1%</td>
+                        <td>-1.8%</td>
+                        <td>-2.4%</td>
+                    </tr>
+                    <tr>
+                        <td>Toughness</td>
+                        <td>3</td>
+                        <td>5</td>
+                        <td>7</td>
+                        <td>9</td>
+                    </tr>
+                </tbody>
+
+                <!-- ==========
+                Mujina
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600">Mujina</span>
+                            <img src="./img/mujina.png" alt="">
+                        </a></td>
+                        <td rowspan="2">4</td>
+                        <td rowspan="2">-</td>
+                        <td rowspan="2" class="max-w-[150px]">-</td>
+                        <td>Copy Enhancement</td>
+                        <td>53.3%</td>
+                        <td>66.7%</td>
+                        <td>86.7%</td>
+                        <td>105.1%</td>
+                    </tr>
+                    <tr>
+                        <td>Anima Charge (Unscathed)</td>
+                        <td>3.7%</td>
+                        <td>4.5%</td>
+                        <td>5.7%</td>
+                        <td>9.8%</td>
+                    </tr>
+                </tbody>
+
+                <!-- ==========
+                Enera (Boss)
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600">Enenra (Boss)</span>
+                            <img src="./img/enenra.png" alt="">
+                        </a></td>
+                        <td rowspan="2">9</td>
+                        <td rowspan="2">6</td>
+                        <td rowspan="2" class="max-w-[150px]">Yes</td>
+                        <td>Anima</td>
+                        <td>0.8</td>
+                        <td>1.0</td>
+                        <td>1.3</td>
+                        <td>1.6</td>
+                    </tr>
+                    <tr>
+                        <td>Anima Bonus (Scorched Enemy)</td>
+                        <td>C+</td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                    </tr>
+                </tbody>
+
+                <!-- ==========
+                Nure-Onna 
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600">Nure-Onna</span>
+                            <img src="./img/nure-onna.png" alt="">
+                        </a></td>
+                        <td rowspan="2">4</td>
+                        <td rowspan="2">4</td>
+                        <td rowspan="2" class="max-w-[150px]">No</td>
+                        <td>Poison Resistence</td>
+                        <td>4.1</td>
+                        <td>5.0</td>
+                        <td>6.2</td>
+                        <td>7.3</td>
+                    </tr>
+                    <tr>
+                        <td>Melee Damage vs. Unscathed Enemy</td>
+                        <td>1.5%</td>
+                        <td>2.0%</td>
+                        <td>2.6%</td>
+                        <td>3.1</td>
+                    </tr>
+                </tbody>
+
+                <!-- ==========
+                Aberrant Soldier 
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600">Aberrant Soldier</span>
+                            <img src="./img/aberant_soldier.png" alt="">
+                        </a></td>
+                        <td rowspan="2">4</td>
+                        <td rowspan="2">3</td>
+                        <td rowspan="2" class="max-w-[150px]">No</td>
+                        <td>Efficient Yokai Abilities (All)</td>
+                        <td>7.3%</td>
+                        <td>10.0%</td>
+                        <td>13.6%</td>
+                        <td>16.9%</td>
+                    </tr>
+                    <tr>
+                        <td>Anima Bonus (Timely Guard)</td>
+                        <td>1.0</td>
+                        <td>1.5</td>
+                        <td>2.1</td>
+                        <td>2.6</td>
+                    </tr>
+                </tbody>
+
+                <!-- ==========
+                Toxic Slime
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600">Toxic Slime</span>
+                            <img src="./img/toxic_slime.png" alt="">
+                        </a></td>
+                        <td rowspan="2">5</td>
+                        <td rowspan="2">4</td>
+                        <td rowspan="2" class="max-w-[150px]">No</td>
+                        <td>Poison Resistence</td>
+                        <td>4.1</td>
+                        <td>5.0</td>
+                        <td>6.2</td>
+                        <td>7.3</td>
+                    </tr>
+                    <tr>
+                        <td>Poison Accumulation (Enemy)</td>
+                        <td>8.2%</td>
+                        <td>10.0%</td>
+                        <td>13.6%</td>
+                        <td>16.9%</td>
+                    </tr>
+                </tbody>
+
+                <!-- ==========
+                Yatsu-no-Kami (Boss) 
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600">Yatsu-no-Kami (Boss)</span>
+                            <img src="./img/yatsu-no-kami.png" alt="">
+                        </a></td>
+                        <td rowspan="2">10</td>
+                        <td rowspan="2">8</td>
+                        <td rowspan="2" class="max-w-[150px]">No</td>
+                        <td>Melee Damage vs. Poisoned Enemy</td>
+                        <td>15.8%</td>
+                        <td>17.0%</td>
+                        <td>19.4%</td>
+                        <td>21.6%</td>
+                    </tr>
+                    <tr>
+                        <td>Anima Charge</td>
+                        <td>3.4%</td>
+                        <td>4.0%</td>
+                        <td>5.2%</td>
+                        <td>6.3</td>
+                    </tr>
+                </tbody>
+
+                <!-- ==========
+                Yamanba 
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600">Yamanba</span>
+                            <img src="./img/yamanba.png" alt="">
+                        </a></td>
+                        <td rowspan="2">6</td>
+                        <td rowspan="2">4</td>
+                        <td rowspan="2" class="max-w-[150px]">No</td>
+                        <td>Movement Speed (Yokai Shift)</td>
+                        <td>5.1%</td>
+                        <td>6.0%</td>
+                        <td>7.2%</td>
+                        <td>8.3%</td>
+                    </tr>
+                    <tr>
+                        <td>Grapple Damage</td>
+                        <td>3.1%</td>
+                        <td>4.0%</td>
+                        <td>5.2%</td>
+                        <td>6.3</td>
+                    </tr>
+                </tbody>
+
+                <!-- ==========
+                One-Eyed Oni 
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600">One-Eyed Oni</span>
+                            <img src="./img/one-eyed-oni.png" alt="">
+                        </a></td>
+                        <td rowspan="2">7</td>
+                        <td rowspan="2">6</td>
+                        <td rowspan="2" class="max-w-[150px]">Yes</td>
+                        <td>Strong Attack Damage</td>
+                        <td>1.6%</td>
+                        <td>2.0%</td>
+                        <td>2.6%</td>
+                        <td>3.1%</td>
+                    </tr>
+                    <tr>
+                        <td>Break</td>
+                        <td>3</td>
+                        <td>4</td>
+                        <td>5</td>
+                        <td>6</td>
+                    </tr>
+                </tbody>
+
+                <!-- ==========
+                Karasu Tengu
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600"></span>
+                            <img src="./img/karasa_tengu.png" alt="">
+                        </a></td>
+                        <td rowspan="2">9</td>
+                        <td rowspan="2">4</td>
+                        <td rowspan="2" class="max-w-[150px]">Yes</td>
+                        <td>Anima</td>
+                        <td>0.7</td>
+                        <td>1.0</td>
+                        <td>1.3</td>
+                        <td>1.6</td>
+                    </tr>
+                    <tr>
+                        <td>Anima Bonus (Onmyo Magic Hit)</td>
+                        <td>D</td>
+                        <td>C</td>
+                        <td>B</td>
+                        <td>A</td>
+                    </tr>
+                </tbody>
+
+                <!-- ==========
+                Waira 
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600">Waira</span>
+                            <img src="./img/waira.png" alt="">
+                        </a></td>
+                        <td rowspan="2">8</td>
+                        <td rowspan="2">5</td>
+                        <td rowspan="2" class="max-w-[150px]">Yes</td>
+                        <td>Melee Damage (Dark Realm)</td>
+                        <td>2.1%</td>
+                        <td>2.5%</td>
+                        <td>3.1%</td>
+                        <td>3.6%</td>
+                    </tr>
+                    <tr>
+                        <td>Other Realm Resistence</td>
+                        <td>1.6</td>
+                        <td>2.0</td>
+                        <td>2.6</td>
+                        <td>3.1</td>
+                    </tr>
+                </tbody>
+
+                <!-- ==========
+                Karakasa Umbrella 
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600">Karakasa Umbrella</span>
+                            <img src="./img/karakasa_umbrella.png" alt="">
+                        </a></td>
+                        <td rowspan="2">3</td>
+                        <td rowspan="2">4</td>
+                        <td rowspan="2" class="max-w-[150px]">Yes</td>
+                        <td>Water Resistence</td>
+                        <td>4.2%</td>
+                        <td>5.0%</td>
+                        <td>6.2%</td>
+                        <td>7.3%</td>
+                    </tr>
+                    <tr>
+                        <td>Paralysis Accumulation (Enemy)</td>
+                        <td>8.4%</td>
+                        <td>10.0%</td>
+                        <td>12.4%</td>
+                        <td>14.6%</td>
+                    </tr>
+                </tbody>
+
+                <!-- ==========
+                Lesser Umi-Bozu 
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600">Lesser Umi-Bozu</span>
+                            <img src="./img/lesser_umi-bozu.png" alt="">
+                        </a></td>
+                        <td rowspan="2">5</td>
+                        <td rowspan="2">3</td>
+                        <td rowspan="2" class="max-w-[150px]">No</td>
+                        <td>Water Damage</td>
+                        <td>5.2%</td>
+                        <td>7.0%</td>
+                        <td>9.4%</td>
+                        <td>11.6%</td>
+                    </tr>
+                    <tr>
+                        <td>Anima Bonus (Enemy Saturated)</td>
+                        <td>C+</td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                    </tr>
+                </tbody>
+
+                <!-- ==========
+                Skeleton Warrior 
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600">Skeleton Warrior</span>
+                            <img src="./img/skeleton_warrior.png" alt="">
+                        </a></td>
+                        <td rowspan="2">6</td>
+                        <td rowspan="2">4</td>
+                        <td rowspan="2" class="max-w-[150px]">No</td>
+                        <td>Anima Bonus (Ranged Weapon Hit)</td>
+                        <td>C</td>
+                        <td>B</td>
+                        <td>A</td>
+                        <td>AA</td>
+                    </tr>
+                    <tr>
+                        <td>Auto-Grave Recovery</td>
+                        <td>10.5%</td>
+                        <td>15.0%</td>
+                        <td>21.0%</td>
+                        <td>26.5%</td>
+                    </tr>
+                </tbody>
+
+                <!-- ==========
+                Kamaitachi (Boss) 
+                ========== -->
+                <tbody class="even:bg-dark-gray-2">
+                    <tr>
+                        <td rowspan="2"><a class="group w-[140px] flex flex-col justify-center items-center gap-3" href="">
+                            <span class="text-sky-400 group-hover:text-sky-600">Kamaitachi (Boss)</span>
+                            <img src="./img/kamaitachi.png" alt="">
+                        </a></td>
+                        <td rowspan="2">10</td>
+                        <td rowspan="2">7</td>
+                        <td rowspan="2" class="max-w-[150px]">No</td>
+                        <td>Quick Attack Damage</td>
+                        <td>1.0%</td>
+                        <td>1.2%</td>
+                        <td>1.4%</td>
+                        <td>3.2%</td>
+                    </tr>
+                    <tr>
+                        <td>Dash Ki Consumption</td>
+                        <td>-1.0%</td>
+                        <td>-1.2%</td>
+                        <td>-1.4%</td>
+                        <td>-3.2%</td>
+                    </tr>
+                </tbody>
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+            </table>
+        </div>
+    </section>
+
+
+
+
+
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Credits
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full px-4 2xl:px-0 flex flex-col items-start gap-4">
+            <h1 id="credits" class="text-yellow-400 text-4xl">Credits:</h1>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+            
+            <div class="flex flex-col gap-2 text-slate-300 text-xl">
+                <span>LiuKang1080, Ocean Machine, SacredForce, LOLSAN, dwbl, neverhere, Peter, KitPes, Lynch</span>
+                
+                <span class="bold-text">
+                    <a class="text-sky-400 hover:text-sky-600" href="https://docs.google.com/spreadsheets/d/1Nc2wvXZHrOqf_IvHWlPiFI4CJ_p1fFtFnKUJlxYllls/edit#gid=488141566"
+                    target="_blank" rel="noopener noreferrer">Nioh 2 Soul Core List and Rollable Stats Table (Complete Edition)</a>
+                </span>
+                
+                <span class="bold-text">Nioh Community Discord Server: 
+                    <a class="text-sky-400 hover:text-sky-600" href="https://discord.gg/pAH5U9mRBj" 
+                    target="_blank" rel="noopener noreferrer">Here</a>
+                </span>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Back to top button
+    ========== ========== ========== ========== ========== -->
+    <a id="back-to-top-button" href="#">Top</a>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    JavaScript
+    ========== ========== ========== ========== ========== -->
+    <!-- FlowBite JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>
+
+    <!-- ==========
+    Local JavaScript
+    ========== -->
+    <!-- Navbar JS -->
+    <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/js/navbar.js" defer></script>
+    <!-- <script type="text/javascript" src="../../js/navbar.js" defer></script> -->
+
+    <!-- Top Button JS -->
+    <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/js/top_button.js" defer></script>
+    <!-- <script type="text/javascript" src="../../js/top_button.js" defer></script> -->
+
+    <!-- cores_list.js -->
+    <script type="text/javascript" src="./js/cores_list.js" defer></script>
+
+</body>
+</html>
+
+<!-- TODO -->
+<!--
+    - 
+-->
