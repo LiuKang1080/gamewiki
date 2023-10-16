@@ -36,9 +36,9 @@ Sort Table Function
 ========== ========== ========== ========== ==========
 */
 document.querySelector("#sort-button-1").addEventListener("click", async_call);
-// document.querySelector("#sort-button-2").addEventListener("click", async_call);
-// document.querySelector("#sort-button-3").addEventListener("click", async_call);
-// document.querySelector("#sort-button-4").addEventListener("click", async_call);
+document.querySelector("#sort-button-2").addEventListener("click", async_call);
+document.querySelector("#sort-button-3").addEventListener("click", async_call);
+document.querySelector("#sort-button-4").addEventListener("click", async_call);
 
 
 function sort_table(event) {
@@ -121,9 +121,9 @@ Refresh Window Function
 ========== ========== ========== ========== ==========
 */
 document.querySelector("#refresh-button-1").addEventListener("click", refresh_location);
-// document.querySelector("#refresh-button-2").addEventListener("click", refresh_location);
-// document.querySelector("#refresh-button-3").addEventListener("click", refresh_location);
-// document.querySelector("#refresh-button-4").addEventListener("click", refresh_location);
+document.querySelector("#refresh-button-2").addEventListener("click", refresh_location);
+document.querySelector("#refresh-button-3").addEventListener("click", refresh_location);
+document.querySelector("#refresh-button-4").addEventListener("click", refresh_location);
 
 
 function refresh_location() {
