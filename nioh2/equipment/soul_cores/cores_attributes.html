@@ -1,0 +1,1791 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nioh 2 Soul Core Attribute Conflict Tables</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nioh 2 Soul Cores List</title>
+    <!-- ========== ========== ==========
+    Google Fonts (Asul)
+    ========== ========== ========== -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Asul&display=swap" rel="stylesheet">
+
+    <!-- ========== ========== ==========
+    FlowBite CSS
+    ========== ========== ========== -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.css"  rel="stylesheet" />
+
+    <!-- ========== ========== ==========
+    TailWindCSS Link
+    ========== ========== ========== -->
+    <!-- <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/output.css" rel="stylesheet"> -->
+    <link type="text/css" href="../../../css/output.css" rel="stylesheet">
+
+    <!-- ========== ========== ==========
+    Manual CSS Link
+    ========== ========== ========== -->
+    <!-- <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/manual.css" rel="stylesheet"> -->
+    <link type="text/css" href="../../../css/manual.css" rel="stylesheet">
+
+    <!-- ========== ========== ==========
+    TailWind CSS build process:
+    npx tailwindcss -i ./css/input.css -o ./css/output.css --watch
+    ========== ========== ========== -->
+</head>
+<body class="bg-stone-900 font-asul">
+    <!-- ========== ========== ========== ========== ==========
+    Header
+    ========== ========== ========== ========== ========== -->
+    <header class="h-[95px] mask bg-medium-gray text-white">
+        <!-- sticky top-0 z-10 -->
+
+        <!-- ========== ========== ==========
+        Desktop Navbar Menu (Navbar)
+        ========== ========== ========== -->
+        <div class="w-full h-[95px] flex justify-start items-center">
+            <div class="w-full flex justify-between items-center px-5 py-2 gap-5
+                lg:w-fit">
+                
+                <!-- HOME -->
+                <a href="https://liukang1080.github.io/gamewiki/index.html">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-house-fill" viewBox="0 0 16 16">
+                        <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.707 1.5Z"/>
+                        <path d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6Z"/>
+                    </svg>
+                </a>
+
+                <!-- Nioh 2 Logo -->
+                <a href="https://liukang1080.github.io/gamewiki/nioh2/nioh2.html"><img src="https://liukang1080.github.io/gamewiki/nioh2/img/nioh2_logo_2.png" alt=""></a>
+
+                <!-- Navbar Buttons -->
+                <!-- hidden nav for mobile viewports -->
+                <button id="hamburger-button" class="text-3xl lg:hidden cursor-pointer">&#9776;</button>
+                <!-- Hamburger UNICODE -->
+
+                <!-- Navbar links (DESKTOP VERSION) -->
+                <nav class="hidden lg:block gap-5" aria-label="main">
+                    <!-- ========== ==========
+                    Basics Button
+                    ========== ========== -->
+                    <button id="basics_button" data-dropdown-toggle="basics_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Basics
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="basics_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Recommended Settings</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Starting Recommendations</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Character Stats</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Shrine</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Dojo</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">NG+ Cycles</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Combat Button
+                    ========== ========== -->
+                    <button id="combat_button" data-dropdown-toggle="combat_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Combat
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="combat_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Stances</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Ki Pulse</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Skills / Skill Trees</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Yokai Shift & Burst Counters</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Doding / Guarding / Parrying</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Status Effects</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Advanced Tech</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Equipment Button
+                    ========== ========== -->
+                    <button id="equipment_button" data-dropdown-toggle="equipment_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Equipment
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="equipment_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Weapons</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Armor</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Ninjutsu</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Onmyo Magic</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Soul Cores</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Guardian Spirits</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Accessories</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Demon Parade Picture Scrolls</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Graces & Sets</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Items</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    World Button
+                    ========== ========== -->
+                    <button id="world_button" data-dropdown-toggle="world_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        World
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="world_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Missions</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Bosses</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Enemies</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Underworld</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Depths of the Underworld</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Kodama & Sudama</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Characters</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Tools & Resources Button
+                    ========== ========== -->
+                    <button id="tools_button" data-dropdown-toggle="tools_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Tools & Resources
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="tools_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Smithing Texts</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Temper Tables</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Blacksmith</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Stone of Penance</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Farming Resources</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Achievements</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Builds</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Online Button
+                    ========== ========== -->
+                    <button id="online_button" data-dropdown-toggle="online_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Online
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="online_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Online Modes</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Matchmaking</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Hidden Tea House</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Revenants</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Benevolent Graves</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+
+        <!-- 
+        ========== ========== ==========
+        Mobile Only Menu (Navbar)
+        ========== ========== ==========
+        -->
+        <div id="mobile-menu" class="absolute top-0 bg-medium-gray w-full text-4xl flex-col justify-center
+            origin-top animate-open-menu hidden">
+
+            <!-- closing button -->
+            <button class="text-8xl self-end px-6">&times;</button>
+
+            <!-- Navbar Links Mobile -->
+            <nav class="flex flex-col min-h-screen items-center py-8" aria-label="mobile">
+                <a class="w-full text-center py-6 text-slate-300" href="https://liukang1080.github.io/gamewiki/index.html">HOME</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">BASICS</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">COMBAT</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">WORLD</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">EQUIPMENT</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">TOOLS & RESOURCES</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">ONLINE</a>
+            </nav>
+        </div>
+    </header>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Title Section
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
+            <h1 class="text-yellow-400 text-5xl md:text-6xl p-2 text-center">Soul Cores Attribute Conflict Tables</h1>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Table of Contents
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="2xl:max-w-section-width w-full px-4 2xl:px-0 flex flex-col items-start">
+            <ol class="list-decimal list-inside text-xl text-sky-400">
+                <li><a class="hover:text-sky-600" href="javascript: how_to()">How to read Conflict Tables</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: anima_stats()">Anima Stats</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: damage_stats()">Damage Stats</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: ki_damage_stats()">Ki Damage Stats</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: elemental_damage_stats()">Elemental Damage Stats</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: idr_stats()">Item Drop Rate Stats</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: edr_stats()">Equipment Drop Rate Stats</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: luck_stats()">Luck Stats</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: power_stats()">Power Stats</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: no_conflict_stats()">No Conflict Stats</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: credits()">Credits</a></li>
+            </ol>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    How to read Conflict Tables
+    ========== ========== ========== ========== ========== -->    
+    <section id="how-to" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">How to read Conflict Tables</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                The following tables are grouped into 9 tables. Stats within a single table conflict each other, except for the last
+                table. All attributes in the last table do not conflict with each other, nor do they conflict with the other 
+                attributes in the other 8 tables. Ex) Looking at the 8th table (Power Stats), both Ninjutsu Power and Onmyo Magic
+                Power are in the same table. A Soul Core that already has Ninjutsu Power <span class="font-bold">CANNOT</span>
+                roll the Onmyo Magic Power attribute. They conflict.
+            </p>
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                Anima Bonus (Scorched Enemy) vs. Anima Bonus (Enemy Scorched): <br>
+                Scorched Enemy = Continuous bonus when dealing damage vs. enemy with that status. <br>
+                Enemy Scorched = One time bonus on status proc.
+            </p>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Anima Stats
+    ========== ========== ========== ========== ========== -->
+    <section id="anima-stats" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded overflow-x-auto
+            2xl:max-w-section-width lg:px-16">
+
+            <!-- ==========
+            section header
+            ========== -->
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Anima Stats</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <table class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th>Stat</th>
+                    <th>Rank 1</th>
+                    <th>Rank 9</th>
+                    <th>Rank 20</th>
+                    <th>Rank 30</th>
+                    <th>Possible Inheritable ?</th>
+                </tr>
+
+                <!-- ==========
+                Data
+                ========== -->
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Amrita Absorption)</td>
+                    <td>D-</td>
+                    <td>D+</td>
+                    <td>C</td>
+                    <td>B-</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Critical Amrita)</td>
+                    <td>D-</td>
+                    <td>D+</td>
+                    <td>C</td>
+                    <td>B-</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Unscathed Amrita)</td>
+                    <td>D-</td>
+                    <td>D+</td>
+                    <td>C</td>
+                    <td>B-</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Elemental Attack)</td>
+                    <td>C</td>
+                    <td>B</td>
+                    <td>A</td>
+                    <td>AA</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Unscathed Enemy)</td>
+                    <td>D-</td>
+                    <td>C-</td>
+                    <td>C</td>
+                    <td>B-</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (<span class="text-red-600 font-bold">Scorched</span> Enemy)</td>
+                    <td>C+</td>
+                    <td>B</td>
+                    <td>A-</td>
+                    <td>A+</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (<span class="text-red-600 font-bold">Saturated</span> Enemy)</td>
+                    <td>C+</td>
+                    <td>B</td>
+                    <td>A-</td>
+                    <td>A+</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (<span class="text-red-600 font-bold">Electrified</span> Enemy)</td>
+                    <td>C+</td>
+                    <td>B</td>
+                    <td>A-</td>
+                    <td>A+</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (<span class="text-red-600 font-bold">Purified</span> Enemy)</td>
+                    <td>C+</td>
+                    <td>B</td>
+                    <td>A-</td>
+                    <td>A+</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (<span class="text-red-600 font-bold">Corrupted</span> Enemy)</td>
+                    <td>C+</td>
+                    <td>B</td>
+                    <td>A-</td>
+                    <td>A+</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (<span class="text-red-600 font-bold">Paralyzed</span> Enemy)</td>
+                    <td>C+</td>
+                    <td>B</td>
+                    <td>A-</td>
+                    <td>A+</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (<span class="text-red-600 font-bold">Paralyzed</span> Enemy)</td>
+                    <td>B</td>
+                    <td>A-</td>
+                    <td>A+</td>
+                    <td>AA</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (<span class="text-red-600 font-bold">Poisoned</span> Enemy)</td>
+                    <td>C+</td>
+                    <td>B</td>
+                    <td>A-</td>
+                    <td>A+</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (<span class="text-red-600 font-bold">Confused</span> Enemy)</td>
+                    <td>B</td>
+                    <td>A-</td>
+                    <td>A+</td>
+                    <td>AA</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Enemy <span class="text-red-600 font-bold">Scorched</span>)</td>
+                    <td>C+</td>
+                    <td>B</td>
+                    <td>A-</td>
+                    <td>A+</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Enemy <span class="text-red-600 font-bold">Saturated</span>)</td>
+                    <td>C+</td>
+                    <td>B</td>
+                    <td>A-</td>
+                    <td>A+</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Enemy <span class="text-red-600 font-bold">Electrified</span>)</td>
+                    <td>C+</td>
+                    <td>B</td>
+                    <td>A-</td>
+                    <td>A+</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Enemy <span class="text-red-600 font-bold">Purified</span>)</td>
+                    <td>C+</td>
+                    <td>B</td>
+                    <td>A-</td>
+                    <td>A+</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Enemy <span class="text-red-600 font-bold">Corrupted</span>)</td>
+                    <td>C+</td>
+                    <td>B</td>
+                    <td>A-</td>
+                    <td>A+</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Enemy <span class="text-red-600 font-bold">Poisoned</span>)</td>
+                    <td>C+</td>
+                    <td>B</td>
+                    <td>A-</td>
+                    <td>A+</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Enemy <span class="text-red-600 font-bold">Paralyzed</span>)</td>
+                    <td>C+</td>
+                    <td>B</td>
+                    <td>A-</td>
+                    <td>A+</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Enemy <span class="text-red-600 font-bold">Paralyzed</span>)</td>
+                    <td>B</td>
+                    <td>A-</td>
+                    <td>A+</td>
+                    <td>AA</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Enemy <span class="text-red-600 font-bold">Confused</span> )</td>
+                    <td>B</td>
+                    <td>A-</td>
+                    <td>A+</td>
+                    <td>AA</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Inflict Ailment)</td>
+                    <td>D+</td>
+                    <td>C+</td>
+                    <td>B</td>
+                    <td>B+</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Grapple)</td>
+                    <td>1.2</td>
+                    <td>1.3</td>
+                    <td>1.4</td>
+                    <td>1.5</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Final Blow)</td>
+                    <td>1.0</td>
+                    <td>1.1</td>
+                    <td>1.2</td>
+                    <td>1.3</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Ninjutsu Hit)</td>
+                    <td>D</td>
+                    <td>C-</td>
+                    <td>B</td>
+                    <td>A</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Onmyo Magic Hit)</td>
+                    <td>D</td>
+                    <td>C-</td>
+                    <td>B</td>
+                    <td>A</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Purification)</td>
+                    <td>0.3</td>
+                    <td>0.5</td>
+                    <td>0.7</td>
+                    <td>0.9</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Ranged Hit)</td>
+                    <td>C+</td>
+                    <td>B</td>
+                    <td>A</td>
+                    <td>AA</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Ranged Weapon Hit)</td>
+                    <td>C+</td>
+                    <td>B</td>
+                    <td>A</td>
+                    <td>AA</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Damage Taken)</td>
+                    <td>D</td>
+                    <td>C-</td>
+                    <td>B</td>
+                    <td>A</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Efficient Yokai Abilities (All)</td>
+                    <td>7.3%</td>
+                    <td>10.0%</td>
+                    <td>13.6%</td>
+                    <td>16.9%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Super-Efficient Yokai Abilities (All)</td>
+                    <td>3.1%</td>
+                    <td>4.0%</td>
+                    <td>5.2%</td>
+                    <td>6.3%</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Super-Efficient Yokai Abilities (All)</td>
+                    <td>2.6%</td>
+                    <td>4.1%</td>
+                    <td>6.0%</td>
+                    <td>7.7%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Charge</td>
+                    <td>3.1%</td>
+                    <td>4.0%</td>
+                    <td>5.2%</td>
+                    <td>6.3%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Charge (Critical)</td>
+                    <td>9.2%</td>
+                    <td>11.0%</td>
+                    <td>13.4%</td>
+                    <td>15.6%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Charge (Unscathed)</td>
+                    <td>3.6%</td>
+                    <td>4.5%</td>
+                    <td>5.7%</td>
+                    <td>9.8%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Charge (Dark Realm)</td>
+                    <td>8.1%</td>
+                    <td>9.0%</td>
+                    <td>10.2%</td>
+                    <td>11.3%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Charge (Yokai Shift)</td>
+                    <td>9.1%</td>
+                    <td>10.0%</td>
+                    <td>11.2%</td>
+                    <td>14.2%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Charge (Ailing)</td>
+                    <td>8.1%</td>
+                    <td>9.0%</td>
+                    <td>10.2%</td>
+                    <td>11.3%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Charge (Enhanced)</td>
+                    <td>3.6%</td>
+                    <td>4.5%</td>
+                    <td>5.7%</td>
+                    <td>6.8%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Charge Bonus (Cumulative Damage)</td>
+                    <td>D-</td>
+                    <td>C</td>
+                    <td>B-</td>
+                    <td>A</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Charge Bonus (Amrita Guage)</td>
+                    <td>C+</td>
+                    <td>B</td>
+                    <td>A-</td>
+                    <td>A+</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Charge Bonus (Amrita Guage)</td>
+                    <td>B</td>
+                    <td>A-</td>
+                    <td>A+</td>
+                    <td>AA</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Timely Guard) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Water Attack) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Damage Stats
+    ========== ========== ========== ========== ========== -->
+    <section id="damage-stats" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded overflow-x-auto
+            2xl:max-w-section-width lg:px-16">
+
+            <!-- ==========
+            section header
+            ========== -->
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Damage Stats</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <table class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th>Stat</th>
+                    <th>Rank 1</th>
+                    <th>Rank 9</th>
+                    <th>Rank 20</th>
+                    <th>Rank 30</th>
+                    <th>Possible Inheritable ?</th>
+                </tr>
+
+                <!-- ==========
+                Data
+                ========== -->
+                <tr class="even:bg-dark-gray-2">
+                    <td>Melee Damage vs. Saturated Enemy</td>
+                    <td>1.0%</td>
+                    <td>1.7%</td>
+                    <td>2.5%</td>
+                    <td>3.3%</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Melee Damage vs. Electrified Enemy</td>
+                    <td>1.0%</td>
+                    <td>1.7%</td>
+                    <td>2.5%</td>
+                    <td>3.3%</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Melee Damage vs. Purified Enemy</td>
+                    <td>1.0%</td>
+                    <td>1.7%</td>
+                    <td>2.5%</td>
+                    <td>3.3%</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Melee Damage vs. Corrupted Enemy</td>
+                    <td>1.0%</td>
+                    <td>1.7%</td>
+                    <td>2.5%</td>
+                    <td>3.3%</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Yokai Ability Damage</td>
+                    <td>10.5%</td>
+                    <td>15.0%</td>
+                    <td>21.0%</td>
+                    <td>26.5%</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Yokai Ability Damage (All)</td>
+                    <td>5.5%</td>
+                    <td>10.0%</td>
+                    <td>16.0%</td>
+                    <td>21.5%</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Melee Damage (Dark Realm)</td>
+                    <td>2.0%</td>
+                    <td>2.5%</td>
+                    <td>3.1%</td>
+                    <td>3.6%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Quick Attack Damage [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Strong Attack Damage [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Melee Damage vs. Humans [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Damage vs. Revenants [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Active Skill Damage [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Melee Damage vs. Unscathed Enemy [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Melee Damage vs. Poisoned Enemy [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Backstab Damage [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Elemental Weapon Damage [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Thrust Damage [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Damage Bonus (Equipment Weight) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Bare-Handed Attack Damage [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Ranged Damage [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Melee Damage vs. Corrupted Enemy [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Ki Damage Stats
+    ========== ========== ========== ========== ========== -->
+    <section id="ki-damage-stats" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded overflow-x-auto
+            2xl:max-w-section-width lg:px-16">
+
+            <!-- ==========
+            section header
+            ========== -->
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Ki Damage Stats</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <table class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th>Stat</th>
+                    <th>Rank 1</th>
+                    <th>Rank 9</th>
+                    <th>Rank 20</th>
+                    <th>Rank 30</th>
+                    <th>Possible Inheritable ?</th>
+                </tr>
+
+                <!-- ==========
+                Data
+                ========== -->
+                <tr class="even:bg-dark-gray-2">
+                    <td>Melee Ki Damage</td>
+                    <td>1.0%</td>
+                    <td>1.2%</td>
+                    <td>1.4%</td>
+                    <td>1.6%</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Strong Attack Ki Damage [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Active Skill Ki Damage [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Elemental Damage Stats
+    ========== ========== ========== ========== ========== -->
+    <section id="elemental-damage-stats" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded overflow-x-auto
+            2xl:max-w-section-width lg:px-16">
+
+            <!-- ==========
+            section header
+            ========== -->
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Elemental Damage Stats</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <table class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th>Stat</th>
+                    <th>Rank 1</th>
+                    <th>Rank 9</th>
+                    <th>Rank 20</th>
+                    <th>Rank 30</th>
+                    <th>Possible Inheritable ?</th>
+                </tr>
+
+                <!-- ==========
+                Data
+                ========== -->
+                <tr class="even:bg-dark-gray-2">
+                    <td>Elemental Damage</td>
+                    <td>3.1%</td>
+                    <td>4.0%</td>
+                    <td>5.2%</td>
+                    <td>6.3%</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Fire Damage</td>
+                    <td>4.1%</td>
+                    <td>5.0%</td>
+                    <td>6.2%</td>
+                    <td>7.3%</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Water Damage</td>
+                    <td>4.1%</td>
+                    <td>5.0%</td>
+                    <td>6.2%</td>
+                    <td>7.3%</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Lightning Damage</td>
+                    <td>4.1%</td>
+                    <td>5.0%</td>
+                    <td>6.2%</td>
+                    <td>7.3%</td>
+                    <td>No</td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Item Drop Rate Stats
+    ========== ========== ========== ========== ========== -->
+    <section id="idr-stats" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded overflow-x-auto
+            2xl:max-w-section-width lg:px-16">
+
+            <!-- ==========
+            section header
+            ========== -->
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Item Drop Rate Stats</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <table class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th>Stat</th>
+                    <th>Rank 1</th>
+                    <th>Rank 9</th>
+                    <th>Rank 20</th>
+                    <th>Rank 30</th>
+                    <th>Possible Inheritable ?</th>
+                </tr>
+
+                <!-- ==========
+                Data
+                ========== -->
+                <tr class="even:bg-dark-gray-2">
+                    <td>Item Drop Rate vs. Humans</td>
+                    <td>2.1%</td>
+                    <td>3.0%</td>
+                    <td>4.2%</td>
+                    <td>5.3%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Item Drop Rate vs. Yokai</td>
+                    <td>1.0%</td>
+                    <td>1.5%</td>
+                    <td>3.0%</td>
+                    <td>3.8%</td>
+                    <td>Yes</td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Equipment Drop Rate Stats
+    ========== ========== ========== ========== ========== -->
+    <section id="edr-stats" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded overflow-x-auto
+            2xl:max-w-section-width lg:px-16">
+
+            <!-- ==========
+            section header
+            ========== -->
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Equipment Drop Rate Stats</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+            
+            <table class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th>Stat</th>
+                    <th>Rank 1</th>
+                    <th>Rank 9</th>
+                    <th>Rank 20</th>
+                    <th>Rank 30</th>
+                    <th>Possible Inheritable ?</th>
+                </tr>
+
+                <!-- ==========
+                Data
+                ========== -->
+                <tr class="even:bg-dark-gray-2">
+                    <td>Equipment Drop Rate vs. Humans</td>
+                    <td>1.2%</td>
+                    <td>1.7%</td>
+                    <td>3.0%</td>
+                    <td>3.8%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Equipment Drop Rate vs. Yokai</td>
+                    <td>1.2%</td>
+                    <td>1.7%</td>
+                    <td>3.0%</td>
+                    <td>3.8%</td>
+                    <td>Yes</td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Luck Stats
+    ========== ========== ========== ========== ========== -->
+    <section id="luck-stats" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded overflow-x-auto
+            2xl:max-w-section-width lg:px-16">
+
+            <!-- ==========
+            section header
+            ========== -->
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Luck Stats</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <table class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th>Stat</th>
+                    <th>Rank 1</th>
+                    <th>Rank 9</th>
+                    <th>Rank 20</th>
+                    <th>Rank 30</th>
+                    <th>Possible Inheritable ?</th>
+                </tr>
+
+                <!-- ==========
+                Data
+                ========== -->
+                <tr class="even:bg-dark-gray-2">
+                    <td>Luck</td>
+                    <td>4</td>
+                    <td>8</td>
+                    <td>12</td>
+                    <td>17</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Luck</td>
+                    <td>10</td>
+                    <td>17</td>
+                    <td>25</td>
+                    <td>33</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Luck (Yokai Shift)</td>
+                    <td>30</td>
+                    <td>35</td>
+                    <td>41</td>
+                    <td>46</td>
+                    <td>Yes</td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Power Stats
+    ========== ========== ========== ========== ========== -->
+    <section id="power-stats" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded overflow-x-auto
+            2xl:max-w-section-width lg:px-16">
+
+            <!-- ==========
+            section header
+            ========== -->
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Power Stats</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <table class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th>Stat</th>
+                    <th>Rank 1</th>
+                    <th>Rank 9</th>
+                    <th>Rank 20</th>
+                    <th>Rank 30</th>
+                    <th>Possible Inheritable ?</th>
+                </tr>
+
+                <!-- ==========
+                Data
+                ========== -->
+                <tr class="even:bg-dark-gray-2">
+                    <td>Ninjutsu Power</td>
+                    <td>5</td>
+                    <td>7</td>
+                    <td>9</td>
+                    <td>11</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Onmyo Magic Power</td>
+                    <td>5</td>
+                    <td>7</td>
+                    <td>9</td>
+                    <td>11</td>
+                    <td>No</td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    No Conflict Stats
+    ========== ========== ========== ========== ========== -->
+    <section id="no-conflict-stats" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded overflow-x-auto
+            2xl:max-w-section-width lg:px-16">
+
+            <!-- ==========
+            section header
+            ========== -->
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">No Conflict Stats</h2>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <table class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th>Stat</th>
+                    <th>Rank 1</th>
+                    <th>Rank 9</th>
+                    <th>Rank 20</th>
+                    <th>Rank 30</th>
+                    <th>Possible Inheritable ?</th>
+                </tr>
+
+                <!-- ==========
+                Data
+                ========== -->
+                <tr class="even:bg-dark-gray-2">
+                    <td>Attack</td>
+                    <td>4</td>
+                    <td>10</td>
+                    <td>17</td>
+                    <td>23</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Attack</td>
+                    <td>22</td>
+                    <td>35</td>
+                    <td>50</td>
+                    <td>66</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Attack (Yokai Shift)</td>
+                    <td>21</td>
+                    <td>30</td>
+                    <td>42</td>
+                    <td>53</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Defense</td>
+                    <td>4</td>
+                    <td>10</td>
+                    <td>17</td>
+                    <td>23</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Defense</td>
+                    <td>22</td>
+                    <td>35</td>
+                    <td>50</td>
+                    <td>66</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Defense (Yokai Shift)</td>
+                    <td>31</td>
+                    <td>40</td>
+                    <td>52</td>
+                    <td>63</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Life</td>
+                    <td>52</td>
+                    <td>70</td>
+                    <td>94</td>
+                    <td>116</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima</td>
+                    <td>0.6</td>
+                    <td>0.9</td>
+                    <td>1.2</td>
+                    <td>1.5</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima</td>
+                    <td>0.8</td>
+                    <td>1.2</td>
+                    <td>1.6</td>
+                    <td>2.1</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Item Drop Rate</td>
+                    <td>1.0%</td>
+                    <td>1.5%</td>
+                    <td>2.1%</td>
+                    <td>2.6%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Item Drop Rate (Yokai Shift)</td>
+                    <td>7.6%</td>
+                    <td>9.0%</td>
+                    <td>10.8%</td>
+                    <td>12.4%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Equipment Drop Rate</td>
+                    <td>1.0%</td>
+                    <td>1.5%</td>
+                    <td>2.1%</td>
+                    <td>2.6%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Equipment Drop Rate (Yokai Shift)</td>
+                    <td>10.2%</td>
+                    <td>12.0%</td>
+                    <td>14.4%</td>
+                    <td>16.6%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Gold Earned</td>
+                    <td>1.0%</td>
+                    <td>1.4%</td>
+                    <td>1.8%</td>
+                    <td>2.3%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Gold Earned (Yokai Shift)</td>
+                    <td>10.2%</td>
+                    <td>12.0%</td>
+                    <td>14.4%</td>
+                    <td>16.6%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Amrita Earned</td>
+                    <td>0.5%</td>
+                    <td>0.8%</td>
+                    <td>1.1%</td>
+                    <td>1.4%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Amrita Earned (Yokai Shift)</td>
+                    <td>7.1%</td>
+                    <td>8.0%</td>
+                    <td>9.2%</td>
+                    <td>10.3%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Soul Core Drop Rate</td>
+                    <td>1.0%</td>
+                    <td>1.5%</td>
+                    <td>2.1%</td>
+                    <td>2.6%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Soul Core Drop Rate (Yokai Shift)</td>
+                    <td>10.2%</td>
+                    <td>12.0%</td>
+                    <td>14.4%</td>
+                    <td>16.6%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Enemy Sensor</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Treasure Sensor</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Amrita Sensor</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Kodama Sensor</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Sentience Charge</td>
+                    <td>10.6%</td>
+                    <td>16.0%</td>
+                    <td>23.2%</td>
+                    <td>29.8%</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Damage Taken vs. Yokai</td>
+                    <td>-0.5%</td>
+                    <td>-0.6%</td>
+                    <td>-0.7%</td>
+                    <td>-0.8%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Auto Grave Recovery</td>
+                    <td>10.5%</td>
+                    <td>15.0%</td>
+                    <td>21.0%</td>
+                    <td>26.5%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Attunement Cost</td>
+                    <td>-1</td>
+                    <td>-1</td>
+                    <td>-1</td>
+                    <td>-1</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Movement Speed (Yokai Shift)</td>
+                    <td>5.1%</td>
+                    <td>6.0%</td>
+                    <td>7.2%</td>
+                    <td>8.3%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Nullify Damage (Yokai Shift)</td>
+                    <td>10%</td>
+                    <td>13%</td>
+                    <td>16%</td>
+                    <td>19%</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Crital Yokai Shift (Dark Realm)</td>
+                    <td>30%</td>
+                    <td>35%</td>
+                    <td>41%</td>
+                    <td>46%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Yokai Ability Ki Pulse</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Life Drain (Yokai Ability Hit)</td>
+                    <td>D-</td>
+                    <td>C-</td>
+                    <td>B-</td>
+                    <td>A-</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Yokai Ability Damage (Brute)</td>
+                    <td>6.2%</td>
+                    <td>8.5%</td>
+                    <td>11.5%</td>
+                    <td>14.2%</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Yokai Ability Damage (Feral)</td>
+                    <td>6.2%</td>
+                    <td>8.5%</td>
+                    <td>11.5%</td>
+                    <td>14.2%</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Yokai Ability Damage (Phantom)</td>
+                    <td>6.2%</td>
+                    <td>8.5%</td>
+                    <td>11.5%</td>
+                    <td>14.2%</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Extend Yokai Shift</td>
+                    <td>2.1%</td>
+                    <td>3.0%</td>
+                    <td>4.2%</td>
+                    <td>5.3%</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Extend Yokai Shift</td>
+                    <td>6.1%</td>
+                    <td>7.8%</td>
+                    <td>9.9%</td>
+                    <td>11.9%</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Amrita Gauge Charge</td>
+                    <td>4.1%</td>
+                    <td>5.0%</td>
+                    <td>6.7%</td>
+                    <td>7.3%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Max Yokai Ability Ki Damage</td>
+                    <td>2.1%</td>
+                    <td>3.2%</td>
+                    <td>4.6%</td>
+                    <td>5.9%</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Increaed Attack (Yokai Ability Hit)</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Increased Defense (Yokai Ability Hit)</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Increased Ki Recovery (Yokai Ability Hit)</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Amrita Bonus (Inflict Scorched)</td>
+                    <td>D+</td>
+                    <td>C</td>
+                    <td>B-</td>
+                    <td>B+</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Amrita Bonus (Inflict Saturated)</td>
+                    <td>D+</td>
+                    <td>C</td>
+                    <td>B-</td>
+                    <td>B+</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Amrita Bonus (Inflict Electrified)</td>
+                    <td>D+</td>
+                    <td>C</td>
+                    <td>B-</td>
+                    <td>B+</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Amrita Bonus (Inflict Purified)</td>
+                    <td>D+</td>
+                    <td>C</td>
+                    <td>B-</td>
+                    <td>B+</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Amrita Bonus (Inflict Corrupted)</td>
+                    <td>D+</td>
+                    <td>C</td>
+                    <td>B-</td>
+                    <td>B+</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Yokai Ability Damage (Yokai Shift)</td>
+                    <td>1.1%</td>
+                    <td>1.7%</td>
+                    <td>2.5%</td>
+                    <td>3.3%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Yokai Ability Charge (Yokai Shift)</td>
+                    <td>2.0%</td>
+                    <td>2.7%</td>
+                    <td>3.5%</td>
+                    <td>4.3%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Melee Damage (Awakened Weapon)</td>
+                    <td>2.0%</td>
+                    <td>2.7%</td>
+                    <td>3.5%</td>
+                    <td>4.3%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Ki Damage (Awakened Weapon)</td>
+                    <td>1.0%</td>
+                    <td>1.7%</td>
+                    <td>2.5%</td>
+                    <td>3.3%</td>
+                    <td>Yes</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Level Inheritance</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Rarity Inheritance</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>No</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Break [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Block [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Toughness [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Stealth [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Dash Ki Consumption [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Grapple Damage [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Melee Damage vs. Zero-Ki Enemy [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Reduced Movement (Ranged Weapon Hit) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Copy Enhancement [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Damage Taken (Mid Attack) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Poison Resistance [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Paralysis Resistance [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Poison Accumulation [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>paralysis Accumulation [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Damage Taken [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Yokai Ability Damage (Scorched Enemy) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Yokai Ability Damage (Corrupted Enemy) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Yokai Ability Damage (Poisoned Enemy) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Other Realm Resistance [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Elixir Efficacy [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Enhanced Kodama Blessings [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Charge Attack Boost [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Life Drain (Water Attack) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Faster Movement (Amrita Absorption) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Elemental Damage Taken [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Scampuss Escort Duration [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Pleiades (Enemy Killed) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Increased Defense (Amrita Absorption) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Extend Elemental Weapon [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Life Recovery (Amrita Absorption) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Shock Accumulation (Enemy) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Life Drain (Lightning Attack) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Bomb Damage [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Untouched Ninjutsu [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Purified Accumulation (Enemy) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Dash Speed [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Life Drain (Fire Attack) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Thrust Damage [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Increased Attack (Enemy Killed) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Untouched Tengu's Fan [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Increased Attack (Amrita Absorption) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Corrupted Accumulation (Enemy) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Increased Defense (Winded Enemy) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+                <tr class="even:bg-dark-gray-2">
+                    <td>Anima Bonus (Awakened Weapon) [Innate Stat / Cannot Be Rolled]</td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Credits
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full px-4 2xl:px-0 flex flex-col items-start gap-4">
+            <h1 id="credits" class="text-yellow-400 text-4xl">Credits:</h1>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+            
+            <div class="flex flex-col gap-2 text-slate-300 text-xl">
+                <span>LiuKang1080, Ocean Machine, LOLSAN, dwbl, neverhere, Peter, KitPes, Lynch</span>
+                
+                <span class="bold-text">
+                    <a class="text-sky-400 hover:text-sky-600" href="https://docs.google.com/spreadsheets/d/1Nc2wvXZHrOqf_IvHWlPiFI4CJ_p1fFtFnKUJlxYllls/edit#gid=488141566"
+                    target="_blank" rel="noopener noreferrer">Nioh 2 Soul Core List and Rollable Stats Table (Complete Edition)</a>
+                </span>
+                
+                <span class="bold-text">Nioh Community Discord Server: 
+                    <a class="text-sky-400 hover:text-sky-600" href="https://discord.gg/pAH5U9mRBj" 
+                    target="_blank" rel="noopener noreferrer">Here</a>
+                </span>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Back to top button
+    ========== ========== ========== ========== ========== -->
+    <a id="back-to-top-button" href="#">Top</a>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    JavaScript
+    ========== ========== ========== ========== ========== -->
+    <!-- FlowBite JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>
+
+    <!-- ==========
+    Local JavaScript
+    ========== -->
+    <!-- Navbar JS -->
+    <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/js/navbar.js" defer></script>
+    <!-- <script type="text/javascript" src="../../js/navbar.js" defer></script> -->
+
+    <!-- Top Button JS -->
+    <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/js/top_button.js" defer></script>
+    <!-- <script type="text/javascript" src="../../js/top_button.js" defer></script> -->
+
+    <!-- cores_attributes.js -->
+    <script type="text/javascript" src="./js/cores_attributes.js" defer></script>
+
+</body>
+</html>
+
+<!-- TODO -->
+<!--
+    - 
+-->
