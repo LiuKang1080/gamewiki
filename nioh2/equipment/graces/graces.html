@@ -2,9 +2,8 @@
 <html lang="en" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nioh 2 Equipment</title>
+    <title>Nioh 2 Graces & Sets</title>
     <!-- ========== ========== ==========
     Google Fonts (Asul)
     ========== ========== ========== -->
@@ -21,18 +20,18 @@
     TailWindCSS Link
     ========== ========== ========== -->
     <!-- <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/output.css" rel="stylesheet"> -->
-    <link type="text/css" href="../../css/output.css" rel="stylesheet">
+    <link type="text/css" href="../../../css/output.css" rel="stylesheet">
 
     <!-- ========== ========== ==========
     Manual CSS Link
     ========== ========== ========== -->
     <!-- <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/manual.css" rel="stylesheet"> -->
-    <link type="text/css" href="../../css/manual.css" rel="stylesheet">
+    <link type="text/css" href="../../../css/manual.css" rel="stylesheet">
 
     <!-- ========== ========== ==========
     TailWind CSS build process:
     npx tailwindcss -i ./css/input.css -o ./css/output.css --watch
-    ========== ========== ========== -->
+    ========== ========== ========== -->    
 </head>
 <body class="bg-stone-900 font-asul">
     <!-- ========== ========== ========== ========== ==========
@@ -231,135 +230,61 @@
     ========== ========== ========== ========== ========== -->
     <section class="w-full my-12 flex flex-col items-center">
         <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
-            <h1 class="text-yellow-400 text-5xl md:text-6xl">Equipment</h1>
+            <h1 class="text-yellow-400 text-5xl md:text-6xl">Graces and Sets</h1>
             <hr class="w-full h-[2px] bg-stone-600 border-0">
         </div>
     </section>
 
 
     <!-- ========== ========== ========== ========== ==========
-    Card Section
+    Table of Contents
     ========== ========== ========== ========== ========== -->
-    <section class="w-full my-12 lg:px-0 flex flex-col items-center">
-        <div class="w-full px-4 py-6 flex flex-col justify-center items-center gap-6 rounded
-            2xl:max-w-section-width lg:px-16">
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="2xl:max-w-section-width w-full px-4 2xl:px-0 flex flex-col items-start">
+            <ol class="list-decimal list-inside text-xl text-sky-400">
+                <li><a class="hover:text-sky-600" href="javascript: light()">Base Game Light Armor Sets</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: medium()">Base Game Medium Armor Sets</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: heavy()">Base Game Heavy Armor Sets</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: demon()">Dream of the Demon Sets</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: wise()">Dream of the Wise Sets</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: nioh()">Dream of the Nioh Sets</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: depths()">Depths of the Underworld Sets</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: description()">Descriptions</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: credits()">Credits</a></li>
+            </ol>
+        </div>
+    </section>
 
-            <div class="w-full flex flex-wrap gap-6
-                md:grid md:grid-cols-2
-                2xl:grid 2xl:grid-cols-3">
 
-                <!-- ==========
-                Weapons (Button 1)
-                ========== -->
-                <a class="group w-full p-3 flex flex-col items-center justify-end gap-4 rounded text-2xl bg-dark-gray hover:bg-medium-red"
-                    href="">
-                    
-                    <img class="mask rounded-lg" src="./img/weapon_logo.png" alt="">
-                    <span class="mask w-full p-2 justify-self-end text-center text-yellow-400 bg-dark-gray-2 rounded
-                        group-hover:text-yellow-100 group-hover:bg-light-red">Weapons</span>
-                </a>
-
-                <!-- ==========
-                Armor (Button 2)
-                ========== -->
-                <a class="group w-full p-3 flex flex-col items-center justify-end gap-4 rounded text-2xl bg-dark-gray hover:bg-medium-red"
-                    href="">
-                    
-                    <img class="mask rounded-lg" src="./img/armor_logo.png" alt="">
-                    <span class="mask w-full p-2 justify-self-end text-center text-yellow-400 bg-dark-gray-2 rounded
-                        group-hover:text-yellow-100 group-hover:bg-light-red">Armor</span>
-                </a>
-
-                <!-- ==========
-                Ninjutsu (Button 3)
-                ========== -->
-                <a class="group w-full p-3 flex flex-col items-center justify-end gap-4 rounded text-2xl bg-dark-gray hover:bg-medium-red"
-                    href="">
-                    
-                    <img class="mask rounded-lg" src="./img/ninjutsu_logo.png" alt="">
-                    <span class="mask w-full p-2 justify-self-end text-center text-yellow-400 bg-dark-gray-2 rounded
-                        group-hover:text-yellow-100 group-hover:bg-light-red">Ninjutsu</span>
-                </a>
-
-                <!-- ==========
-                Onmyo Magic (Button 4)
-                ========== -->
-                <a class="group w-full p-3 flex flex-col items-center justify-end gap-4 rounded text-2xl bg-dark-gray hover:bg-medium-red"
-                    href="">
-                    
-                    <img class="mask rounded-lg" src="./img/onmyo_logo.png" alt="">
-                    <span class="mask w-full p-2 justify-self-end text-center text-yellow-400 bg-dark-gray-2 rounded
-                        group-hover:text-yellow-100 group-hover:bg-light-red">Onmyo Magic</span>
-                </a>
-
-                <!-- ==========
-                Soul Cores (Button 5)
-                ========== -->
-                <a class="group w-full p-3 flex flex-col items-center justify-end gap-4 rounded text-2xl bg-dark-gray hover:bg-medium-red"
-                    href="https://liukang1080.github.io/gamewiki/nioh2/equipment/soul_cores/cores_index.html">
-                    
-                    <img class="mask rounded-lg" src="./img/soulcores_logo.png" alt="">
-                    <span class="mask w-full p-2 justify-self-end text-center text-yellow-400 bg-dark-gray-2 rounded
-                        group-hover:text-yellow-100 group-hover:bg-light-red">Soul Cores</span>
-                </a>
-
-                <!-- ==========
-                Guardian Spirits (Button 6)
-                ========== -->
-                <a class="group w-full p-3 flex flex-col items-center justify-end gap-4 rounded text-2xl bg-dark-gray hover:bg-medium-red"
-                    href="https://liukang1080.github.io/gamewiki/nioh2/equipment/guardian_spirits/guardian_spirits.html">
-                    
-                    <img class="mask rounded-lg" src="./img/guardianspirits_logo.png" alt="">
-                    <span class="mask w-full p-2 justify-self-end text-center text-yellow-400 bg-dark-gray-2 rounded
-                        group-hover:text-yellow-100 group-hover:bg-light-red">Guardian Spirits</span>
-                </a>
-
-                <!-- ==========
-                Accessories (Button 7)
-                ========== -->
-                <a class="group w-full p-3 flex flex-col items-center justify-end gap-4 rounded text-2xl bg-dark-gray hover:bg-medium-red"
-                    href="">
-                    
-                    <img class="mask rounded-lg" src="./img/accessories_logo.png" alt="">
-                    <span class="mask w-full p-2 justify-self-end text-center text-yellow-400 bg-dark-gray-2 rounded
-                        group-hover:text-yellow-100 group-hover:bg-light-red">Accessories</span>
-                </a>
-
-                <!-- ==========
-                Demon Parade Picture Scrolls (Button 8)
-                ========== -->
-                <a class="group w-full p-3 flex flex-col items-center justify-end gap-4 rounded text-2xl bg-dark-gray hover:bg-medium-red"
-                    href="https://liukang1080.github.io/gamewiki/nioh2/equipment/picture_scrolls/picture_scrolls.html">
-                    
-                    <img class="mask rounded-lg" src="./img/picturescrolls_logo.png" alt="">
-                    <span class="mask w-full p-2 justify-self-end text-center text-yellow-400 bg-dark-gray-2 rounded
-                        group-hover:text-yellow-100 group-hover:bg-light-red">Demon Parade Picture Scrolls</span>
-                </a>
-
-                <!-- ==========
-                Graces & Sets (Button 9)
-                ========== -->
-                <a class="group w-full p-3 flex flex-col items-center justify-end gap-4 rounded text-2xl bg-dark-gray hover:bg-medium-red"
-                    href="">
-                    
-                    <img class="mask rounded-lg" src="./img/graces_logo.png" alt="">
-                    <span class="mask w-full p-2 justify-self-end text-center text-yellow-400 bg-dark-gray-2 rounded
-                        group-hover:text-yellow-100 group-hover:bg-light-red">Graces & Sets</span>
-                </a>
-
-                <!-- ==========
-                Items (Button 10)
-                ========== -->
-                <a class="group w-full p-3 flex flex-col items-center justify-end gap-4 rounded text-2xl bg-dark-gray hover:bg-medium-red"
-                    href="">
-                    
-                    <img class="mask rounded-lg" src="./img/items_logo.png" alt="">
-                    <span class="mask w-full p-2 justify-self-end text-center text-yellow-400 bg-dark-gray-2 rounded
-                        group-hover:text-yellow-100 group-hover:bg-light-red">Items</span>
-                </a>
+    <!-- ========== ========== ========== ========== ==========
+    Credits
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full px-4 2xl:px-0 flex flex-col items-start gap-4">
+            <h1 id="credits" class="text-yellow-400 text-4xl">Credits:</h1>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+            
+            <div class="flex flex-col gap-2 text-slate-300 text-xl">
+                <span>LiuKang1080, Ocean Machine, SacredForce, LOLSAN, dwbl, neverhere, Peter, KitPes, Lynch</span>
+                
+                <span class="bold-text">
+                    <a class="text-sky-400 hover:text-sky-600" href="https://docs.google.com/spreadsheets/d/1Nc2wvXZHrOqf_IvHWlPiFI4CJ_p1fFtFnKUJlxYllls/edit#gid=488141566"
+                    target="_blank" rel="noopener noreferrer">Nioh 2 Soul Core List and Rollable Stats Table (Complete Edition)</a>
+                </span>
+                
+                <span class="bold-text">Nioh Community Discord Server: 
+                    <a class="text-sky-400 hover:text-sky-600" href="https://discord.gg/pAH5U9mRBj" 
+                    target="_blank" rel="noopener noreferrer">Here</a>
+                </span>
             </div>
         </div>
     </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Back to top button
+    ========== ========== ========== ========== ========== -->
+    <a id="back-to-top-button" href="#">Top</a>
 
 
     <!-- ========== ========== ========== ========== ==========
@@ -374,6 +299,13 @@
     <!-- Navbar JS -->
     <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/js/navbar.js" defer></script>
     <!-- <script type="text/javascript" src="../../js/navbar.js" defer></script> -->
+
+    <!-- Top Button JS -->
+    <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/js/top_button.js" defer></script>
+    <!-- <script type="text/javascript" src="../../js/top_button.js" defer></script> -->
+
+    <!-- cores_list.js -->
+    <script type="text/javascript" src="./js/graces.js" defer></script>
 
 </body>
 </html>
