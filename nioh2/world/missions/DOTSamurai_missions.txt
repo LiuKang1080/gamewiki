@@ -31,9 +31,9 @@ Other Notes:
     - "The Way of the Onmyo: Adept" unlocks after beating "The Mysterious One Night Castle"
 
 
-========== ========== ========== ========== ========== ========== ==========
+========== ========== ========== ========== ==========
 Dojo Missions:
-========== ========== ========== ========== ========== ========== ==========
+========== ========== ========== ========== ==========
     ==========
     The Way of the Warrior: Novice (Dojo Mission)
     ==========
@@ -106,9 +106,9 @@ Dojo Missions:
 ========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
 ========== ========== ========== ========== ========== ========== ==========
-========== ========== ==========
+========== ========== ========== ========== ==========
 Awakening Region (Region 1)
-========== ========== ==========
+========== ========== ========== ========== ==========
     ==========
     The Village of Cursed Blossoms (Main Mission)
     ==========
@@ -271,9 +271,9 @@ Awakening Region (Region 1)
             - None
 
 
-========== ========== ==========
+========== ========== ========== ========== ==========
 Soaring Region (Region 2)
-========== ========== ==========
+========== ========== ========== ========== ==========
     ==========
     The Hidden Monsters of Okehazama (Main Mission)
     ==========
@@ -435,10 +435,76 @@ Soaring Region (Region 2)
             - Ninja's Locks
             - Onmyo Mage's Locks
 
+    ==========
+    An End to Seclusion (Sub Mission)
+    ==========
+        - Recommended level: 54
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+    ==========
+    The Shiftling's Wise Judgement (Sub Mission)
+    ==========
+        - Recommended level: 57
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 1
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Shibata Katsuie
+            - Hachisuka Koroku
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+    ==========
+    The Viper and the Butterfly (Sub Mission)
+    ==========
+        - Recommended level: 58
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - Usura-Hicho
+        - Notable Items In Mission / Mission Rewards:
+            - None
 
 
-
-
-
-
+========== ========== ========== ========== ==========
+Shadow Region (Region 3)
+========== ========== ========== ========== ==========
+    ==========
+    A Way Out (Main Mission)
+    ==========
+        - Recommended level: 59
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 7
+        - Number of Sudama: 
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 3
+        - Bosses: 
+            - 
+        - Guardian Spirit Unlocked: 
+            - 
+        - Notable Items In Mission / Mission Rewards:
+            - X2 Hair
 

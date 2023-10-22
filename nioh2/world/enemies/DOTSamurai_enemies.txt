@@ -4,9 +4,9 @@
         - 
 
 
-========== ========== ========== ========== ========== ========== ==========
+========== ========== ========== ========== ==========
 Dojo Missions:
-========== ========== ========== ========== ========== ========== ==========
+========== ========== ========== ========== ==========
     ==========
     The Way of the Warrior: Novice (Dojo Mission)
     ==========
@@ -28,9 +28,9 @@ Dojo Missions:
         - Tsukahara Bokuden
 
 
-========== ========== ========== ========== ========== ========== ==========
+========== ========== ========== ========== ==========
 Twilight Missions:
-========== ========== ========== ========== ========== ========== ==========
+========== ========== ========== ========== ==========
     ==========
     The Violet Cherry Blossoms (The Village of Cursed Blossoms)
     ==========
@@ -96,9 +96,9 @@ Twilight Missions:
 ========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
 ========== ========== ========== ========== ========== ========== ==========
-========== ========== ==========
+========== ========== ========== ========== ==========
 Awakening Region (Region 1)
-========== ========== ==========
+========== ========== ========== ========== ==========
     ==========
     The Village of Cursed Blossoms (Main Mission)
     ==========
@@ -205,9 +205,9 @@ Awakening Region (Region 1)
         - Sohaya Warrior
 
 
-========== ========== ==========
+========== ========== ========== ========== ==========
 Soaring Region (Region 2)
-========== ========== ==========
+========== ========== ========== ========== ==========
     ==========
     The Hidden Monsters of Okehazama (Main Mission)
     ==========
@@ -330,6 +330,59 @@ Soaring Region (Region 2)
         - Onryoki (boss) (first time)
         - One-Eyed Oni
         - Saito Yoshitatsu (boss) (first time)
+
+    ==========
+    An End to Seclusion (Sub Mission)
+    ==========
+        - Karakasa Umbrella
+        - Yamanba
+        - Infernal Oni-Bi
+        - Karasu Tengu
+        - One-Eyed Oni
+        - Abbarant Soldier
+        - Maelstrom Oni-Bi
+        - Waira
+        - Rokurokubi
+
+    ==========
+    The Shiftling's Wise Judgement (Sub Mission)
+    ==========
+        - Warrior
+        - Ninja
+        - Shibata Katsuie (boss) (first time)
+        - Skeleton Warrior
+        - Enki
+        - Gaki
+        - Karakasa Umbrella
+        - One-Eyed Oni
+        - Dweller
+        - Ippon Datara
+        - Hachisuka Koroku (boss) (first time)
+
+    ==========
+    The Viper and the Butterfly (Sub Mission)
+    ==========
+        - Gaki
+        - Nurikabe
+        - Koroka
+        - Nure-Onna
+        - Abbarant Soldier
+        - One-Eyed Oni
+        - Karasu Tengu
+        - Biwa Boku-Boku
+        - Yamanba
+        - Revenant
+
+
+========== ========== ========== ========== ==========
+Shadow Region (Region 3)
+========== ========== ========== ========== ==========
+    ==========
+    A Way Out (Main Mission)
+    ==========
+        - 
+
+
 
 
 
