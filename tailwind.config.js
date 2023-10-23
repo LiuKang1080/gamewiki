@@ -56,6 +56,9 @@ module.exports = {
 				'medium-red': '#48181F',
 				'dark-red': '#30171b',
 
+				// Ethereal Color Text:
+				// text-transparent bg-clip-text bg-gradient-to-b from-[#fdd365] to-[#fa7e38]"
+
 				/* ==========
 				Wo Long:
 				========== */
