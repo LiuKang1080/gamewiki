@@ -498,13 +498,17 @@ Shadow Region (Region 3)
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 7
-        - Number of Sudama: 
+        - Number of Sudama: 3
         - Number of Hot Springs: 1
         - Number of Dark Realms: 3
         - Bosses: 
-            - 
+            - Tatarimokke 
         - Guardian Spirit Unlocked: 
-            - 
+            - Yaonami-Hime
         - Notable Items In Mission / Mission Rewards:
-            - X2 Hair
+            - Onmyo Mage's Locks
+            - Ninja's Locks
+
+
+
 

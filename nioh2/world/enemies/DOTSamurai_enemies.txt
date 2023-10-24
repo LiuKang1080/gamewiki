@@ -380,7 +380,20 @@ Shadow Region (Region 3)
     ==========
     A Way Out (Main Mission)
     ==========
-        - 
+        - Ninja Dog
+        - Outlaw
+        - Warrior
+        - Gaki
+        - Skeleton Warrior
+        - Yamanba
+        - Mitsume Yazura (first time)
+        - Revenant
+        - Biwa Boku-Boku
+        - One-Eyed Oni
+        - Karasu Tengu
+        - Karakasa Umbrella
+        - Nurikabe
+        - Tatarimokke (boss) (first time)
 
 
 
