@@ -509,6 +509,21 @@ Shadow Region (Region 3)
             - Onmyo Mage's Locks
             - Ninja's Locks
 
-
+    ==========
+    The Shrine of Oaths (Sub Mission)
+    ==========
+        - Recommended level: 63
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - 
+        - Guardian Spirit Unlocked: 
+            - 
+        - Notable Items In Mission / Mission Rewards:
+            - X1 Hair Locks
 
 
