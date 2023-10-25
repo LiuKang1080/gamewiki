@@ -510,6 +510,23 @@ Shadow Region (Region 3)
             - Ninja's Locks
 
     ==========
+    Learning A Lession (Sub Mission)
+    ==========
+        - Recommended level: 62
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 1
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+    ==========
     The Shrine of Oaths (Sub Mission)
     ==========
         - Recommended level: 63

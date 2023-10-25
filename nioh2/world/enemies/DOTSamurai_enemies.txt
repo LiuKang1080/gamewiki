@@ -381,7 +381,7 @@ Shadow Region (Region 3)
     A Way Out (Main Mission)
     ==========
         - Ninja Dog
-        - Outlaw
+        - Rouge
         - Warrior
         - Gaki
         - Skeleton Warrior
@@ -394,6 +394,21 @@ Shadow Region (Region 3)
         - Karakasa Umbrella
         - Nurikabe
         - Tatarimokke (boss) (first time)
+
+    ==========
+    Learning A Lession (Sub Mission)
+    ==========
+        - Rouge
+        - Warrior
+        - Gaki
+        - Yamanba
+        - Dweller
+        - Yoki
+        - Skeleton Warrior
+        - Ippon Datara
+        - Abbarant Soldier
+        - Enki
+        - Kappa
 
     ==========
     The Shrine of Oaths (Sub Mission)
