@@ -413,7 +413,19 @@ Shadow Region (Region 3)
     ==========
     The Shrine of Oaths (Sub Mission)
     ==========
-        - 
+        - Abbarant Soldier
+        - Yoki
+        - Mitsume Yazura 
+        - One-Eyed Oni
+        - Gaki
+        - Koroka
+        - Rouge
+        - Warrior
+        - Karakasa Umbrella
+        - Maelstrom Oni-Bi
+        - Infernal Oni-Bi
+        - Karasu Tengu
+
 
 
 

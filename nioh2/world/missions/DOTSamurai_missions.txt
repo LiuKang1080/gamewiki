@@ -430,7 +430,7 @@ Soaring Region (Region 2)
             - Onryoki
             - Saito Yoshitatsu
         - Guardian Spirit Unlocked: 
-            - Double Guardian Spirits
+            - Double Guardian Spirits Unlocks | Makami / Ame-no-Mitori / Kagewani (only 1 will be given)
         - Notable Items In Mission / Mission Rewards:
             - Ninja's Locks
             - Onmyo Mage's Locks
@@ -533,14 +533,16 @@ Shadow Region (Region 3)
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
-        - Number of Sudama: 
+        - Number of Sudama: 0
         - Number of Hot Springs: 0
         - Number of Dark Realms: 0
         - Bosses: 
-            - 
+            - None
         - Guardian Spirit Unlocked: 
-            - 
+            - Makami / Ame-no-Mitori / Kagewani (only 1 will be given)
         - Notable Items In Mission / Mission Rewards:
-            - X1 Hair Locks
+            - Onmyo Mage's Locks
+
+
 
 
