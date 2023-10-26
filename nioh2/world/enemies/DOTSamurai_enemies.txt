@@ -426,6 +426,18 @@ Shadow Region (Region 3)
         - Infernal Oni-Bi
         - Karasu Tengu
 
+    ==========
+    Immoveable (Sub Mission)
+    ==========
+        - Sohaya Warrior
+        - Rouge
+        - Warrior
+        - Ninja Dog
+        - Enki
+        - Mitsume Yazura
+        - Gaki
+        - Karasu Tengu
+        - Skeleton Warrior
 
 
 
