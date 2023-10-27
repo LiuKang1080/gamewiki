@@ -13,20 +13,6 @@ module.exports = {
 		"./nioh2/*.{html,js}",
 		"./nioh2/**/*.{html,js}",
 
-		// Basics:
-
-		// Combat:
-
-		// Equipment:
-		"./nioh2/equipment/*.{html,js}",
-		"./nioh2/equipment/**/*.{html,js}",
-
-		// World:
-
-		// Tools & Resources:
-
-		// Online:
-
 
 		/* ========== ========== ==========
 		Wo Long: Fallen Dynasty
@@ -37,49 +23,84 @@ module.exports = {
 
 	theme: {
 		extend: {
-			/* ==========
+			/* ========== ========== ========== ========== ==========
 			Colors
-			========== */
+			========== ========== ========== ========== ========== */
 			colors: {
-				/* ==========
+				/* ========== ========== ==========
 				General Colors:
-				========== */
+				========== ========== ========== */
 				'light-gray': '#E4E5EA',
 				'medium-gray': '#333338',
 				'dark-gray': "#625d5d57",
 				'dark-gray-2': "#625d5d99",
 
-				/* ==========
+				/* ========== ========== ==========
 				Nioh 2:
-				========== */
+				========== ========== ========== */
 				'light-red': '#5f1823',
 				'medium-red': '#48181F',
 				'dark-red': '#30171b',
 
-				// Ethereal Color Text:
-				// text-transparent bg-clip-text bg-gradient-to-b from-[#fdd365] to-[#fa7e38]"
+				/* ========== ========== ==========
+				Rarity Text Colors:
+				========== ========== ========== */
+					/* ==========
+					Common Gear Text Color: [WHITE]
+					========== */
+					// text-slate-300
 
-				/* ==========
+					/* ==========
+					Uncommon Gear Text Color: [YELLOW]
+					========== */
+					'uncommon-text-color': '#fcde62',
+
+					/* ==========
+					Rare Gear Text Color: [BLUE]
+					========== */
+					'rare-text-color': '#7cd8ff',
+
+					/* ==========
+					Exotic Gear Text Color: [PURPLE]
+					========== */
+					'exotic-text-color': '#d2a1ff',
+
+					/* ==========
+					Divine Gear Text Color: [GREEN]
+					========== */
+					'divine-text-color': '#92f974',
+
+					/* ==========
+					Ethreal Gear Text Color: [ORANGE]
+					========== */
+					// font-bold text-transparent bg-clip-text bg-gradient-to-b from-[#fdd365] to-[#fa7e38]
+
+				/* ========== ========== ==========
 				Wo Long:
-				========== */
+				========== ========== ========== */
 				'light-peach': '#eee3d6',
 				'medium-peach': '#c2955a',
 				'dark-peach': '#9d7a46',
 				'boss-skill': '#dc710d',
 			},
 
-			/* ==========
+			/* ========== ========== ========== ========== ==========
 			Font Family
-			========== */ 
+			========== ========== ========== ========== ========== */ 
 			fontFamily: {
+				// Nioh 2 font:
 				asul: "'Asul', sans-serif;",
+				
+				// Wo Long font:
 				bellefair: "'Bellefair', serif;",
+				
+				// General Table font:
 				tinos: "'Tinos', serif;"
 			},
 			
-			/* ==========
+			/* ========== ========== ========== ========== ==========
 			Animations
-			========== */
+			========== ========== ========== ========== ========== */
 			keyframes: {
 				'open-menu': {
 					'0%': { transform: 'scaleY(0)' },
@@ -92,10 +113,11 @@ module.exports = {
 				'open-menu': 'open-menu 0.35s ease-in-out forwards'
 			},
 
-			/* ==========
+			/* ========== ========== ========== ========== ==========
 			Max Width
-			========== */
+			========== ========== ========== ========== ========== */
 			maxWidth: {
+				// specific width for <section> elements in _index.html pages.
 				'section-width' : '1632px',
 			},
 		},
