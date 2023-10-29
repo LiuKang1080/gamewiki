@@ -498,7 +498,7 @@ Shadow Region (Region 3)
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 7
-        - Number of Sudama: 3
+        - Number of Sudama: 2
         - Number of Hot Springs: 1
         - Number of Dark Realms: 3
         - Bosses: 
@@ -555,6 +555,92 @@ Shadow Region (Region 3)
         - Number of Dark Realms: 0
         - Bosses: 
             - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+    ==========
+    A Formal Match (Sub Mission)
+    ==========
+        - Recommended level: 64 
+        - Shrine: No 
+        - Torii Gate Expedition: No 
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Obsidian Samurai
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+    ==========
+    Corpses and Ice (Main Mission)
+    ==========
+        - Recommended level: 65 
+        - Shrine: Yes 
+        - Torii Gate Expedition: Yes 
+        - Number of Kodama: 8
+        - Number of Sudama: 2
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 3
+        - Bosses: 
+            - Magara Naotaka
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Onmyo Mage's Locks
+            - Ninja's Locks 
+
+    ==========
+    Lingering Snow and Crimson Tracks (Sub Mission)
+    ==========
+        - Recommended level: 68
+        - Shrine: Yes 
+        - Torii Gate Expedition: Yes 
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+    ==========
+    The Tiger Approaches (Sub Mission)
+    ==========
+        - Recommended level: 69
+        - Shrine: Yes 
+        - Torii Gate Expedition: Yes 
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Samurai's Locks (mission reward)
+
+    ==========
+    The Brother's Balde (Sub Mission)
+    ==========
+        - Recommended level: 69
+        - Shrine: Yes 
+        - Torii Gate Expedition: Yes 
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Magara Naotaka
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:

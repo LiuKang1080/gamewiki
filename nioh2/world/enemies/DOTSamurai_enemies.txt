@@ -439,6 +439,68 @@ Shadow Region (Region 3)
         - Karasu Tengu
         - Skeleton Warrior
 
+    ==========
+    A Formal Match (Sub Mission)
+    ==========
+        - Obsidian Samurai (boss) (first time)
+
+    ==========
+    Corpses and Ice (Main Mission)
+    ==========
+        - Warrior
+        - Skeleton Warrior
+        - Gaki
+        - Yoki
+        - Enki
+        - Mitsume Yazura
+        - Rokurokubi
+        - Namahage (first time)
+        - Maelstrom Oni-Bi
+        - Lesser Umi-Bozu
+        - Magara Naotaka (boss) (first time)
+        
+
+    ==========
+    Lingering Snow and Crimson Tracks (Sub Mission)
+    ==========
+        - Karakasa Umbrella
+        - One-Eyed Oni
+        - Enki
+        - Namahage
+        - Maelstrom Oni-Bi
+        - Infernal Oni-Bi
+        - Flying Bolt (first time)
+
+
+    ==========
+    The Tiger Approaches (Sub Mission)
+    ==========
+        - Abbarant Soldier
+        - Skeleton Warrior
+        - Gaki
+        - Enki
+        - Mitsume Yazura
+        - Rokurokubi
+        - Yamanba
+        - Namahage
+
+    ==========
+    The Brother's Balde (Sub Mission)
+    ==========
+        - Abbarant Soldier
+        - Rokurokubi
+        - Revenant
+        - Skeleton Warrior
+        - Magara Naotaka (boss)
+
+
+
+
+
+
+
+
+
 
 
 
