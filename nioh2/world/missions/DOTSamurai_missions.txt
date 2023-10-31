@@ -544,7 +544,7 @@ Shadow Region (Region 3)
             - Onmyo Mage's Locks
 
     ==========
-    Immoveable (Sub Mission)
+    Immovable (Sub Mission)
     ==========
         - Recommended level: 63
         - Shrine: Yes
