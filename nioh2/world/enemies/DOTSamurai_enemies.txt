@@ -505,8 +505,17 @@ Shadow Region (Region 3)
         - Enki
         - Namahage
 
+    ==========
+    The Fallen Star (Sub Mission)
+    ==========
+        - Revenant
+        - Biwa Boku-Boku
+        - Thunderstorm Oni-Bi
 
-
+    ==========
+    Horns on Head, Dragonfly in Hand (Main Mission)
+    ==========
+        - Honda Tadakatsu (boss) (first time)
 
 
 

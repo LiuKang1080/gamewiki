@@ -664,9 +664,39 @@ Shadow Region (Region 3)
             - Ninja's Locks (mission reward)
             - Smithing Text: Shinobi Box
 
+    ==========
+    The Fallen Star (Sub Mission)
+    ==========
+        - Recommended level: 70 
+        - Shrine: Yes 
+        - Torii Gate Expedition: Yes 
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Smithing Text: Yoaki Water Pot
 
-
-
+    ==========
+    Horns on Head, Dragonfly in Hand (Main Mission)
+    ==========
+        - Recommended level: 71
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Honda Tadakatsu
+        - Guardian Spirit Unlocked: 
+            - Shin-Roku
+        - Notable Items In Mission / Mission Rewards:
+            - None
 
 
 
