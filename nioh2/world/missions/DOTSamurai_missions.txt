@@ -646,7 +646,23 @@ Shadow Region (Region 3)
         - Notable Items In Mission / Mission Rewards:
             - None
 
-
+    ==========
+    A Shadow's Duty (Sub Mission)
+    ==========
+        - Recommended level: 70 
+        - Shrine: Yes 
+        - Torii Gate Expedition: Yes 
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Ninja's Locks (mission reward)
+            - Smithing Text: Shinobi Box
 
 
 

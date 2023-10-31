@@ -493,6 +493,17 @@ Shadow Region (Region 3)
         - Skeleton Warrior
         - Magara Naotaka (boss)
 
+    ==========
+    A Shadow's Duty (Sub Mission)
+    ==========
+        - Warrior
+        - Ninja
+        - Gaki
+        - Abbarant Soldier
+        - Skeleton Warrior
+        - Rokurokubi
+        - Enki
+        - Namahage
 
 
 
