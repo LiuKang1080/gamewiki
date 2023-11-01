@@ -30,6 +30,10 @@ Other Notes:
     - "The Way of the Ninja: Adept" unlocks after beating "The Mysterious One Night Castle"
     - "The Way of the Onmyo: Adept" unlocks after beating "The Mysterious One Night Castle"
 
+    - "The Way of the Warrior: Veteran" unlocks after beating "Prevading Waters"
+    - "The Way of the Ninja: Veteran" unlocks after beating "Prevading Waters"
+    - "The Way of the Onmyo: Veteran" unlocks after beating "Prevading Waters"
+
 
 ========== ========== ========== ========== ==========
 Dojo Missions:
@@ -101,6 +105,91 @@ Dojo Missions:
             - None
         - Notable Items In Mission / Mission Rewards:
             - Samurai's Locks
+
+    ==========
+    The Way of the Ninja: Adept (Dojo Mission)
+    ==========
+        - Recommended level: 59
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Ninja's Locks
+
+    ==========
+    The Way of the Onmyo: Adept (Dojo Mission)
+    ==========
+        - Recommended level: 59
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Onmyo Mage's Locks
+
+    ==========
+    The Way of the Warrior: Veteran (Dojo Mission)
+    ==========
+        - Recommended level: 88
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Samurai's Locks
+
+    ==========
+    The Way of the Ninja: Veteran (Dojo Mission)
+    ==========
+        - Recommended level: 88
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Ninja's Locks
+
+    ==========
+    The Way of the Onmyo: Veteran (Dojo Mission)
+    ==========
+        - Recommended level: 88
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Onmyo Mage's Locks
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -682,7 +771,7 @@ Shadow Region (Region 3)
             - Smithing Text: Yoaki Water Pot
 
     ==========
-    Horns on Head, Dragonfly in Hand (Main Mission)
+    Horns on Head, Dragonfly in Hand (Sub Mission)
     ==========
         - Recommended level: 71
         - Shrine: No
@@ -697,6 +786,143 @@ Shadow Region (Region 3)
             - Shin-Roku
         - Notable Items In Mission / Mission Rewards:
             - None
+
+    ==========
+    Bird In A Cage (Main Mission)
+    ==========
+        - Recommended level: 71
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 7
+        - Number of Sudama: 1
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 3
+        - Bosses: 
+            - Azai Nagamasa
+        - Guardian Spirit Unlocked: 
+            - Hiyokucho
+        - Notable Items In Mission / Mission Rewards:
+            - Ninja's Locks
+            - Onmyo Mage's Locks
+            - Samurai's Locks (mission reward)
+
+    ==========
+    The Point of No Return (Sub Mission)
+    ==========
+        - Recommended level: 74
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Saito Yoshitatsu
+        - Guardian Spirit Unlocked: 
+            - Makami / Ame-no-Mitori / Kagewani (only 1 will be given)
+        - Notable Items In Mission / Mission Rewards:
+            - Book of Reincarnation
+
+    ==========
+    The Golden Nation (Sub Mission)
+    ==========
+        - Recommended level: 74
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 3
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Onryoki
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+    ==========
+    The Demon King's Blade (Sub Mission)
+    ==========
+        - Recommended level: 74
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Oda Nobunaga
+        - Guardian Spirit Unlocked: 
+            - Tengen Kujaku
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+    ==========
+    The Child's Prodigy's Invitation (Sub Mission)
+    ==========
+        - Recommended level: 75
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Gamo Ujisato
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+    ==========
+    The Chinese Bellflower Dagger (Sub Mission)
+    ==========
+        - Recommended level: 65
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Saito Toshimitsu
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Onmyo Mage's Locks (mission reward)
+
+
+========== ========== ========== ========== ==========
+Dawn Region (Region 4)
+========== ========== ========== ========== ==========
+    ==========
+    Prevading Waters (Main Mission)
+    ==========
+        - Recommended level: 75
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 9
+        - Number of Sudama: 1
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 2
+        - Bosses: 
+            - Saika Magoichi
+            - Guyki
+        - Guardian Spirit Unlocked: 
+            - Hyobishin
+        - Notable Items In Mission / Mission Rewards:
+            - Ninja's Locks
+            - Onmyo Mage's Locks
+            - Unlocks "The Way of the Warrior: Veteran" after beating mission.
+
+
+
+
+
+
+
+
+
 
 
 

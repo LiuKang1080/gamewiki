@@ -27,6 +27,34 @@ Dojo Missions:
     ==========
         - Tsukahara Bokuden
 
+    ==========
+    The Way of the Ninja: Adept (Dojo Mission)
+    ==========
+        - Ninja
+
+    ==========
+    The Way of the Onmyo: Adept (Dojo Mission)
+    ==========
+        - One-Eyed Oni
+        - Karakasa Umbrella
+        - Infernal Oni-Bi
+        - Ippon-Datara
+    
+    ==========
+    The Way of the Warrior: Veteran (Dojo Mission)
+    ==========
+        - Tsukahara Bokuden
+
+    ==========
+    The Way of the Ninja: Veteran (Dojo Mission)
+    ==========
+        - TODO ==================================================================================================================
+
+    ==========
+    The Way of the Onmyo: Veteran (Dojo Mission)
+    ==========
+        - TODO ==================================================================================================================
+
 
 ========== ========== ========== ========== ==========
 Twilight Missions:
@@ -517,7 +545,82 @@ Shadow Region (Region 3)
     ==========
         - Honda Tadakatsu (boss) (first time)
 
+    ==========
+    Bird In A Cage (Main Mission)
+    ==========
+        - Dweller
+        - Warrior
+        - Spider (first time)
+        - Ninja Dog
+        - Yoki
+        - Tesso (first time)
+        - Skeleton Warrior
+        - Waira
+        - Koroka
+        - Toxic Slime
+        - Namahage
+        - Azai Nagamasa (boss) (first time)
 
+    ==========
+    The Point of No Return (Sub Mission)
+    ==========
+        - Saito Yoshitatsu
+
+    ==========
+    The Golden Nation (Sub Mission)
+    ==========
+        - Rokurokubi
+        - Ninja
+        - Ubume (first time)
+        - Flying Bolt
+        - Skeleton Warrior
+        - Tesso
+        - Mitsume Yazura
+        - Yoki
+        - Onryoki (boss)
+
+    ==========
+    The Demon King's Blade (Sub Mission)
+    ==========
+        - Oda Nobunaga (boss) (first time)
+
+    ==========
+    The Child's Prodigy's Invitation (Sub Mission)
+    ==========
+        - Gamo Ujisato (boss) (first time)
+
+    ==========
+    The Chinese Bellflower Dagger (Sub Mission)
+    ==========
+        - Saito Toshimitsu (boss) (first time)
+
+
+========== ========== ========== ========== ==========
+Dawn Region (Region 4)
+========== ========== ========== ========== ==========
+    ==========
+    Prevading Waters (Main Mission)
+    ==========
+        - Saika Clan (first time)
+        - Outlaw
+        - Muni (mini-boss) (first-time)
+        - Nure-Onna
+        - Gaki
+        - Skeleton Warrior
+        - Mitsume Yazura
+        - Thunderstorm Oni-Bi
+        - Tesso
+        - One-Eyed Oni
+        - Ubume
+        - Onyudo (first time)
+        - Shimotsuma Rairen (mini-boss) (first time)
+        - Maelstrom Oni-Bi
+        - Infernal Oni-Bi
+        - Koroka
+        - Biwa Boku-Boku
+        - Nurikabe
+        - Saika Magoichi (boss) (first time)
+        - Gyuki (boss) (first time)
 
 
 
