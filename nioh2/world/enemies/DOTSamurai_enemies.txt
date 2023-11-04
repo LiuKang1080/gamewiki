@@ -120,6 +120,21 @@ Twilight Missions:
         - Biwa Boku-Boku
         - Kamaitachi (boss)
 
+    ==========
+    The Defiled Sanctuary (The Golden Nation)
+    ==========
+        - Dweller
+        - Abbarant Soldier
+        - Tesso
+        - Gaki
+        - Ubume
+        - Ippon-Datara
+        - Karakasa Umbrella
+        - One-Eyed Oni
+        - Nure-Onna
+        - Rokurokubi
+        - Kasha (boss)
+
 
 ========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
