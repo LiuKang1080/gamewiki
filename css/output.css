@@ -1148,6 +1148,16 @@ video {
   color: rgb(220 113 13 / var(--tw-text-opacity));
 }
 
+.text-divine-text-color {
+  --tw-text-opacity: 1;
+  color: rgb(146 249 116 / var(--tw-text-opacity));
+}
+
+.text-exotic-text-color {
+  --tw-text-opacity: 1;
+  color: rgb(210 161 255 / var(--tw-text-opacity));
+}
+
 .text-gray-200 {
   --tw-text-opacity: 1;
   color: rgb(229 231 235 / var(--tw-text-opacity));
@@ -1230,16 +1240,6 @@ video {
 .text-yellow-400 {
   --tw-text-opacity: 1;
   color: rgb(250 204 21 / var(--tw-text-opacity));
-}
-
-.text-exotic-text-color {
-  --tw-text-opacity: 1;
-  color: rgb(210 161 255 / var(--tw-text-opacity));
-}
-
-.text-divine-text-color {
-  --tw-text-opacity: 1;
-  color: rgb(146 249 116 / var(--tw-text-opacity));
 }
 
 .shadow {

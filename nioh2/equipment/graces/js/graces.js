@@ -39,8 +39,8 @@ function depths() {
     element.scrollIntoView();
 }
 
-function description() {
-    let element = document.getElementById("description");
+function descriptions() {
+    let element = document.getElementById("descriptions");
     element.scrollIntoView();
 }
 
