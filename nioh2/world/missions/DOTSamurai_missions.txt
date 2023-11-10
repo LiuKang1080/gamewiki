@@ -914,8 +914,27 @@ Dawn Region (Region 4)
             - Ninja's Locks
             - Onmyo Mage's Locks
             - Unlocks "The Way of the Warrior: Veteran" after beating mission.
+            - Unlocks "The Way of the Ninja: Veteran" after beating mission.
+            - Unlocks "The Way of the Onmyo: Veteran" after beating mission.
 
+    ==========
+    The Missing Gun (Side Mission)
+    ==========
+        - Recommended level: 78
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 1
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
 
+    
 
 
 
