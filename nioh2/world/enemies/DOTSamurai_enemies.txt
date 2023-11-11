@@ -618,7 +618,7 @@ Dawn Region (Region 4)
     ==========
         - Saika Clan (first time)
         - Outlaw
-        - Muni (mini-boss) (first-time)
+        - Muni (Human Saika Warrior) (first-time)
         - Nure-Onna
         - Gaki
         - Skeleton Warrior
@@ -628,7 +628,7 @@ Dawn Region (Region 4)
         - One-Eyed Oni
         - Ubume
         - Onyudo (first time)
-        - Shimotsuma Rairen (mini-boss) (first time)
+        - Shimotsuma Rairen (Human Saika Warrior) (first time)
         - Maelstrom Oni-Bi
         - Infernal Oni-Bi
         - Koroka
