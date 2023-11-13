@@ -651,8 +651,30 @@ Dawn Region (Region 4)
         - Spider
         - Hotaru (Human Saika Warrior) (first time)
 
-    
+    ==========
+    The Refined Man of the Underworld (Side Mission)
+    ==========
+        - Gaki
+        - Enki
+        - Gozuki (boss)
+        - Mezuki (boss)
 
+    ==========
+    Song of the Yokai (Side Mission)
+    ==========
+        - Rokurokubi
+        - Nure-Onna
+        - Lesser Umi-Bozu
+        - Koroka
+        - Gaki
+        - Flying Bolt
+        - Ninja
+        - Yamanba
+        - Abbarant Soldier
+        - Enki
+        - Maelstrom Oni-Bi
+        - Tesso
+        - Ubume
 
 
 

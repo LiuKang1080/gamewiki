@@ -597,6 +597,7 @@ Shadow Region (Region 3)
         - Notable Items In Mission / Mission Rewards:
             - Onmyo Mage's Locks
             - Ninja's Locks
+            - Unlocks Hidden Tea House
 
     ==========
     Learning A Lesson (Sub Mission)
@@ -934,9 +935,40 @@ Dawn Region (Region 4)
         - Notable Items In Mission / Mission Rewards:
             - None
 
-    
+    ==========
+    The Refined Man of the Underworld (Side Mission)
+    ==========
+        - Recommended level: 79
+        - Shrine: No
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Gozuki
+            - Mezuki
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
 
-
+    ==========
+    Song of the Yokai (Side Mission)
+    ==========
+        - Recommended level: 79
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 7
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Smithing Text: Dancing Blade
 
 
 
