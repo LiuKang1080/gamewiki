@@ -970,7 +970,22 @@ Dawn Region (Region 4)
         - Notable Items In Mission / Mission Rewards:
             - Smithing Text: Dancing Blade
 
-
+    ==========
+    The Frenzied Blaze (Main Mission)
+    ==========
+        - Recommended level: 80
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 8
+        - Number of Sudama: 
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 3
+        - Bosses: 
+            - Kasha
+        - Guardian Spirit Unlocked: 
+            - 
+        - Notable Items In Mission / Mission Rewards:
+            - X2 Hair Locks
 
 
 

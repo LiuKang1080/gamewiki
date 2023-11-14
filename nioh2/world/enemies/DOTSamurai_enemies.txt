@@ -676,6 +676,14 @@ Dawn Region (Region 4)
         - Tesso
         - Ubume
 
+    ==========
+    The Frenzied Blaze (Main Mission)
+    ==========
+        - Outlaw
+        - Warrior
+        - Onmyo Mage (first time)
+        - Gaki
+        - 
 
 
 
