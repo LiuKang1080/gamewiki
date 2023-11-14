@@ -60,7 +60,7 @@ Dojo Missions:
 Twilight Missions:
 ========== ========== ========== ========== ==========
     ==========
-    The Violet Cherry Blossoms (The Village of Cursed Blossoms)
+    The Violet Cherry Blossoms (The Village of Cursed Blossoms | Awakening Region (Region 1))
     ==========
         - Gaki
         - Gozuki (boss)
@@ -74,7 +74,7 @@ Twilight Missions:
         - Mezuki (boss)
 
     ==========
-    Traces of the Raging Blaze (A Beast Born of Smoke and Flames)
+    Traces of the Raging Blaze (A Beast Born of Smoke and Flames | Awakening Region (Region 1))
     ==========
         - Yoki
         - Skeleton Warrior
@@ -88,7 +88,7 @@ Twilight Missions:
         - Enenra (boss)
 
     ==========
-    The Blood Tainted Samurai (Dark Omens)
+    The Blood Tainted Samurai (Dark Omens | Awakening Region (Region 1))
     ==========
         - Enki
         - Abbarant Soldier
@@ -101,7 +101,7 @@ Twilight Missions:
         - Karasu Tengu
 
     ==========
-    Blood on the Wind (The Mysterious One Night Castle)
+    Blood on the Wind (The Mysterious One Night Castle | Soaring Region (Region 2))
     ==========
         - Yoki
         - Abbarant Soldier
@@ -121,7 +121,7 @@ Twilight Missions:
         - Kamaitachi (boss)
 
     ==========
-    The Defiled Sanctuary (The Golden Nation)
+    The Defiled Sanctuary (The Golden Nation | Shadow Region (Region 3))
     ==========
         - Dweller
         - Abbarant Soldier
@@ -683,7 +683,74 @@ Dawn Region (Region 4)
         - Warrior
         - Onmyo Mage (first time)
         - Gaki
-        - 
+        - Skeleton Warrior
+        - Koroka
+        - Wheelmonk
+        - Infernal Oni-Bi
+        - Dweller
+        - Rokurokubi
+        - Ubume
+        - Mujina
+        - Nurikabe
+        - Onyudo
+        - Ippon-Datara
+        - Kasha (boss) (first time)
+
+    ==========
+    The Burning Sky (Side Mission)
+    ==========
+        - Gaki
+        - Skeleton Warrior
+        - Enki
+        - Ubume
+        - Yamanba
+        - One-Eyed Oni
+        - Mitsume Yazura
+        - Karasu Tengu
+        - Infernal Oni-Bi
+        - Onyudo
+
+    ==========
+    Abduction (Side Mission)
+    ==========
+        - Gaki
+        - One-Eyed Oni
+        - Lesser Umi-Bozu
+        - Infernal Oni-Bi
+        - Maelstrom Oni-Bi
+        - Thunderstorm Oni-Bi
+        - Yamanba
+        - Karakasa Umbrella
+        - Ubume
+
+    ==========
+    The Warrior (Side Mission)
+    ==========
+        - Skeleton Warrior
+        - Dweller
+        - Infernal Oni-Bi
+        - Tesso
+        - One-Eyed Oni
+        - Outlaw
+        - Warrior
+        - Enki
+        - Thunderstorm Oni-Bi
+        - Ubume
+        - Mitsume Yazura
+        - Tesso
+        - Abbarant Soldier
+        - Onyudo
+        - Yoki
+        - Ippon-Datara
+
+
+
+
+
+
+
+
+
 
 
 

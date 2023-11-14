@@ -977,17 +977,67 @@ Dawn Region (Region 4)
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 8
-        - Number of Sudama: 
+        - Number of Sudama: 2
         - Number of Hot Springs: 1
         - Number of Dark Realms: 3
         - Bosses: 
             - Kasha
         - Guardian Spirit Unlocked: 
-            - 
+            - Nine Tails
         - Notable Items In Mission / Mission Rewards:
-            - X2 Hair Locks
+            - Onmyo Mage's Locks
+            - Ninja's Locks
 
+    ==========
+    The Burning Sky (Side Mission)
+    ==========
+        - Recommended level: 83
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Kagatsuchi Magatama
 
+    ==========
+    Abduction (Side Mission)
+    ==========
+        - Recommended level: 83
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Book of Reincarnation (mission reward)
+
+    ==========
+    The Warrior (Side Mission)
+    ==========
+        - Recommended level: 84
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - Atlas Bear
+        - Notable Items In Mission / Mission Rewards:
+            - None
 
 
 
