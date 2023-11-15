@@ -760,8 +760,24 @@ Dawn Region (Region 4)
         - Blue Yoki (Dual Swords) (first time)
         - Ryomen Sukuna (boss) (first time)
 
+    ==========
+    The Aberrant Mage (Side Mission)
+    ==========
+        - Warrior
+        - Spider
+        - Dweller
+        - Tesso
+        - Koroka
+        - Enki
+        - Onmyo Mage
+        - Tesso
+        - Ubume
+        - Onyudo
 
-
+    ==========
+    The Third Word (Side Mission)
+    ==========
+        - Saika Magoichi (boss)
 
 
 

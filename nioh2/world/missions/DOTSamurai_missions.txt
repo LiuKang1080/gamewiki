@@ -1065,8 +1065,40 @@ Dawn Region (Region 4)
             - Smithing Text: Sacred Brush (mission reward)
             - 3rd Soul Core slot unlocked for Guardian Spirits (complete mission)
 
+    ==========
+    The Aberrant Mage (Side Mission)
+    ==========
+        - Recommended level: 87
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Onmyo Mage's Locks (mission reward)
+            - Smithing Text: Sacred Ash (mission reward)
 
-
+    ==========
+    The Third Word (Side Mission)
+    ==========
+        - Recommended level: 88
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Saika Magoichi
+        - Guardian Spirit Unlocked: 
+            - Yatagarasu
+        - Notable Items In Mission / Mission Rewards:
+            - None
 
 
 

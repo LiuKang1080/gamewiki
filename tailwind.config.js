@@ -73,7 +73,16 @@ module.exports = {
 					/* ==========
 					Ethreal Gear Text Color: [ORANGE]
 					========== */
+					// Ethereal Gear Color
 					// font-bold text-transparent bg-clip-text bg-gradient-to-b from-[#fdd365] to-[#fa7e38]
+
+					// Soul Core Drop color
+					// font-bold text-transparent bg-clip-text bg-gradient-to-b from-[#fa7e38] to-[#fdd365]
+
+					/* ==========
+					Tea Utensil Drop Color: [SILVER]
+					========== */
+					// font-bold text-transparent bg-clip-text bg-gradient-to-b from-[#c3d4e2] to-[#768192]
 
 				/* ========== ========== ==========
 				Wo Long:
