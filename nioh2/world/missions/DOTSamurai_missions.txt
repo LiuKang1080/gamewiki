@@ -19,20 +19,24 @@
 ==========
 Other Notes:
 ==========
-    - "The Way of the Warrior: Novice" unlocks after beating "The Beast Born of Smoke and Flames"
+    - "The Way of the Warrior: Novice" unlocks after beating "The Beast Born of Smoke and Flames".
 
-    - Twilight Missions unlocks after beating "The Viper's Sanctum"
+    - Twilight Missions unlock after beating "The Viper's Sanctum".
 
-    - "The Way of the Ninja: Novice" unlocks after beating "The Viper's Sanctum"
-    - "The Way of the Onmyo: Novice" unlocks after beating "The Viper's Sanctum"
+    - "The Way of the Ninja: Novice" unlocks after beating "The Viper's Sanctum".
+    - "The Way of the Onmyo: Novice" unlocks after beating "The Viper's Sanctum".
 
-    - "The Way of the Warrior: Adept" unlocks after beating "The Mysterious One Night Castle"
-    - "The Way of the Ninja: Adept" unlocks after beating "The Mysterious One Night Castle"
-    - "The Way of the Onmyo: Adept" unlocks after beating "The Mysterious One Night Castle"
+    - "The Way of the Warrior: Adept" unlocks after beating "The Mysterious One Night Castle".
+    - "The Way of the Ninja: Adept" unlocks after beating "The Mysterious One Night Castle".
+    - "The Way of the Onmyo: Adept" unlocks after beating "The Mysterious One Night Castle".
 
-    - "The Way of the Warrior: Veteran" unlocks after beating "Prevading Waters"
-    - "The Way of the Ninja: Veteran" unlocks after beating "Prevading Waters"
-    - "The Way of the Onmyo: Veteran" unlocks after beating "Prevading Waters"
+    - Unlock 2nd Guardian Spirit after beating "The Hollow Fortress".
+
+    - "The Way of the Warrior: Veteran" unlocks after beating "Prevading Waters".
+    - "The Way of the Ninja: Veteran" unlocks after beating "Prevading Waters".
+    - "The Way of the Onmyo: Veteran" unlocks after beating "Prevading Waters".
+
+    - Unlock 3rd Soul Core slot after beating "The Sun Sets on Mount Tenno".
 
 
 ========== ========== ========== ========== ==========
@@ -523,6 +527,7 @@ Soaring Region (Region 2)
         - Notable Items In Mission / Mission Rewards:
             - Ninja's Locks
             - Onmyo Mage's Locks
+            - Unlocks 2nd Guardian Spirit (complete mission)
 
     ==========
     An End to Seclusion (Sub Mission)
@@ -1058,6 +1063,12 @@ Dawn Region (Region 4)
             - Ninja's Locks
             - Onmyo Mage's Locks (mission reward)
             - Smithing Text: Sacred Brush (mission reward)
+            - 3rd Soul Core slot unlocked for Guardian Spirits (complete mission)
+
+
+
+
+
 
 
 
