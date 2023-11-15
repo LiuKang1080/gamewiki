@@ -1039,6 +1039,26 @@ Dawn Region (Region 4)
         - Notable Items In Mission / Mission Rewards:
             - None
 
+    ==========
+    The Sun Sets on Mount Tenno (Main Mission)
+    ==========
+        - Recommended level: 85
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 8
+        - Number of Sudama: 2
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 2
+        - Bosses: 
+            - Ryomen Sukuna
+        - Guardian Spirit Unlocked: 
+            - Genbu
+        - Notable Items In Mission / Mission Rewards:
+            - Onmyo Mage's Locks
+            - Ninja's Locks
+            - Onmyo Mage's Locks (mission reward)
+            - Smithing Text: Sacred Brush (mission reward)
+
 
 
 

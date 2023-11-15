@@ -743,8 +743,22 @@ Dawn Region (Region 4)
         - Yoki
         - Ippon-Datara
 
-
-
+    ==========
+    The Sun Sets on Mount Tenno (Main Mission)
+    ==========
+        - Gaki
+        - Skeleton Warrior
+        - Warrior
+        - Yoki
+        - Nure-Onna
+        - Waira
+        - Blue Yoki (Kusarigama) (first time)
+        - Nurikabe
+        - Onmyo Mage
+        - Onyudo
+        - Abbarant Soldier
+        - Blue Yoki (Dual Swords) (first time)
+        - Ryomen Sukuna (boss) (first time)
 
 
 
