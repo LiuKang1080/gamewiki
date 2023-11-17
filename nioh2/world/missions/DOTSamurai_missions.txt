@@ -1101,6 +1101,28 @@ Dawn Region (Region 4)
             - None
 
 
+========== ========== ========== ========== ==========
+Twilight Region (Region 5)
+========== ========== ========== ========== ==========
+    - Guardian Spirit "Nekomata" unlocks upon entering the region.
+
+    ==========
+    Ruin Draws Near (Main Mission)
+    ==========
+        - Recommended level: 88
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 7
+        - Number of Sudama: 
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 4
+        - Bosses: 
+            - Oni Shibata Katsuie
+        - Guardian Spirit Unlocked: 
+            - 
+        - Notable Items In Mission / Mission Rewards:
+            - X2 Hair Locks
+            - Samurai's Locks (mission reward)
 
 
 
