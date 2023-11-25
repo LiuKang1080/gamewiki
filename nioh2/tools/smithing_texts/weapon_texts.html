@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nioh 2 Smithing Texts</title>
+    <title>Weapon Smithing Texts</title>
     <!-- ========== ========== ==========
     Google Fonts (Asul)
     ========== ========== ========== -->
@@ -230,75 +230,276 @@
     ========== ========== ========== ========== ========== -->
     <section class="w-full my-12 flex flex-col items-center">
         <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
-            <h1 class="text-yellow-400 text-5xl md:text-6xl">Smithing Texts</h1>
+            <h1 class="px-2 text-yellow-400 text-5xl md:text-6xl text-center">Weapon Smithing Texts</h1>
             <hr class="w-full h-[2px] bg-stone-600 border-0">
         </div>
     </section>
 
 
     <!-- ========== ========== ========== ========== ==========
-    Card Section
+    Table of Contents
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="2xl:max-w-section-width w-full px-4 2xl:px-0 flex flex-col items-start">
+            <ol class="list-decimal list-inside text-xl text-sky-400">
+                <li><a class="hover:text-sky-600" href="javascript: katana()">Katana Smithing Texts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: dual()">Dual Swords Smithing Texts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: spear()">Spear Smithing Texts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: axe()">Axe Smithing Texts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: kusarigama()">Kusarigama Smithing Texts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: odachi()">Odachi Smithing Texts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: tonfa()">Tonfa Smithing Texts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: hatchets()">Hatchets Smithing Texts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: switchglaive()">Switchglaive Smithing Texts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: splitstaff()">Splitstaff Smithing Texts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: fists()">Fists Smithing Texts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: bow()">Bow Smithing Texts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: rifle()">Rifle Smithing Texts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: credits()">Credits</a></li>
+            </ol>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Description of Smithing Texts
     ========== ========== ========== ========== ========== -->
     <section class="w-full my-12 lg:px-0 flex flex-col items-center">
-        <div class="w-full px-4 py-6 flex flex-col justify-center items-center gap-6 rounded
+        <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Mechanics of Smithing Texts and Drop Rates</h2>
+            <img src="./img/smithing_text_logo.png" alt="">
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                <span class="font-bold text-red-600">Description:</span> Smithing Texts are rare items that drop from specific
+                enemies and bosses. All Smithing Texts will drop as an <span class="text-exotic-text-color">Exotic Item</span> 
+                regardless of the difficulty. Once a Smithing Text is obtained the player can go to the Blacksmith to "turn" in the Smithing
+                Text and unlock that specific piece of gear or item to forge.
+            </p>
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                <span class="font-bold text-red-600">How Luck affects Smithing Texts:</span> Luck does 
+                <span class="font-bold text-red-600">NOT</span> affect the drop rate of Smithing Texts and Hidden Skills. Luck 
+                only affects the rarity of items that drop, NOT the chance of an item dropping. Buffs like Luck Bringer Talisman, 
+                and Soul Purge Talisman does not affect the Smithing Text and Hidden Skills drop rate. Tempering Luck+ attributes 
+                on armor, accessories, and Soul Cores also does not affect the Smithing Texts and Hidden Skills drop rate.
+            </p>
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                <span class="font-bold text-red-600">How Item Drop Rate affects Smithing Texts:</span> Item Drop Rate buffs 
+                <span class="font-bold text-red-600">DOES</span> affect the Smithing Text and Hidden Skills drop rate. There is 
+                no active buff that we can use to manually increase our IDR at will, but we can temper on the attribute 
+                "<span class="text-uncommon-text-color">Increase Item Drop Rate</span>" onto the Weapon & Armor pieces,
+                Accessories, and Soul Cores.
+            </p>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Katana Smithing Texts
+    ========== ========== ========== ========== ========== -->    
+    <section id="katana" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded overflow-x-auto
             2xl:max-w-section-width lg:px-16">
 
-            <div class="w-full flex flex-wrap gap-6
-                md:grid md:grid-cols-2
-                2xl:grid 2xl:grid-cols-3">
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Katana Smithing Texts</h2>
+            <img src="./img/sword_logo.png" alt="">
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <table class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th>Smithing Text</th>
+                    <th>Enemy</th>
+                    <th>Missions</th>
+                </tr>
 
                 <!-- ==========
-                Hidden Skills (Button 1)
+                Table Data
                 ========== -->
-                <a class="group w-full p-3 flex flex-col items-center justify-end gap-4 rounded text-2xl bg-dark-gray hover:bg-medium-red"
-                    href="https://liukang1080.github.io/gamewiki/nioh2/tools/smithing_texts/hidden_skills.html">
-                    <img src="./img/skill_icon.png" alt="" class="h-[75px] w-auto">
-                    <span class="mask w-full p-2 text-center text-yellow-400 bg-dark-gray-2 rounded
-                        group-hover:text-yellow-100 group-hover:bg-light-red">Hidden Skills</span>
-                </a>
+                <!-- Wooden Sword -->
+                <tr class="even:bg-dark-gray-2">
+                    <td>Wooden Sword</td>
+                    <td>
+                        <a class="text-sky-400 hover:text-sky-600" href="">Tsukuhara Bokuden</a>
+                    </td>
+                    <td>
+                        <a class="text-sky-400 hover:text-sky-600" href="">Way Of The Warrior: Veteran</a><br><br>
+                        <a class="text-sky-400 hover:text-sky-600" href="">Winds Of Ruin</a>
+                    </td>
+                </tr>
 
-                <!-- ==========
-                Weapon Smithing Texts (Button 2)
-                ========== -->
-                <a class="group w-full p-3 flex flex-col items-center justify-end gap-4 rounded text-2xl bg-dark-gray hover:bg-medium-red"
-                    href="https://liukang1080.github.io/gamewiki/nioh2/tools/smithing_texts/weapon_texts.html">
-                    <img src="./img/weapons_icon.png" alt="" class="">
-                    <span class="mask w-full p-2 text-center text-yellow-400 bg-dark-gray-2 rounded
-                        group-hover:text-yellow-100 group-hover:bg-light-red">Weapon Smithing Texts</span>
-                </a>
+                <!-- Jikkyu Mitsutada -->
+				<tr class="even:bg-dark-gray-2">
+					<td>Jikkyu Mitsutada</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Oda Nobunaga</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Demon King's Blade</a>
+					</td>
+				</tr>
 
-                <!-- ==========
-                Armor Smithing Texts (Button 3)
-                ========== -->
-                <a class="group w-full p-3 flex flex-col items-center justify-end gap-4 rounded text-2xl bg-dark-gray hover:bg-medium-red"
-                    href="">
-                    <img src="./img/armor_icon.png" alt="">
-                    <span class="mask w-full p-2 text-center text-yellow-400 bg-dark-gray-2 rounded
-                        group-hover:text-yellow-100 group-hover:bg-light-red">Armor Smithing Texts</span>
-                </a>
+                <!-- Tokagemaru -->
+				<tr class="even:bg-dark-gray-2">
+					<td rowspan="2">Tokagemaru</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Imagawa Yoshimoto</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Hidden Monsters Of Okehazama</a><br><br>
+						<a class="text-sky-400 hover:text-sky-600" href="">Imagawa Diehard</a>
+					</td>
+				</tr>
+                <tr class="bg-dark-gray-2">
+                    <td>
+                        <a class="text-sky-400 hover:text-sky-600" href="">Saito Yoshitatsu</a>
+                    </td>
+                    <td>
+                        <a class="text-sky-400 hover:text-sky-600" href="">The Hollow Fortress</a><br><br>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Point Of No Return</a>
+                    </td>
+                </tr>
 
-                <!-- ==========
-                Misc Smithing Texts (Button 4)
-                ========== -->
-                <a class="group w-full p-3 flex flex-col items-center justify-end gap-4 rounded text-2xl bg-dark-gray hover:bg-medium-red"
-                    href="">
-                    <img src="./img/misc_smithing_icon.png" alt="">
-                    <span class="mask w-full p-2 text-center text-yellow-400 bg-dark-gray-2 rounded
-                        group-hover:text-yellow-100 group-hover:bg-light-red">Misc Smithing Texts</span>
-                </a>
+                <!-- Transient Blade -->
+				<tr class="">
+					<td>Transient Blade</td>
+					<td>
+						N/A Mission Reward
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Hidetatsu's Dying Wish</a> (Dream Of The Strong)
+					</td>
+				</tr>
 
-                <!-- ==========
-                Mission Progression Unlocks (Button 5)
-                ========== -->
-                <a class="group w-full p-3 flex flex-col items-center justify-end gap-4 rounded text-2xl bg-dark-gray hover:bg-medium-red"
-                    href="">
-                    <img src="./img/missions_logo.png" alt="" class="h-[75px] w-auto">
-                    <span class="mask w-full p-2 text-center text-yellow-400 bg-dark-gray-2 rounded
-                        group-hover:text-yellow-100 group-hover:bg-light-red">Mission Progression Unlocks</span>
-                </a>
+                <!-- Udoto -->
+				<tr class="bg-dark-gray-2">
+					<td>Udoto</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Saito Yoshitatsu</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Hollow Fortress</a><br><br>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Point Of No Return</a>
+					</td>
+				</tr>
+
+                <!-- Starcutter Sword -->
+				<tr class="">
+					<td>Starcutter Sword</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Obsidian Samurai</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">A Formal Match</a>
+					</td>
+				</tr>
+
+                <!-- Kaikunigo -->
+				<tr class="bg-dark-gray-2">
+					<td>Kaikunigo</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Takeda Shingen</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Fallen Star</a>
+					</td>
+				</tr>
+
+                <!-- Smirkwiper -->
+				<tr class="even:bg-dark-gray-2">
+					<td>Smirkwiper</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Shibata Katsuie</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Shiftling's Wise Judgement</a><br><br>
+						<a class="text-sky-400 hover:text-sky-600" href="">Ruin Draws Near</a>
+					</td>
+				</tr>
+
+                <!-- Sohaya Tsurugi -->
+				<tr class="even:bg-dark-gray-2">
+					<td rowspan="2">Sohaya Tsurugi</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Azai Nagamasa</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Bird In a Cage</a><br><br>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Cursed Castle Ruins (Twilight Mission)</a>
+					</td>
+				</tr>
+                <tr>
+                    <td>
+                        <a class="text-sky-400 hover:text-sky-600" href="">Kasha</a>
+                    </td>
+                    <td>
+                        <a class="text-sky-400 hover:text-sky-600" href="">The Frenzied Blaze</a><br><br>
+						<a class="text-sky-400 hover:text-sky-600" href="">Defiled Sanctuary (Twilight Mission)</a>
+                    </td>
+                </tr>
+                
+                <!-- Azai Ichimonji -->
+				<tr class="even:bg-dark-gray-2">
+					<td>Azai Ichimonji</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Azai Nagamasa</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Bird In A Cage</a><br><br>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Cursed Castle Ruins (Twilight Mission)</a>
+					</td>
+				</tr>
+
+                <!-- Haccho Nenbutsu -->
+				<tr class="even:bg-dark-gray-2">
+					<td>Haccho Nenbutsu</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href=""></a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href=""></a><br><br>
+						<a class="text-sky-400 hover:text-sky-600" href=""></a>
+					</td>
+				</tr>
+            </table>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Credits
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full px-4 2xl:px-0 flex flex-col items-start gap-4">
+            <h1 id="credits" class="text-yellow-400 text-4xl">Credits:</h1>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+            
+            <div class="flex flex-col gap-2 text-slate-300 text-xl">
+                <span>LiuKang1080</span>
+                
+                <span class="bold-text">
+                    <a class="text-sky-400 hover:text-sky-600" href="https://docs.google.com/spreadsheets/d/1A-uFgSck8pU5NOLh2OVpK_V5-AVfDW42wuiumuf7tlE/edit#gid=137724816"
+                    target="_blank" rel="noopener noreferrer">Ocean Machine's Build Bible</a>
+                </span>
+                
+                <span class="bold-text">Nioh Community Discord Server: 
+                    <a class="text-sky-400 hover:text-sky-600" href="https://discord.gg/pAH5U9mRBj" 
+                    target="_blank" rel="noopener noreferrer">Here</a>
+                </span>
             </div>
         </div>
     </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Back to top button
+    ========== ========== ========== ========== ========== -->
+    <a id="back-to-top-button" href="#">Top</a>
+
 
     <!-- ========== ========== ========== ========== ==========
     JavaScript
@@ -313,10 +514,17 @@
     <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/js/navbar.js" defer></script>
     <!-- <script type="text/javascript" src="../../js/navbar.js" defer></script> -->
 
+    <!-- Top Button JS -->
+    <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/js/top_button.js" defer></script>
+    <!-- <script type="text/javascript" src="../../js/top_button.js" defer></script> -->
+
+    <!-- weapon_texts.js -->
+    <script type="text/javascript" src="./js/weapon_texts.js" defer></script>
+
 </body>
 </html>
 
 <!-- TODO -->
 <!--
-    - Add in-game icons for the buttons 
+
 -->
