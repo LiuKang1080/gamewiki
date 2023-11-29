@@ -1113,13 +1113,14 @@ Twilight Region (Region 5)
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 7
-        - Number of Sudama: 
+        - Number of Sudama: 2
         - Number of Hot Springs: 1
         - Number of Dark Realms: 4
         - Bosses: 
+            - Maeda Toshiie
             - Oni Shibata Katsuie
         - Guardian Spirit Unlocked: 
-            - 
+            - Inosasao
         - Notable Items In Mission / Mission Rewards:
             - X2 Hair Locks
             - Samurai's Locks (mission reward)

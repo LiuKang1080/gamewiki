@@ -786,9 +786,18 @@ Twilight Region (Region 5)
     ==========
     Ruin Draws Near (Main Mission)
     ==========
-        - 
+        - Skeleton Warrior
+        - Yoki
+        - Abbarant Soldier
+        - Wheelmonk
+        - Onyudo
+        - Tesso
+        - Infernal oni-Bi
+        - Koroka
+        - Maeda Toshiie (boss) (first time)
+        - Oni Shibata Katsuie (boss) (first time)
 
-
+    
 
 
 
