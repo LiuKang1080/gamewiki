@@ -1166,7 +1166,22 @@ Twilight Region (Region 5)
         - Notable Items In Mission / Mission Rewards:
             - Smithing Text: Yokai Incense
 
-    
+    ==========
+    Farewell to the Past (Side Mission)
+    ==========
+        - Recommended level: 91
+        - Shrine: No
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
 
 
 

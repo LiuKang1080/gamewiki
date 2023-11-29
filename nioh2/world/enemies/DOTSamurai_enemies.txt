@@ -813,8 +813,12 @@ Twilight Region (Region 5)
         - Onyudo
         - Enenra (boss)
 
-        
-
+    ==========
+    Farewell to the Past (Side Mission)
+    ==========   
+        - Warrior
+        - Onmyo Mage
+        - Mysterious Samurai
 
 
 
