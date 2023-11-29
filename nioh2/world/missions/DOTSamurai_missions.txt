@@ -38,6 +38,18 @@ Other Notes:
 
     - Unlock 3rd Soul Core slot after beating "The Sun Sets on Mount Tenno".
 
+    - "Opening of the Mind's Eye" unlocks after beating "Ruin Draws Near".
+    - "Hanzo the Demon" unlocks after beating "Ruin Draws Near".
+    - "Master of the Dual Blades" unlocks after beating "Ruin Draws Near".
+    - "The Unmoving Mountain" unlocks after beating "Ruin Draws Near".
+    - "The Chain That Splits the Sky" unlocks after beating "Ruin Draws Near".
+    - "Sharp Eyes" unlocks after beating "Ruin Draws Near".
+    - "Like Lightning" unlocks after beating "Ruin Draws Near".
+    - "The Tengu's Blade" unlocks after beating "Ruin Draws Near".
+    - "The Unstoppable Whirlwind" unlocks after beating "Ruin Draws Near".
+    - "Breaking Free" unlocks after beating "Ruin Draws Near".
+    - "Strike Like a Yokai" unlocks after beating "Ruin Draws Near".
+
 
 ========== ========== ========== ========== ==========
 Dojo Missions:
@@ -1122,8 +1134,44 @@ Twilight Region (Region 5)
         - Guardian Spirit Unlocked: 
             - Inosasao
         - Notable Items In Mission / Mission Rewards:
-            - X2 Hair Locks
+            - Onmyo Mage's Locks
+            - Ninja's Locks
             - Samurai's Locks (mission reward)
+            - Unlocks "Opening of the Mind's Eye" in the Dojo after beating mission.
+            - Unlocks "Hanzo the Demon" in the Dojo after beating mission.
+            - Unlocks "Master of the Dual Blades" in the Dojo after beating mission.
+            - Unlocks "The Unmoving Mountain" in the Dojo after beating mission.
+            - Unlocks "The Chain That Splits the Sky" in the Dojo after beating mission.
+            - Unlocks "Sharp Eyes" in the Dojo after beating mission.
+            - Unlocks "Like Lightning" in the Dojo after beating mission.
+            - Unlocks "The Tengu's Blade" in the Dojo after beating mission.
+            - Unlocks "The Unstoppable Whirlwind" in the Dojo after beating mission.
+            - Unlocks "Breaking Free" in the Dojo after beating mission.
+            - Unlocks "Strike Like a Yokai" in the Dojo after beating mission.
+
+    ==========
+    Okuni's Search (Side Mission)
+    ==========
+        - Recommended level: 90
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 7
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Enenra
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Smithing Text: Yokai Incense
+
+    
+
+
+
+
+
 
 
 

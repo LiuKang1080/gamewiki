@@ -795,9 +795,30 @@ Twilight Region (Region 5)
         - Infernal oni-Bi
         - Koroka
         - Maeda Toshiie (boss) (first time)
+        - Ippon-Datara
         - Oni Shibata Katsuie (boss) (first time)
 
-    
+    ==========
+    Okuni's Search (Side Mission)
+    ==========
+        - Nure-Onna
+        - Flying Bolt
+        - Tesso
+        - Gaki
+        - Namahage
+        - Yoki
+        - One-Eyed Oni
+        - Yamanba
+        - Ubume
+        - Onyudo
+        - Enenra (boss)
+
+        
+
+
+
+
+
 
 
 
