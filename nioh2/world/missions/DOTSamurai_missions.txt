@@ -1183,6 +1183,22 @@ Twilight Region (Region 5)
         - Notable Items In Mission / Mission Rewards:
             - None
 
+    ==========
+    The Two Faces of Hospitality (Main Mission)
+    ==========
+        - Recommended level: 91
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 7
+        - Number of Sudama: 
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 2
+        - Bosses: 
+            - Tokichiro
+        - Guardian Spirit Unlocked: 
+            - 
+        - Notable Items In Mission / Mission Rewards:
+            - X2 Hair Locks
 
 
 
