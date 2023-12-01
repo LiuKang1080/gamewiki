@@ -1190,16 +1190,33 @@ Twilight Region (Region 5)
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 7
-        - Number of Sudama: 
+        - Number of Sudama: 1
         - Number of Hot Springs: 1
         - Number of Dark Realms: 2
         - Bosses: 
             - Tokichiro
         - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Onmyo Mage's Locks
+            - Ninja's Locks
+
+    ==========
+    The High-Spirited Demon (Main Mission)
+    ==========
+        - Recommended level: 95
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 6
+        - Number of Sudama: 
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 3
+        - Bosses: 
+            - Daidara Bocchi
+        - Guardian Spirit Unlocked: 
             - 
         - Notable Items In Mission / Mission Rewards:
             - X2 Hair Locks
-
 
 
 

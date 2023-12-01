@@ -150,7 +150,7 @@ Awakening Region (Region 1)
         - Enki (first time)
         - Outlaw (first time)
         - Rouge (first time)
-        - Yoki (first time)
+        - Yoki (sword) (first time)
         - Mezuki (boss) (first time)
 
     ==========
@@ -166,16 +166,37 @@ Awakening Region (Region 1)
     ==========
         - Outlaw
         - Rouge
-        - Ippon-Datara (first time)
+        - Ippon-Datara (hammer) (first time)
         - Gaki
         - Sohaya Warrior (first time)
         - Yoki
         - Enki
         - Dweller (first time)
         - Mujina (first time)
-        - Nurikabe (first time)
+        - Ippon-Datara (odachi) (first time)
+        - Nurikabe (yellow) (first time)
         - Skeleton Warrior (first time)
         - Enenra (boss) (first time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     A Voice in the Twilight (Sub Mission)
@@ -822,6 +843,23 @@ Twilight Region (Region 5)
 
     ==========
     The Two Faces of Hospitality (Main Mission)
+    ==========
+        - Ninja
+        - Warrior
+        - Flying Bolt
+        - Abbarant Soldier
+        - Skeleton Warrior
+        - Wheelmonk
+        - Rokurokubi
+        - Yoki
+        - Mitsume Yazura
+        - Mori Nagayoshi (first time)
+        - Ninja Dog
+        - Ikeda Tsuneoki (first time)
+        - Tokichiro (boss) (first time)
+
+    ==========
+    The High-Spirited Demon (Main Mission)
     ==========
         - 
 
