@@ -128,12 +128,32 @@ Twilight Missions:
         - Tesso
         - Gaki
         - Ubume
-        - Ippon-Datara
+        - Ippon-Datara (odachi)
         - Karakasa Umbrella
         - One-Eyed Oni
         - Nure-Onna
         - Rokurokubi
         - Kasha (boss)
+
+    ==========
+    Mountain of the Dark Lord (The Sun Sets on Mount Tenno | Dawn Region (Region 4))
+    ==========
+        - Nure-Onna
+        - Toxic Slime
+        - Skeleton Warrior
+        - Spider
+        - Mitsume Yazura
+        - Wheelmonk
+        - Tesso
+        - Rokurokubi
+        - Yoki (axe)
+        - Flying Bolt
+        - Ubume
+        - Gaki
+        - Nurikabe ??? ==========================================================================================================
+        - Red Kappa
+        - Onyudo (lightning)
+        - Ryomen Sukuna (boss)
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -168,8 +188,8 @@ Awakening Region (Region 1)
         - Rouge
         - Ippon-Datara (hammer) (first time)
         - Gaki
-        - Sohaya Warrior (first time)
-        - Yoki
+        - Sohaya Warrior (hatchets) (first time)
+        - Yoki (sword)
         - Enki
         - Dweller (first time)
         - Mujina (first time)
@@ -178,32 +198,12 @@ Awakening Region (Region 1)
         - Skeleton Warrior (first time)
         - Enenra (boss) (first time)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
     A Voice in the Twilight (Sub Mission)
     ==========
         - Gaki
         - Infernal Oni-Bi (first time)
-        - Yoki
+        - Yoki (sword)
         - Enki
         - Thunderstorm Oni-Bi (first time)
         - Gozuki (boss)
@@ -218,7 +218,7 @@ Awakening Region (Region 1)
         - Gaki
         - One-Eyed Oni (first time)
         - Sohaya Warrior
-        - Yoki
+        - Yoki (sword)
         - Karasu Tengu (first time)
 
     ==========
@@ -227,14 +227,16 @@ Awakening Region (Region 1)
         - Warrior (first time)
         - Ninja (first time)
         - Gaki
-        - Yoki
-        - Sohaya Warrior
+        - Yoki (axe) (first time)
+        - Sohaya Warrior (hatchets)
         - Abbarant Soldier
         - Nure-Onna (first time)
-        - Nurikabe
+        - Nurikabe (red)
+        - Yoki (sword)
         - Enki
         - Toxic Slime (first time)
-        - Ippon-Datara
+        - Ippon-Datara (hammer)
+        - Nurikabe (blue)
         - Yatsu-no-Kami (boss) (first time)
 
     ==========
@@ -243,8 +245,8 @@ Awakening Region (Region 1)
         - Dweller
         - Lesser Umi-Bozu (first time)
         - Gaki
-        - Yoki
-        - Ippon-Datara
+        - Yoki (sword)
+        - Ippon-Datara (hammer)
         - Wheelmonk (first time)
         - Warrior
         - Outlaw
@@ -253,7 +255,7 @@ Awakening Region (Region 1)
     The Search (Sub Mission)
     ==========
         - Gaki
-        - Ippon-Datara
+        - Ippon-Datara (odachi)
         - Nure-Onna
         - Enki
 
@@ -265,8 +267,9 @@ Awakening Region (Region 1)
         - Gaki
         - Nure-Onna
         - Abbarant Soldier
-        - Yoki
-        - Sohaya Warrior
+        - Yoki (axe)
+        - Yoki (sword)
+        - Sohaya Warrior (switchglaive)
 
 
 ========== ========== ========== ========== ==========
@@ -284,7 +287,7 @@ Soaring Region (Region 2)
         - Maelstrom Oni-Bi (first time)
         - One-Eyed Oni
         - Warrior
-        - Nurikabe
+        - Nurikabe (yellow)
         - Imagawa Yoshimoto (Boss) (first time)
 
     ==========
@@ -295,6 +298,29 @@ Soaring Region (Region 2)
         - Okabe Motonobu (first time)
         - Okabe Masatsuna (first time)
         - Imagawa Yoshimoto (boss)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
 
     ==========
     Hidetatsu's Dying Wish (Side Mission)
