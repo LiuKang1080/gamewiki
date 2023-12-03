@@ -299,40 +299,17 @@ Soaring Region (Region 2)
         - Okabe Masatsuna (first time)
         - Imagawa Yoshimoto (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-
     ==========
     Hidetatsu's Dying Wish (Side Mission)
     ==========
         - Warrior
-        - Sohaya Warrior
         - Toxic Slime
+        - Sohaya Warrior (hatchets)
         - Nure-Onna
         - One-Eyed Oni
         - Gaki
         - Infernal Oni-Bi
-        - Yoki
+        - Blue Yoki (dual swords)
 
     ==========
     An Error in Calculation (Side Mission)
@@ -361,8 +338,8 @@ Soaring Region (Region 2)
         - Nure-Onna
         - Lesser Umi-Bozu
         - Enki
-        - Sohaya Warrior
-        - Nurikabe
+        - Sohaya Warrior (switchglaive)
+        - Nurikabe (yellow)
         - Karakasa Umbrella
         - Kappa
         - Kamaitachi (boss) (first time)
@@ -383,15 +360,15 @@ Soaring Region (Region 2)
     ==========
         - Warrior
         - Rouge
-        - Ippon-Datara
+        - Ippon-Datara (odachi)
         - Gaki
         - Dweller
         - Enki
         - One-Eyed Oni
         - Waira
         - Abbarant Soldier
-        - Nurikabe
-        - Yoki
+        - Nurikabe (yellow)
+        - Yoki (sword)
         - Infernal Oni-Bi
         - Adachi the Beheader (first time)
 
@@ -446,7 +423,8 @@ Soaring Region (Region 2)
         - Karakasa Umbrella
         - One-Eyed Oni
         - Dweller
-        - Ippon Datara
+        - Ippon Datara (odachi)
+        - Ippon-Datara (hammer)
         - Hachisuka Koroku (boss) (first time)
 
     ==========
@@ -482,7 +460,7 @@ Shadow Region (Region 3)
         - One-Eyed Oni
         - Karasu Tengu
         - Karakasa Umbrella
-        - Nurikabe
+        - Nurikabe (yellow)
         - Tatarimokke (boss) (first time)
 
     ==========
@@ -493,9 +471,10 @@ Shadow Region (Region 3)
         - Gaki
         - Yamanba
         - Dweller
-        - Yoki
+        - Yoki (sword)
+        - Sohaya Warrior (hatchets)
         - Skeleton Warrior
-        - Ippon Datara
+        - Ippon Datara (odachi)
         - Abbarant Soldier
         - Enki
         - Kappa
@@ -504,7 +483,8 @@ Shadow Region (Region 3)
     The Shrine of Oaths (Sub Mission)
     ==========
         - Abbarant Soldier
-        - Yoki
+        - Yoki (axe)
+        - Yoki (sword)
         - Mitsume Yazura 
         - One-Eyed Oni
         - Gaki
@@ -519,10 +499,12 @@ Shadow Region (Region 3)
     ==========
     Immoveable (Sub Mission)
     ==========
-        - Sohaya Warrior
+        - Sohaya Warrior (axe) (first time)
+        - Sohaya Warrior (hatchets)
         - Rouge
         - Warrior
         - Ninja Dog
+        - Sohaya Warrior (odachi) (first time)
         - Enki
         - Mitsume Yazura
         - Gaki
@@ -540,15 +522,15 @@ Shadow Region (Region 3)
         - Warrior
         - Skeleton Warrior
         - Gaki
-        - Yoki
+        - Yoki (axe)
         - Enki
         - Mitsume Yazura
         - Rokurokubi
+        - Magara Takamoto (first time)
         - Namahage (first time)
         - Maelstrom Oni-Bi
         - Lesser Umi-Bozu
         - Magara Naotaka (boss) (first time)
-        
 
     ==========
     Lingering Snow and Crimson Tracks (Sub Mission)
@@ -560,7 +542,6 @@ Shadow Region (Region 3)
         - Maelstrom Oni-Bi
         - Infernal Oni-Bi
         - Flying Bolt (first time)
-
 
     ==========
     The Tiger Approaches (Sub Mission)
@@ -614,20 +595,21 @@ Shadow Region (Region 3)
         - Warrior
         - Spider (first time)
         - Ninja Dog
-        - Yoki
+        - Yoki (axe)
         - Tesso (first time)
         - Skeleton Warrior
         - Waira
+        - Yokai (sword)
         - Koroka
         - Toxic Slime
         - Namahage
         - Azai Nagamasa (boss) (first time)
-
+    
     ==========
     The Point of No Return (Sub Mission)
     ==========
         - Saito Yoshitatsu
-
+    
     ==========
     The Golden Nation (Sub Mission)
     ==========
@@ -638,14 +620,14 @@ Shadow Region (Region 3)
         - Skeleton Warrior
         - Tesso
         - Mitsume Yazura
-        - Yoki
+        - Yoki (sword)
         - Onryoki (boss)
-
+    
     ==========
     The Demon King's Blade (Sub Mission)
     ==========
         - Oda Nobunaga (boss) (first time)
-
+    
     ==========
     The Child's Prodigy's Invitation (Sub Mission)
     ==========
@@ -674,7 +656,7 @@ Dawn Region (Region 4)
         - Tesso
         - One-Eyed Oni
         - Ubume
-        - Onyudo (first time)
+        - Onyudo (fire) (first time)
         - Shimotsuma Rairen (Human Saika Warrior) (first time)
         - Maelstrom Oni-Bi
         - Infernal Oni-Bi
@@ -738,9 +720,9 @@ Dawn Region (Region 4)
         - Rokurokubi
         - Ubume
         - Mujina
-        - Nurikabe
-        - Onyudo
-        - Ippon-Datara
+        - Nurikabe (yellow)
+        - Onyudo (fire)
+        - Ippon-Datara (hammer)
         - Kasha (boss) (first time)
 
     ==========
@@ -755,7 +737,7 @@ Dawn Region (Region 4)
         - Mitsume Yazura
         - Karasu Tengu
         - Infernal Oni-Bi
-        - Onyudo
+        - Onyudo (fire)
 
     ==========
     Abduction (Side Mission)
@@ -786,9 +768,9 @@ Dawn Region (Region 4)
         - Mitsume Yazura
         - Tesso
         - Abbarant Soldier
-        - Onyudo
-        - Yoki
-        - Ippon-Datara
+        - Onyudo (fire)
+        - Yoki (axe)
+        - Ippon-Datara (hammer)
 
     ==========
     The Sun Sets on Mount Tenno (Main Mission)
@@ -796,15 +778,16 @@ Dawn Region (Region 4)
         - Gaki
         - Skeleton Warrior
         - Warrior
-        - Yoki
+        - Yoki (axe)
         - Nure-Onna
         - Waira
         - Blue Yoki (Kusarigama) (first time)
-        - Nurikabe
+        - Nurikabe (yellow)
         - Onmyo Mage
-        - Onyudo
+        - Onyudo (water) (first time)
         - Abbarant Soldier
         - Blue Yoki (Dual Swords) (first time)
+        - Onyudo (fire)
         - Ryomen Sukuna (boss) (first time)
 
     ==========
@@ -819,7 +802,8 @@ Dawn Region (Region 4)
         - Onmyo Mage
         - Tesso
         - Ubume
-        - Onyudo
+        - Onyudo (lightning) (first time)
+        - Onyudo (fire)
 
     ==========
     The Third Word (Side Mission)
@@ -830,6 +814,30 @@ Dawn Region (Region 4)
 ========== ========== ========== ========== ==========
 Twilight Region (Region 5)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     ==========
     Ruin Draws Near (Main Mission)
     ==========
