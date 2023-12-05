@@ -1,0 +1,10 @@
+Corrupted enemies take increase Ki Damage (30% extra) and you regain some of the Ki lost from attacking. When the weapon is Awakened, you deal 30% more Melee Damage. Awakened Weapons also send a forward Corruption Wave after doing the last attack of a Strong Attack string. This damage is pretty negligible. 
+
+Purified enemies take increased Ki Damage (50% extra) and you gain the ability to Ki Pulse after Blocking if you're using a Blessed Weapon (weapon with Imbue Purity in it). Enemies afflicted by Purity can not apply buffs/debuffs to themselves. Even though there's no Awakened state for Purity, there is a Purity Talisman that imbues your weapon with Purity (a much higher value than the usual +8 or +10; I've read that it's around +50 but I have yet to see any confirmation on this). 
+
+To decide what element is the better one is really tough because sometimes you want the added damage from Corruption (bear in mind it's only active when the weapon is awakened) and other times the extra increased Ki Damage from Purity is more helpful (for example, to keep Yokai always at 0-ki).
+What I can say is that, from a combo-focused perspective, Purity is significantly better. One main reason is that Corruption gets completely shafted by swapping weapons (something you do constantly in stylish combos) because swapping weapon loses all your Awakened State; thankfully you retain Sentience Charge. Also the extra increased Ki Damage from Purity makes it easier to get the enemy to 0-ki, which then allows for stuff like 0-ki-combo, YSC, juggles, etc to be done more frequently. The only thing Corruption has over Purity style-wise is its colour, sadly.
+
+So to sum it up
+efficiency-wise: it's splitting hairs, Corruption might be better
+style/combo-wise:Purity is definitely better
