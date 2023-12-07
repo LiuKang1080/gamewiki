@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nioh 2 Armor Smithing Texts</title>
+    <!-- ========== ========== ==========
+    Google Fonts (Asul)
+    ========== ========== ========== -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Asul&display=swap" rel="stylesheet">
+
+    <!-- ========== ========== ==========
+    FlowBite CSS
+    ========== ========== ========== -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.css"  rel="stylesheet" />
+
+    <!-- ========== ========== ==========
+    TailWindCSS Link
+    ========== ========== ========== -->
+    <!-- <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/output.css" rel="stylesheet"> -->
+    <link type="text/css" href="../../../css/output.css" rel="stylesheet">
+
+    <!-- ========== ========== ==========
+    Manual CSS Link
+    ========== ========== ========== -->
+    <!-- <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/manual.css" rel="stylesheet"> -->
+    <link type="text/css" href="../../../css/manual.css" rel="stylesheet">
+
+    <!-- ========== ========== ==========
+    TailWind CSS build process:
+    npx tailwindcss -i ./css/input.css -o ./css/output.css --watch
+    ========== ========== ========== -->
+</head>
+<body class="bg-stone-900 font-asul">
+    <!-- ========== ========== ========== ========== ==========
+    Header
+    ========== ========== ========== ========== ========== -->
+    <header class="h-[95px] mask bg-medium-gray text-white">
+        <!-- sticky top-0 z-10 -->
+
+        <!-- ========== ========== ==========
+        Desktop Navbar Menu (Navbar)
+        ========== ========== ========== -->
+        <div class="w-full h-[95px] flex justify-start items-center">
+            <div class="w-full flex justify-between items-center px-5 py-2 gap-5
+                lg:w-fit">
+                
+                <!-- HOME -->
+                <a href="https://liukang1080.github.io/gamewiki/index.html">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-house-fill" viewBox="0 0 16 16">
+                        <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.707 1.5Z"/>
+                        <path d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6Z"/>
+                    </svg>
+                </a>
+
+                <!-- Nioh 2 Logo -->
+                <a href="https://liukang1080.github.io/gamewiki/nioh2/nioh2.html"><img src="https://liukang1080.github.io/gamewiki/nioh2/img/nioh2_logo_2.png" alt=""></a>
+
+                <!-- Navbar Buttons -->
+                <!-- hidden nav for mobile viewports -->
+                <button id="hamburger-button" class="text-3xl lg:hidden cursor-pointer">&#9776;</button>
+                <!-- Hamburger UNICODE -->
+
+                <!-- Navbar links (DESKTOP VERSION) -->
+                <nav class="hidden lg:block gap-5" aria-label="main">
+                    <!-- ========== ==========
+                    Basics Button
+                    ========== ========== -->
+                    <button id="basics_button" data-dropdown-toggle="basics_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Basics
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="basics_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Recommended Settings</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Starting Recommendations</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Character Stats</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Shrine</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Dojo</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">NG+ Cycles</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Combat Button
+                    ========== ========== -->
+                    <button id="combat_button" data-dropdown-toggle="combat_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Combat
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="combat_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Stances</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Ki Pulse</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Skills / Skill Trees</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Yokai Shift & Burst Counters</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Doding / Guarding / Parrying</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Status Effects</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Advanced Tech</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Equipment Button
+                    ========== ========== -->
+                    <button id="equipment_button" data-dropdown-toggle="equipment_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Equipment
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="equipment_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Weapons</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Armor</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Ninjutsu</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Onmyo Magic</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Soul Cores</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Guardian Spirits</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Accessories</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Demon Parade Picture Scrolls</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Graces & Sets</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Items</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    World Button
+                    ========== ========== -->
+                    <button id="world_button" data-dropdown-toggle="world_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        World
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="world_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Missions</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Bosses</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Enemies</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Underworld</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Depths of the Underworld</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Kodama & Sudama</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Characters</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Tools & Resources Button
+                    ========== ========== -->
+                    <button id="tools_button" data-dropdown-toggle="tools_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Tools & Resources
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="tools_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Smithing Texts</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Temper Tables</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Blacksmith</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Stone of Penance</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Farming Resources</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Achievements</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Builds</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Online Button
+                    ========== ========== -->
+                    <button id="online_button" data-dropdown-toggle="online_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Online
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="online_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Online Modes</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Matchmaking</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Hidden Tea House</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Revenants</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Benevolent Graves</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+
+        <!-- 
+        ========== ========== ==========
+        Mobile Only Menu (Navbar)
+        ========== ========== ==========
+        -->
+        <div id="mobile-menu" class="absolute top-0 bg-medium-gray w-full text-4xl flex-col justify-center
+            origin-top animate-open-menu hidden">
+
+            <!-- closing button -->
+            <button class="text-8xl self-end px-6">&times;</button>
+
+            <!-- Navbar Links Mobile -->
+            <nav class="flex flex-col min-h-screen items-center py-8" aria-label="mobile">
+                <a class="w-full text-center py-6 text-slate-300" href="https://liukang1080.github.io/gamewiki/index.html">HOME</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">BASICS</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">COMBAT</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">WORLD</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">EQUIPMENT</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">TOOLS & RESOURCES</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">ONLINE</a>
+            </nav>
+        </div>
+    </header>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Title Section
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
+            <h1 class="px-2 text-yellow-400 text-5xl md:text-6xl text-center">Armor Smithing Texts</h1>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Table of Contents
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="2xl:max-w-section-width w-full px-4 2xl:px-0 flex flex-col items-start">
+            <ol class="list-decimal list-inside text-xl text-sky-400">
+                <li><a class="hover:text-sky-600" href="javascript: headgear()">Headgear Smithing Texts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: armor_set()">Armor Set Smithing Texts</a></li>
+                <li><a class="hover:text-sky-600" href="javascript: credits()">Credits</a></li>
+            </ol>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Description of Smithing Texts
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Mechanics of Smithing Texts and Drop Rates</h2>
+            <img src="./img/smithing_text_logo.png" alt="">
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                <span class="font-bold text-red-600">Description:</span> Smithing Texts are rare items that drop from specific
+                enemies and bosses. All Smithing Texts will drop as an <span class="text-exotic-text-color">Exotic Item</span> 
+                regardless of the difficulty. Once a Smithing Text is obtained the player can go to the Blacksmith to "turn" in the Smithing
+                Text and unlock that specific piece of gear or item to forge.
+            </p>
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                <span class="font-bold text-red-600">How Luck affects Smithing Texts:</span> Luck does 
+                <span class="font-bold text-red-600">NOT</span> affect the drop rate of Smithing Texts and Hidden Skills. Luck 
+                only affects the rarity of items that drop, NOT the chance of an item dropping. Buffs like Luck Bringer Talisman, 
+                and Soul Purge Talisman does not affect the Smithing Text and Hidden Skills drop rate. Tempering Luck+ attributes 
+                on armor, accessories, and Soul Cores also does not affect the Smithing Texts and Hidden Skills drop rate.
+            </p>
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                <span class="font-bold text-red-600">How Item Drop Rate affects Smithing Texts:</span> Item Drop Rate buffs 
+                <span class="font-bold text-red-600">DOES</span> affect the Smithing Text and Hidden Skills drop rate. There is 
+                no active buff that we can use to manually increase our IDR at will, but we can temper on the attribute 
+                "<span class="text-uncommon-text-color">Increase Item Drop Rate</span>" onto the Weapon & Armor pieces,
+                Accessories, and Soul Cores.
+            </p>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Head Gear Smithing Texts
+    ========== ========== ========== ========== ========== -->    
+    <section id="headgear" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded overflow-x-auto
+            2xl:max-w-section-width lg:px-16">
+
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Head Gear Texts</h2>
+            <img src="./img/headgear.png" alt="">
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <table class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th>Smithing Text</th>
+                    <th>Enemy</th>
+                    <th>Missions</th>
+                </tr>
+
+                <!-- ==========
+                Table Data
+                ========== -->
+                <!-- Agyo Mask -->
+				<tr class="">
+					<td>Agyo Mask</td>
+					<td>
+						<span>-</span>
+					</td>
+					<td>
+                        <span>Finish all 108 Floors of the Underworld</span>
+					</td>
+				</tr>
+
+                <!-- Black Bear Fur Helmet -->
+				<tr class="">
+					<td>Black Bear Fur Helmet</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Wakisaka Yasuharu (Seven Spears #1) (Spear weilding mini-boss sitting in tea room)</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Cherry Blossom Viewing In Daigo</a>
+					</td>
+				</tr>
+
+                <!-- Black Fox Mask -->
+				<tr class="">
+					<td>Black Fox Mask</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Onmyo Mage</a>
+					</td>
+					<td>
+						<span>Any mission that contains a Onmyo Mage</span>
+					</td>
+				</tr>
+
+                <!-- Braided Straw Helmet -->
+				<tr class="">
+					<td>Braided Straw Helmet</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Sengoku Hidehisa (Odachi weilding mini-boss at the end of the stage)</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">A Message From The Desceased</a>
+					</td>
+				</tr>
+
+                <!-- Coiled Snake Kabuto -->
+				<tr class="">
+					<td>Coiled Snake Kabuto</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Ryunojo: Give Dung Balls</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Bird In A Cage</a>
+					</td>
+				</tr>
+
+                <!-- Curious Crown Helmet -->
+				<tr class="">
+					<td>Curious Crown Helmet</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Ikeda Tsuneoki (Dual Swords weilding human before Tokichiro boss)</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Two Faces Of Hospitality</a>
+					</td>
+				</tr>
+
+                <!-- Demon God Mask -->
+				<tr class="">
+					<td>Demon God Mask</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Mitsume Yazura</a>
+					</td>
+					<td>
+						<span>Any mission that contains a Mitsume Yazura</span>
+					</td>
+				</tr>
+
+                <!-- Devotional Helmet -->
+				<tr class="">
+					<td>Devotional Helmet</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Ranmaru Mori (Revenant)</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Warrior</a>
+					</td>
+				</tr>
+
+                <!-- Dokisai's Helmet -->
+				<tr class="">
+					<td>Dokisai's Helmet</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Yamamoto Kansuke (Revenant)</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Fallen Star</a>
+					</td>
+				</tr>
+
+                <!-- Dragon Head Helmet -->
+				<tr class="">
+					<td>Dragon Head Helmet</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Mori Nagayoshi (Spear weilding human in tent after getting Honda Tadakatsu as an ally)</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Two Faces Of Hospitality</a>
+					</td>
+				</tr>
+
+                <!-- Enenra Mask -->
+				<tr class="">
+					<td>Enenra Mask</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Enenra</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Beast Born of Smoke and Flames</a><br><br>
+						<a class="text-sky-400 hover:text-sky-600" href="">Traces of a Raging Blaze (Twilight Mission)</a><br><br>
+						<a class="text-sky-400 hover:text-sky-600" href="">Okuni's Search</a>
+					</td>
+				</tr>
+
+                <!-- Female Demon Mask -->
+				<tr class="">
+					<td>Female Demon Mask</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Mitsume Yazura</a>
+					</td>
+					<td>
+						<span>Any mission that contains a Mitsume Yazura</span>
+					</td>
+				</tr>
+
+                <!-- Golden Sun Helmet -->
+				<tr class="">
+					<td>Golden Sun Helmet</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Otakemaru</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">In The Eye Of The Beholder</a>
+					</td>
+				</tr>
+
+                <!-- Horned Turban Kabuto -->
+				<tr class="">
+					<td>Horned Turban Kabuto</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Ryunojo: Give Dung Balls</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Bird In A Cage</a>
+					</td>
+				</tr>
+
+                <!-- Ichi-no-Tani Kabuto -->
+				<tr class="">
+					<td>Ichi-no-Tani Kabuto</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Fukushima Masanori (Seven Spears #2) (Spear weilding mini-boss patroling the gate near Mumyo)</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Cherry Blossom Viewing In Daigo</a>
+					</td>
+				</tr>
+
+                <!-- Kamaitachi Helmet -->
+				<tr class="">
+					<td>Kamaitachi Helmet</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Kamaitachi</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Mysterious One Night Castle</a><br><br>
+                        <a class="text-sky-400 hover:text-sky-600" href="">Blood On The Wind (Twilight Mission)</a><br><br>
+						<a class="text-sky-400 hover:text-sky-600" href="">The High-Spirited Demon</a>
+					</td>
+				</tr>
+
+                <!-- Kodama Bowl -->
+				<tr class="">
+					<td>Kodama Bowl</td>
+					<td>
+						<span>-</span>
+					</td>
+					<td>
+                        <span>Finish all missions (Dream Of The Strong) (Excludes online [Blue Colored] missions)</span>
+					</td>
+				</tr>
+
+                <!-- Linked Ring Helmet -->
+				<tr class="">
+					<td>Linked Ring Helmet</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Katagiri Katsumoto (Seven Spears #6) (Spear weilding mini-boss with red/black armor patroling a shrine)</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Cherry Blossom Viewing In Daigo</a>
+					</td>
+				</tr>
+
+                <!-- Mount Fuji Helmet -->
+				<tr class="">
+					<td>Mount Fuji Helmet</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Kato Yoshiaki (Seven Spears #3) (Dual Swords weilding mini-boss after Gozuki)</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Cherry Blossom Viewing In Daigo</a>
+					</td>
+				</tr>
+
+                <!-- Mumyo's Mask -->
+				<tr class="">
+					<td>Mumyo's Mask</td>
+					<td>
+						<span>-</span>
+					</td>
+					<td>
+                        <span>Finish all missions (Dream Of The Nioh)</span>
+					</td>
+				</tr>
+
+                <!-- Old Sage Mask -->
+				<tr class="">
+					<td>Old Sage Mask</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Mitsume Yazura</a>
+					</td>
+					<td>
+						<span>Any mission that contains a Mitsume Yazura</span>
+					</td>
+				</tr>
+
+                <!-- Onryoki Helmet -->
+				<tr class="">
+					<td>Onryoki Helmet</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Onryoki</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Hollow Fortress</a><br><br>
+						<a class="text-sky-400 hover:text-sky-600" href="">Dawn Of Hope</a>
+					</td>
+				</tr>
+
+                <!-- Red Kappa Kabuto -->
+				<tr class="">
+					<td>Red Kappa Kabuto</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Red Kappa</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The High-Spirited Demon</a>
+					</td>
+				</tr>
+
+                <!-- Royal Horned Helm -->
+				<tr class="">
+					<td>Royal Horned Helm</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">William</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Blue-Eyed Samurai</a>
+					</td>
+				</tr>
+
+                <!-- Scampuss Hat -->
+				<tr class="">
+					<td>Scampuss Hat</td>
+					<td>
+						<span>-</span>
+					</td>
+					<td>
+                        <span>Finish all missions (Dream Of The Demon) (Excludes online [Blue Colored] missions)</span>
+					</td>
+				</tr>
+
+                <!-- Shuten Doji Mask -->
+				<tr class="">
+					<td>Shuten Doji Mask</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Shuten Doji</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Mausoleum Of Evil</a><br><br>
+						<a class="text-sky-400 hover:text-sky-600" href="">Wings Of The Phoenix (Twilight Mission)</a><br><br>
+						<a class="text-sky-400 hover:text-sky-600" href="">Calamity's Pulse</a><br><br>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Revelry Ends</a>
+					</td>
+				</tr>
+
+                <!-- Sudama Skull Hat -->
+				<tr class="">
+					<td>Sudama Skull Hat</td>
+					<td>
+						<span>-</span>
+					</td>
+					<td>
+                        <span>Finish all missions (Dream Of The Wise)</span>
+					</td>
+				</tr>
+
+                <!-- Suwa Myojin Helmet -->
+				<tr class="">
+					<td>Suwa Myojin Helmet</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Takeda Shingen</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Fallen Star</a>
+					</td>
+				</tr>
+
+                <!-- Tengu Visor -->
+				<tr class="">
+					<td>Tengu Visor</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Karasu Tengu</a>
+					</td>
+					<td>
+						<span>Any mission that contains a Karasu Tengu</span>
+					</td>
+				</tr>
+
+                <!-- Ungyo Mask -->
+				<tr class="">
+					<td>Ungyo Mask</td>
+					<td>
+						<span>-</span>
+					</td>
+					<td>
+                        <span>Finish all Floors of the Depths of the Underworld</span>
+					</td>
+				</tr>
+
+                <!-- Vengefull Spirit Mask -->
+				<tr class="">
+					<td>Vengefull Spirit Mask</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Mitsume Yazura</a>
+					</td>
+					<td>
+						<span>Any mission that contains a Mitsume Yazura</span>
+					</td>
+				</tr>
+
+                <!-- Wild Boar Crest Helmet -->
+				<tr class="">
+					<td>Wild Boar Crest Helmet</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Okabe Motonobu (Axe weilding mini-boss near giant tree)</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Imagawa Diehard</a>
+					</td>
+				</tr>
+
+                <!-- White Fox Mask -->
+				<tr class="">
+					<td>White Fox Mask</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Onmyo Mage</a>
+					</td>
+					<td>
+						<span>Any mission that contains a Onmyo Mage</span>
+					</td>
+				</tr>
+
+                <!-- Woman's Face Mask -->
+				<tr class="">
+					<td>Woman's Face Mask</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Nure-Onna</a>
+					</td>
+					<td>
+						<span>Any mission that contains a Nure-Onna</span>
+					</td>
+				</tr>
+            </table>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Credits
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full px-4 2xl:px-0 flex flex-col items-start gap-4">
+            <h1 id="credits" class="text-yellow-400 text-4xl">Credits:</h1>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+            
+            <div class="flex flex-col gap-2 text-slate-300 text-xl">
+                <span>LiuKang1080</span>
+                
+                <span class="bold-text">
+                    <a class="text-sky-400 hover:text-sky-600" href="https://docs.google.com/spreadsheets/d/1A-uFgSck8pU5NOLh2OVpK_V5-AVfDW42wuiumuf7tlE/edit#gid=137724816"
+                    target="_blank" rel="noopener noreferrer">Ocean Machine's Build Bible</a>
+                </span>
+                
+                <span class="bold-text">Nioh Community Discord Server: 
+                    <a class="text-sky-400 hover:text-sky-600" href="https://discord.gg/pAH5U9mRBj" 
+                    target="_blank" rel="noopener noreferrer">Here</a>
+                </span>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Back to top button
+    ========== ========== ========== ========== ========== -->
+    <a id="back-to-top-button" href="#">Top</a>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    JavaScript
+    ========== ========== ========== ========== ========== -->
+    <!-- FlowBite JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>
+
+    <!-- ==========
+    Local JavaScript
+    ========== -->
+    <!-- Navbar JS -->
+    <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/js/navbar.js" defer></script>
+    <!-- <script type="text/javascript" src="../../js/navbar.js" defer></script> -->
+
+    <!-- Top Button JS -->
+    <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/js/top_button.js" defer></script>
+    <!-- <script type="text/javascript" src="../../js/top_button.js" defer></script> -->
+
+    <!-- weapon_texts.js -->
+    <script type="text/javascript" src="./js/armor_texts.js" defer></script>
+
+</body>
+</html>
+
+<!-- TODO -->
+<!--
+
+-->
