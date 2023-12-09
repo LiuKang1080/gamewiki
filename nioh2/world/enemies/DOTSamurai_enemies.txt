@@ -150,7 +150,7 @@ Twilight Missions:
         - Flying Bolt
         - Ubume
         - Gaki
-        - Nurikabe ??? ==========================================================================================================
+        - Nurikabe
         - Red Kappa
         - Onyudo (lightning)
         - Ryomen Sukuna (boss)
@@ -194,7 +194,7 @@ Awakening Region (Region 1)
         - Dweller (first time)
         - Mujina (first time)
         - Ippon-Datara (odachi) (first time)
-        - Nurikabe (yellow) (first time)
+        - Nurikabe (first time)
         - Skeleton Warrior (first time)
         - Enenra (boss) (first time)
 
@@ -231,12 +231,11 @@ Awakening Region (Region 1)
         - Sohaya Warrior (hatchets)
         - Abbarant Soldier
         - Nure-Onna (first time)
-        - Nurikabe (red)
+        - Nurikabe
         - Yoki (sword)
         - Enki
         - Toxic Slime (first time)
         - Ippon-Datara (hammer)
-        - Nurikabe (blue)
         - Yatsu-no-Kami (boss) (first time)
 
     ==========
@@ -287,7 +286,7 @@ Soaring Region (Region 2)
         - Maelstrom Oni-Bi (first time)
         - One-Eyed Oni
         - Warrior
-        - Nurikabe (yellow)
+        - Nurikabe
         - Imagawa Yoshimoto (Boss) (first time)
 
     ==========
@@ -339,7 +338,7 @@ Soaring Region (Region 2)
         - Lesser Umi-Bozu
         - Enki
         - Sohaya Warrior (switchglaive)
-        - Nurikabe (yellow)
+        - Nurikabe
         - Karakasa Umbrella
         - Kappa
         - Kamaitachi (boss) (first time)
@@ -367,7 +366,7 @@ Soaring Region (Region 2)
         - One-Eyed Oni
         - Waira
         - Abbarant Soldier
-        - Nurikabe (yellow)
+        - Nurikabe
         - Yoki (sword)
         - Infernal Oni-Bi
         - Adachi the Beheader (first time)
@@ -460,7 +459,7 @@ Shadow Region (Region 3)
         - One-Eyed Oni
         - Karasu Tengu
         - Karakasa Umbrella
-        - Nurikabe (yellow)
+        - Nurikabe
         - Tatarimokke (boss) (first time)
 
     ==========
@@ -603,6 +602,7 @@ Shadow Region (Region 3)
         - Yokai (sword)
         - Koroka
         - Toxic Slime
+        - Nurikabe
         - Namahage
         - Azai Nagamasa (boss) (first time)
     
@@ -721,7 +721,7 @@ Dawn Region (Region 4)
         - Rokurokubi
         - Ubume
         - Mujina
-        - Nurikabe (yellow)
+        - Nurikabe
         - Onyudo (fire)
         - Ippon-Datara (hammer)
         - Kasha (boss) (first time)
@@ -783,7 +783,7 @@ Dawn Region (Region 4)
         - Nure-Onna
         - Waira
         - Blue Yoki (Kusarigama) (first time)
-        - Nurikabe (yellow)
+        - Nurikabe
         - Onmyo Mage
         - Onyudo (water) (first time)
         - Abbarant Soldier
