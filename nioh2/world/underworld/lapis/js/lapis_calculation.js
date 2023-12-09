@@ -3,7 +3,7 @@ Lapis Lazuli - Blessing of the Departed Table:
     - 60 Total stats to get (0 / 60).
     - The cost of the first stat to get is 10
     - Each point put into the stat increases the cost by 1. 
-    -ex) 0/60 points cost 10 lapis, 1/60 = 11 lapis cost, 2/60 = 12 lapis cost
+    - ex) 0/60 points cost 10 lapis, 1/60 = 11 lapis cost, 2/60 = 12 lapis cost
     - Find the total number of lapis required to max out the entire full stat
 
 Full Blessings of the Departed Table:
@@ -20,9 +20,16 @@ Full Blessings of the Departed Table:
 
 function total_lapis(iterations, cost, cost_increment=1) {
     /*
-        - iterations: The number of total iteration the loop needs to run.
-        - cost: The initial starting cost of Lapis.
-        - cost_increment [defualt to 1]: The increase the Lapis cost by this amount on every iteration.
+    Parameters:
+    ==========
+        - [int] iterations: The total number of iterations the loop needs to run, this will be "Maximum number of times this 
+            blessing can be enhanced".
+        - [int] cost: The initial starting cost of Lapis.
+        - [int] cost_increment [defualt to 1]: Increase the Lapis cost by this amount on every iteration.
+
+    Return:
+    ==========
+        - None. console.log().
     */
     let total_lapis = 0;
     
