@@ -1,8 +1,8 @@
-/*
-========== ========== ========== ========== ==========
+/* ========== ========== ==========
 Back to top button JavaScript 
-========== ========== ========== ========== ==========
-*/ 
+========== ========== ========== */
+
+// get elements and call the scrollFunction() on them:
 let back_to_top = document.getElementById("back-to-top-button");
 window.onscroll = function() { scrollFunction() };
 

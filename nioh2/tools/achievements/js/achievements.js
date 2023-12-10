@@ -1,11 +1,9 @@
 /* JavaScript for achievements.html */
 
 
-/* 
-========== ========== ========== ========== ==========
+/* ========== ========== ========== ========== ==========
 Table of Contents JavaScript 
-========== ========== ========== ========== ==========
-*/
+========== ========== ========== ========== ========== */
 function base() {
     let element = document.getElementById("base");
     element.scrollIntoView();

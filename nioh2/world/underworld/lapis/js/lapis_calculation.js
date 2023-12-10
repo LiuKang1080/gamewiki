@@ -20,15 +20,15 @@ Full Blessings of the Departed Table:
 
 function total_lapis(iterations, cost, cost_increment=1) {
     /*
-    Parameters:
     ==========
+    Parameters:
         - [int] iterations: The total number of iterations the loop needs to run, this will be "Maximum number of times this 
             blessing can be enhanced".
         - [int] cost: The initial starting cost of Lapis.
         - [int] cost_increment [defualt to 1]: Increase the Lapis cost by this amount on every iteration.
 
-    Return:
     ==========
+    Return:
         - None. console.log().
     */
     let total_lapis = 0;

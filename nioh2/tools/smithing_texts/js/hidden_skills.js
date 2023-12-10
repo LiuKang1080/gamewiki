@@ -1,11 +1,9 @@
 /* JavaScript for hidden_skills.html */
 
 
-/* 
-========== ========== ========== ========== ==========
+/* ========== ========== ========== ========== ==========
 Table of Contents JavaScript 
-========== ========== ========== ========== ==========
-*/
+========== ========== ========== ========== ========== */
 function weapon() {
     let element = document.getElementById("weapon");
     element.scrollIntoView();

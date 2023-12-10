@@ -1,5 +1,4 @@
 /*
-Random Number Generator:
 Randomly generate a number between 1 and 11, each number representing a weapon from Nioh 2:
     1 Sword
     2 Dual Swords
@@ -27,10 +26,12 @@ function rand_num(limit) {
 
     ==========
     Return: 
-        - [num] random number.
+        - [none] console.log().
     */
 
     console.log(Math.floor(Math.random() * (limit + 1)));
 }
 
+
+// call function
 rand_num(11);

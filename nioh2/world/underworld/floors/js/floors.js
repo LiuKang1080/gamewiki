@@ -1,11 +1,9 @@
 /* JavaScript for floors.html */
 
 
-/* 
-========== ========== ========== ========== ==========
+/* ========== ========== ========== ========== ==========
 Table of Contents JavaScript 
-========== ========== ========== ========== ==========
-*/
+========== ========== ========== ========== ========== */
 function floors() {
     let element = document.getElementById("floors");
     element.scrollIntoView();

@@ -1,8 +1,6 @@
-/*
-========== ========== ==========
+/* ========== ========== ========== ========== ==========
 JavaScript for Mobile Menu
-========== ========== ==========
-*/
+========== ========== ========== ========== ========== */
 const initApp = () => {
     /*
     Function initializes the mobile version of the navbar.
@@ -10,13 +8,13 @@ const initApp = () => {
         - toggle the "hidden" attribute for mobile-menu.
         - Add event listeners for the toggle.
     
+    ==========
     Parameters:
-    ----------
-    [none]
+        - [none]
 
+    ==========
     Return:
-    ----------
-    [none]
+        - [none]
     */
     
     // create variables:

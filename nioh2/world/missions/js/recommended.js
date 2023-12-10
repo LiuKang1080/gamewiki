@@ -1,11 +1,9 @@
 /* JavaScript for recommended.html */
 
 
-/* 
-========== ========== ========== ========== ==========
+/* ========== ========== ========== ========== ==========
 Table of Contents JavaScript 
-========== ========== ========== ========== ==========
-*/
+========== ========== ========== ========== ========== */
 function region1() {
     let element = document.getElementById("region1");
     element.scrollIntoView();
