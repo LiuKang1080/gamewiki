@@ -1,0 +1,855 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Miscellaneous Item Smithing Texts in Nioh 2</title>
+    <meta name="description" >
+    <!-- ========== ========== ==========
+    Google Fonts (Asul)
+    ========== ========== ========== -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Asul&display=swap" rel="stylesheet">
+
+    <!-- ========== ========== ==========
+    FlowBite CSS
+    ========== ========== ========== -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.css"  rel="stylesheet" />
+
+    <!-- ========== ========== ==========
+    TailWindCSS Link
+    ========== ========== ========== -->
+    <!-- <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/output.css" rel="stylesheet"> -->
+    <link type="text/css" href="../../../css/output.css" rel="stylesheet">
+
+    <!-- ========== ========== ==========
+    Manual CSS Link
+    ========== ========== ========== -->
+    <!-- <link type="text/css" href="https://liukang1080.github.io/gamewiki/css/manual.css" rel="stylesheet"> -->
+    <link type="text/css" href="../../../css/manual.css" rel="stylesheet">
+
+    <!-- ========== ========== ==========
+    TailWind CSS build process:
+    npx tailwindcss -i ./css/input.css -o ./css/output.css --watch
+    ========== ========== ========== -->
+</head>
+<body class="bg-stone-900 font-asul">
+    <!-- ========== ========== ========== ========== ==========
+    Header
+    ========== ========== ========== ========== ========== -->
+    <header class="h-[95px] mask bg-medium-gray text-white">
+        <!-- sticky top-0 z-10 -->
+
+        <!-- ========== ========== ==========
+        Desktop Navbar Menu (Navbar)
+        ========== ========== ========== -->
+        <div class="w-full h-[95px] flex justify-start items-center">
+            <div class="w-full flex justify-between items-center px-5 py-2 gap-5
+                lg:w-fit">
+                
+                <!-- HOME -->
+                <a href="https://liukang1080.github.io/gamewiki/index.html">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-house-fill" viewBox="0 0 16 16">
+                        <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.707 1.5Z"/>
+                        <path d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6Z"/>
+                    </svg>
+                </a>
+
+                <!-- Nioh 2 Logo -->
+                <a href="https://liukang1080.github.io/gamewiki/nioh2/nioh2.html"><img src="https://liukang1080.github.io/gamewiki/nioh2/img/nioh2_logo_2.png" alt=""></a>
+
+                <!-- Navbar Buttons -->
+                <!-- hidden nav for mobile viewports -->
+                <button id="hamburger-button" class="text-3xl lg:hidden cursor-pointer">&#9776;</button>
+                <!-- Hamburger UNICODE -->
+
+                <!-- Navbar links (DESKTOP VERSION) -->
+                <nav class="hidden lg:block gap-5" aria-label="main">
+                    <!-- ========== ==========
+                    Basics Button
+                    ========== ========== -->
+                    <button id="basics_button" data-dropdown-toggle="basics_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Basics
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="basics_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Recommended Settings</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Starting Recommendations</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Character Stats</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Shrine</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Dojo</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">NG+ Cycles</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Combat Button
+                    ========== ========== -->
+                    <button id="combat_button" data-dropdown-toggle="combat_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Combat
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="combat_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Stances</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Ki Pulse</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Skills / Skill Trees</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Yokai Shift & Burst Counters</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Doding / Guarding / Parrying</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Status Effects</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Advanced Tech</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Equipment Button
+                    ========== ========== -->
+                    <button id="equipment_button" data-dropdown-toggle="equipment_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Equipment
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="equipment_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Weapons</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Armor</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Ninjutsu</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Onmyo Magic</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Soul Cores</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Guardian Spirits</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Accessories</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Demon Parade Picture Scrolls</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Graces & Sets</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Items</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    World Button
+                    ========== ========== -->
+                    <button id="world_button" data-dropdown-toggle="world_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        World
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="world_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Missions</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Bosses</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Enemies</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Underworld</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">The Depths of the Underworld</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Kodama & Sudama</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Characters</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Tools & Resources Button
+                    ========== ========== -->
+                    <button id="tools_button" data-dropdown-toggle="tools_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Tools & Resources
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="tools_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Smithing Texts</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Temper Tables</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Blacksmith</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Stone of Penance</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Farming Resources</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Achievements</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Builds</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- ========== ==========
+                    Online Button
+                    ========== ========== -->
+                    <button id="online_button" data-dropdown-toggle="online_dropdown" class="px-2 inline-flex items-center gap-1 bg-transparent text-center text-xl text-white" type="button">
+                        Online
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#facc15" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+                            <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                        </svg>
+                    </button>
+                    <!-- Dropdown menu -->
+                    <div id="online_dropdown" class="w-50 z-10 hidden divide-y divide-gray-100 rounded-lg shadow bg-medium-gray">
+                        <ul class="py-2 text-gray-200" aria-labelledby="generalButton">
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Online Modes</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Matchmaking</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Hidden Tea House</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Revenants</a></li>
+                            <li><a class="block px-4 py-2 hover:bg-gray-600 hover:text-white" href="#">Benevolent Graves</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+
+        <!-- 
+        ========== ========== ==========
+        Mobile Only Menu (Navbar)
+        ========== ========== ==========
+        -->
+        <div id="mobile-menu" class="absolute top-0 bg-medium-gray w-full text-4xl flex-col justify-center
+            origin-top animate-open-menu hidden">
+
+            <!-- closing button -->
+            <button class="text-8xl self-end px-6">&times;</button>
+
+            <!-- Navbar Links Mobile -->
+            <nav class="flex flex-col min-h-screen items-center py-8" aria-label="mobile">
+                <a class="w-full text-center py-6 text-slate-300" href="https://liukang1080.github.io/gamewiki/index.html">HOME</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">BASICS</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">COMBAT</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">WORLD</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">EQUIPMENT</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">TOOLS & RESOURCES</a>
+                <a class="w-full text-center py-6 text-slate-300" href="">ONLINE</a>
+            </nav>
+        </div>
+    </header>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Title Section
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
+            <h1 class="px-2 text-yellow-400 text-5xl md:text-6xl text-center">Miscellaneous Item Smithing Texts</h1>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Table of Contents
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="2xl:max-w-section-width w-full px-4 2xl:px-0 flex flex-col items-start">
+            <ol class="list-decimal list-inside text-xl text-sky-400">
+                <li><a class="hover:text-sky-600" href="javascript: credits()">Credits</a></li>
+            </ol>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Description of Smithing Texts
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full flex flex-col items-center gap-6">
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Mechanics of Smithing Texts and Drop Rates</h2>
+            <img src="./img/smithing_text_logo.png" alt="">
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                <span class="font-bold text-red-600">Description:</span> Smithing Texts are rare items that drop from specific
+                enemies and bosses. All Smithing Texts will drop as an <span class="text-exotic-text-color">Exotic Item</span> 
+                regardless of the difficulty. Once a Smithing Text is obtained the player can go to the Blacksmith to "turn" in the Smithing
+                Text and unlock that specific piece of gear or item to forge.
+            </p>
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                <span class="font-bold text-red-600">How Luck affects Smithing Texts:</span> Luck does 
+                <span class="font-bold text-red-600">NOT</span> affect the drop rate of Smithing Texts and Hidden Skills. Luck 
+                only affects the rarity of items that drop, NOT the chance of an item dropping. Buffs like Luck Bringer Talisman, 
+                and Soul Purge Talisman does not affect the Smithing Text and Hidden Skills drop rate. Tempering Luck+ attributes 
+                on armor, accessories, and Soul Cores also does not affect the Smithing Texts and Hidden Skills drop rate.
+            </p>
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                <span class="font-bold text-red-600">How Item Drop Rate affects Smithing Texts:</span> Item Drop Rate buffs 
+                <span class="font-bold text-red-600">DOES</span> affect the Smithing Text and Hidden Skills drop rate. There is 
+                no active buff that we can use to manually increase our IDR at will, but we can temper on the attribute 
+                "<span class="text-uncommon-text-color">Increase Item Drop Rate</span>" onto the Weapon & Armor pieces,
+                Accessories, and Soul Cores.
+            </p>
+
+            <p class="place-self-start px-4 2xl:px-0 text-slate-300 text-xl leading-relaxed">
+                The following Items below are automatically unlocked at the Blacksmith when the player completes that specific
+                mission or region.
+            </p>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Armor Set Smithing Texts
+    ========== ========== ========== ========== ========== -->    
+    <section id="armor-set" class="w-full my-12 lg:px-0 flex flex-col items-center">
+        <div class="w-full px-4 py-6 flex flex-col items-center gap-6 rounded overflow-x-auto
+            2xl:max-w-section-width lg:px-16">
+
+            <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Miscellaneous Item Smithing Texts</h2>
+            <img src="./img/misc_logo.png" alt="">
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+
+            <table class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
+                <!-- ==========
+                Header 
+                ========== -->
+                <tr>
+                    <th>Smithing Text</th>
+                    <th>Completion Requirement</th>
+                </tr>
+
+                <!-- ==========
+                Table Data
+                ========== -->
+                <!-- Amulet Of Camaraderie -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Amulet Of Camaraderie</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">A Way Out</a>
+					</td>
+				</tr>
+
+                <!-- Arrowproof Amulet -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Arrowproof Amulet</a>
+					</td>
+					<td>
+						<span>Complete the Twilight Region</span>
+					</td>
+				</tr>
+
+                <!-- Burning Oil Jar -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Burning Oil Jar</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Frenzied Blaze</a>
+					</td>
+				</tr>
+
+                <!-- Clay Bell Of Beckoning -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Clay Bell Of Beckoning</a>
+					</td>
+					<td>
+                        <span>Complete the Twilight Region</span>
+					</td>
+				</tr>
+
+                <!-- Daion-Jin Sake -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Daion-Jin Sake</a>
+					</td>
+					<td>
+                        <span>Complete the Twilight Region</span>
+					</td>
+				</tr>
+
+                <!-- Divine Branch -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Divine Branch</a>
+					</td>
+					<td>
+                        <span>Complete the Dawn Region</span>
+					</td>
+				</tr>
+
+                <!-- Dried Nuppeppo Meat -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Dried Nuppeppo Meat</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Eternal Rivals</a><br><br>
+                        <a class="text-sky-400 hover:text-sky-600" href="">Prisoners Of The Stones</a>
+					</td>
+				</tr>
+
+                <!-- Explosive Rounds -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Explosive Rounds</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Mysterious One Night Castle</a>
+					</td>
+				</tr>
+
+                <!-- Fire Amulet -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Fire Amulet</a>
+					</td>
+					<td>
+                        <span>Complete the Soaring Region</span>
+					</td>
+				</tr>
+
+                <!-- Fleeting Guardian Amulet -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Fleeting Guardian Amulet</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">A Way Out</a>
+					</td>
+				</tr>
+
+                <!-- Gunpowder Bomb -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Gunpowder Bomb</a>
+					</td>
+					<td>
+                        <span>Complete the Shadow Region</span>
+					</td>
+				</tr>
+
+                <!-- Herbal Remedy -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Herbal Remedy</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">In The Eye Of The Beholder</a>
+					</td>
+				</tr>
+
+                <!-- Hundred Night Incense -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Hundred Night Incense</a>
+					</td>
+					<td>
+                        <span>Max all Blessings in the Blessings The Departed table</span><br><br>
+                        <span>
+                            You can view the full Blessings of the Departed table
+                            <a 
+                                class="text-sky-400 hover:text-sky-600" 
+                                href="https://liukang1080.github.io/gamewiki/nioh2/world/underworld/lapis/lapis.html"
+                                target="_blank" rel="noopener noreferrer">here</a>.
+                        </span>
+					</td>
+				</tr>
+
+                <!-- Hyottoko Mask -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Hyottoko Mask</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Hidden Monsters Of Okehazama</a>
+					</td>
+				</tr>
+
+                <!-- Inspiriting Gem -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Inspiriting Gem</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Prevading Waters</a>
+					</td>
+				</tr>
+
+                <!-- Lightning Amulet -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Lightning Amulet</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Hidden Monsters Of Okehazama</a>
+					</td>
+				</tr>
+
+                <!-- Mud jar -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Mud jar</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Bird In A Cage</a>
+					</td>
+				</tr>
+
+                <!-- Nikawa Glue -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Nikawa Glue</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">In The Eye Of The Beholder</a>
+					</td>
+				</tr>
+
+                <!-- Possessed Kodama Bowl -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Possessed Kodama Bowl</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Search</a>
+					</td>
+				</tr>
+
+                <!-- Righteous Jasper -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Righteous Jasper</a>
+					</td>
+					<td>
+                        <span>Complete the Twilight Region</span>
+					</td>
+				</tr>
+
+                <!-- Roaring Gun Ammunition -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Roaring Gun Ammunition</a>
+					</td>
+					<td>
+                        <span>Complete the Shadow Region</span>
+					</td>
+				</tr>
+
+                <!-- Sacred Arrow -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Sacred Arrow</a>
+					</td>
+					<td>
+                        <span>Complete the Shadow Region</span>
+					</td>
+				</tr>
+
+                <!-- Sacred Ash -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Sacred Ash</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Aberrant Mage</a>
+					</td>
+				</tr>
+
+                <!-- Sacred Brush -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Sacred Brush</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Sun Sets On Mount Tenno</a>
+					</td>
+				</tr>
+
+                <!-- Sacred Water -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Sacred Water</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Mysterious One Night Castle</a>
+					</td>
+				</tr>
+
+                <!-- Saisetsu-Shin's Sake -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Saisetsu-Shin's Sake</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The High-Spirited Demon</a>
+					</td>
+				</tr>
+
+                <!-- Shinobi Box -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Shinobi Box</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">A Shadow's Duty</a>
+					</td>
+				</tr>
+
+                <!-- Shrapnel Bomb -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Shrapnel Bomb</a>
+					</td>
+					<td>
+                        <span>Complete the Shadow Region</span>
+					</td>
+				</tr>
+
+                <!-- Sticky Pot -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Sticky Pot</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Prevading Waters</a>
+					</td>
+				</tr>
+
+                <!-- Summoner's Candle -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Summoner's Candle</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Master Of The Three Evils</a>
+					</td>
+				</tr>
+
+                <!-- Tengu's Fan -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Tengu's Fan</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Hidden Monsters Of Okehazama</a>
+					</td>
+				</tr>
+
+                <!-- Travel Amulet -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Travel Amulet</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Hidden Monster Of Okehazama</a>
+					</td>
+				</tr>
+
+                <!-- Uchiko Powder -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Uchiko Powder</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Mysterious One Night Castle</a>
+					</td>
+				</tr>
+
+                <!-- Water Amulet -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Water Amulet</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Viper's Sanctum</a>
+					</td>
+				</tr>
+
+                <!-- Whetstone -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Whetstone</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">A Way Out</a>
+					</td>
+				</tr>
+
+                <!-- Yokai Incense -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Yokai Incense</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Okuni's Search</a>
+					</td>
+				</tr>
+
+                <!-- Yokai Water Pot -->
+				<tr class="even:bg-dark-gray-2">
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">Yokai Water Pot</a>
+					</td>
+					<td>
+						<a class="text-sky-400 hover:text-sky-600" href="">The Fallen Star</a>
+					</td>
+				</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+            </table>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Credits
+    ========== ========== ========== ========== ========== -->
+    <section class="w-full my-12 flex flex-col items-center">
+        <div class="lg:max-w-section-width w-full px-4 2xl:px-0 flex flex-col items-start gap-4">
+            <h1 id="credits" class="text-yellow-400 text-4xl">Credits:</h1>
+            <hr class="w-full h-[2px] bg-stone-600 border-0">
+            
+            <div class="flex flex-col gap-2 text-slate-300 text-xl">
+                <span>LiuKang1080</span>
+                
+                <span class="bold-text">
+                    <a class="text-sky-400 hover:text-sky-600" href="https://docs.google.com/spreadsheets/d/1A-uFgSck8pU5NOLh2OVpK_V5-AVfDW42wuiumuf7tlE/edit#gid=137724816"
+                    target="_blank" rel="noopener noreferrer">Ocean Machine's Build Bible</a>
+                </span>
+                
+                <span class="bold-text">Nioh Community Discord Server: 
+                    <a class="text-sky-400 hover:text-sky-600" href="https://discord.gg/pAH5U9mRBj" 
+                    target="_blank" rel="noopener noreferrer">Here</a>
+                </span>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    Back to top button
+    ========== ========== ========== ========== ========== -->
+    <a id="back-to-top-button" href="#">Top</a>
+
+
+    <!-- ========== ========== ========== ========== ==========
+    JavaScript
+    ========== ========== ========== ========== ========== -->
+    <!-- FlowBite JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>
+
+    <!-- ==========
+    Local JavaScript
+    ========== -->
+    <!-- Navbar JS -->
+    <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/js/navbar.js" defer></script>
+    <!-- <script type="text/javascript" src="../../js/navbar.js" defer></script> -->
+
+    <!-- Top Button JS -->
+    <script type="text/javascript" src="https://liukang1080.github.io/gamewiki/js/top_button.js" defer></script>
+    <!-- <script type="text/javascript" src="../../js/top_button.js" defer></script> -->
+
+    <!-- weapon_texts.js -->
+    <script type="text/javascript" src="./js/armor_texts.js" defer></script>
+
+</body>
+</html>
+
+<!-- TODO -->
+<!--
+
+-->
