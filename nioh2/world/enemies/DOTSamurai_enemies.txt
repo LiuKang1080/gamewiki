@@ -121,6 +121,24 @@ Twilight Missions:
         - Kamaitachi (boss)
 
     ==========
+    The Cursed Castle Ruins (A Bird In A Cage | Shadow Region (Region 3))
+    ==========
+        - Tesso
+        - Dweller
+        - Spider
+        - Abbarant Soldier
+        - Rokurokubi
+        - Ninja Dog
+        - Warrior
+        - Yoki (axe)
+        - Namahage
+        - Yoki (sword)
+        - Waira
+        - Skeleton Warrior
+        - Toxic Slime
+        - Azai Nagamasa (boss)
+
+    ==========
     The Defiled Sanctuary (The Golden Nation | Shadow Region (Region 3))
     ==========
         - Dweller
