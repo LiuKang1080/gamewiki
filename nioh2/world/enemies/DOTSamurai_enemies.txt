@@ -833,44 +833,44 @@ Dawn Region (Region 4)
 ========== ========== ========== ========== ==========
 Twilight Region (Region 5)
 ========== ========== ========== ========== ==========
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
     Ruin Draws Near (Main Mission)
     ==========
         - Skeleton Warrior
-        - Yoki
+        - Yoki (sword)
+        - Onyudo (fire)
+        - Tesso
         - Abbarant Soldier
         - Wheelmonk
-        - Onyudo
-        - Tesso
         - Infernal oni-Bi
         - Koroka
         - Maeda Toshiie (boss) (first time)
-        - Ippon-Datara
+        - Ippon-Datara (hammer)
         - Oni Shibata Katsuie (boss) (first time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
     ==========
     Okuni's Search (Side Mission)
