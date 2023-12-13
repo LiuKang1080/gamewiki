@@ -35,10 +35,10 @@ Dojo Missions:
     ==========
     The Way of the Onmyo: Adept (Dojo Mission)
     ==========
-        - One-Eyed Oni
+        - One-Eyed Imp
         - Karakasa Umbrella
         - Infernal Oni-Bi
-        - Ippon-Datara
+        - Ippon-Datara (hammer)
     
     ==========
     The Way of the Warrior: Veteran (Dojo Mission)
@@ -292,11 +292,31 @@ Awakening Region (Region 1)
 ========== ========== ========== ========== ==========
 Soaring Region (Region 2)
 ========== ========== ========== ========== ==========
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     ==========
     The Hidden Monsters of Okehazama (Main Mission)
     ==========
         - Gaki
-        - Enkki
+        - Enki
         - Yamanba (first time)
         - Nure-Onna
         - Karasu Tengu
@@ -847,30 +867,6 @@ Twilight Region (Region 5)
         - Maeda Toshiie (boss) (first time)
         - Ippon-Datara (hammer)
         - Oni Shibata Katsuie (boss) (first time)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
 
     ==========
     Okuni's Search (Side Mission)
