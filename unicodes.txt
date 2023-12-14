@@ -1,0 +1,4 @@
+Unicodes:
+
+- Right Arrow ( ⟶ ): &#10230;
+- Left Arrow ( ⟵ ): &#10229;

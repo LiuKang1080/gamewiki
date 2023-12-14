@@ -292,26 +292,6 @@ Awakening Region (Region 1)
 ========== ========== ========== ========== ==========
 Soaring Region (Region 2)
 ========== ========== ========== ========== ==========
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     ==========
     The Hidden Monsters of Okehazama (Main Mission)
     ==========
@@ -346,7 +326,7 @@ Soaring Region (Region 2)
         - One-Eyed Oni
         - Gaki
         - Infernal Oni-Bi
-        - Blue Yoki (dual swords)
+        - Blue Yoki (dual swords) (first time)
 
     ==========
     An Error in Calculation (Side Mission)
@@ -494,7 +474,7 @@ Shadow Region (Region 3)
         - Mitsume Yazura (first time)
         - Revenant
         - Biwa Boku-Boku
-        - One-Eyed Oni
+        - One-Eyed Imp (first time)
         - Karasu Tengu
         - Karakasa Umbrella
         - Nurikabe
@@ -573,7 +553,8 @@ Shadow Region (Region 3)
     Lingering Snow and Crimson Tracks (Sub Mission)
     ==========
         - Karakasa Umbrella
-        - One-Eyed Oni
+        - One-Eyed Imp
+        - Snowclops (first time)
         - Enki
         - Namahage
         - Maelstrom Oni-Bi
@@ -585,10 +566,11 @@ Shadow Region (Region 3)
     ==========
         - Abbarant Soldier
         - Skeleton Warrior
+        - Rokurokubi
         - Gaki
         - Enki
+        - Snowclops
         - Mitsume Yazura
-        - Rokurokubi
         - Yamanba
         - Namahage
 
@@ -648,7 +630,7 @@ Shadow Region (Region 3)
     The Point of No Return (Sub Mission)
     ==========
         - Saito Yoshitatsu
-    
+
     ==========
     The Golden Nation (Sub Mission)
     ==========
@@ -661,7 +643,7 @@ Shadow Region (Region 3)
         - Mitsume Yazura
         - Yoki (sword)
         - Onryoki (boss)
-    
+
     ==========
     The Demon King's Blade (Sub Mission)
     ==========
@@ -676,6 +658,36 @@ Shadow Region (Region 3)
     The Chinese Bellflower Dagger (Sub Mission)
     ==========
         - Saito Toshimitsu (boss) (first time)
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    
+    
+    
+    
 
 
 ========== ========== ========== ========== ==========
@@ -825,7 +837,7 @@ Dawn Region (Region 4)
         - Onmyo Mage
         - Onyudo (water) (first time)
         - Abbarant Soldier
-        - Blue Yoki (Dual Swords) (first time)
+        - Blue Yoki (Dual Swords)
         - Onyudo (fire)
         - Ryomen Sukuna (boss) (first time)
 
