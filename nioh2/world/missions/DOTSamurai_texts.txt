@@ -1,0 +1,328 @@
+Missions that unlock Smithing Texts for Weapons, Armor, and Items:
+
+    ==========
+    TEMPLATE ()
+    ==========
+        - 
+
+
+========== ========== ========== ========== ==========
+Dojo Missions:
+========== ========== ========== ========== ==========
+
+
+========== ========== ========== ========== ========== ========== ==========
+Base Game Missions:
+========== ========== ========== ========== ========== ========== ==========
+========== ========== ========== ========== ==========
+Awakening Region (Region 1)
+========== ========== ========== ========== ==========
+    ==========
+    The Village of Cursed Blossoms (Main Mission)
+    ==========
+        - None
+
+    ==========
+    The Forest Veiled in Darkness (Sub Mission)
+    ==========
+        - None
+
+    ==========
+    The Beast Born of Smoke and Flames (Main Mission)
+    ==========
+        Sword:
+        --------------------
+            - Mino Uchigatana
+            - Bizen Tachi
+            - Bizen Uchigatana
+            - Yamato Taichi
+
+        Dual Swords:
+        --------------------
+            - Mino Dual Uchigatana
+            - Mino Dual Tachi
+            - Soshu Dual Uchigatana
+            - Soshu Dual Tachi
+
+        Spear:
+        --------------------
+            - Spear
+            - Legion Spear
+            - Sickle Spear
+            - Footsoldier's Spear
+
+        Axe:
+        --------------------
+            - Palisade Breaker
+            - Wooden Hammer
+            - Black Steel Axe
+            - Oak Hammer
+            - Demon's Axe
+
+        Kusarigama:
+        --------------------
+            - Spy's Kusarigama
+            - Black Bamboo Kusarigama
+            - Billhook Kusarigama
+
+        Odachi:
+        --------------------
+            - Yamato Odachi
+            - Baizen Odachi
+            - Yamashiro Odachi
+
+        Tonfa:
+        --------------------
+            - Rosewood Tonfa
+            - Iron Tonfa
+            - Ebony Tonfa
+
+        Hatchets:
+        --------------------
+            - Brigand's Hatchets
+            - Shock Troop Hand Axe
+            - Mountain Bandit hatchets
+
+        Switchglaive:
+        --------------------
+            - Iron Switchglaive
+            - Hunter's Switchglaive
+            - Vermillion Switchglaive
+
+        Splitstaff:
+        --------------------
+            - Genin's Splitstaff
+            - Itinerant Monk's Splitstaff
+            - Hunter's Splitstaff
+
+        Fists:
+        --------------------
+            - Spy's Fists
+            - Fledgling Ninja Fists
+            - Togakure Clawed Fists
+
+        Bow:
+        --------------------
+            - Longbow
+
+        Rifle:
+        --------------------
+            - None
+
+        Hand Cannon:
+        --------------------
+            - None
+
+        Head Protection:
+        --------------------
+            - Irregular Troop's Hat
+            - Theif's Plated Headband
+            - Scout Faceplate
+            - Shinobi Hood
+            - Lone Wolf's Hood
+            - Footsoldier's Hat
+            - Night Rider Helmet
+            - Ronin's Faceplate
+            - Heirloom Helmet
+            - Rouge's Helmet
+            - Yoriki Helmet
+            - Night Shade Mask
+
+        Torso Protection:
+        --------------------
+            - Irregular Troop's Cuirass
+            - Theif's Cuirass
+            - Scout Cuirass
+            - Shinobi Robes
+            - Lone Wolf's Cuirass
+            - Footsoldier's Cuirass
+            - Night Raider Cuirass
+            - Ronin's Cuirass
+            - Heirloom Cuirass
+            - Rouge's Cuirass
+            - Yoriki Cuirass
+
+        Arm Protection:
+        --------------------
+            - Irregular Troop's Gauntlets
+            - Thief's Gauntlets
+            - Scout Gauntlets
+            - Shinobi Bracers
+            - Lone Wolf's Gauntlets
+            - Footsoldier's Gauntlets
+            - Night Raider Gauntlets
+            - Ronin's Gauntlets
+            - Heirloom Gauntlets
+            - Rouge's Gauntlets
+            - Yoriki Gauntlets
+
+        Leg Protection:
+        --------------------
+            - Irregular Troop's Waistguard
+            - Theif's Waistguard
+            - Scout Waistguard
+            - Shinobi Hakama
+            - Lone Wolf's Waistguard
+            - Footsoldier's Waistguard
+            - Night Raider Waistguard
+            - Ronin's Waistguard
+            - Heirloom Waistguard
+            - Rouge's Waistguard
+            - Yoriki Waistguard
+
+        Foot Protection:
+        --------------------
+            - Irregular Troop's Greaves
+            - Theif's Greaves
+            - Scout Greaves
+            - Shinobi Gaiters
+            - Lone Wolf's Greaves
+            - Footsoldier's Greaves
+            - Night Raider Greaves
+            - Ronin's Greaves
+            - Heirloom Greaves
+            - Rouge's Greaves
+            - Yoriki Greaves
+
+        Tools:
+        --------------------
+            - Daion-Jin's Sake
+            - Clay Bell of Beckoning
+            - Arrowproof Amulet
+            - Sacred Arrow
+            - Roaring Gun Ammunition
+            - Gunpowder Bomb
+            - Shrapnel Bomb
+            - Fire Amulet
+            - Righteous Jasper
+            - Divine Branch
+
+    ==========
+    A Voice in the Twilight (Sub Mission)
+    ==========
+        - None
+
+    ==========
+    Dark Omens (Sub Mission)
+    ==========
+        - None
+
+    ==========
+    The Viper's Sanctum (Main Mission)
+    ==========
+        Sword:
+        --------------------
+            - Yamato Uchigatana
+            - Senjuin Tachi
+
+        Dual Swords:
+        --------------------
+            - Seki Dual Uchigatana
+
+        Spear:
+        --------------------
+            - Cross Spear
+
+        Axe:
+        --------------------
+            - Bandit Axe
+
+        Kusarigama:
+        --------------------
+            - Genin's Kusarigama
+
+        Odachi:
+        --------------------
+            - Rai Odachi
+
+        Tonfa:
+        --------------------
+            - Apprentice's Tonfa
+
+        Hatchets:
+        --------------------
+            - Togakushi Ninja Hatchets
+
+        Bow:
+        --------------------
+            - Wisteria Longbow
+
+        Rifle:
+        --------------------
+            - Tanegashima Matchlock
+
+        Head Protection:
+        --------------------
+            - Fuma Ninja Plated Headband
+            - Brawler's Helmet
+            - Mino Veteran's Helmet
+
+        Torso Protection:
+        --------------------
+            - Fuma Ninja Robe
+            - Brawler's Cuirass
+            - Mino Veteran's Cuirass
+
+        Arm Protection:
+        --------------------
+            - Fuma Ninja Gauntlets
+            - Brawler's Gauntlets
+            - Mino Veteran's Gauntlets
+
+        Leg Protection:
+        --------------------
+            - Fuma Ninja Hakama
+            - Brawler's Waistguard
+            - Mino Veteran's Waistguard
+        
+        Foot Protection:
+        --------------------
+            - Fuma Ninja Greaves
+            - Brawler's Greaves
+            - Mino Veteran's Greaves
+
+        Tools:
+        --------------------
+            - Water Amulet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

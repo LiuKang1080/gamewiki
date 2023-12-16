@@ -238,6 +238,10 @@ Awakening Region (Region 1)
     ==========
     A Voice in the Twilight (Sub Mission)
     ==========
+        - Quest Giver: Tokichiro
+        - Characters:
+            - None
+        --------------------
         - Gaki
         - Infernal Oni-Bi (first time)
         - Yoki (sword)
@@ -248,6 +252,10 @@ Awakening Region (Region 1)
     ==========
     Dark Omens (Sub Mission)
     ==========
+        - Quest Giver: Tokichiro
+        - Characters:
+            - None
+        --------------------
         - Outlaw
         - Rouge
         - Abbarant Soldier (first time)
@@ -261,6 +269,12 @@ Awakening Region (Region 1)
     ==========
     The Viper's Sanctum (Main Mission)
     ==========
+        - Quest Giver: Tokichiro
+        - Characters:
+            - Tokichiro (NPC)
+            - Saito Dosan (cutscene)
+            - Mumyo (cutscene)
+        --------------------
         - Warrior (first time)
         - Ninja (first time)
         - Gaki
@@ -274,6 +288,39 @@ Awakening Region (Region 1)
         - Toxic Slime (first time)
         - Ippon-Datara (hammer)
         - Yatsu-no-Kami (boss) (first time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
 
     ==========
     A Favor for the Blacksmith (Sub Mission)
