@@ -1,6 +1,10 @@
     ==========
     TEMPLATE ()
     ==========
+        - Quest Giver: 
+        - Characters:
+            - 
+        --------------------
         - 
 
 
@@ -183,6 +187,10 @@ Awakening Region (Region 1)
     ==========
     The Village of Cursed Blossoms (Main Mission)
     ==========
+        - Quest Giver: Player
+        - Characters:
+            - Tokichiro (cutscenes)
+        --------------------
         - Gaki (first time)
         - Gozuki (boss) (first time)
         - Enki (first time)
@@ -194,6 +202,10 @@ Awakening Region (Region 1)
     ==========
     The Forest Veiled in Darkness (Sub Mission)
     ==========
+        - Quest Giver: Tokichiro
+        - Characters:
+            - Tokichiro (NPC)
+        --------------------
         - Outlaw
         - Rouge
         - Gaki
@@ -202,6 +214,13 @@ Awakening Region (Region 1)
     ==========
     The Beast Born of Smoke and Flames (Main Mission)
     ==========
+        - Quest Giver: Tokichiro
+        - Characters:
+            - Tokichiro (cutscenes, NPC)
+            - Saito Dosan (cutscenes)
+            - Senji Toyo (NPC)
+            - Mumyo (cutscenes)
+        --------------------
         - Outlaw
         - Rouge
         - Ippon-Datara (hammer) (first time)

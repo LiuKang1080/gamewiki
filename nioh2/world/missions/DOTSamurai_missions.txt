@@ -266,7 +266,10 @@ Awakening Region (Region 1)
         - Notable Items In Mission / Mission Rewards:
             - Ninja's Locks
             - Onmyo Mage's Locks
+            - Unlocks the Blacksmith option at the Starting Point
             - Unlocks "The Way of the Warrior: Novice" after beating mission.
+            - Unlocks Agyo Titles
+            - Unlocks Ungyo Titles
 
     ==========
     A Voice in the Twilight (Sub Mission)
