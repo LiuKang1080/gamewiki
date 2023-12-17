@@ -370,42 +370,13 @@ Soaring Region (Region 2)
         - Nurikabe
         - Imagawa Yoshimoto (Boss) (first time)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-
-
-
-    
-
-    
-
-
-
-    
-
     ==========
     Imagawa Diehard (Side Mission)
     ==========
+        - Quest Giver: Tokichiro
+        - Characters:
+            - None
+        --------------------
         - Warrior
         - Ninja
         - Okabe Motonobu (first time)
@@ -415,6 +386,10 @@ Soaring Region (Region 2)
     ==========
     Hidetatsu's Dying Wish (Side Mission)
     ==========
+        - Quest Giver: Oda Nobunaga
+        - Characters:
+            - None
+        --------------------
         - Warrior
         - Toxic Slime
         - Sohaya Warrior (hatchets)
@@ -423,6 +398,39 @@ Soaring Region (Region 2)
         - Gaki
         - Infernal Oni-Bi
         - Blue Yoki (dual swords) (first time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+
+
+    
+
+    
+
+
+
+    
+
+    
+
+    
 
     ==========
     An Error in Calculation (Side Mission)

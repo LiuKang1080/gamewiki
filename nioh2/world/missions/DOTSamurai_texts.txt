@@ -391,6 +391,22 @@ Soaring Region (Region 2)
             - Lightning Amulet
             - Travel Amulet
 
+    ==========
+    Imagawa Diehard (Side Mission)
+    ==========
+        - None
+
+    ==========
+    Hidetatsu's Dying Wish (Side Mission)
+    ==========
+        - None
+
+    ==========
+    An Error in Calculation (Side Mission)
+    ==========
+        - None
+
+    
 
 
 
