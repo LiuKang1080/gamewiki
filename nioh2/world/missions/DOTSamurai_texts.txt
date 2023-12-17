@@ -285,38 +285,111 @@ Awakening Region (Region 1)
         --------------------
             - Water Amulet
 
+    ==========
+    A Favor for the Blacksmith (Sub Mission)
+    ==========
+        - None
+
+    ==========
+    The Search (Sub Mission)
+    ==========
+        - None
+
+    ==========
+    The Greedy Hunter (Sub Mission)
+    ==========
+        - None
 
 
+========== ========== ========== ========== ==========
+Soaring Region (Region 2)
+========== ========== ========== ========== ==========
+    ==========
+    The Hidden Monsters of Okehazama (Main Mission)
+    ==========
+        Sword:
+        --------------------
+            - Senjuin Uchigatana
+            - Bizen Osafune
+        
+        Dual Swords:
+        --------------------
+            - Seki Dual Tachi
+        
+        Spear:
+        --------------------
+            - Officer's Spear
+            - Squire's Cross Spear
 
+        Axe:
+        --------------------
+            - Bronze Hammer
+            - Pickaxe
 
+        Kusarigama:
+        --------------------
+            - Naked Steel Kusarigama
 
+        Odachi:
+        --------------------
+            - Kobizen Odachi
 
+        Tonfa:
+        --------------------
+            - Retainer's Tonfa
 
+        Hatchets:
+        --------------------
+            - Gyosha Hand Axe
 
+        Switchglaive:
+        --------------------
+            - Martial Artist's Switchglaive
 
+        Splitstaff:
+        --------------------
+            - Warrior Monk's Splitstaff
 
+        Fists:
+        --------------------
+            - Shugendo Hermit Fists
 
+        Head Protection:
+        --------------------
+            - Archer's Hat
+            - Mounted Archer Helmet
+            - Courtier's Helmet
 
+        Torso Protection:
+        --------------------
+            - Archer's Robe
+            - Mounted Archer Cuirass
+            - Courtier's Cuirass
 
+        Arm Protection:
+        --------------------
+            - Archer's Gauntlets
+            - Mounted Archer Gauntlets
+            - Courtier's Gauntlets
 
+        Leg Protection:
+        --------------------
+            - Archer's Hakama
+            - Mounted Archer Waistguard
+            - Courtier's Waistguard
 
+        Foot Protection:
+        --------------------
+            - Archer's Straw Sandals
+            - Mounted Archer Greaves
+            - Courtier's Greaves
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        Tools:
+        --------------------
+            - Hyottoko Mask
+            - Tengu's Fan
+            - Lightning Amulet
+            - Travel Amulet
 
 
 

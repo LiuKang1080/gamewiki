@@ -14,16 +14,28 @@ Dojo Missions:
     ==========
     The Way of the Warrior: Novice (Dojo Mission)
     ==========
+        - Quest Giver: Tokichiro
+        - Characters:
+            - Tsukahara Bokuden (NPC)
+        --------------------
         - Outlaw
 
     ==========
     The Way of the Ninja: Novice (Dojo Mission)
     ==========
+        - Quest Giver: Kato Danzo
+        - Characters:
+            - Kato Danzo (NPC)
+        --------------------
         - Ninja
 
     ==========
     The Way of Onmyo: Novice (Dojo Mission)
     ==========
+        - Quest Giver: Tokichiro
+        - Characters:
+            - Abe no Seimei (NPC)
+        --------------------
         - Gaki
 
     ==========
@@ -289,42 +301,13 @@ Awakening Region (Region 1)
         - Ippon-Datara (hammer)
         - Yatsu-no-Kami (boss) (first time)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-
     ==========
     A Favor for the Blacksmith (Sub Mission)
     ==========
+        - Quest Giver: Tokichiro
+        - Characters:
+            - Mumyo (Ally)
+        --------------------
         - Dweller
         - Lesser Umi-Bozu (first time)
         - Gaki
@@ -337,6 +320,10 @@ Awakening Region (Region 1)
     ==========
     The Search (Sub Mission)
     ==========
+        - Quest Giver: Mumyo
+        - Characters:
+            - Tokichiro (NPC)
+        --------------------
         - Gaki
         - Ippon-Datara (odachi)
         - Nure-Onna
@@ -345,6 +332,10 @@ Awakening Region (Region 1)
     ==========
     The Greedy Hunter (Sub Mission)
     ==========
+        - Quest Giver: Tokichiro
+        - Characters:
+            - None
+        --------------------
         - Outlaw
         - Enki
         - Gaki
@@ -361,6 +352,12 @@ Soaring Region (Region 2)
     ==========
     The Hidden Monsters of Okehazama (Main Mission)
     ==========
+        - Quest Giver: Mumyo
+        - Characters:
+            - Oda Nobunaga (cutscenes)
+            - Maeda Toshiie (cutscenes, NPC)
+            - Tokichiro (NPC)
+        --------------------
         - Gaki
         - Enki
         - Yamanba (first time)
@@ -372,6 +369,39 @@ Soaring Region (Region 2)
         - Warrior
         - Nurikabe
         - Imagawa Yoshimoto (Boss) (first time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+
+
+    
+
+    
+
+
+
+    
 
     ==========
     Imagawa Diehard (Side Mission)
