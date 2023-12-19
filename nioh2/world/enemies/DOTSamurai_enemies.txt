@@ -284,8 +284,8 @@ Awakening Region (Region 1)
         - Quest Giver: Tokichiro
         - Characters:
             - Tokichiro (NPC)
-            - Saito Dosan (cutscene)
-            - Mumyo (cutscene)
+            - Saito Dosan (cutscenes)
+            - Mumyo (cutscenes)
         --------------------
         - Warrior (first time)
         - Ninja (first time)
@@ -399,42 +399,13 @@ Soaring Region (Region 2)
         - Infernal Oni-Bi
         - Blue Yoki (dual swords) (first time)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-
-
-
-    
-
-    
-
-
-
-    
-
-    
-
-    
-
     ==========
     An Error in Calculation (Side Mission)
     ==========
+        - Quest Giver: Maeda Toshiie
+        - Characters:
+            - None
+        --------------------
         - Gaki
         - Karakasa Umbrella
         - Toxic Slime
@@ -450,6 +421,14 @@ Soaring Region (Region 2)
     ==========
     The Mysterious One Night Castle (Main Mission)
     ==========
+        - Quest Giver: Tokichiro
+        - Characters:
+            - Tokichiro (cutscenes, NPC)
+            - Maeda Toshiie (cutscenes)
+            - Shibata Katsuie (cutscenes)
+            - Mumyo (cutscenes)
+            - Hachisuka Koroku (cutscenes, Ally)
+        --------------------
         - Warrior
         - Gaki
         - Abbarant Soldier
@@ -468,6 +447,10 @@ Soaring Region (Region 2)
     ==========
     The Sunomata Yokai Hunt (Main Mission)
     ==========
+        - Quest Giver: Hachisuka Koroku
+        - Characters:
+            - Hachisuka Koroku (Ally)
+        --------------------
         - Skeleton Warrior
         - Enki
         - Karasu Tengu
@@ -479,6 +462,11 @@ Soaring Region (Region 2)
     ==========
     A Hot-blodded Howl (Side Mission)
     ==========
+        - Quest Giver: Tokichiro
+        - Characters:
+            - Maeda Keiji (NPC)
+            - Maeda Toshiie (Ally)
+        --------------------
         - Warrior
         - Rouge
         - Ippon-Datara (odachi)
@@ -496,6 +484,10 @@ Soaring Region (Region 2)
     ==========
     The Fire God's Magatama (Side Mission)
     ==========
+        - Quest Giver: Senji Toyo
+        - Characters:
+            - None
+        --------------------
         - Skeleton Warrior
         - Gaki
         - Nure-Onna
@@ -509,6 +501,11 @@ Soaring Region (Region 2)
     ==========
     The Hollow Fortress (Main Mission)
     ==========
+        - Quest Giver: Tokichiro
+        - Characters:
+            - Tokichiro (cutscenes, NPC)
+            - Hanbei (cutscenes)
+        --------------------
         - Dweller
         - Koroka (first time)
         - Warrior
@@ -516,8 +513,41 @@ Soaring Region (Region 2)
         - Abbarant Soldier
         - Rokurokubi (first time)
         - Onryoki (boss) (first time)
-        - One-Eyed Oni
+        - Snowclops (first time)
         - Saito Yoshitatsu (boss) (first time)
+
+
+
+
+    
+
+    
+
+
+
+    
+
+    
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     ==========
     An End to Seclusion (Sub Mission)
@@ -658,7 +688,7 @@ Shadow Region (Region 3)
     ==========
         - Karakasa Umbrella
         - One-Eyed Imp
-        - Snowclops (first time)
+        - Snowclops
         - Enki
         - Namahage
         - Maelstrom Oni-Bi

@@ -406,7 +406,128 @@ Soaring Region (Region 2)
     ==========
         - None
 
-    
+    ==========
+    The Mysterious One Night Castle (Main Mission)
+    ==========
+        Sword:
+        --------------------
+            - Bizen Ichimonji
+            - Taima Kuniyuki
+
+        Dual Swords:
+        --------------------
+            - Seki Kanenori Dual Uchigatana
+
+        Spear:
+        --------------------
+            - Warrior's Cross Spear
+
+        Axe:
+        --------------------
+            - Helmsplitter Axe
+
+        Kusarigama:
+        --------------------
+            - Haguro Kusarigama
+
+        Odachi:
+        --------------------
+            - Sukesada Odachi
+
+        Tonfa:
+        --------------------
+            - Ninja's Tonfa
+
+        Hatchets:
+        --------------------
+            - Ninja's Hatchets
+
+        Switchglaive:
+        --------------------
+            - Seven Scalp Switchglaive
+
+        Splitstaff:
+        --------------------
+            - Zen Splitstaff
+
+        Fists:
+        --------------------
+            - Nokizaru Clawed Fists
+
+        Rifle:
+        --------------------
+            - Kunitomo Rifle
+
+        Hand Cannon:
+        --------------------
+            - Hand Cannon
+
+        Head Protection:
+        --------------------
+            - Ferryman's Hood
+            - Nanban Helmet
+            - Warlord's Helmet
+            - Black Goose Helmet
+            - Eboshi Helmet
+
+        Torso Protection:
+        --------------------
+            - Ferryman's Robes
+            - Nanban Cuirass
+            - Warlord's Cuirass
+
+        Arm Protection:
+        --------------------
+            - Ferryman's Bracers
+            - Nanban Gauntlets
+            - Warlord's Gauntlets
+
+        Let Protection:
+        --------------------
+            - Ferryman's Hakama
+            - Nanban Waistguard
+            - Warlord's Waistguard
+
+        Foot Protection:
+        --------------------
+            - Ferryman's Greaves
+            - Nanban Greaves
+            - Warlord's Greaves
+
+        Tools:
+        --------------------
+            - Uchiko Powder
+            - Sacred Water
+            - Explosive Rounds
+
+    ==========
+    The Sunomata Yokai Hunt (Main Mission)
+    ==========
+        - None
+
+    ==========
+    A Hot-blodded Howl (Side Mission)
+    ==========
+        - None
+
+    ==========
+    The Fire God's Magatama (Side Mission)
+    ==========
+        - None
+
+    ==========
+    The Hollow Fortress (Main Mission)
+    ==========
+        
+
+
+
+
+
+
+
+
+
 
 
 
