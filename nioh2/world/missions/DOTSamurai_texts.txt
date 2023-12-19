@@ -6,11 +6,6 @@ Missions that unlock Smithing Texts for Weapons, Armor, and Items:
         - 
 
 
-========== ========== ========== ========== ==========
-Dojo Missions:
-========== ========== ========== ========== ==========
-
-
 ========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
 ========== ========== ========== ========== ========== ========== ==========
@@ -518,7 +513,101 @@ Soaring Region (Region 2)
     ==========
     The Hollow Fortress (Main Mission)
     ==========
+        Sword:
+        --------------------
+            - Kiku Ichimonji
+
+        Dual Swords:
+        --------------------
+            - Seki Kaneyoshi Dual Tachi
+
+        Axe:
+        --------------------
+            - Heavyweight Axe
+
+        Kusarigama:
+        --------------------
+            - Crescent Moon Kusarigama
+            - Custom Kusarigama
+
+        Odachi:
+        --------------------
+            - Takahira Odachi
+
+        Tonfa:
+        --------------------
+            - Lord's Tonfa
+
+        Hatchets:
+        --------------------
+            - Warrior Monk's Hatchets
+
+        Splitstaff:
+        --------------------
+            - Chunin's Splitstaff
+
+        Fists:
+        --------------------
+            - Ninja Commander Fists
+
+        Head Protection:
+        --------------------
+            - Yamabushi Headgear
+            - Exorcist's Hat
+            - Golden Shachi Helmet
+
+        Torso Protection:
+        --------------------
+            - Yamabushi Robes
+            - Exorcist's Cuirass
+
+        Arm Protection:
+        --------------------
+            - Yamabushi Bracers
+            - Exorcist's Gauntlets
+
+        Leg Protection:
+        --------------------
+            - Yamabushi Hakama
+            - Exorcist's Waistguard
+
+        Foot Protection:
+        --------------------
+            - Yamabushi Sandals
+            - Exorcist's Greaves
+
+    ==========
+    An End to Seclusion (Sub Mission)
+    ==========
+        - None
+
+    ==========
+    The Shiftling's Wise Judgement (Sub Mission)
+    ==========
+        - None
+
+    ==========
+    The Viper and the Butterfly (Sub Mission)
+    ==========
+        - None
+
+
+========== ========== ========== ========== ==========
+Shadow Region (Region 3)
+========== ========== ========== ========== ==========
+    ==========
+    A Way Out (Main Mission)
+    ==========
         
+
+
+
+
+
+
+
+
+
 
 
 

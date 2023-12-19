@@ -516,42 +516,13 @@ Soaring Region (Region 2)
         - Snowclops (first time)
         - Saito Yoshitatsu (boss) (first time)
 
-
-
-
-    
-
-    
-
-
-
-    
-
-    
-
-
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
     ==========
     An End to Seclusion (Sub Mission)
     ==========
+        - Quest Giver: Oichi
+        - Characters:
+            - None
+        --------------------
         - Karakasa Umbrella
         - Yamanba
         - Infernal Oni-Bi
@@ -565,6 +536,11 @@ Soaring Region (Region 2)
     ==========
     The Shiftling's Wise Judgement (Sub Mission)
     ==========
+        - Quest Giver: Tokichiro
+        - Characters:
+            - Shibata Katsuie (NPC, Ally)
+            - Hachisuka Koroku (NPC, Ally)
+        --------------------
         - Warrior
         - Ninja
         - Shibata Katsuie (boss) (first time)
@@ -581,6 +557,11 @@ Soaring Region (Region 2)
     ==========
     The Viper and the Butterfly (Sub Mission)
     ==========
+        - Quest Giver: Princess Noh
+        - Characters:
+            - Princess Noh (cutscenes)
+            - Oda Nobunaga (cutscenes)
+        --------------------
         - Gaki
         - Nurikabe
         - Koroka
@@ -591,6 +572,39 @@ Soaring Region (Region 2)
         - Biwa Boku-Boku
         - Yamanba
         - Revenant
+    
+
+
+
+    
+
+    
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
 
 ========== ========== ========== ========== ==========
