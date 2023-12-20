@@ -598,24 +598,85 @@ Shadow Region (Region 3)
     ==========
     A Way Out (Main Mission)
     ==========
-        
+        Sword:
+        --------------------
+            - Hosho Sadayoshi
+            - Osafune Kanemitsu
 
+        Dual Swords:
+        --------------------
+            - Rai Kunitsugu Dual Tachi
 
+        Spear:
+        --------------------
+            - Vassal's Cross Spear
+            - Captain's Spear
 
+        Axe:
+        --------------------
+            - Swordsmith's Hammer
 
+        Kusarigama:
+        --------------------
+            - Hachiya Kusarigama
 
+        Odachi:
+        --------------------
+            - Rai Kuniyuki Odachi
 
+        Hatchets:
+        --------------------
+            - Hero's Hatchets
 
+        Switchglaive:
+        --------------------
+            - Sessai's Switchglaive
+            - Terminus Switchglaive
 
+        Splitstaff:
+        --------------------
+            - Martial Artist Splitstaff
 
+        Fists:
+        --------------------
+            - Martial Artist Fists
 
+        Hand Cannon:
+        --------------------
+            - Thronecrusher Cannon
 
+        Head Protection:
+        --------------------
+            - Principal Governor's Faceplate
+            - Fan-Crested Helmet
+            - Elephant's Trunk Helmet
 
+        Torso Protection:
+        --------------------
+            - Principal Governor's Cuirass
 
+        Arm Protection:
+        --------------------
+            - Principal Governor's Gauntlets
 
+        Leg Protection:
+        --------------------
+            - Principal Governor's Waistguard
 
+        Foot Protection:
+        --------------------
+            - Principal Governor's Greaves
 
+        Tools:
+        --------------------
+            - Whetstone
+            - Fleeting Guardian Amulet
+            - Amulet of Camaraderie
 
+    ==========
+    Learning A Lesson (Sub Mission)
+    ==========
+        - None
 
 
 

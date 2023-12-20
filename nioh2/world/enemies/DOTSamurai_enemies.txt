@@ -504,7 +504,7 @@ Soaring Region (Region 2)
         - Quest Giver: Tokichiro
         - Characters:
             - Tokichiro (cutscenes, NPC)
-            - Hanbei (cutscenes)
+            - Takenaka Hanbei (cutscenes)
         --------------------
         - Dweller
         - Koroka (first time)
@@ -574,46 +574,24 @@ Soaring Region (Region 2)
         - Revenant
     
 
-
-
-    
-
-    
-
-
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-
 ========== ========== ========== ========== ==========
 Shadow Region (Region 3)
 ========== ========== ========== ========== ==========
     ==========
     A Way Out (Main Mission)
     ==========
-        - Ninja Dog
+        - Quest Giver: Tokichiro
+        - Characters:
+            - Saito Toshimitsu (cutscenes)
+            - Akechi Mitsuhide (cutscenes)
+            - Tokichiro (cutscenes)
+            - Hachisuka Koroku (cutscenes)
+            - Mumyo (cutscenes, NPC)
+            - Takenaka Hanbei (NPC)
+            - Oda Nobunaga (cutscenes)
+            - Matsunaga Hisahide (cutscenes)
+        --------------------
+        - Ninja Dog (first time)
         - Rouge
         - Warrior
         - Gaki
@@ -627,6 +605,39 @@ Shadow Region (Region 3)
         - Karakasa Umbrella
         - Nurikabe
         - Tatarimokke (boss) (first time)
+
+    
+
+    
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
 
     ==========
     Learning A Lesson (Sub Mission)
