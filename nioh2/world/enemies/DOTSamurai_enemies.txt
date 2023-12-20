@@ -606,42 +606,13 @@ Shadow Region (Region 3)
         - Nurikabe
         - Tatarimokke (boss) (first time)
 
-    
-
-    
-
-
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-
-
-
     ==========
     Learning A Lesson (Sub Mission)
     ==========
+        - Quest Giver: Tokichiro
+        - Characters:
+            - None
+        --------------------
         - Rouge
         - Warrior
         - Gaki
@@ -654,6 +625,39 @@ Shadow Region (Region 3)
         - Abbarant Soldier
         - Enki
         - Kappa
+
+    
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+    
 
     ==========
     The Shrine of Oaths (Sub Mission)
