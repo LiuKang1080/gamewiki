@@ -173,7 +173,7 @@ Tools & Resources [Main Menu Card 5]:
 ========== ========== ==========
 Online [Main Menu Card 6]:
 ========== ========== ==========
-[5 Links]
+[4 Links]
     - Online Modes
     - Matchmaking
     - Hidden Tea House:
