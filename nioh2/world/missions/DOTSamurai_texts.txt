@@ -678,6 +678,287 @@ Shadow Region (Region 3)
     ==========
         - None
 
+    ==========
+    The Shrine of Oaths (Sub Mission)
+    ==========
+        - None
+
+    ==========
+    Immoveable (Sub Mission)
+    ==========
+        Head Protection:
+        --------------------
+            - Sohaya Garb Faceplate
+
+        Torso Protection:
+        --------------------
+            - Sohaya Garb Shawl
+
+        Arm Protection:
+        --------------------
+            - Sohaya Garb Bracers
+
+        Leg Protection:
+        --------------------
+            - Sohaya Garb Hakama
+
+        Foot Protection:
+        --------------------
+            - Sohaya Garb Gaiters
+
+    ==========
+    A Formal Match (Sub Mission)
+    ==========
+        - None
+
+    ==========
+    Corpses and Ice (Main Mission)
+    ==========
+        Sword:
+        --------------------        
+            - Kobizen Tomonari
+
+        Dual Swords:
+        --------------------
+            - Izumi-no-Kami Dual Katana
+
+        Spear:
+        --------------------
+            - Greatspear
+
+        Axe:
+        --------------------
+            - Spearbreaker Hammer
+
+        Kusarigama:
+        --------------------
+            - Hooked Kusarigama
+            - Chunin's Kusarigama
+
+        Odachi:
+        --------------------
+            - Jakirimaru
+
+        Tonfa:
+        --------------------
+            - Martial Artist's Tonfa
+
+        Hatchets:
+        --------------------
+            - Barbarian's Hatchets
+            - Shugendo Hermit Hatchets
+
+        Splitstaff:
+        --------------------
+            - Heroic Monk's Splitstaff
+
+        Fists:
+        --------------------
+            - Ninja Master Fists
+
+        Bow:
+        --------------------
+            - Borehole Bow
+
+        Rifle:
+        --------------------
+            - Sakai Rifle
+
+        Head Protection:
+        --------------------
+            - Onmyo Hunting Hat
+            - Mikawa Warrior's Helmet
+
+        Torso Protection:
+        --------------------
+            - Onmyo Hunting Garb
+            - Mikawa Warrior's Cuirass
+
+        Arm Protection:
+        --------------------
+            - Onmyo Hunting Bracers
+            - Mikawa Warrior's Gauntlets
+
+        Leg Protection:
+        --------------------
+            - Onmyo Hunting Hakama
+            - Mikawa Warrior's Waistguard
+
+        Foot Protection:
+        --------------------
+            - Onmyo Hunting Shoes
+            - Mikawa Warrior's Greaves
+
+    ==========
+    Lingering Snow and Crimson Tracks (Sub Mission)
+    ==========
+        - None
+
+    ==========
+    The Tiger Approaches (Sub Mission)
+    ==========
+        - None
+
+    ==========
+    The Brother's Baldes (Sub Mission)
+    ==========
+        - None
+
+    ==========
+    A Shadow's Duty (Sub Mission)
+    ==========
+        - None
+
+    ==========
+    The Fallen Star (Sub Mission)
+    ==========
+        - None
+
+    ==========
+    Horns on Head, Dragonfly in Hand (Main Mission)
+    ==========
+        - None
+
+    ==========
+    Bird In A Cage (Main Mission)
+    ==========
+        Sword:
+        --------------------
+            - Mantra Sword
+        
+        Dual Swords:
+        --------------------
+            - Hasebe Kunishige Dual Katana
+
+        Spear:
+        --------------------
+            - Bullhead Cross Spear
+            - Leaf Tip Spear
+
+        Axe:
+        --------------------
+            - Warrior Monk's Hammer
+
+        Kusarigama:
+        --------------------
+            - Nokizaru Kusarigama
+
+        Odachi:
+        --------------------
+            - Kimibanzai Tomonari
+
+        Tonfa:
+        --------------------
+            - Royal Tonfa
+
+        Hatchets:
+        --------------------
+            - Wind Demon Hatchets
+
+        Switchglaive:
+        --------------------
+            - Extinction Switchglaive
+
+        Splitstaff:
+        --------------------
+            - Seven Scalp Splitstaff
+
+        Fists:
+        --------------------
+            - Hachiya Clawed Fists
+
+        Rifle:
+        --------------------
+            - Hino Rifle
+
+        Hand Cannon:
+        --------------------
+            - Bedrock Blaster
+
+        Head Protection:
+        --------------------
+            - Shinobi Faceplate
+            - Governor's Helmet
+            - Usurper's Helmet
+
+        Torso Protection:
+        --------------------
+            - Shinobi Cuirass
+            - Governor's Cuirass
+
+        Arm Protection:
+        --------------------
+            - Shinobi Gauntlets
+            - Governor's Gauntlets
+
+        Leg Protection:
+        --------------------
+            - Shinobi Waistguard
+            - Governor's Waistguard
+
+        Foot Protection:
+        --------------------
+            - Shinobi Greaves
+            - Governor's Greaves
+
+        Tools:
+        --------------------
+            - Mud Jar
+
+    ==========
+    The Point of No Return (Sub Mission)
+    ==========
+        - None
+
+    ==========
+    The Golden Nation (Sub Mission)
+    ==========
+        - None
+
+    ==========
+    The Demon King's Blade (Sub Mission)
+    ==========
+        - None
+
+    ==========
+    The Child's Prodigy's Invitation (Sub Mission)
+    ==========
+        - None
+
+    ==========
+    The Chinese Bellflower Dagger (Sub Mission)
+    ==========
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

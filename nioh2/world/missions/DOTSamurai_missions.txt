@@ -740,7 +740,7 @@ Shadow Region (Region 3)
             - Samurai's Locks (mission reward)
 
     ==========
-    The Brother's Balde (Sub Mission)
+    The Brother's Baldes (Sub Mission)
     ==========
         - Recommended level: 69
         - Shrine: Yes 
