@@ -871,47 +871,20 @@ Shadow Region (Region 3)
         - Saito Toshimitsu (boss) (first time)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ========== ========== ========== ========== ==========
 Dawn Region (Region 4)
 ========== ========== ========== ========== ==========
     ==========
     Prevading Waters (Main Mission)
     ==========
+        - Quest Giver: Tokichiro
+        - Characters: 
+            - Shibata Katsuie (cutscenes, NPC, Ally)
+            - Oda Nobunaga (cutscenes)
+            - Tokichiro (cutscenes, NPC)
+            - Mumyo (NPC)
+            - Takenaka Hanbei (NPC)
+        --------------------
         - Saika Clan (first time)
         - Outlaw
         - Muni (Human Saika Warrior) (first-time)
@@ -932,6 +905,41 @@ Dawn Region (Region 4)
         - Nurikabe
         - Saika Magoichi (boss) (first time)
         - Gyuki (boss) (first time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     The Missing Gun (Side Mission)

@@ -52,7 +52,6 @@ Awakening Region (Region 1)
             - Wooden Hammer
             - Black Steel Axe
             - Oak Hammer
-            - Demon's Axe
 
         Kusarigama:
         --------------------
@@ -76,7 +75,7 @@ Awakening Region (Region 1)
         --------------------
             - Brigand's Hatchets
             - Shock Troop Hand Axe
-            - Mountain Bandit hatchets
+            - Mountain Bandit Hatchets
 
         Switchglaive:
         --------------------
@@ -116,7 +115,7 @@ Awakening Region (Region 1)
             - Shinobi Hood
             - Lone Wolf's Hood
             - Footsoldier's Hat
-            - Night Rider Helmet
+            - Night Raider Helmet
             - Ronin's Faceplate
             - Heirloom Helmet
             - Rouge's Helmet
@@ -931,19 +930,81 @@ Shadow Region (Region 3)
         - None
 
 
+========== ========== ========== ========== ==========
+Dawn Region (Region 4)
+========== ========== ========== ========== ==========
+    ==========
+    Prevading Waters (Main Mission)
+    ==========
+        Dual Swords:
+        --------------------
+            - Soshu Sadamune Dual Katana
 
+        Axe:
+        --------------------
+            - Brute's Axe
+            - Pulverizing Hammer
 
+        Kusarigama:
+        --------------------
+            - Swordsman's Kusarigama
 
+        Tonfa:
+        --------------------
+            - Quaking Tonfa
 
+        Hatchets:
+        --------------------
+            - Haguro Ninja Hatchets
 
+        Switchglaive:
+        --------------------
+            - Evil-Crusher Switchglaive
 
+        Splitstaff:
+        --------------------
+            - Elite Warrior's Splitstaff
 
+        Fists:
+        --------------------
+            - Master's Fists
 
+        Bow:
+        --------------------
+            - Chinzei Hachiro's Bow
 
+        Head Protection:
+        --------------------
+            - Saika Clan Hat
+            - Imperial Monk's Hood
+            - Mountain Ridge Helmet
+            - Tower Helmet
+            - Warrior Monk's Hood
 
+        Torso Protection:
+        --------------------
+            - Saika Clan Cuirass
+            - Imperial Monk's Cuirass
 
+        Arm Protection:
+        --------------------
+            - Saika Clan Gauntlets
+            - Imperial Monk's Gauntlets
 
+        Leg Protection:
+        --------------------
+            - Saika Clan Waistguard
+            - Imperial Monk's Waistguard
 
+        Foot Protection:
+        --------------------
+            - Saika Clan Greaves
+            - Imperial Monk's Greaves
+
+        Tools:
+        --------------------
+            - Sticky Pot
+            - Inspiriting Gem
 
 
 
