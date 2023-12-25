@@ -811,7 +811,9 @@ Shadow Region (Region 3)
     ==========
     The Fallen Star (Sub Mission)
     ==========
-        - None
+        Tools:
+        --------------------
+            - Yokai Water Pot
 
     ==========
     Horns on Head, Dragonfly in Hand (Main Mission)
