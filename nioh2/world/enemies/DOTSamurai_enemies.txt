@@ -773,6 +773,7 @@ Shadow Region (Region 3)
             - Maeda Toshiie (Ally)
         --------------------
         - Takeda Shingen (first time)
+        - Yamamoto Kansuke (Revenant) (first time)
         - Revenant
         - Biwa Boku-Boku
         - Thunderstorm Oni-Bi
