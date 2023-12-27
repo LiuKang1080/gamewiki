@@ -744,7 +744,6 @@ Shadow Region (Region 3)
 
         Hatchets:
         --------------------
-            - Barbarian's Hatchets
             - Shugendo Hermit Hatchets
 
         Splitstaff:
