@@ -917,7 +917,7 @@ Shadow Region (Region 3)
 Dawn Region (Region 4)
 ========== ========== ========== ========== ==========
     ==========
-    Prevading Waters (Main Mission)
+    Pervading Waters (Main Mission)
     ==========
         - Recommended level: 75
         - Shrine: Yes
