@@ -907,44 +907,13 @@ Dawn Region (Region 4)
         - Saika Magoichi (boss) (first time)
         - Gyuki (boss) (first time)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
     The Missing Gun (Side Mission)
     ==========
+        - Quest Giver: Shibata Katsuie
+        - Characters: 
+            - None
+        --------------------
         - Saika Clan
         - Rouge
         - Ninja Dog
@@ -959,6 +928,10 @@ Dawn Region (Region 4)
     ==========
     The Refined Man of the Underworld (Side Mission)
     ==========
+        - Quest Giver: Matsunaga Hisahide
+        - Characters: 
+            - None
+        --------------------
         - Gaki
         - Enki
         - Gozuki (boss)
@@ -967,6 +940,10 @@ Dawn Region (Region 4)
     ==========
     Song of the Yokai (Side Mission)
     ==========
+        - Quest Giver: Hachisuka Koroku
+        - Characters: 
+            - Okuni (NPC)
+        --------------------
         - Rokurokubi
         - Nure-Onna
         - Lesser Umi-Bozu
@@ -981,9 +958,45 @@ Dawn Region (Region 4)
         - Tesso
         - Ubume
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
     ==========
     The Frenzied Blaze (Main Mission)
     ==========
+        - Quest Giver: Mumyo
+        - Characters: 
+            - Obsidian Samurai (Ally)
+        --------------------
         - Outlaw
         - Warrior
         - Onmyo Mage (first time)

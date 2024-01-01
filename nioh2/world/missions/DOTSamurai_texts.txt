@@ -1007,7 +1007,27 @@ Dawn Region (Region 4)
             - Sticky Pot
             - Inspiriting Gem
 
+    ==========
+    The Missing Gun (Side Mission)
+    ==========
+        - None
 
+    ==========
+    The Refined Man of the Underworld (Side Mission)
+    ==========
+        - None
+
+    ==========
+    Song of the Yokai (Side Mission)
+    ==========
+        - None
+
+    ==========
+    The Frenzied Blaze (Main Mission)
+    ==========
+        Tools:
+        --------------------
+            - 
 
 
 
