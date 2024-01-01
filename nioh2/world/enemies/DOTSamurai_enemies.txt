@@ -41,16 +41,28 @@ Dojo Missions:
     ==========
     The Way of the Warrior: Adept (Dojo Mission)
     ==========
+        - Quest Giver: Tsukahara Bokuden
+        - Characters:
+            - None
+        --------------------
         - Tsukahara Bokuden
 
     ==========
     The Way of the Ninja: Adept (Dojo Mission)
     ==========
+        - Quest Giver: Kato Danzo
+        - Characters:
+            - Kato Danzo (NPC)
+        --------------------
         - Ninja
 
     ==========
     The Way of the Onmyo: Adept (Dojo Mission)
     ==========
+        - Quest Giver: Abe no Seimei
+        - Characters:
+            - Abe no Seimei (NPC)
+        --------------------
         - One-Eyed Imp
         - Karakasa Umbrella
         - Infernal Oni-Bi
@@ -59,17 +71,33 @@ Dojo Missions:
     ==========
     The Way of the Warrior: Veteran (Dojo Mission)
     ==========
+        - Quest Giver: Tsukahara Bokuden
+        - Characters:
+            - None
+        --------------------
         - Tsukahara Bokuden
 
     ==========
     The Way of the Ninja: Veteran (Dojo Mission)
     ==========
-        - TODO ==================================================================================================================
+        - Quest Giver: Kato Danzo
+        - Characters:
+            - None
+        --------------------
+        - Kato Danzo
 
     ==========
     The Way of the Onmyo: Veteran (Dojo Mission)
     ==========
-        - TODO ==================================================================================================================
+        - Quest Giver: Abe no Seimei
+        - Characters:
+            - Abe no Seimei (NPC)
+        --------------------
+        - Tesso
+        - Infernal Oni-Bi
+        - Maelstrom Oni-Bi
+        - One-Eyed Imp
+        - Ubume
 
 
 ========== ========== ========== ========== ==========
@@ -794,11 +822,11 @@ Shadow Region (Region 3)
         - Characters: 
             - Ryunojo the Dung Lover (NPC)
                 - 1st Reward (5 Dung Balls): Lumicite Shard
-                - 2nd Reward (10 Dung Balls):
-                - 3rd Reward (15 Dung Balls):
-                - 4th Reward (20 Dung Balls):
-                - 5th Reward (25 Dung Balls):
-                - 6th Reward (30 Dung Balls):
+                - 2nd Reward (10 Dung Balls): Lumicite Crystal
+                - 3rd Reward (15 Dung Balls): Horned Turban Helmet
+                - 4th Reward (20 Dung Balls): Coiled Snake Helmet
+                - 5th Reward (25 Dung Balls): Smithing Text: Horned Turban Helmet
+                - 6th Reward (30 Dung Balls): Smithing Text: Coiled Snake Helmet
             - Oichi (cutscenes)
             - Tokichiro (cutscenes)
             - Kashin Koji (cutscenes)
@@ -958,44 +986,17 @@ Dawn Region (Region 4)
         - Tesso
         - Ubume
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-
-    
-
     ==========
     The Frenzied Blaze (Main Mission)
     ==========
         - Quest Giver: Mumyo
         - Characters: 
+            - Akechi Mitsuhide (cutscenes)
+            - Saito Toshimitsu (cutscenes)
+            - Oda Nobunaga (cutscenes)
+            - Princess Noh (cutscenes)
             - Obsidian Samurai (Ally)
+            - Oichi (cutscenes)
         --------------------
         - Outlaw
         - Warrior
@@ -1013,6 +1014,38 @@ Dawn Region (Region 4)
         - Onyudo (fire)
         - Ippon-Datara (hammer)
         - Kasha (boss) (first time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
 
     ==========
     The Burning Sky (Side Mission)

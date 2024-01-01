@@ -1025,7 +1025,7 @@ Dawn Region (Region 4)
     ==========
     The Frenzied Blaze (Main Mission)
     ==========
-        Tools:
+        Sword:
         --------------------
             - 
 
