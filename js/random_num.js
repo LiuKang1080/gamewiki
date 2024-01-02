@@ -16,6 +16,7 @@ Randomly generate a number between 1 and 11, each number representing a weapon f
         number range. In our example we will multiply by 12.
 */
 
+
 function rand_num(limit) {
     /*
     Generate a random number from 1 to the upper limit provided.
@@ -33,5 +34,5 @@ function rand_num(limit) {
 }
 
 
-// call function
+// call rand_num() function
 rand_num(11);
