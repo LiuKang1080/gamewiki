@@ -1027,8 +1027,86 @@ Dawn Region (Region 4)
     ==========
         Sword:
         --------------------
-            - 
+            - Blossomed Blade
+            
+        Dual Swords:
+        --------------------
+            - Magoroku Kanemoto Dual Katana
 
+        Spear:
+        --------------------
+            - Stone-Splitter Cross Spear
+
+        Axe:
+        --------------------
+            - Armorcrusher Axe
+
+        Kusarigama:
+        --------------------
+            - Togakushi Kusarigama
+
+        Odachi:
+        --------------------
+            - Usami Nagamitsu
+
+        Tonfa:
+        --------------------
+            - Obliterating Tonfa
+
+        Hatchets:
+        --------------------
+            - Martial Artist's Hatchets
+
+        Switchglaive:
+        --------------------
+            - Suzaku's Beak
+
+        Splitstaff:
+        --------------------
+            - Jonin's Splitstaff
+
+        Fists:
+        --------------------
+            - Fuma Clawed Fists
+
+        Hand Cannon:
+        --------------------
+            - Crimson Hand Cannon
+
+        Head Protection:
+        --------------------
+            - Firestarter Hood
+            - Tactician's Helmet
+            - Four Great Commanders Helmet
+            - Butterfly Helmet
+
+        Torso Protection:
+        --------------------
+            - Firestarter Cuirass
+            - Tactician's Cuirass
+            - Four Great Commanders Cuirass
+
+        Arm Protection:
+        --------------------
+            - Firestarter Gauntlets
+            - Tactician's Gauntlets
+            - Four Great Commanders Gauntlets
+
+        Leg Protection:
+        --------------------
+            - Firestarter Waistguard
+            - Tactician's Waistguard
+            - Four Great Commanders Waistguard
+
+        Foot Protection:
+        --------------------
+            - Firestarter Greaves
+            - Tactician's Greaves
+            - Four Great Commanders Greaves
+
+        Tools:
+        --------------------
+            - Burning Oil Jar
 
 
 
