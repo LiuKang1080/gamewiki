@@ -84,6 +84,17 @@ module.exports = {
 					========== */
 					// font-bold text-transparent bg-clip-text bg-gradient-to-b from-[#c3d4e2] to-[#768192]
 
+					/* ==========
+					Debuff Text Color: [RED]
+					========== */
+					'debuff-text-color': '#ed406a',
+
+					/* ==========
+					Buff Text Color: [RED]
+					========== */
+					'buff-text-color': '#409af1',
+
+
 				/* ========== ========== ==========
 				Wo Long:
 				========== ========== ========== */

@@ -1050,6 +1050,10 @@ Dawn Region (Region 4)
     ==========
     The Burning Sky (Side Mission)
     ==========
+        - Quest Giver: Senji Toyo
+        - Characters: 
+            - 
+        --------------------
         - Gaki
         - Skeleton Warrior
         - Enki
