@@ -1015,44 +1015,12 @@ Dawn Region (Region 4)
         - Ippon-Datara (hammer)
         - Kasha (boss) (first time)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-
-    
-
-    
-
     ==========
     The Burning Sky (Side Mission)
     ==========
         - Quest Giver: Senji Toyo
         - Characters: 
-            - 
+            - None
         --------------------
         - Gaki
         - Skeleton Warrior
@@ -1068,6 +1036,10 @@ Dawn Region (Region 4)
     ==========
     Abduction (Side Mission)
     ==========
+        - Quest Giver: Mumyo
+        - Characters: 
+            - None
+        --------------------
         - Gaki
         - One-Eyed Oni
         - Lesser Umi-Bozu
@@ -1081,6 +1053,10 @@ Dawn Region (Region 4)
     ==========
     The Warrior (Side Mission)
     ==========
+        - Quest Giver: Mumyo
+        - Characters: 
+            - Obsidian Samurai
+        --------------------
         - Skeleton Warrior
         - Dweller
         - Infernal Oni-Bi
@@ -1097,6 +1073,38 @@ Dawn Region (Region 4)
         - Onyudo (fire)
         - Yoki (axe)
         - Ippon-Datara (hammer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     ==========
     The Sun Sets on Mount Tenno (Main Mission)
