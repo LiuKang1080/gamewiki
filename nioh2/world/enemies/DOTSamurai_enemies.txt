@@ -1109,6 +1109,10 @@ Dawn Region (Region 4)
     ==========
     The Sun Sets on Mount Tenno (Main Mission)
     ==========
+        - Quest Giver: Mumyo
+        - Characters: 
+            - 
+        --------------------
         - Gaki
         - Skeleton Warrior
         - Warrior

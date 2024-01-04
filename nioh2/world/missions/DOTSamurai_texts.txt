@@ -1108,9 +1108,22 @@ Dawn Region (Region 4)
         --------------------
             - Burning Oil Jar
 
+    ==========
+    The Burning Sky (Side Mission)
+    ==========
+        - None
 
+    ==========
+    Abduction (Side Mission)
+    ==========
+        - None
 
+    ==========
+    The Warrior (Side Mission)
+    ==========
+        - None
 
+    
 
 
 
