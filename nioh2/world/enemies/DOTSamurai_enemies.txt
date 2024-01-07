@@ -1111,7 +1111,10 @@ Dawn Region (Region 4)
     ==========
         - Quest Giver: Mumyo
         - Characters: 
-            - 
+            - Akechi Mitsuhide
+            - Saito Toshimitsu
+            - Kashin Koji
+            - Tokichiro
         --------------------
         - Gaki
         - Skeleton Warrior

@@ -217,6 +217,9 @@ Awakening Region (Region 1)
     ==========
     The Village of Cursed Blossoms (Main Mission)
     ==========
+        - Mission Unlock Requirement:
+            - None, mission unlocked by default
+        --------------------
         - Recommended level: 1
         - Shrine: Yes
         - Expedition: Yes

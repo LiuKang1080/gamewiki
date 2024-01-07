@@ -1123,9 +1123,72 @@ Dawn Region (Region 4)
     ==========
         - None
 
-    
+    ==========
+    The Sun Sets on Mount Tenno (Main Mission)
+    ==========
+        Dual Swords:
+        --------------------
+            - Soshu Masamune Dual Katana
 
+        Spear:
+        --------------------
+            - Lacquered Spear
+            - Hozoin Cross Spear
 
+        Axe:
+        --------------------
+            - Evil-Crusher Hammer
+
+        Kusarigama:
+        --------------------
+            - Nightcrow Kusarigama
+
+        Switchglaive:
+        --------------------
+            - Aberrant Switchglaive
+
+        Splitstaff:
+        --------------------
+            - Head Ninja's Splitstaff
+
+        Fists:
+        --------------------
+            - Chief's Fists
+
+        Bow:
+        --------------------
+            - Yoichi's Bow
+
+        Head Protection:
+        --------------------
+            - Horse Guard's Helmet
+            - Platemail Helmet
+            - Water Buffalo Horn Helmet
+            - Monk's Staff Helmet
+
+        Torso Protection:
+        --------------------
+            - Horse Guard's Cuirass
+            - Platemail Cuirass
+
+        Arm Protection:
+        --------------------
+            - Horse Guard's Gauntlets
+            - Platemail Gauntlets
+
+        Leg Protection:
+        --------------------
+            - Horse Guard's Waistguard
+            - Platemail Waistguard
+
+        Foot Protection:
+        --------------------
+            - Horse Guard's Greaves
+            - Platemail Greaves
+
+        Tools:
+        --------------------
+            - Sacred Brush
 
 
 
