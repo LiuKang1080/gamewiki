@@ -556,6 +556,11 @@ video {
   margin-right: auto;
 }
 
+.my-1 {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
 .my-12 {
   margin-top: 3rem;
   margin-bottom: 3rem;
@@ -579,11 +584,6 @@ video {
 .my-auto {
   margin-top: auto;
   margin-bottom: auto;
-}
-
-.my-1 {
-  margin-top: 0.25rem;
-  margin-bottom: 0.25rem;
 }
 
 .mb-2 {
@@ -1354,18 +1354,6 @@ video {
   background-color: rgb(250 204 21 / var(--tw-bg-opacity));
 }
 
-.hover\:bg-transparent:hover {
-  background-color: transparent;
-}
-
-.hover\:bg-dark-gray:hover {
-  background-color: #625d5d57;
-}
-
-.hover\:bg-dark-gray-2:hover {
-  background-color: #625d5d99;
-}
-
 .hover\:text-sky-600:hover {
   --tw-text-opacity: 1;
   color: rgb(2 132 199 / var(--tw-text-opacity));
@@ -1384,24 +1372,6 @@ video {
 .group:hover .group-hover\:bg-light-red {
   --tw-bg-opacity: 1;
   background-color: rgb(95 24 35 / var(--tw-bg-opacity));
-}
-
-.group:hover .group-hover\:bg-transparent {
-  background-color: transparent;
-}
-
-.group:hover .group-hover\:bg-dark-gray {
-  background-color: #625d5d57;
-}
-
-.group:hover .group-hover\:bg-medium-red {
-  --tw-bg-opacity: 1;
-  background-color: rgb(72 24 31 / var(--tw-bg-opacity));
-}
-
-.group:hover .group-hover\:bg-stone-900 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(28 25 23 / var(--tw-bg-opacity));
 }
 
 .group:hover .group-hover\:text-sky-500 {
