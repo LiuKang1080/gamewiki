@@ -1,7 +1,12 @@
     ==========
     TEMPLATE ()
     ==========
+        - Mission Unlock Requirement:
+            - 
+        --------------------
         - Recommended level: 
+        - Gold: 
+        - Amrita: 
         - Shrine: 
         - Torii Gate Expedition: 
         - Number of Kodama: 
@@ -221,8 +226,8 @@ Awakening Region (Region 1)
             - None, mission unlocked by default
         --------------------
         - Recommended level: 1
-        - Amrita: 
-        - Money: 
+        - Gold: 2,800
+        - Amrita: 1,200
         - Shrine: Yes
         - Expedition: Yes
         - Number of Kodama: 7
