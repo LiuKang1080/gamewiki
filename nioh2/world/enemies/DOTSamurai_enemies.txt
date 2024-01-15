@@ -1055,7 +1055,7 @@ Dawn Region (Region 4)
     ==========
         - Quest Giver: Mumyo
         - Characters: 
-            - Obsidian Samurai
+            - Obsidian Samurai (NPC)
         --------------------
         - Skeleton Warrior
         - Dweller
@@ -1074,47 +1074,15 @@ Dawn Region (Region 4)
         - Yoki (axe)
         - Ippon-Datara (hammer)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
     ==========
     The Sun Sets on Mount Tenno (Main Mission)
     ==========
         - Quest Giver: Mumyo
         - Characters: 
-            - Akechi Mitsuhide
-            - Saito Toshimitsu
-            - Kashin Koji
-            - Tokichiro
+            - Akechi Mitsuhide (cutscenes)
+            - Saito Toshimitsu (cutscenes)
+            - Kashin Koji (cutscenes)
+            - Tokichiro (cutscenes)
         --------------------
         - Gaki
         - Skeleton Warrior
@@ -1130,6 +1098,38 @@ Dawn Region (Region 4)
         - Blue Yoki (Dual Swords)
         - Onyudo (fire)
         - Ryomen Sukuna (boss) (first time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     ==========
     The Aberrant Mage (Side Mission)
