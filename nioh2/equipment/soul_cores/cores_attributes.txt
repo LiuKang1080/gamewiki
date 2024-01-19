@@ -1,4 +1,217 @@
 ========== ========== ==========
 Anima Stats
 ========== ========== ==========
-    - 
+    - Anima Bonus (Amrita Absorption)
+    - Anima Bonus (Critical Amrita)
+    - Anima Bonus (Unscathed Amrita)
+    - Anima Bonus (Elemental Attack)
+    - Anima Bonus (Unscathed Enemy)
+    - Anima Bonus (Scorched Enemy)
+    - Anima Bonus (Saturated Enemy)
+    - Anima Bonus (Electrified Enemy)
+    - Anima Bonus (Purified Enemy)
+    - Anima Bonus (Corrupted Enemy)
+    - Anima Bonus (Paralyzed Enemy)
+    - Anima Bonus (Poisoned Enemy)
+    - Anima Bonus (Confused Enemy)
+    - Anima Bonus (Enemy Scorched)
+    - Anima Bonus (Enemy Saturated)
+    - Anima Bonus (Enemy Electrified)
+    - Anima Bonus (Enemy Purified)
+    - Anima Bonus (Enemy Corrupted)
+    - Anima Bonus (Enemy Paralyzed)
+    - Anima Bonus (Enemy Poisoned)
+    - Anima Bonus (Enemy Confused)
+    - Anima Bonus (Inflict Ailment)
+    - Anima Bonus (Grapple)
+    - Anima Bonus (Final Blow)
+    - Anima Bonus (Ninjutsu Hit)
+    - Anima Bonus (Onmyo Magic Hit)
+    - Anima Bonus (Purification)
+    - Anima Bonus (Ranged Hit)
+    - Anima Bonus (Ranged Weapon Hit)
+    - Anima Bonus (Damage Taken)
+    - Efficient Yokai Abilities (All)
+    - Super-Efficient Yokai Abilities (All)
+    - Anima Charge
+    - Anima Charge (Critical)
+    - Anima Charge (Unscathed)
+    - Anima Charge (Dark Realm)
+    - Anima Charge (Yokai Shift)
+    - Anima Charge (Ailing)
+    - Anima Charge (Enhanced)
+    - Anima Charge Bonus (Cumulative Damage)
+    - Anima Charge Bonus (Amrita Guage)
+    - Anima Charge Bonus (Amrita Guage)
+    - Anima Bonus (Timely Guard) [Innate Stat]
+    - Anima Bonus (Water Attack) [Innate Stat]
+
+
+========== ========== ==========
+Damage Stats
+========== ========== ==========
+    - Melee Damage vs. Scorched Enemy
+    - Melee Damage vs. Saturated Enemy
+    - Melee Damage vs. Electrified Enemy
+    - Melee Damage vs. Purified Enemy
+    - Melee Damage vs. Corrupted Enemy
+    - Yokai Ability Damage
+    - Yokai Ability Damage (All)
+    - Melee Damage (Dark Realm)
+    - Quick Attack Damage [Innate Stat / Cannot Be Rolled]
+    - Strong Attack Damage [Innate Stat / Cannot Be Rolled]
+    - Melee Damage vs. Humans [Innate Stat / Cannot Be Rolled]
+    - Damage vs. Revenants [Innate Stat / Cannot Be Rolled]
+    - Active Skill Damage [Innate Stat / Cannot Be Rolled]
+    - Melee Damage vs. Unscathed Enemy [Innate Stat / Cannot Be Rolled]
+    - Melee Damage vs. Poisoned Enemy [Innate Stat / Cannot Be Rolled]
+    - Backstab Damage [Innate Stat / Cannot Be Rolled]
+    - Elemental Weapon Damage [Innate Stat / Cannot Be Rolled]
+    - Thrust Damage [Innate Stat / Cannot Be Rolled]
+    - Damage Bonus (Equipment Weight) [Innate Stat / Cannot Be Rolled]
+    - Bare-Handed Attack Damage [Innate Stat / Cannot Be Rolled]
+    - Ranged Damage [Innate Stat / Cannot Be Rolled]
+    - Melee Damage vs. Corrupted Enemy [Innate Stat / Cannot Be Rolled]
+
+
+========== ========== ==========
+Ki Damage Stats
+========== ========== ==========
+    - Melee Ki Damage
+    - Strong Attack Ki Damage [Innate Stat / Cannot Be Rolled]
+    - Active Skill Ki Damage [Innate Stat / Cannot Be Rolled]
+
+
+========== ========== ==========
+Elemental Damage Stats
+========== ========== ==========
+    - Elemental Damage
+    - Fire Damage
+    - Water Damage
+    - Lightning Damage
+
+
+========== ========== ==========
+Item Drop Rate Stats
+========== ========== ==========
+    - Item Drop Rate vs. Humans
+    - Item Drop Rate vs. Yokai
+
+
+========== ========== ==========
+Equipment Drop Rate Stats
+========== ========== ==========
+    - Equipment Drop Rate vs. Humans
+    - Equipment Drop Rate vs. Yokai
+
+
+========== ========== ==========
+Luck Stats
+========== ========== ==========
+    - Luck
+    - Luck (Yokai Shift)
+
+
+========== ========== ==========
+Power Stats
+========== ========== ==========
+    - Ninjutsu Power
+    - Onmyo Magic Power
+
+
+========== ========== ==========
+No Conflict Stats
+========== ========== ==========
+    - Attack
+    - Attack (Yokai Shift)
+    - Defense
+    - Defense (Yokai Shift)
+    - Life
+    - Anima
+    - Item Drop Rate
+    - Item Drop Rate (Yokai Shift)
+    - Equipment Drop Rate
+    - Equipment Drop Rate (Yokai Shift)
+    - Gold Earned
+    - Gold Earned (Yokai Shift)
+    - Amrita Earned
+    - Amrita Earned (Yokai Shift)
+    - Soul Core Drop Rate
+    - Soul Core Drop Rate (Yokai Shift)
+    - Enemy Sensor
+    - Treasure Sensor
+    - Amrita Sensor
+    - Kodama Sensor
+    - Sentience Charge
+    - Damage Taken vs. Yokai
+    - Auto Grave Recovery
+    - Attunement Cost
+    - Movement Speed (Yokai Shift)
+    - Nullify Damage (Yokai Shift)
+    - Crital Yokai Shift (Dark Realm)
+    - Yokai Ability Ki Pulse
+    - Life Drain (Yokai Ability Hit)
+    - Yokai Ability Damage (Brute)
+    - Yokai Ability Damage (Feral)
+    - Yokai Ability Damage (Phantom)
+    - Extend Yokai Shift
+    - Amrita Gauge Charge
+    - Max Yokai Ability Ki Damage
+    - Increaed Attack (Yokai Ability Hit)
+    - Increased Defense (Yokai Ability Hit)
+    - Increased Ki Recovery (Yokai Ability Hit)
+    - Amrita Bonus (Inflict Scorched)
+    - Amrita Bonus (Inflict Saturated)
+    - Amrita Bonus (Inflict Electrified)
+    - Amrita Bonus (Inflict Purified)
+    - Amrita Bonus (Inflict Corrupted)
+    - Yokai Ability Damage (Yokai Shift)
+    - Yokai Ability Charge (Yokai Shift)
+    - Melee Damage (Awakened Weapon)
+    - Ki Damage (Awakened Weapon)
+    - Level Inheritance
+    - Rarity Inheritance
+    - Break [Innate Stat / Cannot Be Rolled]
+    - Block [Innate Stat / Cannot Be Rolled]
+    - Toughness [Innate Stat / Cannot Be Rolled]
+    - Stealth [Innate Stat / Cannot Be Rolled]
+    - Dash Ki Consumption [Innate Stat / Cannot Be Rolled]
+    - Grapple Damage [Innate Stat / Cannot Be Rolled]
+    - Melee Damage vs. Zero-Ki Enemy [Innate Stat / Cannot Be Rolled]
+    - Reduced Movement (Ranged Weapon Hit) [Innate Stat / Cannot Be Rolled]
+    - Copy Enhancement [Innate Stat / Cannot Be Rolled]
+    - Damage Taken (Mid Attack) [Innate Stat / Cannot Be Rolled]
+    - Poison Resistance [Innate Stat / Cannot Be Rolled]
+    - Paralysis Resistance [Innate Stat / Cannot Be Rolled]
+    - Poison Accumulation [Innate Stat / Cannot Be Rolled]
+    - Paralysis Accumulation [Innate Stat / Cannot Be Rolled]
+    - Damage Taken [Innate Stat / Cannot Be Rolled]
+    - Yokai Ability Damage (Scorched Enemy) [Innate Stat / Cannot Be Rolled]
+    - Yokai Ability Damage (Corrupted Enemy) [Innate Stat / Cannot Be Rolled]
+    - Yokai Ability Damage (Poisoned Enemy) [Innate Stat / Cannot Be Rolled]
+    - Other Realm Resistance [Innate Stat / Cannot Be Rolled]
+    - Elixir Efficacy [Innate Stat / Cannot Be Rolled]
+    - Enhanced Kodama Blessings [Innate Stat / Cannot Be Rolled]
+    - Charge Attack Boost [Innate Stat / Cannot Be Rolled]
+    - Life Drain (Water Attack) [Innate Stat / Cannot Be Rolled]
+    - Faster Movement (Amrita Absorption) [Innate Stat / Cannot Be Rolled]
+    - Elemental Damage Taken [Innate Stat / Cannot Be Rolled]
+    - Scampuss Escort Duration [Innate Stat / Cannot Be Rolled]
+    - Pleiades (Enemy Killed) [Innate Stat / Cannot Be Rolled]
+    - Increased Defense (Amrita Absorption) [Innate Stat / Cannot Be Rolled]
+    - Extend Elemental Weapon [Innate Stat / Cannot Be Rolled]
+    - Life Recovery (Amrita Absorption) [Innate Stat / Cannot Be Rolled]
+    - Shock Accumulation (Enemy) [Innate Stat / Cannot Be Rolled]
+    - Life Drain (Lightning Attack) [Innate Stat / Cannot Be Rolled]
+    - Bomb Damage [Innate Stat / Cannot Be Rolled]
+    - Untouched Ninjutsu [Innate Stat / Cannot Be Rolled]
+    - Purified Accumulation (Enemy) [Innate Stat / Cannot Be Rolled]
+    - Dash Speed [Innate Stat / Cannot Be Rolled]
+    - Life Drain (Fire Attack) [Innate Stat / Cannot Be Rolled]
+    - Thrust Damage [Innate Stat / Cannot Be Rolled]
+    - Increased Attack (Enemy Killed) [Innate Stat / Cannot Be Rolled]
+    - Untouched Tengu's Fan [Innate Stat / Cannot Be Rolled]
+    - Increased Attack (Amrita Absorption) [Innate Stat / Cannot Be Rolled]
+    - Corrupted Accumulation (Enemy) [Innate Stat / Cannot Be Rolled]
+    - Increased Defense (Winded Enemy) [Innate Stat / Cannot Be Rolled]
+    - Anima Bonus (Awakened Weapon) [Innate Stat / Cannot Be Rolled]
