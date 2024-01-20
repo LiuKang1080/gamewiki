@@ -1,0 +1,100 @@
+========== ========== ==========
+Damage Attributes
+========== ========== ==========
+    - Melee Damage
+    - Low Attack Damage
+    - Mid Attack Damage
+    - [DONE] High Attack Damage
+    - Quick Attack Damage
+    - Strong Attack Damage
+    - Active Skill Damage
+    - [DONE] Ranged Damage
+
+
+========== ========== ==========
+Ki Damage Attributes
+========== ========== ==========
+    - Melee Ki Damage
+    - Mid Attack Ki Damage
+    - High Attack Ki Damage
+    - Strong Attack Ki Damage
+    - Active Skill Ki Damage    
+
+
+========== ========== ==========
+Attack Ki Consumption Attributes
+========== ========== ==========
+    - Melee Ki Consumption
+    - Low Attack Ki Consumption
+    - Mid Attack Ki Consumption
+    - High Attack Ki Consumption
+    - Quick Attack Ki Consumption
+    - Strong Attack Ki Consumption
+    - Active Skill Ki Consumption
+
+
+========== ========== ==========
+Misc Ki Consumption Attributes
+========== ========== ==========
+    - Guard Ki Consumption
+    - [DONE] Dodge Ki Consumption
+    - Dash Ki Consumption
+
+
+========== ========== ==========
+Power Attributes
+========== ========== ==========
+    - Ninjutsu Power
+    - Onmyo Magic Power
+
+
+========== ========== ==========
+Untouched Attributes
+========== ========== ==========
+    - [DONE] Untouched Ninjutsu
+    - [DONE] Untouched Onmyo Magic
+
+
+========== ========== ==========
+Damage Bonus Attributes
+========== ========== ==========
+    - Damage Bonus (Ninjutsu Power)
+    - Damage Bonus (Onmyo Magic Power)
+
+
+========== ========== ==========
+Counter Tactics Attributes
+========== ========== ==========
+    - [DONE] Counter-Human Tactics
+    - [DONE] Counter-Yokai Tactics
+
+
+========== ========== ==========
+No Conflict Attributes
+========== ========== ==========
+    - [DONE] Ailment Affliction Duration
+    - Amrita Earned
+    - Amrita Guage Charge
+    - Damage Taken
+    - [DONE] Elemental Damage Taken
+    - Toughness
+    - [DONE] Anima Charge
+    - Equipment Drop Rate
+    - [DONE] Extend Dodge Invulnerability
+    - Extend Yokai Shift
+    - Item Drop Rate
+    - [DONE] Ki
+    - Ki Recovery Speed
+    - Life
+    - Luck
+    - [DONE] Sentience Charge
+    - Elemental Damage
+    - Elemental Damage Taken (Guarding)
+    - Extend Curse Nullification
+    - [DONE] Life Drain (Melee Kill)
+    - [DONE] Increased Attack (Winded Enemy)
+    - [DONE] Finishing Flair
+    - [DONE] Rarity Inheritance (Scroll Transference)
+    - Ethereal Drop Rate
+    - [DONE] Mysitc Dyad [WEAPON]
+    - [DONE] Ultimate [STAT]
