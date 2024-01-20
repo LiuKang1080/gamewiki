@@ -36,7 +36,7 @@ Anima Stats
     - Anima Charge
     - Anima Charge (Critical)
     - Anima Charge (Unscathed)
-    - Anima Charge (Dark Realm)
+    - [DONE] Anima Charge (Dark Realm)
     - Anima Charge (Yokai Shift)
     - Anima Charge (Ailing)
     - Anima Charge (Enhanced)
@@ -133,7 +133,7 @@ No Conflict Stats
     - Equipment Drop Rate
     - Equipment Drop Rate (Yokai Shift)
     - Gold Earned
-    - Gold Earned (Yokai Shift)
+    - [DONE] Gold Earned (Yokai Shift)
     - Amrita Earned
     - Amrita Earned (Yokai Shift)
     - Soul Core Drop Rate
@@ -150,7 +150,7 @@ No Conflict Stats
     - Nullify Damage (Yokai Shift)
     - Crital Yokai Shift (Dark Realm)
     - Yokai Ability Ki Pulse
-    - Life Drain (Yokai Ability Hit)
+    - [DONE] Life Drain (Yokai Ability Hit)
     - Yokai Ability Damage (Brute)
     - Yokai Ability Damage (Feral)
     - Yokai Ability Damage (Phantom)

@@ -2,7 +2,7 @@
 Damage Attributes
 ========== ========== ==========
     - Melee Damage
-    - Low Attack Damage
+    - [DONE] Low Attack Damage
     - Mid Attack Damage
     - [DONE] High Attack Damage
     - Quick Attack Damage
@@ -18,7 +18,7 @@ Ki Damage Attributes
     - Mid Attack Ki Damage
     - High Attack Ki Damage
     - Strong Attack Ki Damage
-    - Active Skill Ki Damage    
+    - [DONE] Active Skill Ki Damage    
 
 
 ========== ========== ==========
@@ -27,10 +27,10 @@ Attack Ki Consumption Attributes
     - Melee Ki Consumption
     - Low Attack Ki Consumption
     - Mid Attack Ki Consumption
-    - High Attack Ki Consumption
+    - [DONE] High Attack Ki Consumption
     - Quick Attack Ki Consumption
     - Strong Attack Ki Consumption
-    - Active Skill Ki Consumption
+    - [DONE] Active Skill Ki Consumption
 
 
 ========== ========== ==========
@@ -59,7 +59,7 @@ Untouched Attributes
 Damage Bonus Attributes
 ========== ========== ==========
     - Damage Bonus (Ninjutsu Power)
-    - Damage Bonus (Onmyo Magic Power)
+    - [DONE] Damage Bonus (Onmyo Magic Power)
 
 
 ========== ========== ==========
@@ -86,15 +86,15 @@ No Conflict Attributes
     - [DONE] Ki
     - Ki Recovery Speed
     - Life
-    - Luck
+    - [DONE] Luck
     - [DONE] Sentience Charge
-    - Elemental Damage
+    - [DONE] Elemental Damage
     - Elemental Damage Taken (Guarding)
-    - Extend Curse Nullification
+    - [DONE] Extend Curse Nullification
     - [DONE] Life Drain (Melee Kill)
     - [DONE] Increased Attack (Winded Enemy)
     - [DONE] Finishing Flair
     - [DONE] Rarity Inheritance (Scroll Transference)
-    - Ethereal Drop Rate
+    - [DONE] Ethereal Item Drop Rate
     - [DONE] Mysitc Dyad [WEAPON]
     - [DONE] Ultimate [STAT]
