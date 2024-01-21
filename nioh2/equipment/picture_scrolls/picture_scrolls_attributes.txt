@@ -1,34 +1,34 @@
 ========== ========== ==========
 Damage Attributes
 ========== ========== ==========
-    - Melee Damage
+    - [DONE] Melee Damage
     - [DONE] Low Attack Damage
-    - Mid Attack Damage
+    - [DONE] Mid Attack Damage
     - [DONE] High Attack Damage
-    - Quick Attack Damage
-    - Strong Attack Damage
-    - Active Skill Damage
+    - [DONE] Quick Attack Damage
+    - [DONE] Strong Attack Damage
+    - [DONE] Active Skill Damage
     - [DONE] Ranged Damage
 
 
 ========== ========== ==========
 Ki Damage Attributes
 ========== ========== ==========
-    - Melee Ki Damage
+    - [DONE] Melee Ki Damage
     - Mid Attack Ki Damage
     - High Attack Ki Damage
     - Strong Attack Ki Damage
-    - [DONE] Active Skill Ki Damage    
+    - [DONE] Active Skill Ki Damage
 
 
 ========== ========== ==========
 Attack Ki Consumption Attributes
 ========== ========== ==========
-    - Melee Ki Consumption
+    - [DONE] Melee Attack Ki Consumption
     - Low Attack Ki Consumption
     - Mid Attack Ki Consumption
     - [DONE] High Attack Ki Consumption
-    - Quick Attack Ki Consumption
+    - [DONE] Quick Attack Ki Consumption
     - Strong Attack Ki Consumption
     - [DONE] Active Skill Ki Consumption
 
@@ -36,16 +36,16 @@ Attack Ki Consumption Attributes
 ========== ========== ==========
 Misc Ki Consumption Attributes
 ========== ========== ==========
-    - Guard Ki Consumption
+    - [DONE] Guard Ki Consumption
     - [DONE] Dodge Ki Consumption
-    - Dash Ki Consumption
+    - [DONE] Dash Ki Consumption
 
 
 ========== ========== ==========
 Power Attributes
 ========== ========== ==========
     - Ninjutsu Power
-    - Onmyo Magic Power
+    - [DONE] Onmyo Magic Power
 
 
 ========== ========== ==========
@@ -58,7 +58,7 @@ Untouched Attributes
 ========== ========== ==========
 Damage Bonus Attributes
 ========== ========== ==========
-    - Damage Bonus (Ninjutsu Power)
+    - [DONE] Damage Bonus (Ninjutsu Power)
     - [DONE] Damage Bonus (Onmyo Magic Power)
 
 
@@ -74,22 +74,22 @@ No Conflict Attributes
 ========== ========== ==========
     - [DONE] Ailment Affliction Duration
     - Amrita Earned
-    - Amrita Guage Charge
-    - Damage Taken
+    - [DONE] Amrita Gauge Charge
+    - [DONE] Damage Taken
     - [DONE] Elemental Damage Taken
+    - [DONE] Elemental Damage Taken (Guarding)
     - Toughness
     - [DONE] Anima Charge
     - Equipment Drop Rate
     - [DONE] Extend Dodge Invulnerability
-    - Extend Yokai Shift
-    - Item Drop Rate
+    - [DONE] Extend Yokai Shift
+    - [DONE] Item Drop Rate
     - [DONE] Ki
-    - Ki Recovery Speed
-    - Life
+    - [DONE] Ki Recovery Speed
+    - [DONE] Life
     - [DONE] Luck
     - [DONE] Sentience Charge
     - [DONE] Elemental Damage
-    - Elemental Damage Taken (Guarding)
     - [DONE] Extend Curse Nullification
     - [DONE] Life Drain (Melee Kill)
     - [DONE] Increased Attack (Winded Enemy)
@@ -98,3 +98,22 @@ No Conflict Attributes
     - [DONE] Ethereal Item Drop Rate
     - [DONE] Mysitc Dyad [WEAPON]
     - [DONE] Ultimate [STAT]
+
+
+========== ========== ==========
+Special Rules
+========== ========== ==========
+    - Lucky Drop (GRACE)
+    - Lucky Drop Transferable Effects
+    - Divine+ Item Drop Rate
+    - 
+
+
+
+
+
+
+
+
+
+
