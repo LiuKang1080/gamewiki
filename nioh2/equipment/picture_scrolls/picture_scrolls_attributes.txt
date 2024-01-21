@@ -78,7 +78,6 @@ No Conflict Attributes
     - [DONE] Damage Taken
     - [DONE] Elemental Damage Taken
     - [DONE] Elemental Damage Taken (Guarding)
-    - Toughness
     - [DONE] Anima Charge
     - Equipment Drop Rate
     - [DONE] Extend Dodge Invulnerability
@@ -89,6 +88,7 @@ No Conflict Attributes
     - [DONE] Life
     - [DONE] Luck
     - [DONE] Sentience Charge
+    - [DONE] Toughness
     - [DONE] Elemental Damage
     - [DONE] Extend Curse Nullification
     - [DONE] Life Drain (Melee Kill)
