@@ -483,31 +483,15 @@ Soaring Region (Region 2)
             - Onmyo Mage's Locks
             - Samurai's Locks (Mission Reward)
 
-
-
-
-    
-
-    
-
-    
-
-    
-
-
-
-
-
-
-
-
-
-
-
     ==========
     Imagawa Diehard (Side Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete "The Hidden Monsters of Okehazama"
+        --------------------
         - Recommended level: 39
+        - Gold: 7,800
+        - Amrita: 3,200
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
@@ -524,7 +508,12 @@ Soaring Region (Region 2)
     ==========
     Hidetatsu's Dying Wish (Side Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete "The Hidden Monsters of Okehazama"
+        --------------------
         - Recommended level: 40
+        - Gold: 8,200
+        - Amrita: 3,456
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
@@ -541,7 +530,12 @@ Soaring Region (Region 2)
     ==========
     An Error in Calculation (Side Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete "The Hidden Monsters of Okehazama"
+        --------------------
         - Recommended level: 41
+        - Gold: 8,600
+        - Amrita: 3,712
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
@@ -558,7 +552,12 @@ Soaring Region (Region 2)
     ==========
     The Mysterious One Night Castle (Main Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete "The Hidden Monsters of Okehazama"
+        --------------------
         - Recommended level: 43
+        - Gold: 8,800
+        - Amrita: 3,840
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 7
@@ -575,6 +574,27 @@ Soaring Region (Region 2)
             - Unlocks "The Way of the Warrior: Adept" after beating level.
             - Unlocks "The Way of the Ninja: Adept" after beating level.
             - Unlocks "The Way of the Onmyo: Adept" after beating level.
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
 
     ==========
     The Sunomata Yokai Hunt (Side Mission)
