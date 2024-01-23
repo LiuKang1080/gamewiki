@@ -574,32 +574,16 @@ Soaring Region (Region 2)
             - Unlocks "The Way of the Warrior: Adept" after beating level.
             - Unlocks "The Way of the Ninja: Adept" after beating level.
             - Unlocks "The Way of the Onmyo: Adept" after beating level.
-    
-
-    
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-
-    
-
-    
 
     ==========
     The Sunomata Yokai Hunt (Side Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete "The Mysterious One Night Castle"
+        --------------------
         - Recommended level: 46
+        - Gold: 9,200
+        - Amrita: 4,128
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
@@ -616,7 +600,12 @@ Soaring Region (Region 2)
     ==========
     A Hot-blodded Howl (Side Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete "The Mysterious One Night Castle"
+        --------------------
         - Recommended level: 47
+        - Gold: 9,400
+        - Amrita: 4,272
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 5
@@ -633,7 +622,12 @@ Soaring Region (Region 2)
     ==========
     The Fire God's Magatama (Side Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete "The Mysterious One Night Castle"
+        --------------------
         - Recommended level: 49
+        - Gold: 9,800
+        - Amrita: 4,560
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
@@ -650,7 +644,12 @@ Soaring Region (Region 2)
     ==========
     The Hollow Fortress (Main Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete "The Mysterious One Night Castle"
+        --------------------
         - Recommended level: 50
+        - Gold: 10,200
+        - Amrita: 4,880
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 6
@@ -666,6 +665,27 @@ Soaring Region (Region 2)
             - Ninja's Locks
             - Onmyo Mage's Locks
             - Unlocks 2nd Guardian Spirit (complete mission)
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
 
     ==========
     An End to Seclusion (Sub Mission)
