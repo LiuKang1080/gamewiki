@@ -3,17 +3,17 @@ Anima Stats
 ========== ========== ==========
     - [DONE] Anima Bonus (Amrita Absorption)
     - Anima Bonus (Critical Amrita)
-    - Anima Bonus (Unscathed Amrita)
+    - [DONE] Anima Bonus (Unscathed Amrita)
     - Anima Bonus (Elemental Attack)
     - Anima Bonus (Unscathed Enemy)
-    - Anima Bonus (Scorched Enemy)
-    - Anima Bonus (Saturated Enemy)
-    - Anima Bonus (Electrified Enemy)
-    - Anima Bonus (Purified Enemy)
-    - Anima Bonus (Corrupted Enemy)
-    - Anima Bonus (Paralyzed Enemy)
-    - Anima Bonus (Poisoned Enemy)
-    - Anima Bonus (Confused Enemy)
+    - [DONE] Anima Bonus (Scorched Enemy)
+    - [DONE] Anima Bonus (Saturated Enemy)
+    - [DONE] Anima Bonus (Electrified Enemy)
+    - [DONE] Anima Bonus (Purified Enemy)
+    - [DONE] Anima Bonus (Corrupted Enemy)
+    - [DONE] Anima Bonus (Poisoned Enemy)
+    - [DONE] Anima Bonus (Paralyzed Enemy)
+    - [DONE] Anima Bonus (Confused Enemy)
     - [DONE] Anima Bonus (Enemy Scorched)
     - [DONE] Anima Bonus (Enemy Saturated)
     - [DONE] Anima Bonus (Enemy Electrified)
@@ -32,7 +32,7 @@ Anima Stats
     - Anima Bonus (Ranged Weapon Hit)
     - [DONE] Anima Bonus (Damage Taken)
     - Efficient Yokai Abilities (All)
-    - Super-Efficient Yokai Abilities (All)
+    - [DONE] Super-Efficient Yokai Abilities (All)
     - Anima Charge
     - Anima Charge (Critical)
     - Anima Charge (Unscathed)
@@ -58,7 +58,7 @@ Damage Stats
     - Yokai Ability Damage
     - [DONE] Yokai Ability Damage (All)
     - Melee Damage (Dark Realm)
-    - Quick Attack Damage [Innate Stat / Cannot Be Rolled]
+    - Quick Attack Damage [Innate Stat / Cannot Be Rolled]Fire 
     - Strong Attack Damage [Innate Stat / Cannot Be Rolled]
     - [DONE] Melee Damage vs. Humans [Innate Stat / Cannot Be Rolled]
     - Damage vs. Revenants [Innate Stat / Cannot Be Rolled]
@@ -108,8 +108,8 @@ Equipment Drop Rate Stats
 ========== ========== ==========
 Luck Stats
 ========== ========== ==========
-    - Luck
-    - Luck (Yokai Shift)
+    - [DONE] Luck
+    - [DONE] Luck (Yokai Shift)
 
 
 ========== ========== ==========
@@ -134,7 +134,7 @@ No Conflict Stats
     - [DONE] Equipment Drop Rate (Yokai Shift)
     - Gold Earned
     - [DONE] Gold Earned (Yokai Shift)
-    - Amrita Earned
+    - [DONE] Amrita Earned
     - Amrita Earned (Yokai Shift)
     - Soul Core Drop Rate
     - [DONE] Soul Core Drop Rate (Yokai Shift)
@@ -154,7 +154,7 @@ No Conflict Stats
     - [DONE] Yokai Ability Damage (Brute)
     - [DONE] Yokai Ability Damage (Feral)
     - [DONE] Yokai Ability Damage (Phantom)
-    - Extend Yokai Shift
+    - [DONE] Extend Yokai Shift
     - [DONE] Amrita Gauge Charge
     - Max Yokai Ability Ki Damage
     - [DONE] Increaed Attack (Yokai Ability Hit)
@@ -172,7 +172,7 @@ No Conflict Stats
     - Level Inheritance
     - Rarity Inheritance
     - Break [Innate Stat / Cannot Be Rolled]
-    - Block [Innate Stat / Cannot Be Rolled]
+    - [DONE] Block [Innate Stat / Cannot Be Rolled]
     - Toughness [Innate Stat / Cannot Be Rolled]
     - Stealth [Innate Stat / Cannot Be Rolled]
     - Dash Ki Consumption [Innate Stat / Cannot Be Rolled]
@@ -218,4 +218,4 @@ No Conflict Stats
 
 
 --------------------
-Current Soul Core: First Ippon-Datara in the Storehouse
+Current Soul Core: First Nurikabe in the Storehouse
