@@ -23,19 +23,19 @@ Anima Stats
     - [DONE] Anima Bonus (Enemy Poisoned)
     - [DONE] Anima Bonus (Enemy Confused)
     - Anima Bonus (Inflict Ailment)
-    - Anima Bonus (Grapple)
+    - [DONE] Anima Bonus (Grapple)
     - Anima Bonus (Final Blow)
     - Anima Bonus (Ninjutsu Hit)
-    - Anima Bonus (Onmyo Magic Hit)
+    - [DONE] Anima Bonus (Onmyo Magic Hit)
     - Anima Bonus (Purification)
     - Anima Bonus (Ranged Hit)
     - Anima Bonus (Ranged Weapon Hit)
     - [DONE] Anima Bonus (Damage Taken)
-    - Efficient Yokai Abilities (All)
+    - [DONE] Efficient Yokai Abilities (All)
     - [DONE] Super-Efficient Yokai Abilities (All)
     - Anima Charge
     - Anima Charge (Critical)
-    - Anima Charge (Unscathed)
+    - [DONE] Anima Charge (Unscathed)
     - [DONE] Anima Charge (Dark Realm)
     - Anima Charge (Yokai Shift)
     - [DONE] Anima Charge (Ailing)
@@ -43,7 +43,7 @@ Anima Stats
     - Anima Charge Bonus (Cumulative Damage)
     - Anima Charge Bonus (Amrita Guage)
     - Anima Charge Bonus (Amrita Guage)
-    - Anima Bonus (Timely Guard) [Innate Stat]
+    - [DONE] Anima Bonus (Timely Guard) [Innate Stat]
     - Anima Bonus (Water Attack) [Innate Stat]
 
 
@@ -57,7 +57,7 @@ Damage Stats
     - [DONE] Melee Damage vs. Corrupted Enemy
     - Yokai Ability Damage
     - [DONE] Yokai Ability Damage (All)
-    - Melee Damage (Dark Realm)
+    - [DONE] Melee Damage (Dark Realm)
     - Quick Attack Damage [Innate Stat / Cannot Be Rolled]Fire 
     - Strong Attack Damage [Innate Stat / Cannot Be Rolled]
     - [DONE] Melee Damage vs. Humans [Innate Stat / Cannot Be Rolled]
@@ -77,7 +77,7 @@ Damage Stats
 ========== ========== ==========
 Ki Damage Stats
 ========== ========== ==========
-    - Melee Ki Damage
+    - [DONE] Melee Ki Damage
     - Strong Attack Ki Damage [Innate Stat / Cannot Be Rolled]
     - Active Skill Ki Damage [Innate Stat / Cannot Be Rolled]
 
@@ -85,7 +85,7 @@ Ki Damage Stats
 ========== ========== ==========
 Elemental Damage Stats
 ========== ========== ==========
-    - Elemental Damage
+    - [DONE] Elemental Damage
     - [DONE] Fire Damage
     - [DONE] Water Damage
     - [DONE] Lightning Damage
@@ -101,8 +101,8 @@ Item Drop Rate Stats
 ========== ========== ==========
 Equipment Drop Rate Stats
 ========== ========== ==========
-    - Equipment Drop Rate vs. Humans
-    - Equipment Drop Rate vs. Yokai
+    - [DONE] Equipment Drop Rate vs. Humans
+    - [DONE] Equipment Drop Rate vs. Yokai
 
 
 ========== ========== ==========
@@ -144,12 +144,12 @@ No Conflict Stats
     - Kodama Sensor
     - [DONE] Sentience Charge
     - Damage Taken vs. Yokai
-    - Auto Grave Recovery
-    - Attunement Cost
+    - [DONE] Auto-Grave Recovery
+    - [DONE] Attunement Cost
     - Movement Speed (Yokai Shift)
-    - Nullify Damage (Yokai Shift)
+    - [DONE] Nullify Damage (Yokai Shift)
     - Crital Yokai Shift (Dark Realm)
-    - Yokai Ability Ki Pulse
+    - [DONE] Yokai Ability Ki Pulse
     - [DONE] Life Drain (Yokai Ability Hit)
     - [DONE] Yokai Ability Damage (Brute)
     - [DONE] Yokai Ability Damage (Feral)
@@ -167,13 +167,13 @@ No Conflict Stats
     - [DONE] Amrita Bonus (Inflict Corrupted)
     - [DONE] Yokai Ability Damage (Yokai Shift)
     - [DONE] Yokai Ability Charge (Yokai Shift)
-    - Melee Damage (Awakened Weapon)
+    - [DONE] Melee Damage (Awakened Weapon)
     - Ki Damage (Awakened Weapon)
     - Level Inheritance
     - Rarity Inheritance
     - Break [Innate Stat / Cannot Be Rolled]
     - [DONE] Block [Innate Stat / Cannot Be Rolled]
-    - Toughness [Innate Stat / Cannot Be Rolled]
+    - [DONE] Toughness [Innate Stat / Cannot Be Rolled]
     - Stealth [Innate Stat / Cannot Be Rolled]
     - Dash Ki Consumption [Innate Stat / Cannot Be Rolled]
     - Grapple Damage [Innate Stat / Cannot Be Rolled]
@@ -181,11 +181,11 @@ No Conflict Stats
     - Reduced Movement (Ranged Weapon Hit) [Innate Stat / Cannot Be Rolled]
     - Copy Enhancement [Innate Stat / Cannot Be Rolled]
     - Damage Taken (Mid Attack) [Innate Stat / Cannot Be Rolled]
-    - Poison Resistance [Innate Stat / Cannot Be Rolled]
+    - [DONE] Poison Resistance [Innate Stat / Cannot Be Rolled]
     - Paralysis Resistance [Innate Stat / Cannot Be Rolled]
-    - Poison Accumulation [Innate Stat / Cannot Be Rolled]
+    - [DONE] Poison Accumulation [Innate Stat / Cannot Be Rolled]
     - Paralysis Accumulation [Innate Stat / Cannot Be Rolled]
-    - Damage Taken [Innate Stat / Cannot Be Rolled]
+    - [DONE] Damage Taken [Innate Stat / Cannot Be Rolled]
     - [DONE] Yokai Ability Damage (Scorched Enemy) [Innate Stat / Cannot Be Rolled]
     - [DONE] Yokai Ability Damage (Corrupted Enemy) [Innate Stat / Cannot Be Rolled]
     - [DONE] Yokai Ability Damage (Poisoned Enemy) [Innate Stat / Cannot Be Rolled]
@@ -218,4 +218,4 @@ No Conflict Stats
 
 
 --------------------
-Current Soul Core: First Nurikabe in the Storehouse
+Current Soul Core: First Yatsu-no-Kami in the Storehouse
