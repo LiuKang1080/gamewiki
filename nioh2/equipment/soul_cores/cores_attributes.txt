@@ -4,7 +4,7 @@ Anima Stats
     - [DONE] Anima Bonus (Amrita Absorption)
     - Anima Bonus (Critical Amrita)
     - [DONE] Anima Bonus (Unscathed Amrita)
-    - Anima Bonus (Elemental Attack)
+    - [DONE] Anima Bonus (Elemental Attack)
     - Anima Bonus (Unscathed Enemy)
     - [DONE] Anima Bonus (Scorched Enemy)
     - [DONE] Anima Bonus (Saturated Enemy)
@@ -29,19 +29,19 @@ Anima Stats
     - [DONE] Anima Bonus (Onmyo Magic Hit)
     - Anima Bonus (Purification)
     - Anima Bonus (Ranged Hit)
-    - Anima Bonus (Ranged Weapon Hit)
+    - [DONE] Anima Bonus (Ranged Weapon Hit)
     - [DONE] Anima Bonus (Damage Taken)
     - [DONE] Efficient Yokai Abilities (All)
     - [DONE] Super-Efficient Yokai Abilities (All)
-    - Anima Charge
-    - Anima Charge (Critical)
+    - [DONE] Anima Charge
+    - [DONE] Anima Charge (Critical)
     - [DONE] Anima Charge (Unscathed)
     - [DONE] Anima Charge (Dark Realm)
     - Anima Charge (Yokai Shift)
     - [DONE] Anima Charge (Ailing)
     - Anima Charge (Enhanced)
     - Anima Charge Bonus (Cumulative Damage)
-    - Anima Charge Bonus (Amrita Guage)
+    - [DONE] Anima Charge Bonus (Amrita Guage) [BLUE]
     - Anima Charge Bonus (Amrita Guage)
     - [DONE] Anima Bonus (Timely Guard) [Innate Stat]
     - Anima Bonus (Water Attack) [Innate Stat]
@@ -55,16 +55,16 @@ Damage Stats
     - [DONE] Melee Damage vs. Electrified Enemy
     - [DONE] Melee Damage vs. Purified Enemy
     - [DONE] Melee Damage vs. Corrupted Enemy
-    - Yokai Ability Damage
+    - [DONE] Yokai Ability Damage
     - [DONE] Yokai Ability Damage (All)
     - [DONE] Melee Damage (Dark Realm)
     - Quick Attack Damage [Innate Stat / Cannot Be Rolled]Fire 
-    - Strong Attack Damage [Innate Stat / Cannot Be Rolled]
+    - [DONE] Strong Attack Damage [Innate Stat / Cannot Be Rolled]
     - [DONE] Melee Damage vs. Humans [Innate Stat / Cannot Be Rolled]
     - Damage vs. Revenants [Innate Stat / Cannot Be Rolled]
     - Active Skill Damage [Innate Stat / Cannot Be Rolled]
     - Melee Damage vs. Unscathed Enemy [Innate Stat / Cannot Be Rolled]
-    - Melee Damage vs. Poisoned Enemy [Innate Stat / Cannot Be Rolled]
+    - [DONE] Melee Damage vs. Poisoned Enemy [Innate Stat / Cannot Be Rolled]
     - Backstab Damage [Innate Stat / Cannot Be Rolled]
     - Elemental Weapon Damage [Innate Stat / Cannot Be Rolled]
     - Thrust Damage [Innate Stat / Cannot Be Rolled]
@@ -128,11 +128,11 @@ No Conflict Stats
     - [DONE] Defense (Yokai Shift)
     - [DONE] Life
     - [DONE] Anima
-    - Item Drop Rate
+    - [DONE] Item Drop Rate
     - [DONE] Item Drop Rate (Yokai Shift)
     - [DONE] Equipment Drop Rate
     - [DONE] Equipment Drop Rate (Yokai Shift)
-    - Gold Earned
+    - [DONE] Gold Earned
     - [DONE] Gold Earned (Yokai Shift)
     - [DONE] Amrita Earned
     - Amrita Earned (Yokai Shift)
@@ -146,9 +146,9 @@ No Conflict Stats
     - Damage Taken vs. Yokai
     - [DONE] Auto-Grave Recovery
     - [DONE] Attunement Cost
-    - Movement Speed (Yokai Shift)
+    - [DONE] Movement Speed (Yokai Shift)
     - [DONE] Nullify Damage (Yokai Shift)
-    - Crital Yokai Shift (Dark Realm)
+    - [DONE] Critical Yokai Shift (Dark Realm)
     - [DONE] Yokai Ability Ki Pulse
     - [DONE] Life Drain (Yokai Ability Hit)
     - [DONE] Yokai Ability Damage (Brute)
@@ -168,28 +168,29 @@ No Conflict Stats
     - [DONE] Yokai Ability Damage (Yokai Shift)
     - [DONE] Yokai Ability Charge (Yokai Shift)
     - [DONE] Melee Damage (Awakened Weapon)
-    - Ki Damage (Awakened Weapon)
+    - [DONE] Ki Damage (Awakened Weapon)
     - Level Inheritance
-    - Rarity Inheritance
-    - Break [Innate Stat / Cannot Be Rolled]
+    - [DONE] Rarity Inheritance (Soul Fusion)
+    - [DONE] Break [Innate Stat / Cannot Be Rolled]
     - [DONE] Block [Innate Stat / Cannot Be Rolled]
     - [DONE] Toughness [Innate Stat / Cannot Be Rolled]
     - Stealth [Innate Stat / Cannot Be Rolled]
     - Dash Ki Consumption [Innate Stat / Cannot Be Rolled]
-    - Grapple Damage [Innate Stat / Cannot Be Rolled]
+    - [DONE] Grapple Damage [Innate Stat / Cannot Be Rolled]
     - Melee Damage vs. Zero-Ki Enemy [Innate Stat / Cannot Be Rolled]
     - Reduced Movement (Ranged Weapon Hit) [Innate Stat / Cannot Be Rolled]
     - Copy Enhancement [Innate Stat / Cannot Be Rolled]
     - Damage Taken (Mid Attack) [Innate Stat / Cannot Be Rolled]
+    - [DONE] Water Resistance [Innate Stat / Cannot Be Rolled]
     - [DONE] Poison Resistance [Innate Stat / Cannot Be Rolled]
     - Paralysis Resistance [Innate Stat / Cannot Be Rolled]
     - [DONE] Poison Accumulation [Innate Stat / Cannot Be Rolled]
-    - Paralysis Accumulation [Innate Stat / Cannot Be Rolled]
+    - [DONE] Paralysis Accumulation [Innate Stat / Cannot Be Rolled]
     - [DONE] Damage Taken [Innate Stat / Cannot Be Rolled]
     - [DONE] Yokai Ability Damage (Scorched Enemy) [Innate Stat / Cannot Be Rolled]
     - [DONE] Yokai Ability Damage (Corrupted Enemy) [Innate Stat / Cannot Be Rolled]
     - [DONE] Yokai Ability Damage (Poisoned Enemy) [Innate Stat / Cannot Be Rolled]
-    - Other Realm Resistance [Innate Stat / Cannot Be Rolled]
+    - [DONE] Other Realm Resistance [Innate Stat / Cannot Be Rolled]
     - Elixir Efficacy [Innate Stat / Cannot Be Rolled]
     - Enhanced Kodama Blessings [Innate Stat / Cannot Be Rolled]
     - [DONE] Charge Attack Boost [Innate Stat / Cannot Be Rolled]
@@ -218,4 +219,4 @@ No Conflict Stats
 
 
 --------------------
-Current Soul Core: First Yatsu-no-Kami in the Storehouse
+Current Soul Core: First Kamaitachi in the Storehouse
