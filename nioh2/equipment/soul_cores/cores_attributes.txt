@@ -22,13 +22,13 @@ Anima Stats
     - [DONE] Anima Bonus (Enemy Paralyzed)
     - [DONE] Anima Bonus (Enemy Poisoned)
     - [DONE] Anima Bonus (Enemy Confused)
-    - Anima Bonus (Inflict Ailment)
+    - [DONE] Anima Bonus (Inflict Ailment)
     - [DONE] Anima Bonus (Grapple)
-    - Anima Bonus (Final Blow)
+    - [DONE] Anima Bonus (Final Blow)
     - Anima Bonus (Ninjutsu Hit)
     - [DONE] Anima Bonus (Onmyo Magic Hit)
-    - Anima Bonus (Purification)
-    - Anima Bonus (Ranged Hit)
+    - [DONE] Anima Bonus (Purification)
+    - [DONE] Anima Bonus (Ranged Hit)
     - [DONE] Anima Bonus (Ranged Weapon Hit)
     - [DONE] Anima Bonus (Damage Taken)
     - [DONE] Efficient Yokai Abilities (All)
@@ -37,14 +37,14 @@ Anima Stats
     - [DONE] Anima Charge (Critical)
     - [DONE] Anima Charge (Unscathed)
     - [DONE] Anima Charge (Dark Realm)
-    - Anima Charge (Yokai Shift)
+    - [DONE] Anima Charge (Yokai Shift)
     - [DONE] Anima Charge (Ailing)
-    - Anima Charge (Enhanced)
-    - Anima Charge Bonus (Cumulative Damage)
+    - [DONE] Anima Charge (Enhanced)
+    - [DONE] Anima Charge Bonus (Cumulative Damage)
     - [DONE] Anima Charge Bonus (Amrita Guage) [BLUE]
     - Anima Charge Bonus (Amrita Guage)
     - [DONE] Anima Bonus (Timely Guard) [Innate Stat]
-    - Anima Bonus (Water Attack) [Innate Stat]
+    - [DONE] Anima Bonus (Water Attack) [Innate Stat]
 
 
 ========== ========== ==========
@@ -58,28 +58,28 @@ Damage Stats
     - [DONE] Yokai Ability Damage
     - [DONE] Yokai Ability Damage (All)
     - [DONE] Melee Damage (Dark Realm)
-    - Quick Attack Damage [Innate Stat / Cannot Be Rolled]Fire 
+    - [DONE] Quick Attack Damage [Innate Stat / Cannot Be Rolled]
     - [DONE] Strong Attack Damage [Innate Stat / Cannot Be Rolled]
     - [DONE] Melee Damage vs. Humans [Innate Stat / Cannot Be Rolled]
-    - Damage vs. Revenants [Innate Stat / Cannot Be Rolled]
-    - Active Skill Damage [Innate Stat / Cannot Be Rolled]
-    - Melee Damage vs. Unscathed Enemy [Innate Stat / Cannot Be Rolled]
+    - [DONE] Damage vs. Revenants [Innate Stat / Cannot Be Rolled]
+    - [DONE] Active Skill Damage [Innate Stat / Cannot Be Rolled]
+    - [DONE] Melee Damage vs. Unscathed Enemy [Innate Stat / Cannot Be Rolled]
     - [DONE] Melee Damage vs. Poisoned Enemy [Innate Stat / Cannot Be Rolled]
-    - Backstab Damage [Innate Stat / Cannot Be Rolled]
-    - Elemental Weapon Damage [Innate Stat / Cannot Be Rolled]
-    - Thrust Damage [Innate Stat / Cannot Be Rolled]
+    - [DONE] Backstab Damage [Innate Stat / Cannot Be Rolled]
+    - [DONE] Elemental Weapon Damage [Innate Stat / Cannot Be Rolled]
+    - [DONE] Thrust Damage [Innate Stat / Cannot Be Rolled]
     - Damage Bonus (Equipment Weight) [Innate Stat / Cannot Be Rolled]
-    - Bare-Handed Attack Damage [Innate Stat / Cannot Be Rolled]
-    - Ranged Damage [Innate Stat / Cannot Be Rolled]
-    - Melee Damage vs. Corrupted Enemy [Innate Stat / Cannot Be Rolled]
+    - [DONE] Bare-Handed Attack Damage [Innate Stat / Cannot Be Rolled]
+    - [DONE] Ranged Damage [Innate Stat / Cannot Be Rolled]
+    - [DONE] Melee Damage vs. Corrupted Enemy [Innate Stat / Cannot Be Rolled]
 
 
 ========== ========== ==========
 Ki Damage Stats
 ========== ========== ==========
     - [DONE] Melee Ki Damage
-    - Strong Attack Ki Damage [Innate Stat / Cannot Be Rolled]
-    - Active Skill Ki Damage [Innate Stat / Cannot Be Rolled]
+    - [DONE] Strong Attack Ki Damage [Innate Stat / Cannot Be Rolled]
+    - [DONE] Active Skill Ki Damage [Innate Stat / Cannot Be Rolled]
 
 
 ========== ========== ==========
@@ -95,7 +95,7 @@ Elemental Damage Stats
 Item Drop Rate Stats
 ========== ========== ==========
     - [DONE] Item Drop Rate vs. Humans
-    - Item Drop Rate vs. Yokai
+    - [DONE] Item Drop Rate vs. Yokai
 
 
 ========== ========== ==========
@@ -135,15 +135,15 @@ No Conflict Stats
     - [DONE] Gold Earned
     - [DONE] Gold Earned (Yokai Shift)
     - [DONE] Amrita Earned
-    - Amrita Earned (Yokai Shift)
-    - Soul Core Drop Rate
+    - [DONE] Amrita Earned (Yokai Shift)
+    - [DONE] Soul Core Drop Rate
     - [DONE] Soul Core Drop Rate (Yokai Shift)
-    - Enemy Sensor
+    - [DONE] Enemy Sensor
     - Treasure Sensor
     - Amrita Sensor
     - Kodama Sensor
     - [DONE] Sentience Charge
-    - Damage Taken vs. Yokai
+    - [DONE] Damage Taken vs. Yokai
     - [DONE] Auto-Grave Recovery
     - [DONE] Attunement Cost
     - [DONE] Movement Speed (Yokai Shift)
@@ -156,10 +156,10 @@ No Conflict Stats
     - [DONE] Yokai Ability Damage (Phantom)
     - [DONE] Extend Yokai Shift
     - [DONE] Amrita Gauge Charge
-    - Max Yokai Ability Ki Damage
+    - [DONE] Max Yokai Ability Ki Damage
     - [DONE] Increaed Attack (Yokai Ability Hit)
     - [DONE] Increased Defense (Yokai Ability Hit)
-    - Increased Ki Recovery (Yokai Ability Hit)
+    - [DONE] Faster Ki Recovery (Yokai Ability Hit)
     - [DONE] Amrita Bonus (Inflict Scorched)
     - [DONE] Amrita Bonus (Inflict Saturated)
     - [DONE] Amrita Bonus (Inflict Electrified)
@@ -174,7 +174,7 @@ No Conflict Stats
     - [DONE] Break [Innate Stat / Cannot Be Rolled]
     - [DONE] Block [Innate Stat / Cannot Be Rolled]
     - [DONE] Toughness [Innate Stat / Cannot Be Rolled]
-    - Stealth [Innate Stat / Cannot Be Rolled]
+    - [DONE] Stealth [Innate Stat / Cannot Be Rolled]
     - Dash Ki Consumption [Innate Stat / Cannot Be Rolled]
     - [DONE] Grapple Damage [Innate Stat / Cannot Be Rolled]
     - Melee Damage vs. Zero-Ki Enemy [Innate Stat / Cannot Be Rolled]
@@ -197,7 +197,7 @@ No Conflict Stats
     - Life Drain (Water Attack) [Innate Stat / Cannot Be Rolled]
     - Faster Movement (Amrita Absorption) [Innate Stat / Cannot Be Rolled]
     - Elemental Damage Taken [Innate Stat / Cannot Be Rolled]
-    - Scampuss Escort Duration [Innate Stat / Cannot Be Rolled]
+    - [DONE] Scampuss Escort Duration [Innate Stat / Cannot Be Rolled]
     - [DONE] Pleiades (Enemy Killed) [Innate Stat / Cannot Be Rolled]
     - Increased Defense (Amrita Absorption) [Innate Stat / Cannot Be Rolled]
     - Extend Elemental Weapon [Innate Stat / Cannot Be Rolled]
