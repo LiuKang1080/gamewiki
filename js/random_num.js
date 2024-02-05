@@ -29,10 +29,22 @@ function rand_num(limit) {
     Return: 
         - [none] console.log().
     */
+    let num = 0;
 
-    console.log(Math.floor(Math.random() * (limit + 1)));
+    // labeled statement
+    label: while(true) {
+        num = Math.floor(Math.random() * (limit + 1));
+        
+        if (num === 0) {
+            continue label;
+        } else {
+            break;
+        }
+    }
+
+    return num;
 }
 
 
 // call rand_num() function
-rand_num(11);
+console.log(rand_num(11));
