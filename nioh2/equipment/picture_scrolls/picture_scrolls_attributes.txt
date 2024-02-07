@@ -44,7 +44,7 @@ Misc Ki Consumption Attributes
 ========== ========== ==========
 Power Attributes
 ========== ========== ==========
-    - Ninjutsu Power
+    - [DONE] Ninjutsu Power
     - [DONE] Onmyo Magic Power
 
 
