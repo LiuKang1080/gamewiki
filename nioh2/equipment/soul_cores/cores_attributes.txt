@@ -41,8 +41,8 @@ Anima Stats
     - [DONE] Anima Charge (Ailing)
     - [DONE] Anima Charge (Enhanced)
     - [DONE] Anima Charge Bonus (Cumulative Damage)
-    - [DONE] Anima Charge Bonus (Amrita Guage) [BLUE]
-    - Anima Charge Bonus (Amrita Guage)
+    - [DONE] Anima Charge Bonus (Amrita Gauge) [BLUE]
+    - Anima Charge Bonus (Amrita Gauge)
     - [DONE] Anima Bonus (Timely Guard) [Innate Stat]
     - [DONE] Anima Bonus (Water Attack) [Innate Stat]
 
