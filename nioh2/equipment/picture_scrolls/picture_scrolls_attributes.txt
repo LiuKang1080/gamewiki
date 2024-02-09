@@ -25,11 +25,11 @@ Ki Damage Attributes
 Attack Ki Consumption Attributes
 ========== ========== ==========
     - [DONE] Melee Attack Ki Consumption
-    - Low Attack Ki Consumption
-    - Mid Attack Ki Consumption
+    - [DONE] Low Attack Ki Consumption
+    - [DONE] Mid Attack Ki Consumption
     - [DONE] High Attack Ki Consumption
     - [DONE] Quick Attack Ki Consumption
-    - Strong Attack Ki Consumption
+    - [DONE] Strong Attack Ki Consumption
     - [DONE] Active Skill Ki Consumption
 
 
@@ -73,13 +73,13 @@ Counter Tactics Attributes
 No Conflict Attributes
 ========== ========== ==========
     - [DONE] Ailment Affliction Duration
-    - Amrita Earned
+    - [DONE] Amrita Earned
     - [DONE] Amrita Gauge Charge
     - [DONE] Damage Taken
     - [DONE] Elemental Damage Taken
     - [DONE] Elemental Damage Taken (Guarding)
     - [DONE] Anima Charge
-    - Equipment Drop Rate
+    - [DONE] Equipment Drop Rate
     - [DONE] Extend Dodge Invulnerability
     - [DONE] Extend Yokai Shift
     - [DONE] Item Drop Rate
@@ -103,17 +103,9 @@ No Conflict Attributes
 ========== ========== ==========
 Special Rules
 ========== ========== ==========
+    - Amrita Earned Up
+    - Divine+ Item Drop Rate
+    - Gold Earned Up
     - Lucky Drop (GRACE)
     - Lucky Drop Transferable Effects
-    - Divine+ Item Drop Rate
-    - 
-
-
-
-
-
-
-
-
-
-
+    - Soul Core Drop Rate Up
