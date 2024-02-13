@@ -666,30 +666,12 @@ Soaring Region (Region 2)
             - Onmyo Mage's Locks
             - Unlocks 2nd Guardian Spirit (complete mission)
 
-
-
-
-
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-
-
     ==========
     An End to Seclusion (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete "The Hollow Fortress"
+        --------------------
         - Recommended level: 54
         - Shrine: Yes
         - Torii Gate Expedition: Yes
@@ -707,6 +689,9 @@ Soaring Region (Region 2)
     ==========
     The Shiftling's Wise Judgement (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete "The Hollow Fortress"
+        --------------------
         - Recommended level: 57
         - Shrine: Yes
         - Torii Gate Expedition: Yes
@@ -725,6 +710,9 @@ Soaring Region (Region 2)
     ==========
     The Viper and the Butterfly (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete "The Hollow Fortress"
+        --------------------
         - Recommended level: 58
         - Shrine: Yes
         - Torii Gate Expedition: Yes
@@ -743,6 +731,29 @@ Soaring Region (Region 2)
 ========== ========== ========== ========== ==========
 Shadow Region (Region 3)
 ========== ========== ========== ========== ==========
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
     ==========
     A Way Out (Main Mission)
     ==========
