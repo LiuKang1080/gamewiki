@@ -1317,10 +1317,6 @@ video {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.last\:rounded:last-child {
-  border-radius: 0.25rem;
-}
-
 .even\:bg-dark-gray-2:nth-child(even) {
   background-color: #625d5d99;
 }
