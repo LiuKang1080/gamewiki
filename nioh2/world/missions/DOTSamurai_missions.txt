@@ -731,7 +731,27 @@ Soaring Region (Region 2)
 ========== ========== ========== ========== ==========
 Shadow Region (Region 3)
 ========== ========== ========== ========== ==========
-    
+    ==========
+    A Way Out (Main Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete "The Hollow Fortress"
+        --------------------
+        - Recommended level: 59
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 7
+        - Number of Sudama: 2
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 3
+        - Bosses: 
+            - Tatarimokke 
+        - Guardian Spirit Unlocked: 
+            - Yaonami-Hime
+        - Notable Items In Mission / Mission Rewards:
+            - Onmyo Mage's Locks
+            - Ninja's Locks
+            - Unlocks Hidden Tea House
     
     
     
@@ -754,24 +774,7 @@ Shadow Region (Region 3)
     
     
 
-    ==========
-    A Way Out (Main Mission)
-    ==========
-        - Recommended level: 59
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 7
-        - Number of Sudama: 2
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 3
-        - Bosses: 
-            - Tatarimokke 
-        - Guardian Spirit Unlocked: 
-            - Yaonami-Hime
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks
-            - Ninja's Locks
-            - Unlocks Hidden Tea House
+    
 
     ==========
     Learning A Lesson (Sub Mission)
