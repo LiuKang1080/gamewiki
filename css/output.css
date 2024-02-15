@@ -1317,6 +1317,10 @@ video {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.odd\:bg-dark-gray-2:nth-child(odd) {
+  background-color: #625d5d99;
+}
+
 .even\:bg-dark-gray-2:nth-child(even) {
   background-color: #625d5d99;
 }
