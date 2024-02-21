@@ -1,11 +1,16 @@
-/* JavaScript for weapon_tables.html */
+/* JavaScript for accessories_tables.html */
 
 
 /* ========== ========== ========== ========== ==========
 Table of Contents JavaScript 
 ========== ========== ========== ========== ========== */
-function nioh_gear() {
-    let element = document.getElementById("nioh-gear");
+function nioh() {
+    let element = document.getElementById("nioh");
+    element.scrollIntoView();
+}
+
+function restricted() {
+    let element = document.getElementById("restricted");
     element.scrollIntoView();
 }
 
