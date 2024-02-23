@@ -5,7 +5,7 @@
 Table of Contents JavaScript 
 ========== ========== ========== ========== ========== */
 function nioh() {
-    let element = document.getElementById("nioh");
+    let element = document.getElementById("nioh-gear");
     element.scrollIntoView();
 }
 
