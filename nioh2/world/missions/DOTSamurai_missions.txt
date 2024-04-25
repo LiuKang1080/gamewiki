@@ -753,32 +753,12 @@ Shadow Region (Region 3)
             - Ninja's Locks
             - Unlocks Hidden Tea House
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-
     ==========
     Learning A Lesson (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete "A Way Out"
+        --------------------
         - Recommended level: 62
         - Shrine: Yes
         - Torii Gate Expedition: Yes
@@ -792,10 +772,13 @@ Shadow Region (Region 3)
             - None
         - Notable Items In Mission / Mission Rewards:
             - None
-
+    
     ==========
     The Shrine of Oaths (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete "A Way Out"
+        --------------------
         - Recommended level: 63
         - Shrine: Yes
         - Torii Gate Expedition: Yes
@@ -809,10 +792,13 @@ Shadow Region (Region 3)
             - Makami / Ame-no-Mitori / Kagewani (only 1 will be given)
         - Notable Items In Mission / Mission Rewards:
             - Onmyo Mage's Locks
-
+    
     ==========
     Immovable (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete "A Way Out"
+        --------------------
         - Recommended level: 63
         - Shrine: Yes
         - Torii Gate Expedition: Yes
@@ -826,10 +812,13 @@ Shadow Region (Region 3)
             - None
         - Notable Items In Mission / Mission Rewards:
             - None
-
+    
     ==========
     A Formal Match (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete "A Way Out"
+        --------------------
         - Recommended level: 64 
         - Shrine: No 
         - Torii Gate Expedition: No 
@@ -843,10 +832,36 @@ Shadow Region (Region 3)
             - None
         - Notable Items In Mission / Mission Rewards:
             - None
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     ==========
     Corpses and Ice (Main Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete "A Way Out"
+        --------------------
         - Recommended level: 65 
         - Shrine: Yes 
         - Torii Gate Expedition: Yes 
@@ -934,6 +949,11 @@ Shadow Region (Region 3)
     ==========
     The Fallen Star (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete "The Shiftling's Wise Judgement"
+            - Complete "Learning A Lesson"
+            - Complete "A Shadow's Duty"
+        --------------------
         - Recommended level: 70 
         - Shrine: Yes 
         - Torii Gate Expedition: Yes 
@@ -1055,6 +1075,9 @@ Shadow Region (Region 3)
     ==========
     The Chinese Bellflower Dagger (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete "A Way Out"
+        --------------------
         - Recommended level: 65
         - Shrine: No
         - Torii Gate Expedition: No
