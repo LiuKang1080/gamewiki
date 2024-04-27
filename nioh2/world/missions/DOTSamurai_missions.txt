@@ -1131,33 +1131,12 @@ Dawn Region (Region 4)
             - Unlocks "The Way of the Ninja: Veteran" after beating mission.
             - Unlocks "The Way of the Onmyo: Veteran" after beating mission.
 
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-    
-
-    
-
-
-
-
     ==========
     The Missing Gun (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Pervading Waters"
+        --------------------
         - Recommended level: 78
         - Shrine: Yes
         - Torii Gate Expedition: Yes
@@ -1175,6 +1154,9 @@ Dawn Region (Region 4)
     ==========
     The Refined Man of the Underworld (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Pervading Waters"
+        --------------------
         - Recommended level: 79
         - Shrine: No
         - Torii Gate Expedition: Yes
@@ -1189,6 +1171,30 @@ Dawn Region (Region 4)
             - None
         - Notable Items In Mission / Mission Rewards:
             - None
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+
+
+
+    
+
+    
 
     ==========
     Song of the Yokai (Sub Mission)
