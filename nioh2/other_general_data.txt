@@ -10,6 +10,9 @@ Key Items
     - Wooden Kannon Sculpture:
         - Complete the mission: The Tiger Approaches (Sub Mission)
 
+    - Tattered Note:
+        - Complete the mission: Lingering Snow and Crimson Tracks (Sub Mission)
+
     - Harakiri Sword:
         - Pick up item during the mission: The Village of Cursed Blossoms (Main Mission)
 

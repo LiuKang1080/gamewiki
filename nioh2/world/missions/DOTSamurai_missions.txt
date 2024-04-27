@@ -2,7 +2,7 @@
     TEMPLATE ()
     ==========
         - Mission Unlock Requirement:
-            - 
+            - Complete the mission: ""
         --------------------
         - Recommended level: 
         - Gold: 
@@ -63,7 +63,7 @@ Dojo Missions:
     The Way of the Warrior: Novice (Dojo Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete the mission "The Beast Born of Smoke and Flames"
+            - Complete the mission: "The Beast Born of Smoke and Flames"
         --------------------
         - Recommended level: 35
         - Shrine: No
@@ -83,7 +83,7 @@ Dojo Missions:
     The Way of the Ninja: Novice (Dojo Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete the mission "The Viper's Sanctum"
+            - Complete the mission: "The Viper's Sanctum"
         --------------------
         - Recommended level: 35
         - Shrine: No
@@ -103,7 +103,7 @@ Dojo Missions:
     The Way of Onmyo: Novice (Dojo Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete the mission "The Viper's Sanctum"
+            - Complete the mission: "The Viper's Sanctum"
         --------------------
         - Recommended level: 35
         - Shrine: No
@@ -123,7 +123,7 @@ Dojo Missions:
     The Way of the Warrior: Adept (Dojo Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete the mission "The Mysterious One Night Castle"
+            - Complete the mission: "The Mysterious One Night Castle"
         --------------------
         - Recommended level: 59
         - Shrine: No
@@ -143,7 +143,7 @@ Dojo Missions:
     The Way of the Ninja: Adept (Dojo Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete the mission "The Mysterious One Night Castle"
+            - Complete the mission: "The Mysterious One Night Castle"
         --------------------
         - Recommended level: 59
         - Shrine: No
@@ -163,7 +163,7 @@ Dojo Missions:
     The Way of the Onmyo: Adept (Dojo Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete the mission "The Mysterious One Night Castle"
+            - Complete the mission: "The Mysterious One Night Castle"
         --------------------
         - Recommended level: 59
         - Shrine: No
@@ -183,7 +183,7 @@ Dojo Missions:
     The Way of the Warrior: Veteran (Dojo Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete the mission "Pervading Waters"
+            - Complete the mission: "Pervading Waters"
         --------------------
         - Recommended level: 88
         - Shrine: No
@@ -203,7 +203,7 @@ Dojo Missions:
     The Way of the Ninja: Veteran (Dojo Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete the mission "Pervading Waters"
+            - Complete the mission: "Pervading Waters"
         --------------------
         - Recommended level: 88
         - Shrine: No
@@ -223,7 +223,7 @@ Dojo Missions:
     The Way of the Onmyo: Veteran (Dojo Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete the mission "Pervading Waters"
+            - Complete the mission: "Pervading Waters"
         --------------------
         - Recommended level: 88
         - Shrine: No
@@ -273,7 +273,7 @@ Awakening Region (Region 1)
     The Forest Veiled in Darkness (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Village of Cursed Blossoms"
+            - Complete the mission: "The Village of Cursed Blossoms"
         --------------------
         - Recommended level: 9
         - Gold: 3,800
@@ -295,7 +295,7 @@ Awakening Region (Region 1)
     The Beast Born of Smoke and Flames (Main Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Village of Cursed Blossoms"
+            - Complete the mission: "The Village of Cursed Blossoms"
         --------------------
         - Recommended level: 10
         - Gold: 4,200
@@ -322,7 +322,7 @@ Awakening Region (Region 1)
     A Voice in the Twilight (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Beast Born of Smoke and Flames"
+            - Complete the mission: "The Beast Born of Smoke and Flames"
         --------------------
         - Recommended level: 20
         - Gold: 4,800
@@ -344,7 +344,7 @@ Awakening Region (Region 1)
     Dark Omens (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Beast Born of Smoke and Flames"
+            - Complete the mission: "The Beast Born of Smoke and Flames"
         --------------------
         - Recommended level: 21
         - Gold: 5,200
@@ -367,7 +367,7 @@ Awakening Region (Region 1)
     The Viper's Sanctum (Main Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Beast Born of Smoke and Flames"
+            - Complete the mission: "The Beast Born of Smoke and Flames"
         --------------------
         - Recommended level: 24
         - Gold: 5,600
@@ -393,7 +393,7 @@ Awakening Region (Region 1)
     A Favor for the Blacksmith (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Viper's Sanctum"
+            - Complete the mission: "The Viper's Sanctum"
         --------------------
         - Recommended level: 30
         - Gold: 6,200
@@ -415,7 +415,7 @@ Awakening Region (Region 1)
     The Search (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Viper's Sanctum"
+            - Complete the mission: "The Viper's Sanctum"
         --------------------
         - Recommended level: 32
         - Gold: 6,600
@@ -437,7 +437,7 @@ Awakening Region (Region 1)
     The Greedy Hunter (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Viper's Sanctum"
+            - Complete the mission: "The Viper's Sanctum"
         --------------------
         - Recommended level: 34
         - Gold: 7,000
@@ -463,7 +463,7 @@ Soaring Region (Region 2)
     The Hidden Monsters of Okehazama (Main Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Viper's Sanctum" and move onto the Soaring Region (2nd Region)
+            - Complete the mission: "The Viper's Sanctum" and move onto the Soaring Region (2nd Region)
         --------------------
         - Recommended level: 35
         - Gold: 7,400
@@ -487,7 +487,7 @@ Soaring Region (Region 2)
     Imagawa Diehard (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Hidden Monsters of Okehazama"
+            - Complete the mission: "The Hidden Monsters of Okehazama"
         --------------------
         - Recommended level: 39
         - Gold: 7,800
@@ -509,7 +509,7 @@ Soaring Region (Region 2)
     Hidetatsu's Dying Wish (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Hidden Monsters of Okehazama"
+            - Complete the mission: "The Hidden Monsters of Okehazama"
         --------------------
         - Recommended level: 40
         - Gold: 8,200
@@ -531,7 +531,7 @@ Soaring Region (Region 2)
     An Error in Calculation (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Hidden Monsters of Okehazama"
+            - Complete the mission: "The Hidden Monsters of Okehazama"
         --------------------
         - Recommended level: 41
         - Gold: 8,600
@@ -553,7 +553,7 @@ Soaring Region (Region 2)
     The Mysterious One Night Castle (Main Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Hidden Monsters of Okehazama"
+            - Complete the mission: "The Hidden Monsters of Okehazama"
         --------------------
         - Recommended level: 43
         - Gold: 8,800
@@ -579,7 +579,7 @@ Soaring Region (Region 2)
     The Sunomata Yokai Hunt (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Mysterious One Night Castle"
+            - Complete the mission: "The Mysterious One Night Castle"
         --------------------
         - Recommended level: 46
         - Gold: 9,200
@@ -601,7 +601,7 @@ Soaring Region (Region 2)
     A Hot-blodded Howl (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Mysterious One Night Castle"
+            - Complete the mission: "The Mysterious One Night Castle"
         --------------------
         - Recommended level: 47
         - Gold: 9,400
@@ -623,7 +623,7 @@ Soaring Region (Region 2)
     The Fire God's Magatama (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Mysterious One Night Castle"
+            - Complete the mission: "The Mysterious One Night Castle"
         --------------------
         - Recommended level: 49
         - Gold: 9,800
@@ -645,7 +645,7 @@ Soaring Region (Region 2)
     The Hollow Fortress (Main Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Mysterious One Night Castle"
+            - Complete the mission: "The Mysterious One Night Castle"
         --------------------
         - Recommended level: 50
         - Gold: 10,200
@@ -670,7 +670,7 @@ Soaring Region (Region 2)
     An End to Seclusion (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Hollow Fortress"
+            - Complete the mission: "The Hollow Fortress"
         --------------------
         - Recommended level: 54
         - Shrine: Yes
@@ -690,7 +690,7 @@ Soaring Region (Region 2)
     The Shiftling's Wise Judgement (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Hollow Fortress"
+            - Complete the mission: "The Hollow Fortress"
         --------------------
         - Recommended level: 57
         - Shrine: Yes
@@ -711,7 +711,7 @@ Soaring Region (Region 2)
     The Viper and the Butterfly (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Hollow Fortress"
+            - Complete the mission: "The Hollow Fortress"
         --------------------
         - Recommended level: 58
         - Shrine: Yes
@@ -735,7 +735,7 @@ Shadow Region (Region 3)
     A Way Out (Main Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Hollow Fortress"
+            - Complete the mission: "The Hollow Fortress"
         --------------------
         - Recommended level: 59
         - Shrine: Yes
@@ -757,7 +757,7 @@ Shadow Region (Region 3)
     Learning A Lesson (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "A Way Out"
+            - Complete the mission: "A Way Out"
         --------------------
         - Recommended level: 62
         - Shrine: Yes
@@ -777,7 +777,7 @@ Shadow Region (Region 3)
     The Shrine of Oaths (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "A Way Out"
+            - Complete the mission: "A Way Out"
         --------------------
         - Recommended level: 63
         - Shrine: Yes
@@ -797,7 +797,7 @@ Shadow Region (Region 3)
     Immovable (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "A Way Out"
+            - Complete the mission: "A Way Out"
         --------------------
         - Recommended level: 63
         - Shrine: Yes
@@ -817,7 +817,7 @@ Shadow Region (Region 3)
     A Formal Match (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "A Way Out"
+            - Complete the mission: "A Way Out"
         --------------------
         - Recommended level: 64 
         - Shrine: No 
@@ -837,7 +837,7 @@ Shadow Region (Region 3)
     Corpses and Ice (Main Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "A Way Out"
+            - Complete the mission: "A Way Out"
         --------------------
         - Recommended level: 65 
         - Shrine: Yes 
@@ -858,7 +858,7 @@ Shadow Region (Region 3)
     Lingering Snow and Crimson Tracks (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "Corpses and Ice"
+            - Complete the mission: "Corpses and Ice"
         --------------------
         - Recommended level: 68
         - Shrine: Yes 
@@ -878,7 +878,7 @@ Shadow Region (Region 3)
     The Tiger Approaches (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "Corpses and Ice"
+            - Complete the mission: "Corpses and Ice"
         --------------------
         - Recommended level: 69
         - Shrine: Yes 
@@ -898,7 +898,7 @@ Shadow Region (Region 3)
     The Brother's Blades (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "Corpses and Ice"
+            - Complete the mission: "Corpses and Ice"
         --------------------
         - Recommended level: 69
         - Shrine: Yes 
@@ -918,8 +918,8 @@ Shadow Region (Region 3)
     A Shadow's Duty (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "Corpses and Ice"
-            - Complete "The Tiger Approaches"
+            - Complete the mission: "Corpses and Ice"
+            - Complete the mission: "The Tiger Approaches"
         --------------------
         - Recommended level: 70 
         - Shrine: Yes 
@@ -940,9 +940,9 @@ Shadow Region (Region 3)
     The Fallen Star (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "The Shiftling's Wise Judgement"
-            - Complete "Learning A Lesson"
-            - Complete "A Shadow's Duty"
+            - Complete the mission: "The Shiftling's Wise Judgement"
+            - Complete the mission: "Learning A Lesson"
+            - Complete the mission: "A Shadow's Duty"
         --------------------
         - Recommended level: 70 
         - Shrine: Yes 
@@ -962,8 +962,8 @@ Shadow Region (Region 3)
     Horns on Head, Dragonfly in Hand (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "Corpses and Ice"
-            - Complete "The Tiger Approaches"
+            - Complete the mission: "Corpses and Ice"
+            - Complete the mission: "The Tiger Approaches"
         --------------------
         - Recommended level: 71
         - Shrine: No
@@ -983,7 +983,7 @@ Shadow Region (Region 3)
     Bird In A Cage (Main Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "Corpses and Ice"
+            - Complete the mission: "Corpses and Ice"
         --------------------
         - Recommended level: 71
         - Shrine: Yes
@@ -1000,33 +1000,13 @@ Shadow Region (Region 3)
             - Ninja's Locks
             - Onmyo Mage's Locks
             - Samurai's Locks (mission reward)
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
 
     ==========
     The Point of No Return (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Bird In A Cage"
+        --------------------
         - Recommended level: 74
         - Shrine: No
         - Torii Gate Expedition: No
@@ -1044,6 +1024,9 @@ Shadow Region (Region 3)
     ==========
     The Golden Nation (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Bird In A Cage"
+        --------------------
         - Recommended level: 74
         - Shrine: Yes
         - Torii Gate Expedition: Yes
@@ -1061,6 +1044,9 @@ Shadow Region (Region 3)
     ==========
     The Demon King's Blade (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Bird In A Cage"
+        --------------------
         - Recommended level: 74
         - Shrine: No
         - Torii Gate Expedition: No
@@ -1078,6 +1064,10 @@ Shadow Region (Region 3)
     ==========
     The Child's Prodigy's Invitation (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Bird In A Cage"
+            - Complete the mission: "The Golden Nation"
+        --------------------
         - Recommended level: 75
         - Shrine: No
         - Torii Gate Expedition: No
@@ -1096,7 +1086,7 @@ Shadow Region (Region 3)
     The Chinese Bellflower Dagger (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete "A Way Out"
+            - Complete the mission: "A Way Out"
         --------------------
         - Recommended level: 65
         - Shrine: No
@@ -1119,6 +1109,9 @@ Dawn Region (Region 4)
     ==========
     Pervading Waters (Main Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "A Way Out" and enter the Dawn Region
+        --------------------
         - Recommended level: 75
         - Shrine: Yes
         - Torii Gate Expedition: Yes
@@ -1137,6 +1130,30 @@ Dawn Region (Region 4)
             - Unlocks "The Way of the Warrior: Veteran" after beating mission.
             - Unlocks "The Way of the Ninja: Veteran" after beating mission.
             - Unlocks "The Way of the Onmyo: Veteran" after beating mission.
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+
+
 
     ==========
     The Missing Gun (Sub Mission)
