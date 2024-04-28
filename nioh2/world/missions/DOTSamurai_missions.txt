@@ -1172,33 +1172,12 @@ Dawn Region (Region 4)
         - Notable Items In Mission / Mission Rewards:
             - None
 
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-    
-
-    
-
-
-
-
-    
-
-    
-
     ==========
     Song of the Yokai (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Pervading Waters"
+        --------------------
         - Recommended level: 79
         - Shrine: Yes
         - Torii Gate Expedition: Yes
@@ -1216,6 +1195,9 @@ Dawn Region (Region 4)
     ==========
     The Frenzied Blaze (Main Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Pervading Waters"
+        --------------------
         - Recommended level: 80
         - Shrine: Yes
         - Torii Gate Expedition: Yes
@@ -1234,6 +1216,9 @@ Dawn Region (Region 4)
     ==========
     The Burning Sky (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Frenzied Blaze"
+        --------------------
         - Recommended level: 83
         - Shrine: Yes
         - Torii Gate Expedition: Yes
@@ -1251,6 +1236,9 @@ Dawn Region (Region 4)
     ==========
     Abduction (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Frenzied Blaze"
+        --------------------
         - Recommended level: 83
         - Shrine: Yes
         - Torii Gate Expedition: Yes
@@ -1268,6 +1256,9 @@ Dawn Region (Region 4)
     ==========
     The Warrior (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Frenzied Blaze"
+        --------------------
         - Recommended level: 84
         - Shrine: Yes
         - Torii Gate Expedition: Yes
@@ -1285,6 +1276,9 @@ Dawn Region (Region 4)
     ==========
     The Sun Sets on Mount Tenno (Main Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Frenzied Blaze"
+        --------------------
         - Recommended level: 85
         - Shrine: Yes
         - Torii Gate Expedition: Yes
@@ -1302,6 +1296,30 @@ Dawn Region (Region 4)
             - Onmyo Mage's Locks (mission reward)
             - Smithing Text: Sacred Brush (mission reward)
             - 3rd Soul Core slot unlocked for Guardian Spirits (complete mission)
+
+    
+    
+
+    
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     ==========
     The Aberrant Mage (Sub Mission)
