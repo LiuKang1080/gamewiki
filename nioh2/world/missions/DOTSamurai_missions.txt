@@ -1324,6 +1324,10 @@ Dawn Region (Region 4)
     ==========
     The Aberrant Mage (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Sun Sets on Mount Tenno"
+            - Defeat an Onmyo Mage 10 or more times
+        --------------------
         - Recommended level: 87
         - Shrine: Yes
         - Torii Gate Expedition: Yes
@@ -1342,6 +1346,10 @@ Dawn Region (Region 4)
     ==========
     The Third Word (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Sun Sets on Mount Tenno"
+            - Complete the mission: "The Aberrant Mage"
+        --------------------
         - Recommended level: 88
         - Shrine: No
         - Torii Gate Expedition: No
@@ -1355,6 +1363,28 @@ Dawn Region (Region 4)
             - Yatagarasu
         - Notable Items In Mission / Mission Rewards:
             - None
+
+    ==========
+    Master of the Three Evils (Sub Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Sun Sets on Mount Tenno"
+            - Complete the mission: "The Refined Man of the Underworld"
+            - Complete the mission: "Master of the Dual Blades (Unlocked after completing Ruin Draws Near (Twilight Region | Region 5))"
+        --------------------
+        - Recommended level: 80
+        - Shrine: 
+        - Torii Gate Expedition: 
+        - Number of Kodama: 
+        - Number of Sudama: 
+        - Number of Hot Springs: 
+        - Number of Dark Realms: 
+        - Bosses: 
+            - 
+        - Guardian Spirit Unlocked: 
+            - 
+        - Notable Items In Mission / Mission Rewards:
+            - 
 
 
 ========== ========== ========== ========== ==========
