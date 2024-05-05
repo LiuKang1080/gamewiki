@@ -1297,30 +1297,6 @@ Dawn Region (Region 4)
             - Smithing Text: Sacred Brush (mission reward)
             - 3rd Soul Core slot unlocked for Guardian Spirits (complete mission)
 
-    
-    
-
-    
-
-
-
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
     ==========
     The Aberrant Mage (Sub Mission)
     ==========
@@ -1363,6 +1339,30 @@ Dawn Region (Region 4)
             - Yatagarasu
         - Notable Items In Mission / Mission Rewards:
             - None
+    
+
+    
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     ==========
     Master of the Three Evils (Sub Mission)
