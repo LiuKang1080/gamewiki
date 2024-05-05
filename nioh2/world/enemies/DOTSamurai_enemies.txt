@@ -1099,41 +1099,13 @@ Dawn Region (Region 4)
         - Onyudo (fire)
         - Ryomen Sukuna (boss) (first time)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
     ==========
     The Aberrant Mage (Side Mission)
     ==========
+        - Quest Giver: Mumyo
+        - Characters: 
+            - Saika Magoichi (Ally)
+        --------------------
         - Warrior
         - Spider
         - Dweller
@@ -1145,6 +1117,38 @@ Dawn Region (Region 4)
         - Ubume
         - Onyudo (lightning) (first time)
         - Onyudo (fire)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     ==========
     The Third Word (Side Mission)
