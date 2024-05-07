@@ -1339,30 +1339,6 @@ Dawn Region (Region 4)
             - Yatagarasu
         - Notable Items In Mission / Mission Rewards:
             - None
-    
-
-    
-
-
-
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
 
     ==========
     Master of the Three Evils (Sub Mission)
@@ -1395,6 +1371,9 @@ Twilight Region (Region 5)
     ==========
     Ruin Draws Near (Main Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Sun Sets on Mount Tenno"
+        --------------------
         - Recommended level: 88
         - Shrine: Yes
         - Torii Gate Expedition: Yes
@@ -1422,6 +1401,30 @@ Twilight Region (Region 5)
             - Unlocks "The Unstoppable Whirlwind" in the Dojo after beating mission.
             - Unlocks "Breaking Free" in the Dojo after beating mission.
             - Unlocks "Strike Like a Yokai" in the Dojo after beating mission.
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
 
     ==========
     Okuni's Search (Sub Mission)

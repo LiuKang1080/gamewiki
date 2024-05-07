@@ -1118,41 +1118,13 @@ Dawn Region (Region 4)
         - Onyudo (lightning) (first time)
         - Onyudo (fire)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
     ==========
     The Third Word (Side Mission)
     ==========
+        - Quest Giver: Mumyo
+        - Characters: 
+            - None
+        --------------------
         - Saika Magoichi (boss)
 
 
@@ -1162,6 +1134,10 @@ Twilight Region (Region 5)
     ==========
     Ruin Draws Near (Main Mission)
     ==========
+        - Quest Giver: Mumyo
+        - Characters: 
+            - 
+        --------------------
         - Skeleton Warrior
         - Yoki (sword)
         - Onyudo (fire)
@@ -1173,6 +1149,35 @@ Twilight Region (Region 5)
         - Maeda Toshiie (boss) (first time)
         - Ippon-Datara (hammer)
         - Oni Shibata Katsuie (boss) (first time)
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     ==========
     Okuni's Search (Side Mission)
