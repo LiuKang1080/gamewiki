@@ -1196,7 +1196,65 @@ Twilight Region (Region 5)
     ==========
     Ruin Draws Near (Main Mission)
     ==========
+        Dual Swords:
+        --------------------
+            - 
         
+        Dual Swords:
+        --------------------
+            - 
+
+        Spear:
+        --------------------
+            - 
+
+        Axe:
+        --------------------
+            - 
+
+        Kusarigama:
+        --------------------
+            - 
+
+        Switchglaive:
+        --------------------
+            - 
+
+        Splitstaff:
+        --------------------
+            - 
+
+        Fists:
+        --------------------
+            - 
+
+        Bow:
+        --------------------
+            - 
+
+        Head Protection:
+        --------------------
+            - Horse Guard's Helmet
+
+        Torso Protection:
+        --------------------
+            - 
+
+        Arm Protection:
+        --------------------
+            - 
+
+        Leg Protection:
+        --------------------
+            - 
+
+        Foot Protection:
+        --------------------
+            - 
+
+        Tools:
+        --------------------
+            -         
 
 
 
