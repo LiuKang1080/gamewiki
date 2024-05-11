@@ -239,6 +239,233 @@ Dojo Missions:
         - Notable Items In Mission / Mission Rewards:
             - Onmyo Mage's Locks
 
+=================================================================================================================================
+=================================================================================================================================
+=================================================================================================================================
+TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this todo task and the lines.
+=================================================================================================================================
+=================================================================================================================================
+=================================================================================================================================
+    ==========
+    Opening of the Mind's Eye (Dojo Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Ruin Draws Near"
+        --------------------
+        - Recommended level: 100
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - 
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Swordsman's Locks
+
+    ==========
+    Master of the Dual Blades (Dojo Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Ruin Draws Near"
+        --------------------
+        - Recommended level: 100
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - 
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Dual Swordsman's Locks
+
+    ==========
+    Hanzo the Demon (Dojo Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Ruin Draws Near"
+        --------------------
+        - Recommended level: 100
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - 
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Spearman's Locks
+
+    ==========
+    The Unmoving Mountain (Dojo Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Ruin Draws Near"
+        --------------------
+        - Recommended level: 100
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - 
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Axeman's Locks
+
+    ==========
+    The Chain That Splits the Sky (Dojo Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Ruin Draws Near"
+        --------------------
+        - Recommended level: 100
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - 
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Kusarigama Wielder's Locks
+
+    ==========
+    The Tengu's Blade (Dojo Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Ruin Draws Near"
+        --------------------
+        - Recommended level: 100
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - 
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Odachi Wielder's Locks
+
+    ==========
+    Like Lightning (Dojo Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Ruin Draws Near"
+        --------------------
+        - Recommended level: 100
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - 
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Tonfa Wielder's Locks
+
+    ==========
+    The Unstoppable Whirlwind (Dojo Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Ruin Draws Near"
+        --------------------
+        - Recommended level: 100
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - 
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Hatchet Wielder's Locks
+
+    ==========
+    Sharp Eyes (Dojo Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Ruin Draws Near"
+        --------------------
+        - Recommended level: 100
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - 
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Switchglaive Wielder's Locks
+
+    ==========
+    Breaking Free (Dojo Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Ruin Draws Near"
+        --------------------
+        - Recommended level: 100
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - 
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Splitstaff Wielder's Locks
+
+    ==========
+    Strike Like a Yokai (Dojo Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Ruin Draws Near"
+        --------------------
+        - Recommended level: 100
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - 
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Fist Wielder's Locks
+
 
 ========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
@@ -1402,33 +1629,12 @@ Twilight Region (Region 5)
             - Unlocks "Breaking Free" in the Dojo after beating mission.
             - Unlocks "Strike Like a Yokai" in the Dojo after beating mission.
 
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-
-
-
     ==========
     Okuni's Search (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Ruin Draws Near"
+        --------------------
         - Recommended level: 90
         - Shrine: Yes
         - Torii Gate Expedition: Yes
@@ -1446,6 +1652,9 @@ Twilight Region (Region 5)
     ==========
     Farewell to the Past (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Ruin Draws Near"
+        --------------------
         - Recommended level: 91
         - Shrine: No
         - Torii Gate Expedition: Yes
@@ -1463,6 +1672,9 @@ Twilight Region (Region 5)
     ==========
     The Two Faces of Hospitality (Main Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Ruin Draws Near"
+        --------------------
         - Recommended level: 91
         - Shrine: Yes
         - Torii Gate Expedition: Yes
@@ -1477,6 +1689,29 @@ Twilight Region (Region 5)
         - Notable Items In Mission / Mission Rewards:
             - Onmyo Mage's Locks
             - Ninja's Locks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     The High-Spirited Demon (Main Mission)

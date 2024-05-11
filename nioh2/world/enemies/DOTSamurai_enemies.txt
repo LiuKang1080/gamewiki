@@ -1150,38 +1150,13 @@ Twilight Region (Region 5)
         - Ippon-Datara (hammer)
         - Oni Shibata Katsuie (boss) (first time)
 
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
     ==========
     Okuni's Search (Side Mission)
     ==========
+        - Quest Giver: Okuni
+        - Characters: 
+            - Okuni (Ally)
+        --------------------
         - Nure-Onna
         - Flying Bolt
         - Tesso
@@ -1193,6 +1168,35 @@ Twilight Region (Region 5)
         - Ubume
         - Onyudo
         - Enenra (boss)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     Farewell to the Past (Side Mission)

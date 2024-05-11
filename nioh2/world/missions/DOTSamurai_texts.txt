@@ -1190,74 +1190,71 @@ Dawn Region (Region 4)
         --------------------
             - Sacred Brush
 
+
 ========== ========== ========== ========== ==========
 Twilight Region (Region 5)
 ========== ========== ========== ========== ==========
     ==========
     Ruin Draws Near (Main Mission)
     ==========
+        Swords:
+        --------------------
+            - Tengu Slayer
+            - Atagi Sadamune
+
         Dual Swords:
         --------------------
-            - 
-        
-        Dual Swords:
-        --------------------
-            - 
+            - Magoroku Kanemoto Dual Katana
+            - Soshu Masamune Dual Katana
 
         Spear:
         --------------------
-            - 
+            - Stone-Splitter Cross Spear
+            - Crescent Cross Spear
 
         Axe:
         --------------------
-            - 
+            - Bloodlust Axe
+            - Mononobe Axe
 
         Kusarigama:
         --------------------
-            - 
+            - Fuma Kusarigama
+
+        Odachi:
+        --------------------
+            - Mirrorblade
 
         Switchglaive:
         --------------------
-            - 
+            - Aberrant Switchglaive
+            - Night Heron's Switchglaive
 
         Splitstaff:
         --------------------
-            - 
+            - Head Ninja's Splitstaff
 
         Fists:
         --------------------
-            - 
+            - Chief's Fists
 
         Bow:
         --------------------
-            - 
+            - Yoichi's Bow
+
+        Rifle:
+        --------------------
+            - Negoro Rifle
+
+        Hand Cannon:
+        --------------------
+            - Crimson Hand Cannon
+            - Yoryu Cannon
 
         Head Protection:
         --------------------
-            - Horse Guard's Helmet
-
-        Torso Protection:
-        --------------------
-            - 
-
-        Arm Protection:
-        --------------------
-            - 
-
-        Leg Protection:
-        --------------------
-            - 
-
-        Foot Protection:
-        --------------------
-            - 
-
-        Tools:
-        --------------------
-            -         
-
-
-
+            - Japanese Crown Helmet
+            - Chinese Crown Helmet
 
 
 
