@@ -1136,7 +1136,7 @@ Twilight Region (Region 5)
     ==========
         - Quest Giver: Mumyo
         - Characters: 
-            - 
+            - Oichi (cutscenes)
         --------------------
         - Skeleton Warrior
         - Yoki (sword)
