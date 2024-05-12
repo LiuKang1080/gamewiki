@@ -1297,9 +1297,29 @@ Twilight Region (Region 5)
         --------------------
             - Tigerskin Greaves
 
+    ==========
+    The High-Spirited Demon (Main Mission)
+    ==========
+        Spear:
+        --------------------
+            - Birdflight Cross Spear
 
+        Kusarigama:
+        --------------------
+            - Rasetsu Kusarigama
 
+        Hand Cannon:
+        --------------------
+            - Dragon's Roar
 
+        Head Protection
+        --------------------
+            - Hat Helmet
+            - Bear's Head Helmet
+
+        Tools:
+        --------------------
+            - Saisetsu-Shin Sake
 
 
 

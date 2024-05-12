@@ -1670,28 +1670,6 @@ Twilight Region (Region 5)
             - None
 
     ==========
-    A Prayer in the Moonlight (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Ruin Draws Near"
-            - Complete the mission: "Scattered Fragments"
-            - Receive Yamanaka Shikanosuke's Assistance in the mission "Scattered Fragments"
-        --------------------
-        - Recommended level: 91
-        - Shrine: 
-        - Torii Gate Expedition: 
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - 
-        - Guardian Spirit Unlocked: 
-            - 
-        - Notable Items In Mission / Mission Rewards:
-            - 
-
-    ==========
     The Two Faces of Hospitality (Main Mission)
     ==========
         - Mission Unlock Requirement:
@@ -1722,15 +1700,21 @@ Twilight Region (Region 5)
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 6
-        - Number of Sudama: 
+        - Number of Sudama: 1
         - Number of Hot Springs: 1
         - Number of Dark Realms: 3
         - Bosses: 
+            - Kamaitachi
+            - Hachisuka Koroku
+            - Mezuki
             - Daidara Bocchi
         - Guardian Spirit Unlocked: 
-            - 
+            - Hakutaku
         - Notable Items In Mission / Mission Rewards:
-            - X2 Hair Locks
+            - Onmyo Mage's Locks
+            - Ninja's Locks
+            - Unlocks "The One Who Lives in the Shadows" in the Dojo after beating mission.
+            - Unlocks "The Island of Monsters" Twilight Mission after beating mission
 
     ==========
     A Message From the Deceased (Sub Mission)
@@ -1752,6 +1736,48 @@ Twilight Region (Region 5)
         - Notable Items In Mission / Mission Rewards:
             - 
 
+    ==========
+    Stray Cats (Sub Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The High-Spirited Demon"
+        --------------------
+
+    ==========
+    Calling on the Fire God (Sub Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The High-Spirited Demon"
+        --------------------
+
+    ==========
+    Scattered Fragments (Sub Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The High-Spirited Demon"
+            - Get at least 10 Tea Utensils Appraised
+        --------------------
+
+    ==========
+    A Prayer in the Moonlight (Sub Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Ruin Draws Near"
+            - Complete the mission: "Scattered Fragments"
+            - Receive Yamanaka Shikanosuke's Assistance in the mission "Scattered Fragments"
+        --------------------
+
+
+
+========== ========== ========== ========== ==========
+Dream Region (Region 6)
+========== ========== ========== ========== ==========
+    ==========
+    The Mausoleum of Evil (Main Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The High-Spirited Demon"
+        --------------------
 
 
 
@@ -1765,14 +1791,6 @@ Twilight Region (Region 5)
 
 
 
-
-
-
-
-
-
-
-    
 
 
 

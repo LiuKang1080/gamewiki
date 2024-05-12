@@ -1090,12 +1090,12 @@ Dawn Region (Region 4)
         - Yoki (axe)
         - Nure-Onna
         - Waira
-        - Blue Yoki (Kusarigama) (first time)
+        - Blue Yoki (kusarigama) (first time)
         - Nurikabe
         - Onmyo Mage
         - Onyudo (water) (first time)
         - Abbarant Soldier
-        - Blue Yoki (Dual Swords)
+        - Blue Yoki (dual swords)
         - Onyudo (fire)
         - Ryomen Sukuna (boss) (first time)
 
@@ -1162,7 +1162,7 @@ Twilight Region (Region 5)
         - Tesso
         - Gaki
         - Namahage
-        - Blue Yoki (Dual Swords)
+        - Blue Yoki (dual swords)
         - One-Eyed Oni
         - Yamanba
         - Ubume
@@ -1212,9 +1212,25 @@ Twilight Region (Region 5)
     ==========
         - Quest Giver: Nekomata
         - Characters:
-            - 
+            - Hachisuka Koroku (cutscenes)
+            - Mumyo (cutscenes, Ally)
+            - Tokichiro (cutscenes)
+            - Takenaka Hanbei (cutscenes)
+            - Miyoshino (cutscenes)
         --------------------
-        - 
+        - Skeleton Warrior
+        - Abbarant Soldier
+        - Yoki
+        - Kamaitachi (boss)
+        - Karasu Tengu
+        - Red Kappa
+        - Blue Yoki (sword + cannon) (first time)
+        - Biwa Boku-Boku
+        - Magatsu Warrior (first time)
+        - Blue Yoki (kusarigama)
+        - Hachisuka Koroku (boss)
+        - Mezuki (boss)
+        - Daidara Bocchi (boss) (first time)
 
     ==========
     A Message From the Deceased (Sub Mission)
@@ -1234,4 +1250,21 @@ Twilight Region (Region 5)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
