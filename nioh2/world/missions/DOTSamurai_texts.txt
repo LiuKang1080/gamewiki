@@ -1256,6 +1256,51 @@ Twilight Region (Region 5)
             - Japanese Crown Helmet
             - Chinese Crown Helmet
 
+    ==========
+    The Two Faces of Hospitality (Main Mission)
+    ==========
+        Dual Swords:
+        --------------------
+            - Go-no-Yoshihiro Twin Swords
+        
+        Spear:
+        --------------------
+            - Potsticker Spear
+
+        Kusarigama:
+        --------------------
+            - Jonin's Kusarigama
+
+        Odachi:
+        --------------------
+            - Sunderer
+
+        Head Protection:
+        --------------------
+            - Tigerskin Helmet
+            - Love-Crested Helmet
+            - Bowl Helmet
+
+        Torso Protection:
+        --------------------
+            - Tigerskin Cuirass
+
+        Arm Protection:
+        --------------------
+            - Tigerskin Gauntlets
+
+        Leg Protection:
+        --------------------
+            - Tigerskin Waistguard
+
+        Foot Protection:
+        --------------------
+            - Tigerskin Greaves
+
+
+
+
+
 
 
 

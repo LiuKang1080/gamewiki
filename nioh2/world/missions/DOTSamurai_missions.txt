@@ -1670,6 +1670,28 @@ Twilight Region (Region 5)
             - None
 
     ==========
+    A Prayer in the Moonlight (Sub Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Ruin Draws Near"
+            - Complete the mission: "Scattered Fragments"
+            - Receive Yamanaka Shikanosuke's Assistance in the mission "Scattered Fragments"
+        --------------------
+        - Recommended level: 91
+        - Shrine: 
+        - Torii Gate Expedition: 
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - 
+        - Guardian Spirit Unlocked: 
+            - 
+        - Notable Items In Mission / Mission Rewards:
+            - 
+
+    ==========
     The Two Faces of Hospitality (Main Mission)
     ==========
         - Mission Unlock Requirement:
@@ -1690,32 +1712,12 @@ Twilight Region (Region 5)
             - Onmyo Mage's Locks
             - Ninja's Locks
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
     The High-Spirited Demon (Main Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Two Faces of Hospitality"
+        --------------------
         - Recommended level: 95
         - Shrine: Yes
         - Torii Gate Expedition: Yes
@@ -1729,6 +1731,48 @@ Twilight Region (Region 5)
             - 
         - Notable Items In Mission / Mission Rewards:
             - X2 Hair Locks
+
+    ==========
+    A Message From the Deceased (Sub Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Two Faces of Hospitality"
+        --------------------
+        - Recommended level: 94
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 
+        - Bosses: 
+            - 
+        - Guardian Spirit Unlocked: 
+            - 
+        - Notable Items In Mission / Mission Rewards:
+            - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
 
 

@@ -1169,38 +1169,13 @@ Twilight Region (Region 5)
         - Onyudo
         - Enenra (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
     Farewell to the Past (Side Mission)
-    ==========   
+    ==========
+        - Quest Giver: Akechi Mitsuhide / Tenkai
+        - Characters: 
+            - None
+        --------------------
         - Warrior
         - Onmyo Mage
         - Mysterious Samurai
@@ -1208,6 +1183,16 @@ Twilight Region (Region 5)
     ==========
     The Two Faces of Hospitality (Main Mission)
     ==========
+        - Quest Giver: Hattori Hanzo
+        - Characters:
+            - Akechi Mitsuhide / Tenkai (cutscenes, NPC)
+            - Sen no Rikyu (cutscenes)
+            - Mumyo (cutscenes)
+            - Hattori Hanzo (NPC, Ally)
+            - Honda Tadakatsu (NPC, Ally)
+            - Tokichiro (cutscenes)
+            - Kashin Koji (cutscenes)
+        --------------------
         - Ninja
         - Warrior
         - Flying Bolt
@@ -1225,7 +1210,23 @@ Twilight Region (Region 5)
     ==========
     The High-Spirited Demon (Main Mission)
     ==========
+        - Quest Giver: Nekomata
+        - Characters:
+            - 
+        --------------------
         - 
+
+    ==========
+    A Message From the Deceased (Sub Mission)
+    ==========
+        - Quest Giver: Nekomata
+        - Characters:
+            - 
+        --------------------
+        - 
+
+
+
 
 
 
