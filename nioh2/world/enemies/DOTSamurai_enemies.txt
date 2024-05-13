@@ -1266,6 +1266,22 @@ Twilight Region (Region 5)
         - Nure-Onna
         - Sengoku Hidehisa (first time)
 
+    ==========
+    Stray Cats (Sub Mission)
+    ==========
+        - Quest Giver: Hattori Hanzo
+        - Characters:
+            - Hattori Hanzo (NPC)
+        --------------------
+        - Lesser Umi-Bozu
+        - Nure-Onna
+        - Tesso
+        - Abbarant Soldier
+        - Waira
+        - Dweller
+        - Mitsume Yazura
+        - Onryoki (boss)
+
 
 
 

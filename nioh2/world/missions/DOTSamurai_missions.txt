@@ -581,7 +581,7 @@ Awakening Region (Region 1)
         - Number of Kodama: 3
         - Number of Sudama: 0
         - Number of Hot Springs: 0
-        - Number of Dark Realms: 1
+        - Number of Dark Realms: 1 (0 required)
         - Bosses: 
             - None
         - Guardian Spirit Unlocked: 
@@ -905,7 +905,7 @@ Soaring Region (Region 2)
         - Number of Kodama: 0
         - Number of Sudama: 0
         - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
+        - Number of Dark Realms: 1 (0 required)
         - Bosses: 
             - None
         - Guardian Spirit Unlocked: 
@@ -946,7 +946,7 @@ Soaring Region (Region 2)
         - Number of Kodama: 0
         - Number of Sudama: 0
         - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
+        - Number of Dark Realms: 1 (0 required)
         - Bosses: 
             - None
         - Guardian Spirit Unlocked: 
@@ -1728,7 +1728,7 @@ Twilight Region (Region 5)
         - Number of Kodama: 0
         - Number of Sudama: 0
         - Number of Hot Springs: 1
-        - Number of Dark Realms: 1
+        - Number of Dark Realms: 1 (0 required)
         - Bosses: 
             - None
         - Guardian Spirit Unlocked: 
@@ -1742,6 +1742,19 @@ Twilight Region (Region 5)
         - Mission Unlock Requirement:
             - Complete the mission: "The High-Spirited Demon"
         --------------------
+        - Recommended level: 97
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 5
+        - Number of Sudama: 1
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 1 (0 required)
+        - Bosses: 
+            - Onryoki
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Ninja's Locks (mission reward)
 
     ==========
     Calling on the Fire God (Sub Mission)
