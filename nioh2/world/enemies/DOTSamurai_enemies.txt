@@ -217,6 +217,23 @@ Twilight Missions:
         - Onyudo (lightning)
         - Ryomen Sukuna (boss)
 
+    ==========
+    The Island of Monsters (Twilight Region (Region 5))
+    ==========
+        - Blue Yoki (dual swords)
+        - Gaki
+        - Skeleton Warrior
+        - Enki
+        - Blue Yoki (kusarigama)
+        - Namahage
+        - Rokurokubi
+        - Kappa
+        - Karasu Tengu
+        - Waira
+        - Nure-Onna
+        - Mujina
+        - Tatarimokke (boss)
+
 
 ========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
@@ -1235,11 +1252,19 @@ Twilight Region (Region 5)
     ==========
     A Message From the Deceased (Sub Mission)
     ==========
-        - Quest Giver: Nekomata
+        - Quest Giver: Tenkai
         - Characters:
-            - 
+            - Chosokabe Motochika (NPC, Ally)
         --------------------
-        - 
+        - Warrior
+        - Abbarant Soldier
+        - Gaki
+        - Skeleton Warrior
+        - Yoki (axe)
+        - Yoki (sword)
+        - Mitsume Yazura
+        - Nure-Onna
+        - Sengoku Hidehisa (first time)
 
 
 

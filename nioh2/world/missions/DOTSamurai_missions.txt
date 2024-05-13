@@ -1726,15 +1726,15 @@ Twilight Region (Region 5)
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
-        - Number of Sudama: 
+        - Number of Sudama: 0
         - Number of Hot Springs: 1
-        - Number of Dark Realms: 
+        - Number of Dark Realms: 1
         - Bosses: 
-            - 
+            - None
         - Guardian Spirit Unlocked: 
-            - 
+            - None
         - Notable Items In Mission / Mission Rewards:
-            - 
+            - Onmyo Mage's Locks (mission reward)
 
     ==========
     Stray Cats (Sub Mission)
