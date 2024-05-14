@@ -1282,8 +1282,23 @@ Twilight Region (Region 5)
         - Mitsume Yazura
         - Onryoki (boss)
 
-
-
+    ==========
+    Calling on the Fire God (Sub Mission)
+    ==========
+        - Quest Giver: Senji Toyo
+        - Characters:
+            - None
+        --------------------
+        - Tesso
+        - Skeleton Warrior
+        - Onyudo (fire)
+        - Wheelmonk
+        - Ippon-Datara (hammer)
+        - Infernal Oni-Bi
+        - Blue Yoki (kusarigama)
+        - Blue Yoki (sword + cannon)
+        - Koroka
+        - Mitsume Yazura
 
 
 

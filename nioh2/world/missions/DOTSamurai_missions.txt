@@ -1762,6 +1762,19 @@ Twilight Region (Region 5)
         - Mission Unlock Requirement:
             - Complete the mission: "The High-Spirited Demon"
         --------------------
+        - Recommended level: 98
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 1 (0 required)
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Kagatsuchi Magatama
 
     ==========
     Scattered Fragments (Sub Mission)
