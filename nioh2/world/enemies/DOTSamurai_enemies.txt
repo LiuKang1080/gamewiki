@@ -1300,8 +1300,24 @@ Twilight Region (Region 5)
         - Koroka
         - Mitsume Yazura
 
-
-
+    ==========
+    Scattered Fragments (Sub Mission)
+    ==========
+        - Quest Giver: Sen no Rikyu
+        - Characters:
+            - None
+        --------------------
+        - Spider
+        - Infernal Oni-Bi
+        - Tesso
+        - Mitsume Yazura
+        - Yamanba
+        - Thunderstorm Oni-Bi
+        - Ippon-Datara
+        - Maelstrom Oni-Bi
+        - Biwa Boku-Boku
+        - Abbarant Soldier
+        - Koroka
 
 
 

@@ -13,6 +13,9 @@ Key Items
     - Tattered Note:
         - Complete the mission: Lingering Snow and Crimson Tracks (Sub Mission)
 
+    - Repaired Hiragumo Kettle
+        - Complete the mission: Scattered Fragments (Sub Mission)
+
     - Harakiri Sword:
         - Pick up item during the mission: The Village of Cursed Blossoms (Main Mission)
 

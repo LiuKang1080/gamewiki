@@ -1783,6 +1783,19 @@ Twilight Region (Region 5)
             - Complete the mission: "The High-Spirited Demon"
             - Get at least 10 Tea Utensils Appraised
         --------------------
+        - Recommended level: 99
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 1 (0 required)
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Zen Manual (mission reward)
 
     ==========
     A Prayer in the Moonlight (Sub Mission)
