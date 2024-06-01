@@ -55,6 +55,8 @@ Other Notes:
     - "Breaking Free" unlocks after beating "Ruin Draws Near".
     - "Strike Like a Yokai" unlocks after beating "Ruin Draws Near".
 
+    - "The Nine Symbols" unlocks after beating "The Mausoleum of Evil".
+
 
 ========== ========== ========== ========== ==========
 Dojo Missions:
@@ -1829,7 +1831,22 @@ Dream Region (Region 6)
         - Mission Unlock Requirement:
             - Complete the mission: "The High-Spirited Demon"
         --------------------
-
+        - Recommended level: 100
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 9
+        - Number of Sudama: 2
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 2
+        - Bosses: 
+            - Shuten Doji
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Ninja's Locks 
+            - Onmyo Mage's Locks
+            - Unlocks "The Nine Symbols" in the Dojo after beating mission.
+            - Unlocks the "Interim" after beating mission
 
 
 

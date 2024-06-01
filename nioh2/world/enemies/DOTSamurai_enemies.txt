@@ -1337,6 +1337,26 @@ Twilight Region (Region 5)
         - Onyudo (fire)
 
 
+========== ========== ========== ========== ==========
+Dream Region (Region 6)
+========== ========== ========== ========== ==========
+    ==========
+    The Mausoleum of Evil (Main Mission)
+    ==========
+        - Quest Giver: Miyoshino
+        - Characters:
+            - Mumyo (NPC)
+            - Tokichiro (cutscenes)
+        --------------------
+        - Dweller
+        - Abbarant Soldier
+        - Ubume
+        - One-Eyed Oni (Snowclops)
+        - Nure-Onna
+        - Karasu Tengu
+        - Lesser Umi-Bozu
+        - Namahage
+        - Shuten Doji (boss) (first time)
 
 
 
@@ -1346,10 +1366,4 @@ Twilight Region (Region 5)
 
 
 
-
-
-
-
-
-    
 

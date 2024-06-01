@@ -1322,6 +1322,42 @@ Twilight Region (Region 5)
             - Saisetsu-Shin Sake
 
 
+========== ========== ========== ========== ==========
+Dream Region (Region 6)
+========== ========== ========== ========== ==========
+    ==========
+    The Mausoleum of Evil (Main Mission)
+    ==========
+        Kusarigama:
+        --------------------
+            - Yasha's Kusarigama
+
+        Rifle:
+        --------------------
+            - Inadome Matchlock
+
+        Head Protection:
+        --------------------
+            - Samurai General's Helmet
+            - Flashfire Helmet
+
+        Torso Protection:
+        --------------------
+            - Samurai General's Cuirass
+
+        Arm Protection:
+        --------------------
+            - Samurai General's Gauntlets
+
+        Leg Protection:
+        --------------------
+            - Samurai General's Waistguard
+
+        Foot Protection:
+        --------------------
+            - Samurai General's Greaves
+
+
 
 
 
