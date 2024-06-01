@@ -1319,9 +1319,22 @@ Twilight Region (Region 5)
         - Abbarant Soldier
         - Koroka
 
-
-
-
+    ==========
+    A Prayer in the Moonlight (Sub Mission)
+    ==========
+        - Quest Giver: Nekomata
+        - Characters:
+            - Yamanaka Shikanosuke (Ally)
+        --------------------
+        - Yamanaka Shikanosuke (first time)
+        - Rokurokubi
+        - Abbarant Soldier
+        - Nure-Onna
+        - Gaki
+        - Lesser Umi-Bozu
+        - Skeleton Warrior
+        - Infernal Oni-Bi
+        - Onyudo (fire)
 
 
 

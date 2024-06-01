@@ -1805,7 +1805,19 @@ Twilight Region (Region 5)
             - Complete the mission: "Scattered Fragments"
             - Receive Yamanaka Shikanosuke's Assistance in the mission "Scattered Fragments"
         --------------------
-
+        - Recommended level: 91
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 1 (0 required)
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
 
 
 ========== ========== ========== ========== ==========
