@@ -1846,19 +1846,76 @@ Dream Region (Region 6)
             - Ninja's Locks 
             - Onmyo Mage's Locks
             - Unlocks "The Nine Symbols" in the Dojo after beating mission.
-            - Unlocks the "Interim" after beating mission
+            - Unlocks the "Interim" after beating mission.
 
+    ==========
+    The Roaming Artisan (Sub Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Mausoleum of Evil"
+        --------------------
+        - Recommended level: 103
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 1 (0 required)
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Unlocks the Remodel feature in the Blacksmith
+            - x3 Metalworking Chisel
+            - Smithing Text: Basket Blade & Boar Cutter (mission reward)
 
+    ==========
+    Mataza of the Spear (Sub Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Mausoleum of Evil"
+        --------------------
 
+    ==========
+    The Golden Castle (Main Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Mausoleum of Evil"
+        --------------------
 
+    ==========
+    Restoring Harmony (Sub Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Mausoleum of Evil"
+            - Speak with Saito Toshimitsu in the Interim
+        --------------------
 
+    ==========
+    Japanese Heart, Yokai Smarts (Sub Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Mausoleum of Evil"
+            - Speak with Hachisuka Koroku in the Interim
+        --------------------
 
+    ==========
+    Restless Spirits (Sub Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Mausoleum of Evil"
+            - Speak with Shibata Katsuie in the Interim
+        --------------------
 
-
-
-
-
-
+    ==========
+    Yaksha Returns (Sub Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Mausoleum of Evil"
+            - Earn the valuable item: "Cherry Blossom Chapbook"
+            - Speak with Azai Nagamasa in the Interim
+        --------------------
 
 
 

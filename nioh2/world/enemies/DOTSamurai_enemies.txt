@@ -1222,6 +1222,7 @@ Twilight Region (Region 5)
         - Mori Nagayoshi (first time)
         - Ninja Dog
         - Ikeda Tsuneoki (first time)
+        - Nurikabe
         - Tokichiro (boss) (first time)
 
     ==========
@@ -1356,11 +1357,27 @@ Dream Region (Region 6)
         - Karasu Tengu
         - Lesser Umi-Bozu
         - Namahage
+        - Nurikabe
         - Shuten Doji (boss) (first time)
 
-
-
-
+    ==========
+    The Roaming Artisan (Sub Mission)
+    ==========
+        - Quest Giver: Senji Toyo
+        - Characters:
+            - Muramasa (NPC)
+        --------------------
+        - Abbarant Soldier
+        - Spider
+        - Gaki
+        - Yamanba
+        - Koroka
+        - Waira
+        - Skeleton Warrior
+        - Wheelmonk
+        - Nurikabe
+        - Nure-Onna
+        - Ippon-Datara
 
 
 
