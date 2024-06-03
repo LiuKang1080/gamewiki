@@ -1379,6 +1379,18 @@ Dream Region (Region 6)
         - Nure-Onna
         - Ippon-Datara
 
+    ==========
+    Mataza of the Spear (Sub Mission)
+    ==========
+        - Quest Giver: 
+        - Characters:
+            - 
+        --------------------
+        - 
+
+
+
+
 
 
 
