@@ -1357,7 +1357,34 @@ Dream Region (Region 6)
         --------------------
             - Samurai General's Greaves
 
+    ==========
+    The Golden Castle (Main Mission)
+    ==========
+        Hand Cannon:
+        --------------------
+            - Lightning Cannon
 
+        Head Protection:
+        --------------------
+            - Veteran's Helmet
+            - Rabbit Eared Helemt
+            - Hairy Caterpillar Helmet
+
+        Torso Protection:
+        --------------------
+            - Veteran's Cuirass
+
+        Arm Protection:
+        --------------------
+            - Veteran's Gauntlets
+
+        Leg Protection:
+        --------------------
+            - Veteran's Waistguard
+
+        Foot Protection:
+        --------------------
+            - Veteran's Greaves
 
 
 

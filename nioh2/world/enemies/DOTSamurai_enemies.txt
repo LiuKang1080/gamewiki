@@ -1382,11 +1382,40 @@ Dream Region (Region 6)
     ==========
     Mataza of the Spear (Sub Mission)
     ==========
-        - Quest Giver: 
+        - Quest Giver: Maeda Toshiie
         - Characters:
-            - 
+            - None
         --------------------
-        - 
+        - Maeda Toshiie (boss)
+
+    ==========
+    The Golden Castle (Main Mission)
+    ==========    
+        - Quest Giver: Mumyo
+        - Characters:
+            - Mumyo (cutscenes, NPC)
+            - Sen no Rikyu (cutscenes)
+            - Tokichiro (cutscenes)
+        --------------------
+        - Warrior
+        - Ninja Dog
+        - Yoki (axe)
+        - Rokurokubi
+        - Enenra (boss)
+        - Gaki
+        - Abbarant Soldier
+        - Ubume
+        - Blue Yoki (kusarigama)
+        - Yoki (sword)
+        - Koroka
+        - Nurikabe
+        - Blue Yoki (dual swords)
+        - Gozuki (boss)
+        - Mezuki (boss)
+        - Yatsu-no-Kami (boss)
+        - Kasha (boss)
+        - Magatsu Warrior
+        - Lady Osakabe (boss) (first time)
 
 
 
