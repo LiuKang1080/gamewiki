@@ -1922,6 +1922,19 @@ Dream Region (Region 6)
         - Mission Unlock Requirement:
             - Complete the mission: "The Golden Castle"
         --------------------
+        - Recommended level: 103
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 1 (0 required)
+        - Number of Dark Realms: 1 (0 required)
+        - Bosses: 
+            - Maeda Keiji
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
 
     ==========
     The Dream's End (Sub Mission)

@@ -1417,6 +1417,31 @@ Dream Region (Region 6)
         - Magatsu Warrior
         - Lady Osakabe (boss) (first time)
 
+    ==========
+    The Bravest of the Brave (Sub Mission)
+    ==========
+        - Quest Giver: Mumyo
+        - Characters:
+            - Maeda Keiji (NPC, Ally)
+        --------------------
+        - Infernal Oni-Bi
+        - Thunderstorm Oni-Bi
+        - Mitsume Yazura
+        - Skeleton Warrior
+        - Abbarant Soldier
+        - One-Eyed Imp
+        - One-Eyed Oni
+        - Blue Yoki (kusarigama)
+        - Dweller
+        - Gaki
+        - Waira
+        - Yamanba
+        - Yoki (sword)
+        - Enki
+        - Karasu Tengu
+        - Maeda Keiji (boss) (first time)
+
+
 
 
 
