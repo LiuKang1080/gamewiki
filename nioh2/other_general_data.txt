@@ -21,3 +21,31 @@ Key Items
 
     - Divine Branch Fragment:
         - Obtained at the beginning of the game before entering the 1st mission: The Village of Cursed Blossoms (Main Mission)
+
+
+========== ========== ==========
+Proficiency 
+========== ========== ==========
+    - Max level for Dream of the Samurai and Dream of the Strong:
+        - Weapons: LVL 30
+        - Ninjutsu and Onmyo: LVL 50
+        - Shiftling: LVL 70
+
+
+    ========== ========== ==========
+    Test the other difficulties
+    ========== ========== ==========
+    - Max level for Dream of the Demon:
+        - Weapons: LVL 35
+        - Ninjutsu and Onmyo: LVL 45
+        - Shiftling: LVL 65
+
+    - Max level for Dream of the Wise:
+        - Weapons: LVL 40
+        - Ninjutsu and Onmyo: LVL 50
+        - Shiftling: LVL 70
+
+    - Max level for Dream of the Nioh + Underworld:
+        - Weapons: LVL 60
+        - Ninjutsu and Onmyo: LVL 70
+        - Shiftling: LVL 90

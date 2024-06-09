@@ -512,13 +512,13 @@ Awakening Region (Region 1)
         - Number of Kodama: 2
         - Number of Sudama: 0
         - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
+        - Number of Dark Realms: 1 (0 required)
         - Bosses: 
             - None
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - None
+            - Unlocks the Manage Soul Core option at the Shrine after beating mission
 
     ==========
     The Beast Born of Smoke and Flames (Main Mission)
@@ -542,10 +542,33 @@ Awakening Region (Region 1)
         - Notable Items In Mission / Mission Rewards:
             - Ninja's Locks
             - Onmyo Mage's Locks
-            - Unlocks the Blacksmith option at the Starting Point
-            - Unlocks "The Way of the Warrior: Novice" after beating mission.
-            - Unlocks Agyo Titles
-            - Unlocks Ungyo Titles
+            - Unlocks the Blacksmith option at the Starting Point after beating mission
+            - Unlocks "The Way of the Warrior: Novice" after beating mission
+            - Unlocks Agyo Titles after beating mission
+            - Unlocks Ungyo Titles after beating mission
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
 
     ==========
     A Voice in the Twilight (Sub Mission)
