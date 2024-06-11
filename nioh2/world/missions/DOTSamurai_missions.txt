@@ -496,7 +496,7 @@ Awakening Region (Region 1)
         - Guardian Spirit Unlocked: 
             - Masaru
         - Notable Items In Mission / Mission Rewards:
-            - Samurai Skill points (in level)
+            - Samurai Skill points (in level).
 
     ==========
     The Forest Veiled in Darkness (Sub Mission)
@@ -518,7 +518,7 @@ Awakening Region (Region 1)
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Unlocks the Manage Soul Core option at the Shrine after beating mission
+            - Unlocks the Manage Soul Core option at the Shrine after beating mission.
 
     ==========
     The Beast Born of Smoke and Flames (Main Mission)
@@ -540,35 +540,12 @@ Awakening Region (Region 1)
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Ninja's Locks
-            - Onmyo Mage's Locks
-            - Unlocks the Blacksmith option at the Starting Point after beating mission
-            - Unlocks "The Way of the Warrior: Novice" after beating mission
-            - Unlocks Agyo Titles after beating mission
-            - Unlocks Ungyo Titles after beating mission
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
+            - Ninja's Locks.
+            - Onmyo Mage's Locks.
+            - Unlocks the Blacksmith option at the Starting Point after beating mission.
+            - Unlocks "The Way of the Warrior: Novice" after beating mission.
+            - Unlocks Agyo Titles after beating mission.
+            - Unlocks Ungyo Titles after beating mission.
 
     ==========
     A Voice in the Twilight (Sub Mission)
@@ -612,8 +589,8 @@ Awakening Region (Region 1)
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks
-            - Ninja's Locks
+            - Onmyo Mage's Locks.
+            - Ninja's Locks.
 
     ==========
     The Viper's Sanctum (Main Mission)
@@ -635,11 +612,34 @@ Awakening Region (Region 1)
         - Guardian Spirit Unlocked: 
             - Shirohami
         - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks
-            - Ninja's Locks
+            - Onmyo Mage's Locks.
+            - Ninja's Locks.
             - Unlocks Twilight Missions after beating level.
             - Unlocks "The Way of the Ninja: Novice" after beating level.
             - Unlocks "The Way of the Onmyo: Novice" after beating level.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
 
     ==========
     A Favor for the Blacksmith (Sub Mission)
