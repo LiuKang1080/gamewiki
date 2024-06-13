@@ -618,29 +618,6 @@ Awakening Region (Region 1)
             - Unlocks "The Way of the Ninja: Novice" after beating level.
             - Unlocks "The Way of the Onmyo: Novice" after beating level.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-
     ==========
     A Favor for the Blacksmith (Sub Mission)
     ==========
@@ -734,6 +711,29 @@ Soaring Region (Region 2)
             - Ninja's Locks
             - Onmyo Mage's Locks
             - Samurai's Locks (Mission Reward)
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
 
     ==========
     Imagawa Diehard (Sub Mission)
