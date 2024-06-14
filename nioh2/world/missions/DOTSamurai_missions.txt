@@ -58,9 +58,9 @@ Other Notes:
     - "The Nine Symbols" unlocks after beating "The Mausoleum of Evil".
 
 
-========== ========== ========== ========== ==========
+========== ========== ========== ========== ========== ========== ==========
 Dojo Missions:
-========== ========== ========== ========== ==========
+========== ========== ========== ========== ========== ========== ==========
     ==========
     The Way of the Warrior: Novice (Dojo Mission)
     ==========
@@ -470,6 +470,41 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
 
 
 ========== ========== ========== ========== ========== ========== ==========
+Twilight Missions:
+========== ========== ========== ========== ========== ========== ==========
+    ==========
+    The Violet Cherry Blossoms
+    ==========
+        - Mission Unlock Requirement:
+            - The Village of Cursed Blossoms - Awakening Region (Region 1)
+        --------------------
+        - Recommended level: 20
+        - Gold: 14,400
+        - Amrita: 5280
+        - Shrine: Yes
+        - Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 1
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 2
+        - Bosses: 
+            - Gozuki
+            - Mezuki
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Quality Umbracite x1 (mission reward).
+
+    ==========
+    The Defiled Sanctuary
+    ==========
+        - Mission Unlock Requirement:
+            - The Fallen Star - Shadow Region (Region 3)
+            - Pervading Waters - Dawn Region (Region 4)
+        --------------------
+
+
+========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
 ========== ========== ========== ========== ========== ========== ==========
 ========== ========== ========== ========== ==========
@@ -632,13 +667,13 @@ Awakening Region (Region 1)
         - Number of Kodama: 0
         - Number of Sudama: 0
         - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
+        - Number of Dark Realms: 1 (0 required)
         - Bosses: 
             - None
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Kagatsuchi Magatama (Mission Reward - Increases the average rarity of uncommon+ forged items by 1%)
+            - Kagatsuchi Magatama (Mission Reward - Increases the average rarity of uncommon+ forged items by 1%).
 
     ==========
     The Search (Sub Mission)
@@ -654,13 +689,13 @@ Awakening Region (Region 1)
         - Number of Kodama: 0
         - Number of Sudama: 0
         - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
+        - Number of Dark Realms: 2 (0 required)
         - Bosses: 
             - None
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Smithing Text: Possessed Kodama Bowl
+            - Smithing Text: Possessed Kodama Bowl.
 
     ==========
     The Greedy Hunter (Sub Mission)
@@ -676,7 +711,7 @@ Awakening Region (Region 1)
         - Number of Kodama: 0
         - Number of Sudama: 0
         - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
+        - Number of Dark Realms: 1 (0 required)
         - Bosses: 
             - None
         - Guardian Spirit Unlocked: 
@@ -708,32 +743,9 @@ Soaring Region (Region 2)
         - Guardian Spirit Unlocked: 
             - Rokugezo
         - Notable Items In Mission / Mission Rewards:
-            - Ninja's Locks
-            - Onmyo Mage's Locks
-            - Samurai's Locks (Mission Reward)
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-
-    
-
-    
-
-    
-
-
-
+            - Ninja's Locks.
+            - Onmyo Mage's Locks.
+            - Samurai's Locks (Mission Reward).
 
     ==========
     Imagawa Diehard (Sub Mission)
@@ -769,9 +781,9 @@ Soaring Region (Region 2)
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
-        - Number of Sudama: 
+        - Number of Sudama: 0
         - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
+        - Number of Dark Realms: 1 (0 required)
         - Bosses: 
             - None
         - Guardian Spirit Unlocked: 
@@ -791,9 +803,9 @@ Soaring Region (Region 2)
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
-        - Number of Sudama: 0
+        - Number of Sudama: 1
         - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
+        - Number of Dark Realms: 1 (0 required)
         - Bosses: 
             - None
         - Guardian Spirit Unlocked: 
@@ -821,8 +833,8 @@ Soaring Region (Region 2)
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks
-            - Ninja's Locks
+            - Onmyo Mage's Locks.
+            - Ninja's Locks.
             - Unlocks "The Way of the Warrior: Adept" after beating level.
             - Unlocks "The Way of the Ninja: Adept" after beating level.
             - Unlocks "The Way of the Onmyo: Adept" after beating level.
@@ -841,7 +853,7 @@ Soaring Region (Region 2)
         - Number of Kodama: 0
         - Number of Sudama: 0
         - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
+        - Number of Dark Realms: 1 (0 required)
         - Bosses: 
             - None
         - Guardian Spirit Unlocked: 
@@ -885,7 +897,7 @@ Soaring Region (Region 2)
         - Number of Kodama: 0
         - Number of Sudama: 0
         - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
+        - Number of Dark Realms: 3 (0 required)
         - Bosses: 
             - None
         - Guardian Spirit Unlocked: 
@@ -914,9 +926,9 @@ Soaring Region (Region 2)
         - Guardian Spirit Unlocked: 
             - Double Guardian Spirits Unlocks | Makami / Ame-no-Mitori / Kagewani (only 1 will be given)
         - Notable Items In Mission / Mission Rewards:
-            - Ninja's Locks
-            - Onmyo Mage's Locks
-            - Unlocks 2nd Guardian Spirit (complete mission)
+            - Ninja's Locks.
+            - Onmyo Mage's Locks.
+            - Unlocks 2nd Guardian Spirit (complete mission).
 
     ==========
     An End to Seclusion (Sub Mission)
@@ -925,18 +937,43 @@ Soaring Region (Region 2)
             - Complete the mission: "The Hollow Fortress"
         --------------------
         - Recommended level: 54
+        - Gold: 10,600
+        - Amrita: 5,200
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
         - Number of Sudama: 0
         - Number of Hot Springs: 0
-        - Number of Dark Realms: 1 (0 required)
+        - Number of Dark Realms: 3 (0 required)
         - Bosses: 
             - None
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
             - None
+
+
+
+
+
+
+    
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     ==========
     The Shiftling's Wise Judgement (Sub Mission)
@@ -945,12 +982,14 @@ Soaring Region (Region 2)
             - Complete the mission: "The Hollow Fortress"
         --------------------
         - Recommended level: 57
+        - Gold: 11,000
+        - Amrita: 5,536
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
         - Number of Sudama: 1
         - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
+        - Number of Dark Realms: 
         - Bosses: 
             - Shibata Katsuie
             - Hachisuka Koroku
