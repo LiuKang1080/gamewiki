@@ -233,7 +233,7 @@ Dojo Missions:
         - Number of Kodama: 0
         - Number of Sudama: 0
         - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
+        - Number of Dark Realms: 1 (0 required)
         - Bosses: 
             - None
         - Guardian Spirit Unlocked: 
@@ -1407,29 +1407,6 @@ Shadow Region (Region 3)
             - None
         - Notable Items In Mission / Mission Rewards:
             - Onmyo Mage's Locks (mission reward).
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
 
 
 ========== ========== ========== ========== ==========
@@ -1442,8 +1419,8 @@ Dawn Region (Region 4)
             - Complete the mission: "A Way Out" and enter the Dawn Region
         --------------------
         - Recommended level: 75
-        - Gold: 
-        - Amrita: 
+        - Gold: 16,600
+        - Amrita: 11,912
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 9
@@ -1460,7 +1437,7 @@ Dawn Region (Region 4)
             - Onmyo Mage's Locks.
             - Unlocks "The Way of the Warrior: Veteran" after beating mission.
             - Unlocks "The Way of the Ninja: Veteran" after beating mission.
-            - Unlocks "The Way of the Onmyo: Veteran" after beating mission.
+            - Unlocks "The Way of the Onmyo: Veteran" after beating mission.    
 
     ==========
     The Missing Gun (Sub Mission)
@@ -1469,6 +1446,8 @@ Dawn Region (Region 4)
             - Complete the mission: "Pervading Waters"
         --------------------
         - Recommended level: 78
+        - Gold: 17,000
+        - Amrita: 12,560
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
@@ -1489,6 +1468,8 @@ Dawn Region (Region 4)
             - Complete the mission: "Pervading Waters"
         --------------------
         - Recommended level: 79
+        - Gold: 17,600
+        - Amrita: 13,592
         - Shrine: No
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
@@ -1510,6 +1491,8 @@ Dawn Region (Region 4)
             - Complete the mission: "Pervading Waters"
         --------------------
         - Recommended level: 79
+        - Gold: 17,400
+        - Amrita: 13,240
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
@@ -1521,7 +1504,30 @@ Dawn Region (Region 4)
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Smithing Text: Dancing Blade
+            - Smithing Text: Dancing Blade.
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+    
+
+    
+
+    
 
     ==========
     The Frenzied Blaze (Main Mission)
