@@ -1506,29 +1506,6 @@ Dawn Region (Region 4)
         - Notable Items In Mission / Mission Rewards:
             - Smithing Text: Dancing Blade.
 
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-
-
-
-    
-
-    
-
-    
-
     ==========
     The Frenzied Blaze (Main Mission)
     ==========
@@ -1536,6 +1513,8 @@ Dawn Region (Region 4)
             - Complete the mission: "Pervading Waters"
         --------------------
         - Recommended level: 80
+        - Gold: 18,000
+        - Amrita: 14,320
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 8
@@ -1547,8 +1526,8 @@ Dawn Region (Region 4)
         - Guardian Spirit Unlocked: 
             - Nine Tails
         - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks
-            - Ninja's Locks
+            - Onmyo Mage's Locks.
+            - Ninja's Locks.
 
     ==========
     The Burning Sky (Sub Mission)
@@ -1557,6 +1536,8 @@ Dawn Region (Region 4)
             - Complete the mission: "The Frenzied Blaze"
         --------------------
         - Recommended level: 83
+        - Gold: 18,800
+        - Amrita: 15,888
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
@@ -1568,7 +1549,30 @@ Dawn Region (Region 4)
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Kagatsuchi Magatama
+            - Kagatsuchi Magatama.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     Abduction (Sub Mission)
