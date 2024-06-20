@@ -1551,29 +1551,6 @@ Dawn Region (Region 4)
         - Notable Items In Mission / Mission Rewards:
             - Kagatsuchi Magatama.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
     Abduction (Sub Mission)
     ==========
@@ -1581,6 +1558,8 @@ Dawn Region (Region 4)
             - Complete the mission: "The Frenzied Blaze"
         --------------------
         - Recommended level: 83
+        - Gold: 18,400
+        - Amrita: 15,080
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
@@ -1592,7 +1571,7 @@ Dawn Region (Region 4)
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Book of Reincarnation (mission reward)
+            - Book of Reincarnation (mission reward).
 
     ==========
     The Warrior (Sub Mission)
@@ -1601,6 +1580,8 @@ Dawn Region (Region 4)
             - Complete the mission: "The Frenzied Blaze"
         --------------------
         - Recommended level: 84
+        - Gold: 19,200
+        - Amrita: 16,752
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
@@ -1614,6 +1595,29 @@ Dawn Region (Region 4)
         - Notable Items In Mission / Mission Rewards:
             - None
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
     ==========
     The Sun Sets on Mount Tenno (Main Mission)
     ==========
@@ -1621,6 +1625,8 @@ Dawn Region (Region 4)
             - Complete the mission: "The Frenzied Blaze"
         --------------------
         - Recommended level: 85
+        - Gold: 19,400
+        - Amrita: 17,208
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 8
@@ -1632,11 +1638,11 @@ Dawn Region (Region 4)
         - Guardian Spirit Unlocked: 
             - Genbu
         - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks
-            - Ninja's Locks
-            - Onmyo Mage's Locks (mission reward)
-            - Smithing Text: Sacred Brush (mission reward)
-            - 3rd Soul Core slot unlocked for Guardian Spirits (complete mission)
+            - Onmyo Mage's Locks.
+            - Ninja's Locks.
+            - Onmyo Mage's Locks (mission reward).
+            - Smithing Text: Sacred Brush (mission reward).
+            - 3rd Soul Core slot unlocked for Guardian Spirits (complete mission).
 
     ==========
     The Aberrant Mage (Sub Mission)
