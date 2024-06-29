@@ -1595,29 +1595,6 @@ Dawn Region (Region 4)
         - Notable Items In Mission / Mission Rewards:
             - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
     ==========
     The Sun Sets on Mount Tenno (Main Mission)
     ==========
@@ -1652,6 +1629,8 @@ Dawn Region (Region 4)
             - Defeat an Onmyo Mage 10 or more times
         --------------------
         - Recommended level: 87
+        - Gold: 19,800
+        - Amrita: 18,168
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
@@ -1663,8 +1642,8 @@ Dawn Region (Region 4)
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks (mission reward)
-            - Smithing Text: Sacred Ash (mission reward)
+            - Onmyo Mage's Locks (mission reward).
+            - Smithing Text: Sacred Ash (mission reward).
 
     ==========
     The Third Word (Sub Mission)
@@ -1674,6 +1653,8 @@ Dawn Region (Region 4)
             - Complete the mission: "The Aberrant Mage"
         --------------------
         - Recommended level: 88
+        - Gold: 20,600
+        - Amrita: 20,280
         - Shrine: No
         - Torii Gate Expedition: No
         - Number of Kodama: 0
@@ -1696,6 +1677,8 @@ Dawn Region (Region 4)
             - Complete the mission: "Master of the Dual Blades (Unlocked after completing Ruin Draws Near (Twilight Region | Region 5))"
         --------------------
         - Recommended level: 80
+        - Gold: 
+        - Amrita: 
         - Shrine: 
         - Torii Gate Expedition: 
         - Number of Kodama: 
@@ -1722,6 +1705,8 @@ Twilight Region (Region 5)
             - Complete the mission: "The Sun Sets on Mount Tenno"
         --------------------
         - Recommended level: 88
+        - Gold: 21,200
+        - Amrita: 22,032
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 7
@@ -1734,20 +1719,42 @@ Twilight Region (Region 5)
         - Guardian Spirit Unlocked: 
             - Inosasao
         - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks
-            - Ninja's Locks
-            - Samurai's Locks (mission reward)
-            - Unlocks "Opening of the Mind's Eye" in the Dojo after beating mission.
-            - Unlocks "Hanzo the Demon" in the Dojo after beating mission.
-            - Unlocks "Master of the Dual Blades" in the Dojo after beating mission.
-            - Unlocks "The Unmoving Mountain" in the Dojo after beating mission.
-            - Unlocks "The Chain That Splits the Sky" in the Dojo after beating mission.
-            - Unlocks "Sharp Eyes" in the Dojo after beating mission.
-            - Unlocks "Like Lightning" in the Dojo after beating mission.
-            - Unlocks "The Tengu's Blade" in the Dojo after beating mission.
-            - Unlocks "The Unstoppable Whirlwind" in the Dojo after beating mission.
-            - Unlocks "Breaking Free" in the Dojo after beating mission.
-            - Unlocks "Strike Like a Yokai" in the Dojo after beating mission.
+            - Onmyo Mage's Locks.
+            - Ninja's Locks.
+            - Samurai's Locks (mission reward).
+            - Unlocks the Dojo mission: "Opening of the Mind's Eye" after beating mission.
+            - Unlocks the Dojo mission: "Hanzo the Demon" after beating mission.
+            - Unlocks the Dojo mission: "Master of the Dual Blades" after beating mission.
+            - Unlocks the Dojo mission: "The Unmoving Mountain" after beating mission.
+            - Unlocks the Dojo mission: "The Chain That Splits the Sky" after beating mission.
+            - Unlocks the Dojo mission: "Sharp Eyes" after beating mission.
+            - Unlocks the Dojo mission: "Like Lightning" after beating mission.
+            - Unlocks the Dojo mission: "The Tengu's Blade" after beating mission.
+            - Unlocks the Dojo mission: "The Unstoppable Whirlwind" after beating mission.
+            - Unlocks the Dojo mission: "Breaking Free" after beating mission.
+            - Unlocks the Dojo mission: "Strike Like a Yokai" after beating mission.
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
 
     ==========
     Okuni's Search (Sub Mission)
