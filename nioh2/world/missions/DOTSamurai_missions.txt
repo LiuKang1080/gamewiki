@@ -241,18 +241,12 @@ Dojo Missions:
         - Notable Items In Mission / Mission Rewards:
             - Onmyo Mage's Locks.
 
-=================================================================================================================================
-=================================================================================================================================
-=================================================================================================================================
-TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this todo task and the lines.
-=================================================================================================================================
-=================================================================================================================================
-=================================================================================================================================
     ==========
     Opening of the Mind's Eye (Dojo Mission)
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Ruin Draws Near"
+            - Required Sword Proficiency: 120,000
         --------------------
         - Recommended level: 100
         - Shrine: No
@@ -262,7 +256,7 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
         - Number of Hot Springs: 0
         - Number of Dark Realms: 0
         - Bosses: 
-            - 
+            - Shisenin Kosen
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
@@ -273,6 +267,7 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Ruin Draws Near"
+            - Required Dual Swords Proficiency: 120,000
         --------------------
         - Recommended level: 100
         - Shrine: No
@@ -282,7 +277,7 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
         - Number of Hot Springs: 0
         - Number of Dark Realms: 0
         - Bosses: 
-            - 
+            - Ashikaga Yoshiteru
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
@@ -293,6 +288,7 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Ruin Draws Near"
+            - Required Spear Proficiency: 120,000
         --------------------
         - Recommended level: 100
         - Shrine: No
@@ -302,7 +298,7 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
         - Number of Hot Springs: 0
         - Number of Dark Realms: 0
         - Bosses: 
-            - 
+            - Hattori Hanzo
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
@@ -313,6 +309,7 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Ruin Draws Near"
+            - Required Axe Proficiency: 120,000
         --------------------
         - Recommended level: 100
         - Shrine: No
@@ -322,7 +319,7 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
         - Number of Hot Springs: 0
         - Number of Dark Realms: 0
         - Bosses: 
-            - 
+            - Sakata Kintoki
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
@@ -333,6 +330,7 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Ruin Draws Near"
+            - Required Kusarigama Proficiency: 120,000
         --------------------
         - Recommended level: 100
         - Shrine: No
@@ -342,7 +340,7 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
         - Number of Hot Springs: 0
         - Number of Dark Realms: 0
         - Bosses: 
-            - 
+            - Shisenin Kosen
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
@@ -353,6 +351,7 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Ruin Draws Near"
+            - Required Odachi Proficiency: 120,000
         --------------------
         - Recommended level: 100
         - Shrine: No
@@ -362,7 +361,7 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
         - Number of Hot Springs: 0
         - Number of Dark Realms: 0
         - Bosses: 
-            - 
+            - Shisenin Kosen
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
@@ -373,6 +372,7 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Ruin Draws Near"
+            - Required Tonfa Proficiency: 120,000
         --------------------
         - Recommended level: 100
         - Shrine: No
@@ -382,7 +382,7 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
         - Number of Hot Springs: 0
         - Number of Dark Realms: 0
         - Bosses: 
-            - 
+            - Hattori Hanzo
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
@@ -393,6 +393,7 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Ruin Draws Near"
+            - Required Hatchets Proficiency: 120,000
         --------------------
         - Recommended level: 100
         - Shrine: No
@@ -402,7 +403,7 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
         - Number of Hot Springs: 0
         - Number of Dark Realms: 0
         - Bosses: 
-            - 
+            - Sakata Kintoki
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
@@ -413,6 +414,7 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Ruin Draws Near"
+            - Required Switchglaive Proficiency: 120,000
         --------------------
         - Recommended level: 100
         - Shrine: No
@@ -422,7 +424,7 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
         - Number of Hot Springs: 0
         - Number of Dark Realms: 0
         - Bosses: 
-            - 
+            - Mumyo
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
@@ -433,6 +435,7 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Ruin Draws Near"
+            - Required Splitstaff Proficiency: 120,000
         --------------------
         - Recommended level: 100
         - Shrine: No
@@ -442,7 +445,7 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
         - Number of Hot Springs: 0
         - Number of Dark Realms: 0
         - Bosses: 
-            - 
+            - Hattori Hanzo
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
@@ -453,6 +456,7 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Ruin Draws Near"
+            - Required Fists Proficiency: 120,000
         --------------------
         - Recommended level: 100
         - Shrine: No
@@ -462,7 +466,7 @@ TODO: Add the bosses for each of the Weapon Dojo mission below, then delete this
         - Number of Hot Springs: 0
         - Number of Dark Realms: 0
         - Bosses: 
-            - 
+            - Kato Danzo
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
@@ -480,7 +484,7 @@ Twilight Missions:
         --------------------
         - Recommended level: 20
         - Gold: 14,400
-        - Amrita: 5280
+        - Amrita: 5,280
         - Shrine: Yes
         - Expedition: Yes
         - Number of Kodama: 0
@@ -502,6 +506,21 @@ Twilight Missions:
             - The Fallen Star - Shadow Region (Region 3)
             - Pervading Waters - Dawn Region (Region 4)
         --------------------
+        - Recommended level: 83
+        - Gold: 18,800
+        - Amrita: 15,888
+        - Shrine: Yes
+        - Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Kasha
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Quality Umbracite x1 (mission reward).
 
 
 ========== ========== ========== ========== ========== ========== ==========

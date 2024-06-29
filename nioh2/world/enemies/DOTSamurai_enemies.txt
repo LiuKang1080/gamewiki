@@ -99,6 +99,105 @@ Dojo Missions:
         - One-Eyed Imp
         - Ubume
 
+    ==========
+    Opening of the Mind's Eye (Dojo Mission)
+    ==========
+        - Quest Giver: Shisenin Kosen
+        - Characters:
+            - None
+        --------------------
+        - Shisenin Kosen
+
+    ==========
+    Hanzo the Demon (Dojo Mission)
+    ==========
+        - Quest Giver: Hattori Hanzo
+        - Characters:
+            - None
+        --------------------
+        - Hattori Hanzo
+
+    ==========
+    Master of the Dual Blades (Dojo Mission)
+    ==========
+        - Quest Giver: Ashikaga Yoshiteru
+        - Characters:
+            - None
+        --------------------
+        - Ashikaga Yoshiteru
+
+    ==========
+    The Unmoving Mountain (Dojo Mission)
+    ==========
+        - Quest Giver: Sakata Kintoki
+        - Characters:
+            - None
+        --------------------
+        - Sakata Kintoki
+
+    ==========
+    The Chain That Splits the Sky (Dojo Mission)
+    ==========
+        - Quest Giver: Shisenin Kosen
+        - Characters:
+            - None
+        --------------------
+        - Shisenin Kosen
+
+    ==========
+    The Tengu's Blade (Dojo Mission)
+    ==========
+        - Quest Giver: Shisenin Kosen
+        - Characters:
+            - None
+        --------------------
+        - Shisenin Kosen
+
+    ==========
+    Like Lightning (Dojo Mission)
+    ==========
+        - Quest Giver: Hattori Hanzo
+        - Characters:
+            - None
+        --------------------
+        - Hattori Hanzo
+
+    ==========
+    The Unstoppable Whirlwind (Dojo Mission)
+    ==========
+        - Quest Giver: Sakata Kintoki
+        - Characters:
+            - None
+        --------------------
+        - Sakata Kintoki
+
+    ==========
+    Sharp Eyes (Dojo Mission)
+    ==========
+        - Quest Giver: Mumyo
+        - Characters:
+            - None
+        --------------------
+        - Mumyo
+
+    ==========
+    Breaking Free (Dojo Mission)
+    ==========
+        - Quest Giver: Hattori Hanzo
+        - Characters:
+            - None
+        --------------------
+        - Hattori Hanzo
+
+    ==========
+    Strike Like a Yokai (Dojo Mission)
+    ==========
+        - Quest Giver: Kato Danzo
+        - Characters:
+            - None
+        --------------------
+        - Kato Danzo
+
 
 ========== ========== ========== ========== ========== ========== ==========
 Twilight Missions:
