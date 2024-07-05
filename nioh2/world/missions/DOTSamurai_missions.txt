@@ -1826,6 +1826,8 @@ Twilight Region (Region 5)
             - Complete the mission: "Ruin Draws Near"
         --------------------
         - Recommended level: 91
+        - Gold: 22,600
+        - Amrita: 26,680
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 7
