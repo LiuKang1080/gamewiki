@@ -522,6 +522,28 @@ Twilight Missions:
         - Notable Items In Mission / Mission Rewards:
             - Quality Umbracite x1 (mission reward).
 
+    ==========
+    Mountain of the Dark Lord
+    ==========
+        - Mission Unlock Requirement:
+            - The Sun Sets on Mount Tenno (Region 4)
+        --------------------
+        - Recommended level: 85
+        - Gold: 65,400
+        - Amrita: 71,784
+        - Shrine: Yes
+        - Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 1
+        - Number of Hot Springs: 1 (0 required)
+        - Number of Dark Realms: 1 (0 required)
+        - Bosses: 
+            - Ryomen Sukuna
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Quality Umbracite x1 (mission reward).
+
 
 ========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
@@ -597,7 +619,7 @@ Awakening Region (Region 1)
             - Ninja's Locks.
             - Onmyo Mage's Locks.
             - Unlocks the Blacksmith option at the Starting Point after beating mission.
-            - Unlocks "The Way of the Warrior: Novice" after beating mission.
+            - Unlocks the Dojo mission: "The Way of the Warrior: Novice" after beating mission.
             - Unlocks Agyo Titles after beating mission.
             - Unlocks Ungyo Titles after beating mission.
 
@@ -669,8 +691,8 @@ Awakening Region (Region 1)
             - Onmyo Mage's Locks.
             - Ninja's Locks.
             - Unlocks Twilight Missions after beating level.
-            - Unlocks "The Way of the Ninja: Novice" after beating level.
-            - Unlocks "The Way of the Onmyo: Novice" after beating level.
+            - Unlocks the Dojo mission: "The Way of the Ninja: Novice" after beating level.
+            - Unlocks the Dojo mission: "The Way of the Onmyo: Novice" after beating level.
 
     ==========
     A Favor for the Blacksmith (Sub Mission)
@@ -854,9 +876,9 @@ Soaring Region (Region 2)
         - Notable Items In Mission / Mission Rewards:
             - Onmyo Mage's Locks.
             - Ninja's Locks.
-            - Unlocks "The Way of the Warrior: Adept" after beating level.
-            - Unlocks "The Way of the Ninja: Adept" after beating level.
-            - Unlocks "The Way of the Onmyo: Adept" after beating level.
+            - Unlocks the Dojo mission: "The Way of the Warrior: Adept" after beating level.
+            - Unlocks the Dojo mission: "The Way of the Ninja: Adept" after beating level.
+            - Unlocks the Dojo mission: "The Way of the Onmyo: Adept" after beating level.
 
     ==========
     The Sunomata Yokai Hunt (Sub Mission)
@@ -1336,7 +1358,7 @@ Shadow Region (Region 3)
         - Guardian Spirit Unlocked: 
             - Makami / Ame-no-Mitori / Kagewani (only 1 will be given)
         - Notable Items In Mission / Mission Rewards:
-            - Book of Reincarnation
+            - Book of Reincarnation.
 
     ==========
     The Golden Nation (Sub Mission)
@@ -1454,9 +1476,9 @@ Dawn Region (Region 4)
         - Notable Items In Mission / Mission Rewards:
             - Ninja's Locks.
             - Onmyo Mage's Locks.
-            - Unlocks "The Way of the Warrior: Veteran" after beating mission.
-            - Unlocks "The Way of the Ninja: Veteran" after beating mission.
-            - Unlocks "The Way of the Onmyo: Veteran" after beating mission.    
+            - Unlocks the Dojo mission: "The Way of the Warrior: Veteran" after beating mission.
+            - Unlocks the Dojo mission: "The Way of the Ninja: Veteran" after beating mission.
+            - Unlocks the Dojo mission: "The Way of the Onmyo: Veteran" after beating mission.    
 
     ==========
     The Missing Gun (Sub Mission)
@@ -1797,28 +1819,6 @@ Twilight Region (Region 5)
         - Notable Items In Mission / Mission Rewards:
             - None
 
-
-
-
-
-
-
-
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
     ==========
     The Two Faces of Hospitality (Main Mission)
     ==========
@@ -1839,8 +1839,8 @@ Twilight Region (Region 5)
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks
-            - Ninja's Locks
+            - Onmyo Mage's Locks.
+            - Ninja's Locks.
 
     ==========
     The High-Spirited Demon (Main Mission)
@@ -1849,6 +1849,8 @@ Twilight Region (Region 5)
             - Complete the mission: "The Two Faces of Hospitality"
         --------------------
         - Recommended level: 95
+        - Gold: 24,000
+        - Amrita: 32,112
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 6
@@ -1863,10 +1865,32 @@ Twilight Region (Region 5)
         - Guardian Spirit Unlocked: 
             - Hakutaku
         - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks
-            - Ninja's Locks
-            - Unlocks "The One Who Lives in the Shadows" in the Dojo after beating mission.
-            - Unlocks "The Island of Monsters" Twilight Mission after beating mission
+            - Onmyo Mage's Locks.
+            - Ninja's Locks.
+            - Unlocks the Dojo mission: "The One Who Lives in the Shadows" after beating mission.
+            - Unlocks the Twilight mission: "The Island of Monsters" after beating mission.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     A Message From the Deceased (Sub Mission)
