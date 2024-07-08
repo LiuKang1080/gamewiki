@@ -295,482 +295,484 @@
             <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Anima Stats</h2>
             <hr class="w-full h-[2px] bg-stone-600 border-0">
 
-            <table class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
-                <!-- ==========
-                Header 
-                ========== -->
-                <tr>
-                    <th>Stat</th>
-                    <th>Rank 1</th>
-                    <th>Rank 9</th>
-                    <th><span class="text-divine-text-color">Rank 20</span></th>
-                    <th><span class="text-transparent bg-clip-text bg-gradient-to-b from-[#fa7e38] to-[#fdd365]">Rank 30</span></th>
-                    <th>
-                        <div class="flex flex-col items-center gap-1">
-                            Inheritable ?
-                            <img src="./img/inherit_icon.png" alt="inherit icon">
-                        </div>
-                    </th>
-                </tr>
-
-                <!-- ==========
-                Data
-                ========== -->
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Bonus (Amrita Absorption)</td>
-                    <td>D-</td>
-                    <td>D+</td>
-                    <td>C</td>
-                    <td>B-</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Bonus (Critical Amrita)</td>
-                    <td>D-</td>
-                    <td>D+</td>
-                    <td>C</td>
-                    <td>B-</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Bonus (Unscathed Amrita)</td>
-                    <td>D-</td>
-                    <td>D+</td>
-                    <td>C</td>
-                    <td>B-</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Bonus (Elemental Attack)</td>
-                    <td>C</td>
-                    <td>B</td>
-                    <td>A</td>
-                    <td>AA</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Bonus (Unscathed Enemy)</td>
-                    <td>D-</td>
-                    <td>C-</td>
-                    <td>C</td>
-                    <td>B-</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        Anima Bonus (
-                        <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
-                        <span class="text-debuff-text-color">Scorched</span> Enemy)
-                    </td>
-                    <td>C+</td>
-                    <td>B</td>
-                    <td>A-</td>
-                    <td>A+</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        Anima Bonus (
-                        <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
-                        <span class="text-debuff-text-color">Saturated</span> Enemy)
-                    </td>
-                    <td>C+</td>
-                    <td>B</td>
-                    <td>A-</td>
-                    <td>A+</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        Anima Bonus (
-                        <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
-                        <span class="text-debuff-text-color">Electrified</span> Enemy)
-                    </td>
-                    <td>C+</td>
-                    <td>B</td>
-                    <td>A-</td>
-                    <td>A+</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        Anima Bonus (
-                        <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
-                        <span class="text-debuff-text-color">Purified</span> Enemy)
-                    </td>
-                    <td>C+</td>
-                    <td>B</td>
-                    <td>A-</td>
-                    <td>A+</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        Anima Bonus (
-                        <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
-                        <span class="text-debuff-text-color">Corrupted</span> Enemy)
-                    </td>
-                    <td>C+</td>
-                    <td>B</td>
-                    <td>A-</td>
-                    <td>A+</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        Anima Bonus (
-                        <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
-                        <span class="text-debuff-text-color">Poisoned</span> Enemy)
-                    </td>
-                    <td>C+</td>
-                    <td>B</td>
-                    <td>A-</td>
-                    <td>A+</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        Anima Bonus (
-                        <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
-                        <span class="text-debuff-text-color">Paralyzed</span> Enemy)
-                    </td>
-                    <td>C+</td>
-                    <td>B</td>
-                    <td>A-</td>
-                    <td>A+</td>
-                    <td>No</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        Anima Bonus (
-                        <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
-                        <span class="text-debuff-text-color">Paralyzed</span> Enemy)
-                    </td>
-                    <td>B</td>
-                    <td>A-</td>
-                    <td>A+</td>
-                    <td>AA</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        Anima Bonus (
-                        <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
-                        <span class="text-debuff-text-color">Confused</span> Enemy)
-                    </td>
-                    <td>B</td>
-                    <td>A-</td>
-                    <td>A+</td>
-                    <td>AA</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        Anima Bonus (Enemy 
-                        <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
-                        <span class="text-debuff-text-color">Scorched</span>)
-                    </td>
-                    <td>C+</td>
-                    <td>B</td>
-                    <td>A-</td>
-                    <td>A+</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        Anima Bonus (Enemy 
-                        <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
-                        <span class="text-debuff-text-color">Saturated</span>)
-                    </td>
-                    <td>C+</td>
-                    <td>B</td>
-                    <td>A-</td>
-                    <td>A+</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        Anima Bonus (Enemy 
-                        <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
-                        <span class="text-debuff-text-color">Electrified</span>)
-                    </td>
-                    <td>C+</td>
-                    <td>B</td>
-                    <td>A-</td>
-                    <td>A+</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        Anima Bonus (Enemy 
-                        <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
-                        <span class="text-debuff-text-color">Purified</span>)
-                    </td>
-                    <td>C+</td>
-                    <td>B</td>
-                    <td>A-</td>
-                    <td>A+</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        Anima Bonus (Enemy 
-                        <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
-                        <span class="text-debuff-text-color">Corrupted</span>)
-                    </td>
-                    <td>C+</td>
-                    <td>B</td>
-                    <td>A-</td>
-                    <td>A+</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        Anima Bonus (Enemy 
-                        <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
-                        <span class="text-debuff-text-color">Poisoned</span>)
-                    </td>
-                    <td>C+</td>
-                    <td>B</td>
-                    <td>A-</td>
-                    <td>A+</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        Anima Bonus (Enemy 
-                        <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
-                        <span class="text-debuff-text-color">Paralyzed</span>)
-                    </td>
-                    <td>C+</td>
-                    <td>B</td>
-                    <td>A-</td>
-                    <td>A+</td>
-                    <td>No</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        Anima Bonus (Enemy 
-                        <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
-                        <span class="text-debuff-text-color">Paralyzed</span>)
-                    </td>
-                    <td>B</td>
-                    <td>A-</td>
-                    <td>A+</td>
-                    <td>AA</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        Anima Bonus (Enemy 
-                        <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
-                        <span class="text-debuff-text-color">Confused</span>)
-                    </td>
-                    <td>B</td>
-                    <td>A-</td>
-                    <td>A+</td>
-                    <td>AA</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Bonus (Inflict Ailment)</td>
-                    <td>D+</td>
-                    <td>C+</td>
-                    <td>B</td>
-                    <td>B+</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Bonus (Grapple)</td>
-                    <td>1.2</td>
-                    <td>1.3</td>
-                    <td>1.4</td>
-                    <td>1.5</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Bonus (Final Blow)</td>
-                    <td>1.0</td>
-                    <td>1.1</td>
-                    <td>1.2</td>
-                    <td>1.3</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Bonus (Ninjutsu Hit)</td>
-                    <td>D</td>
-                    <td>C-</td>
-                    <td>B</td>
-                    <td>A</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Bonus (Onmyo Magic Hit)</td>
-                    <td>D</td>
-                    <td>C-</td>
-                    <td>B</td>
-                    <td>A</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Bonus (Purification)</td>
-                    <td>0.3</td>
-                    <td>0.5</td>
-                    <td>0.7</td>
-                    <td>0.9</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Bonus (Ranged Hit)</td>
-                    <td>C+</td>
-                    <td>B</td>
-                    <td>A</td>
-                    <td>AA</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Bonus (Ranged Weapon Hit)</td>
-                    <td>C+</td>
-                    <td>B</td>
-                    <td>A</td>
-                    <td>AA</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Bonus (Damage Taken)</td>
-                    <td>D</td>
-                    <td>C-</td>
-                    <td>B</td>
-                    <td>A</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Efficient Yokai Abilities (All)</td>
-                    <td>7.3%</td>
-                    <td>10.0%</td>
-                    <td>13.6%</td>
-                    <td>16.9%</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        Super-Efficient Yokai Abilities (All)
-                    </td>
-                    <td>3.1%</td>
-                    <td>4.0%</td>
-                    <td>5.2%</td>
-                    <td>6.3%</td>
-                    <td>No</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        <span class="text-rare-text-color">Super-Efficient Yokai Abilities (All)</span>
-                    </td>
-                    <td>2.6%</td>
-                    <td>4.1%</td>
-                    <td>6.0%</td>
-                    <td>7.7%</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        <span class="text-uncommon-text-color">Anima Charge</span>
-                    </td>
-                    <td>3.1%</td>
-                    <td>4.0%</td>
-                    <td>5.2%</td>
-                    <td>6.3%</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Charge (Critical)</td>
-                    <td>9.2%</td>
-                    <td>11.0%</td>
-                    <td>13.4%</td>
-                    <td>15.6%</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Charge (Unscathed)</td>
-                    <td>3.6%</td>
-                    <td>4.5%</td>
-                    <td>5.7%</td>
-                    <td>9.8%</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Charge (Dark Realm)</td>
-                    <td>8.1%</td>
-                    <td>9.0%</td>
-                    <td>10.2%</td>
-                    <td>11.3%</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Charge (Yokai Shift)</td>
-                    <td>9.1%</td>
-                    <td>10.0%</td>
-                    <td>11.2%</td>
-                    <td>14.2%</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Charge (Ailing)</td>
-                    <td>8.1%</td>
-                    <td>9.0%</td>
-                    <td>10.2%</td>
-                    <td>11.3%</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Charge (Enhanced)</td>
-                    <td>3.6%</td>
-                    <td>4.5%</td>
-                    <td>5.7%</td>
-                    <td>6.8%</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Charge Bonus (Cumulative Damage)</td>
-                    <td>D-</td>
-                    <td>C</td>
-                    <td>B-</td>
-                    <td>A</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        <span class="text-rare-text-color">Anima Charge Bonus (Amrita Gauge)</span>
-                    </td>
-                    <td>C+</td>
-                    <td>B</td>
-                    <td>A-</td>
-                    <td>A+</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Anima Charge Bonus (Amrita Gauge)</td>
-                    <td>B</td>
-                    <td>A-</td>
-                    <td>A+</td>
-                    <td>AA</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        <img class="inline" src="./img/special_effect_icon.png" alt="Special Effect icon">
-                        Anima Bonus (Timely Guard)
-                        <br>[Innate Stat / Cannot Be Rolled]
-                    </td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        <img class="inline" src="./img/special_effect_icon.png" alt="Special Effect icon">
-                        Anima Bonus (Water Attack)
-                        <br>[Innate Stat / Cannot Be Rolled]
-                    </td>
-                </tr>
-            </table>
+            <div class="place-self-start md:place-self-center overflow-hidden rounded-xl">
+                <table class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 text-slate-300 text-xl font-tinos">
+                    <!-- ==========
+                    Header 
+                    ========== -->
+                    <tr>
+                        <th>Stat</th>
+                        <th>Rank 1</th>
+                        <th>Rank 9</th>
+                        <th><span class="text-divine-text-color">Rank 20</span></th>
+                        <th><span class="text-transparent bg-clip-text bg-gradient-to-b from-[#fa7e38] to-[#fdd365]">Rank 30</span></th>
+                        <th>
+                            <div class="flex flex-col items-center gap-1">
+                                Inheritable ?
+                                <img src="./img/inherit_icon.png" alt="inherit icon">
+                            </div>
+                        </th>
+                    </tr>
+    
+                    <!-- ==========
+                    Data
+                    ========== -->
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Bonus (Amrita Absorption)</td>
+                        <td>D-</td>
+                        <td>D+</td>
+                        <td>C</td>
+                        <td>B-</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Bonus (Critical Amrita)</td>
+                        <td>D-</td>
+                        <td>D+</td>
+                        <td>C</td>
+                        <td>B-</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Bonus (Unscathed Amrita)</td>
+                        <td>D-</td>
+                        <td>D+</td>
+                        <td>C</td>
+                        <td>B-</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Bonus (Elemental Attack)</td>
+                        <td>C</td>
+                        <td>B</td>
+                        <td>A</td>
+                        <td>AA</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Bonus (Unscathed Enemy)</td>
+                        <td>D-</td>
+                        <td>C-</td>
+                        <td>C</td>
+                        <td>B-</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            Anima Bonus (
+                            <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
+                            <span class="text-debuff-text-color">Scorched</span> Enemy)
+                        </td>
+                        <td>C+</td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            Anima Bonus (
+                            <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
+                            <span class="text-debuff-text-color">Saturated</span> Enemy)
+                        </td>
+                        <td>C+</td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            Anima Bonus (
+                            <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
+                            <span class="text-debuff-text-color">Electrified</span> Enemy)
+                        </td>
+                        <td>C+</td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            Anima Bonus (
+                            <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
+                            <span class="text-debuff-text-color">Purified</span> Enemy)
+                        </td>
+                        <td>C+</td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            Anima Bonus (
+                            <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
+                            <span class="text-debuff-text-color">Corrupted</span> Enemy)
+                        </td>
+                        <td>C+</td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            Anima Bonus (
+                            <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
+                            <span class="text-debuff-text-color">Poisoned</span> Enemy)
+                        </td>
+                        <td>C+</td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            Anima Bonus (
+                            <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
+                            <span class="text-debuff-text-color">Paralyzed</span> Enemy)
+                        </td>
+                        <td>C+</td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                        <td>No</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            Anima Bonus (
+                            <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
+                            <span class="text-debuff-text-color">Paralyzed</span> Enemy)
+                        </td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                        <td>AA</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            Anima Bonus (
+                            <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
+                            <span class="text-debuff-text-color">Confused</span> Enemy)
+                        </td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                        <td>AA</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            Anima Bonus (Enemy 
+                            <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
+                            <span class="text-debuff-text-color">Scorched</span>)
+                        </td>
+                        <td>C+</td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            Anima Bonus (Enemy 
+                            <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
+                            <span class="text-debuff-text-color">Saturated</span>)
+                        </td>
+                        <td>C+</td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            Anima Bonus (Enemy 
+                            <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
+                            <span class="text-debuff-text-color">Electrified</span>)
+                        </td>
+                        <td>C+</td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            Anima Bonus (Enemy 
+                            <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
+                            <span class="text-debuff-text-color">Purified</span>)
+                        </td>
+                        <td>C+</td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            Anima Bonus (Enemy 
+                            <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
+                            <span class="text-debuff-text-color">Corrupted</span>)
+                        </td>
+                        <td>C+</td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            Anima Bonus (Enemy 
+                            <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
+                            <span class="text-debuff-text-color">Poisoned</span>)
+                        </td>
+                        <td>C+</td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            Anima Bonus (Enemy 
+                            <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
+                            <span class="text-debuff-text-color">Paralyzed</span>)
+                        </td>
+                        <td>C+</td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                        <td>No</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            Anima Bonus (Enemy 
+                            <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
+                            <span class="text-debuff-text-color">Paralyzed</span>)
+                        </td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                        <td>AA</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            Anima Bonus (Enemy 
+                            <img class="inline" src="./img/debuff_icon.png" alt="Debuff icon">
+                            <span class="text-debuff-text-color">Confused</span>)
+                        </td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                        <td>AA</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Bonus (Inflict Ailment)</td>
+                        <td>D+</td>
+                        <td>C+</td>
+                        <td>B</td>
+                        <td>B+</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Bonus (Grapple)</td>
+                        <td>1.2</td>
+                        <td>1.3</td>
+                        <td>1.4</td>
+                        <td>1.5</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Bonus (Final Blow)</td>
+                        <td>1.0</td>
+                        <td>1.1</td>
+                        <td>1.2</td>
+                        <td>1.3</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Bonus (Ninjutsu Hit)</td>
+                        <td>D</td>
+                        <td>C-</td>
+                        <td>B</td>
+                        <td>A</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Bonus (Onmyo Magic Hit)</td>
+                        <td>D</td>
+                        <td>C-</td>
+                        <td>B</td>
+                        <td>A</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Bonus (Purification)</td>
+                        <td>0.3</td>
+                        <td>0.5</td>
+                        <td>0.7</td>
+                        <td>0.9</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Bonus (Ranged Hit)</td>
+                        <td>C+</td>
+                        <td>B</td>
+                        <td>A</td>
+                        <td>AA</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Bonus (Ranged Weapon Hit)</td>
+                        <td>C+</td>
+                        <td>B</td>
+                        <td>A</td>
+                        <td>AA</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Bonus (Damage Taken)</td>
+                        <td>D</td>
+                        <td>C-</td>
+                        <td>B</td>
+                        <td>A</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Efficient Yokai Abilities (All)</td>
+                        <td>7.3%</td>
+                        <td>10.0%</td>
+                        <td>13.6%</td>
+                        <td>16.9%</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            Super-Efficient Yokai Abilities (All)
+                        </td>
+                        <td>3.1%</td>
+                        <td>4.0%</td>
+                        <td>5.2%</td>
+                        <td>6.3%</td>
+                        <td>No</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            <span class="text-rare-text-color">Super-Efficient Yokai Abilities (All)</span>
+                        </td>
+                        <td>2.6%</td>
+                        <td>4.1%</td>
+                        <td>6.0%</td>
+                        <td>7.7%</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            <span class="text-uncommon-text-color">Anima Charge</span>
+                        </td>
+                        <td>3.1%</td>
+                        <td>4.0%</td>
+                        <td>5.2%</td>
+                        <td>6.3%</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Charge (Critical)</td>
+                        <td>9.2%</td>
+                        <td>11.0%</td>
+                        <td>13.4%</td>
+                        <td>15.6%</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Charge (Unscathed)</td>
+                        <td>3.6%</td>
+                        <td>4.5%</td>
+                        <td>5.7%</td>
+                        <td>9.8%</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Charge (Dark Realm)</td>
+                        <td>8.1%</td>
+                        <td>9.0%</td>
+                        <td>10.2%</td>
+                        <td>11.3%</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Charge (Yokai Shift)</td>
+                        <td>9.1%</td>
+                        <td>10.0%</td>
+                        <td>11.2%</td>
+                        <td>14.2%</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Charge (Ailing)</td>
+                        <td>8.1%</td>
+                        <td>9.0%</td>
+                        <td>10.2%</td>
+                        <td>11.3%</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Charge (Enhanced)</td>
+                        <td>3.6%</td>
+                        <td>4.5%</td>
+                        <td>5.7%</td>
+                        <td>6.8%</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Charge Bonus (Cumulative Damage)</td>
+                        <td>D-</td>
+                        <td>C</td>
+                        <td>B-</td>
+                        <td>A</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            <span class="text-rare-text-color">Anima Charge Bonus (Amrita Gauge)</span>
+                        </td>
+                        <td>C+</td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Anima Charge Bonus (Amrita Gauge)</td>
+                        <td>B</td>
+                        <td>A-</td>
+                        <td>A+</td>
+                        <td>AA</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            <img class="inline" src="./img/special_effect_icon.png" alt="Special Effect icon">
+                            Anima Bonus (Timely Guard)
+                            <br>[Innate Stat / Cannot Be Rolled]
+                        </td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            <img class="inline" src="./img/special_effect_icon.png" alt="Special Effect icon">
+                            Anima Bonus (Water Attack)
+                            <br>[Innate Stat / Cannot Be Rolled]
+                        </td>
+                    </tr>
+                </table>
+            </div>
         </div>
     </section>
 
@@ -1013,52 +1015,54 @@
             <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Ki Damage Stats</h2>
             <hr class="w-full h-[2px] bg-stone-600 border-0">
 
-            <table class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
-                <!-- ==========
-                Header 
-                ========== -->
-                <tr>
-                    <th>Stat</th>
-                    <th>Rank 1</th>
-                    <th>Rank 9</th>
-                    <th><span class="text-divine-text-color">Rank 20</span></th>
-                    <th><span class="text-transparent bg-clip-text bg-gradient-to-b from-[#fa7e38] to-[#fdd365]">Rank 30</span></th>
-                    <th>
-                        <div class="flex flex-col items-center gap-1">
-                            Inheritable ?
-                            <img src="./img/inherit_icon.png" alt="inherit icon">
-                        </div>
-                    </th>
-                </tr>
-
-                <!-- ==========
-                Data
-                ========== -->
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        <span class="text-rare-text-color">Melee Ki Damage</span>
-                    </td>
-                    <td>1.0%</td>
-                    <td>1.2%</td>
-                    <td>1.4%</td>
-                    <td>1.6%</td>
-                    <td>No</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        <img class="inline" src="./img/special_effect_icon.png" alt="Special Effect icon">
-                        Strong Attack Ki Damage
-                        <br>[Innate Stat / Cannot Be Rolled]
-                    </td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        <img class="inline" src="./img/special_effect_icon.png" alt="Special Effect icon">
-                        Active Skill Ki Damage
-                        <br>[Innate Stat / Cannot Be Rolled]
-                    </td>
-                </tr>
-            </table>
+            <div class="place-self-start md:place-self-center overflow-hidden rounded-xl">
+                <table class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 text-slate-300 text-xl font-tinos">
+                    <!-- ==========
+                    Header 
+                    ========== -->
+                    <tr>
+                        <th>Stat</th>
+                        <th>Rank 1</th>
+                        <th>Rank 9</th>
+                        <th><span class="text-divine-text-color">Rank 20</span></th>
+                        <th><span class="text-transparent bg-clip-text bg-gradient-to-b from-[#fa7e38] to-[#fdd365]">Rank 30</span></th>
+                        <th>
+                            <div class="flex flex-col items-center gap-1">
+                                Inheritable ?
+                                <img src="./img/inherit_icon.png" alt="inherit icon">
+                            </div>
+                        </th>
+                    </tr>
+    
+                    <!-- ==========
+                    Data
+                    ========== -->
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            <span class="text-rare-text-color">Melee Ki Damage</span>
+                        </td>
+                        <td>1.0%</td>
+                        <td>1.2%</td>
+                        <td>1.4%</td>
+                        <td>1.6%</td>
+                        <td>No</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            <img class="inline" src="./img/special_effect_icon.png" alt="Special Effect icon">
+                            Strong Attack Ki Damage
+                            <br>[Innate Stat / Cannot Be Rolled]
+                        </td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            <img class="inline" src="./img/special_effect_icon.png" alt="Special Effect icon">
+                            Active Skill Ki Damage
+                            <br>[Innate Stat / Cannot Be Rolled]
+                        </td>
+                    </tr>
+                </table>
+            </div>
         </div>
     </section>
 
@@ -1265,56 +1269,58 @@
             <h2 class="py-4 text-4xl text-yellow-400 font-extrabold text-center">Luck Stats</h2>
             <hr class="w-full h-[2px] bg-stone-600 border-0">
 
-            <table class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 rounded-xl text-slate-300 text-xl font-tinos">
-                <!-- ==========
-                Header 
-                ========== -->
-                <tr>
-                    <th>Stat</th>
-                    <th>Rank 1</th>
-                    <th>Rank 9</th>
-                    <th><span class="text-divine-text-color">Rank 20</span></th>
-                    <th><span class="text-transparent bg-clip-text bg-gradient-to-b from-[#fa7e38] to-[#fdd365]">Rank 30</span></th>
-                    <th>
-                        <div class="flex flex-col items-center gap-1">
-                            Inheritable ?
-                            <img src="./img/inherit_icon.png" alt="inherit icon">
-                        </div>
-                    </th>
-                </tr>
-
-                <!-- ==========
-                Data
-                ========== -->
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        <span class="text-uncommon-text-color">Luck</span>
-                    </td>
-                    <td>4</td>
-                    <td>8</td>
-                    <td>12</td>
-                    <td>17</td>
-                    <td>Yes</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>
-                        <span class="text-uncommon-text-color">Luck</span>
-                    </td>
-                    <td>10</td>
-                    <td>17</td>
-                    <td>25</td>
-                    <td>33</td>
-                    <td>No</td>
-                </tr>
-                <tr class="even:bg-dark-gray-2">
-                    <td>Luck (Yokai Shift)</td>
-                    <td>30</td>
-                    <td>35</td>
-                    <td>41</td>
-                    <td>46</td>
-                    <td>Yes</td>
-                </tr>
-            </table>
+            <div class="place-self-start md:place-self-center overflow-hidden rounded-xl">
+                <table class="place-self-start md:place-self-center bg-dark-gray border-collapse border border-solid border-stone-900 text-slate-300 text-xl font-tinos">
+                    <!-- ==========
+                    Header 
+                    ========== -->
+                    <tr>
+                        <th>Stat</th>
+                        <th>Rank 1</th>
+                        <th>Rank 9</th>
+                        <th><span class="text-divine-text-color">Rank 20</span></th>
+                        <th><span class="text-transparent bg-clip-text bg-gradient-to-b from-[#fa7e38] to-[#fdd365]">Rank 30</span></th>
+                        <th>
+                            <div class="flex flex-col items-center gap-1">
+                                Inheritable ?
+                                <img src="./img/inherit_icon.png" alt="inherit icon">
+                            </div>
+                        </th>
+                    </tr>
+    
+                    <!-- ==========
+                    Data
+                    ========== -->
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            <span class="text-uncommon-text-color">Luck</span>
+                        </td>
+                        <td>4</td>
+                        <td>8</td>
+                        <td>12</td>
+                        <td>17</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>
+                            <span class="text-uncommon-text-color">Luck</span>
+                        </td>
+                        <td>10</td>
+                        <td>17</td>
+                        <td>25</td>
+                        <td>33</td>
+                        <td>No</td>
+                    </tr>
+                    <tr class="even:bg-dark-gray-2">
+                        <td>Luck (Yokai Shift)</td>
+                        <td>30</td>
+                        <td>35</td>
+                        <td>41</td>
+                        <td>46</td>
+                        <td>Yes</td>
+                    </tr>
+                </table>
+            </div>
         </div>
     </section>
 
