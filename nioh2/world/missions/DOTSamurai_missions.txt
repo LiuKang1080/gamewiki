@@ -1870,35 +1870,15 @@ Twilight Region (Region 5)
             - Unlocks the Dojo mission: "The One Who Lives in the Shadows" after beating mission.
             - Unlocks the Twilight mission: "The Island of Monsters" after beating mission.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
+    =========
     A Message From the Deceased (Sub Mission)
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "The Two Faces of Hospitality"
         --------------------
         - Recommended level: 94
+        - Gold: 23,400
+        - Amrita: 29,688
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
@@ -1910,7 +1890,29 @@ Twilight Region (Region 5)
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks (mission reward)
+            - Onmyo Mage's Locks (mission reward).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     Stray Cats (Sub Mission)
