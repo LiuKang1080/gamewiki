@@ -544,6 +544,28 @@ Twilight Missions:
         - Notable Items In Mission / Mission Rewards:
             - Quality Umbracite x1 (mission reward).
 
+    ==========
+    The Island of Monsters
+    ==========
+        - Mission Unlock Requirement:
+            - The High Spirited Demon (Region 5)
+        --------------------
+        - Recommended level: 102
+        - Gold: 80,400
+        - Amrita: 140,328
+        - Shrine: Yes
+        - Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 2
+        - Number of Hot Springs: 1 (0 required)
+        - Number of Dark Realms: 1 (0 required)
+        - Bosses: 
+            - Tatarimokke
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Quality Umbracite x1 (mission reward).
+
 
 ========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
@@ -1590,7 +1612,7 @@ Dawn Region (Region 4)
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Kagatsuchi Magatama.
+            - Kagatsuchi Magatama (Mission Reward - Increases the average rarity of uncommon+ forged items by 1%).
 
     ==========
     Abduction (Sub Mission)
@@ -1892,28 +1914,6 @@ Twilight Region (Region 5)
         - Notable Items In Mission / Mission Rewards:
             - Onmyo Mage's Locks (mission reward).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
     Stray Cats (Sub Mission)
     ==========
@@ -1921,6 +1921,8 @@ Twilight Region (Region 5)
             - Complete the mission: "The High-Spirited Demon"
         --------------------
         - Recommended level: 97
+        - Gold: 24,400
+        - Amrita: 33,816
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 5
@@ -1932,7 +1934,29 @@ Twilight Region (Region 5)
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Ninja's Locks (mission reward)
+            - Ninja's Locks (mission reward).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     Calling on the Fire God (Sub Mission)
@@ -1952,7 +1976,7 @@ Twilight Region (Region 5)
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Kagatsuchi Magatama
+            - Kagatsuchi Magatama (Mission Reward - Increases the average rarity of uncommon+ forged items by 1%).
 
     ==========
     Scattered Fragments (Sub Mission)
