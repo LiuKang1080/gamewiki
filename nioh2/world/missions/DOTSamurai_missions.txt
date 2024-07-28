@@ -1936,28 +1936,6 @@ Twilight Region (Region 5)
         - Notable Items In Mission / Mission Rewards:
             - Ninja's Locks (mission reward).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
     Calling on the Fire God (Sub Mission)
     ==========
@@ -1965,6 +1943,8 @@ Twilight Region (Region 5)
             - Complete the mission: "The High-Spirited Demon"
         --------------------
         - Recommended level: 98
+        - Gold: 24,800
+        - Amrita: 35,616
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
@@ -1986,6 +1966,8 @@ Twilight Region (Region 5)
             - Get at least 10 Tea Utensils Appraised
         --------------------
         - Recommended level: 99
+        - Gold: 25,600
+        - Amrita: 39,696
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
@@ -1997,7 +1979,29 @@ Twilight Region (Region 5)
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Zen Manual (mission reward)
+            - Zen Manual (mission reward).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
 
     ==========
     A Prayer in the Moonlight (Sub Mission)
@@ -2008,6 +2012,8 @@ Twilight Region (Region 5)
             - Receive Yamanaka Shikanosuke's Assistance in the mission "Scattered Fragments"
         --------------------
         - Recommended level: 91
+        - Gold: 21,800
+        - Amrita: 23,928
         - Shrine: No
         - Torii Gate Expedition: No
         - Number of Kodama: 0

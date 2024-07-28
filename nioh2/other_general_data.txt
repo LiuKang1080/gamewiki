@@ -2,28 +2,36 @@
 Key Items
 ========== ========== ==========
     - Commendation From Katsuie:
-        - Ally and help Shibata Katsuie in the mission: The Shiftling's Wise Judgement (Sub Mission)
+        - Ally and help Shibata Katsuie in the mission: The Shiftling's Wise Judgement (Sub Mission).
 
     - Foreign Necklace:
-        - Complete the mission: A Formal Match (Sub Mission)
+        - Complete the mission: A Formal Match (Sub Mission).
 
     - Wooden Kannon Sculpture:
-        - Complete the mission: The Tiger Approaches (Sub Mission)
+        - Complete the mission: The Tiger Approaches (Sub Mission).
 
     - Tattered Note:
-        - Complete the mission: Lingering Snow and Crimson Tracks (Sub Mission)
+        - Complete the mission: Lingering Snow and Crimson Tracks (Sub Mission).
 
     - Repaired Hiragumo Kettle
-        - Complete the mission: Scattered Fragments (Sub Mission)
+        - Complete the mission: Scattered Fragments (Sub Mission).
+
+    - Kagatsuchi's Magatama:
+        - Complete the missions:
+            - A Favor for the Blacksmith (Sub Mission).
+            - The Burning Sky (Sub Mission).
+            - Calling on the Fire God (Sub Mission).
+        - Kagatsuchi's Magatamas are given away to the Blacksmith when clicking on the Forge option.
 
     - Harakiri Sword:
-        - Pick up item during the mission: The Village of Cursed Blossoms (Main Mission)
+        - Pick up item during the mission: The Village of Cursed Blossoms (Main Mission).
 
     - Divine Branch Fragment:
-        - Obtained at the beginning of the game before entering the 1st mission: The Village of Cursed Blossoms (Main Mission)
+        - Obtained at the beginning of the game before entering the 1st mission: The Village of Cursed Blossoms (Main Mission).
 
     - Umebachi Abacus:
-        - Obtained at the end of the mission "An Error in Calculation" in a Treasure Chest. This item is given away to Maeda Toshiie.
+        - Obtained at the end of the mission "An Error in Calculation" in a Treasure Chest.
+        - This item is given away to Maeda Toshiie upon completing the side mission.
 
 
 ========== ========== ==========
