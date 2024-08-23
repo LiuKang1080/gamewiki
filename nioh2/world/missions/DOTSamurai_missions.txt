@@ -2028,28 +2028,6 @@ Twilight Region (Region 5)
             - None
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ========== ========== ========== ========== ==========
 Dream Region (Region 6)
 ========== ========== ========== ========== ==========
@@ -2057,13 +2035,15 @@ Dream Region (Region 6)
     The Mausoleum of Evil (Main Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete the mission: "The High-Spirited Demon"
+            - Complete the mission: "The High-Spirited Demon".
         --------------------
         - Recommended level: 100
+        - Gold: 25,800
+        - Amrita: 40,816
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 9
-        - Number of Sudama: 2
+        - Number of Sudama: 3
         - Number of Hot Springs: 1
         - Number of Dark Realms: 2
         - Bosses: 
@@ -2071,8 +2051,8 @@ Dream Region (Region 6)
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Ninja's Locks 
-            - Onmyo Mage's Locks
+            - Ninja's Locks.
+            - Onmyo Mage's Locks.
             - Unlocks "The Nine Symbols" in the Dojo after beating mission.
             - Unlocks the "Interim" after beating mission.
 
@@ -2080,9 +2060,11 @@ Dream Region (Region 6)
     The Roaming Artisan (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete the mission: "The Mausoleum of Evil"
+            - Complete the mission: "The Mausoleum of Evil".
         --------------------
         - Recommended level: 103
+        - Gold: 26,600
+        - Amrita: 45,576
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
@@ -2094,17 +2076,19 @@ Dream Region (Region 6)
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Unlocks the Remodel feature in the Blacksmith
-            - x3 Metalworking Chisel
-            - Smithing Text: Basket Blade & Boar Cutter (mission reward)
+            - Smithing Text: Basket Blade & Boar Cutter (mission reward).
+            - Unlocks the Remodel feature in the Blacksmith.
+            - x3 Metalworking Chisel.
 
     ==========
     Mataza of the Spear (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete the mission: "The Mausoleum of Evil"
+            - Complete the mission: "The Mausoleum of Evil".
         --------------------
         - Recommended level: 104
+        - Gold: 27,000
+        - Amrita: 47,976
         - Shrine: No
         - Torii Gate Expedition: No
         - Number of Kodama: 0
@@ -2125,6 +2109,8 @@ Dream Region (Region 6)
             - Complete the mission: "The Mausoleum of Evil"
         --------------------
         - Recommended level: 105
+        - Gold: 27,200
+        - Amrita: 49,176
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 8
@@ -2141,8 +2127,30 @@ Dream Region (Region 6)
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks
-            - Ninja's Locks
+            - Onmyo Mage's Locks.
+            - Ninja's Locks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     The Bravest of the Brave (Sub Mission)
