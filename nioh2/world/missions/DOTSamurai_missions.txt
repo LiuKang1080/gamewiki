@@ -2106,7 +2106,7 @@ Dream Region (Region 6)
     The Golden Castle (Main Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete the mission: "The Mausoleum of Evil"
+            - Complete the mission: "The Mausoleum of Evil".
         --------------------
         - Recommended level: 105
         - Gold: 27,200
