@@ -2125,7 +2125,7 @@ Dream Region (Region 6)
             - Kasha
             - Lady Osakabe
         - Guardian Spirit Unlocked: 
-            - None
+            - Isanagami (enter mission)
         - Notable Items In Mission / Mission Rewards:
             - Onmyo Mage's Locks.
             - Ninja's Locks.
@@ -2159,6 +2159,8 @@ Dream Region (Region 6)
             - Complete the mission: "The Golden Castle"
         --------------------
         - Recommended level: 103
+        - Gold: 26,200
+        - Amrita: 43,176
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
