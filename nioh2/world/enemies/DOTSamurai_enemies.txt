@@ -1034,6 +1034,28 @@ Shadow Region (Region 3)
         --------------------
         - Saito Toshimitsu (boss) (first time)
 
+    ==========
+    A Strong Bond (Sub Mission)
+    ==========
+        - Quest Giver: Hakutaku
+        - Characters: 
+            - Takenaka Hanbei (NPC)
+        --------------------
+        - Rouge
+        - Sohaya Warrior (switchglaive)
+        - Dog
+        - Sohaya Warrior (odachi)
+        - Dweller
+        - Lesser Umi-Bozu
+        - One-Eyed Imp
+        - One-Eyed Oni
+        - Yamanba
+        - Karakasa Umbrella
+        - Koroka
+        - Onyudo (fire)
+        - Ninja
+        - Mujina
+
 
 ========== ========== ========== ========== ==========
 Dawn Region (Region 4)

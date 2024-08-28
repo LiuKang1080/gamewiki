@@ -1515,6 +1515,28 @@ Shadow Region (Region 3)
         - Notable Items In Mission / Mission Rewards:
             - Onmyo Mage's Locks (mission reward).
 
+    ==========
+    A Strong Bond (Sub Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Speak with Takenaka Hanbei in the Interim.
+        --------------------
+        - Recommended level: 99
+        - Gold: 50,400
+        - Amrita: 37,576
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 1 (0 required)
+        - Number of Dark Realms: 1 (0 required)
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - Mizuchi
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
 
 ========== ========== ========== ========== ==========
 Dawn Region (Region 4)
@@ -2257,10 +2279,6 @@ Dream Region (Region 6)
             - Earn the valuable item: "Cherry Blossom Chapbook"
             - Speak with Azai Nagamasa in the Interim
         --------------------
-
-
-
-
 
 
 
