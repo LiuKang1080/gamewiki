@@ -333,6 +333,25 @@ Twilight Missions:
         - Mujina
         - Tatarimokke (boss)
 
+    ==========
+    Wings of the Phoenix (The Mausoleum of Evil | Dream Region (Region 6))
+    ==========
+        - Flying Bolt
+        - Red Kappa
+        - Spider
+        - Gaki
+        - Ubume
+        - Tesso
+        - Yamanba
+        - Mitsume Yazura
+        - Biwa Boku-Boku
+        - Infernal Oni-Bi
+        - Onyudo (lightning)
+        - Mujina
+        - Nurikabe
+        - Kappa
+        - Shuten Doji (boss)
+
 
 ========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
@@ -1540,8 +1559,30 @@ Dream Region (Region 6)
         - Karasu Tengu
         - Maeda Keiji (boss) (first time)
 
+    ==========
+    The Dream's End (Sub Mission)
+    ==========
+        - Quest Giver: Okuni
+        - Characters:
+            -  (NPC, Ally)
+        --------------------
+        - Blue Yoki (kusarigama)
+        - Blue Yoki (dual swords)
+        - Yoki (sword)
+        - Yoki (axe)
+        - Wheelmonk
+        - Onyudo (fire)
+        - Blue Yoki (sword + cannon)
+        - Ubume
+        - Flying Bolt
+        - Koroka
+        - Mitsume Yazura
+        - Magatsu Warrior
+        - Kasha (boss)
 
-
+    ==========
+    Cherry Blossom Viewing Daigo (Main Mission)
+    ==========
 
 
 

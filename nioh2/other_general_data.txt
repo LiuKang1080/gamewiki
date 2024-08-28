@@ -33,6 +33,10 @@ Key Items
         - Obtained at the end of the mission "An Error in Calculation" in a Treasure Chest.
         - This item is given away to Maeda Toshiie upon completing the side mission.
 
+    - Spirit Stone Hairpin:
+        - Obtained at the end of the mission "The Dream's End" after defeating Kasha.
+        - The player has the option to give this item to Okuni at the end of the mission.
+
 
 ========== ========== ==========
 Proficiency 

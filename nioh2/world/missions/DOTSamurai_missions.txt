@@ -480,7 +480,7 @@ Twilight Missions:
     The Violet Cherry Blossoms
     ==========
         - Mission Unlock Requirement:
-            - The Village of Cursed Blossoms - Awakening Region (Region 1).
+            - The Village of Cursed Blossoms (Awakening Region | Region 1).
         --------------------
         - Recommended level: 20
         - Gold: 14,400
@@ -503,7 +503,7 @@ Twilight Missions:
     Traces of the Raging Blaze
     ==========
         - Mission Unlock Requirement:
-            - The Beast Born of Smoke and Flames - Awakening Region (Region 1).
+            - The Beast Born of Smoke and Flames (Awakening Region | Region 1).
         --------------------
         - Recommended level: 25
         - Gold: 5,800
@@ -525,8 +525,8 @@ Twilight Missions:
     The Defiled Sanctuary
     ==========
         - Mission Unlock Requirement:
-            - The Fallen Star - Shadow Region (Region 3).
-            - Pervading Waters - Dawn Region (Region 4).
+            - The Fallen Star (Shadow Region | Region 3).
+            - Pervading Waters (Dawn Region | Region 4).
         --------------------
         - Recommended level: 83
         - Gold: 18,800
@@ -548,7 +548,7 @@ Twilight Missions:
     Mountain of the Dark Lord
     ==========
         - Mission Unlock Requirement:
-            - The Sun Sets on Mount Tenno (Region 4).
+            - The Sun Sets on Mount Tenno (Dawn Region | Region 4).
         --------------------
         - Recommended level: 85
         - Gold: 65,400
@@ -570,7 +570,7 @@ Twilight Missions:
     The Island of Monsters
     ==========
         - Mission Unlock Requirement:
-            - The High Spirited Demon (Region 5).
+            - The High Spirited Demon (Twilight Region | Region 5).
         --------------------
         - Recommended level: 102
         - Gold: 80,400
@@ -583,6 +583,28 @@ Twilight Missions:
         - Number of Dark Realms: 1 (0 required)
         - Bosses: 
             - Tatarimokke
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Quality Umbracite x1 (mission reward).
+
+    ==========
+    Wings of the Phoenix
+    ==========
+        - Mission Unlock Requirement:
+            - The Mausoleum of Evil (Dream Region | Region 6).
+        --------------------
+        - Recommended level: 113
+        - Gold: 89,400
+        - Amrita: 194,328
+        - Shrine: Yes
+        - Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 1 (0 required)
+        - Number of Dark Realms: 2 (0 required)
+        - Bosses: 
+            - Shuten Doji
         - Guardian Spirit Unlocked: 
             - None
         - Notable Items In Mission / Mission Rewards:
@@ -2130,33 +2152,11 @@ Dream Region (Region 6)
             - Onmyo Mage's Locks.
             - Ninja's Locks.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
     The Bravest of the Brave (Sub Mission)
     ==========
         - Mission Unlock Requirement:
-            - Complete the mission: "The Golden Castle"
+            - Complete the mission: "The Golden Castle".
         --------------------
         - Recommended level: 103
         - Gold: 26,200
@@ -2180,6 +2180,43 @@ Dream Region (Region 6)
         - Mission Unlock Requirement:
             - Complete the mission: "The Golden Castle"
         --------------------
+        - Recommended level: 108
+        - Gold: 27,600
+        - Amrita: 51,576
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 1 (0 required)
+        - Number of Dark Realms: 1 (0 required)
+        - Bosses: 
+            - Kasha
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
     ==========
     Cherry Blossom Viewing Daigo (Main Mission)
