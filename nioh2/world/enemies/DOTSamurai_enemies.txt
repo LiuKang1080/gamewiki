@@ -313,6 +313,7 @@ Twilight Missions:
         - Gaki
         - Nurikabe
         - Red Kappa
+        - Onyudo (fire)
         - Onyudo (lightning)
         - Ryomen Sukuna (boss)
 

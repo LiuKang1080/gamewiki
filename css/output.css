@@ -592,10 +592,6 @@ video {
   margin-bottom: 0.5rem;
 }
 
-.mb-2 {
-  margin-bottom: 0.5rem;
-}
-
 .mb-32 {
   margin-bottom: 8rem;
 }
@@ -622,6 +618,14 @@ video {
 
 .mt-6 {
   margin-top: 1.5rem;
+}
+
+.-ml-1 {
+  margin-left: -0.25rem;
+}
+
+.-ml-2 {
+  margin-left: -0.5rem;
 }
 
 .block {
@@ -894,6 +898,10 @@ video {
 
 .self-end {
   align-self: flex-end;
+}
+
+.justify-self-start {
+  justify-self: start;
 }
 
 .justify-self-end {
