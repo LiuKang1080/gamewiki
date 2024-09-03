@@ -567,9 +567,9 @@ video {
   margin-bottom: 4rem;
 }
 
-.my-3 {
-  margin-top: 0.75rem;
-  margin-bottom: 0.75rem;
+.my-2 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .my-4 {
@@ -587,9 +587,8 @@ video {
   margin-bottom: auto;
 }
 
-.my-2 {
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
+.-ml-2 {
+  margin-left: -0.5rem;
 }
 
 .mb-32 {
@@ -618,14 +617,6 @@ video {
 
 .mt-6 {
   margin-top: 1.5rem;
-}
-
-.-ml-1 {
-  margin-left: -0.25rem;
-}
-
-.-ml-2 {
-  margin-left: -0.5rem;
 }
 
 .block {
@@ -898,10 +889,6 @@ video {
 
 .self-end {
   align-self: flex-end;
-}
-
-.justify-self-start {
-  justify-self: start;
 }
 
 .justify-self-end {
