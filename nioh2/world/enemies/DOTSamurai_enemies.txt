@@ -365,7 +365,7 @@ Awakening Region (Region 1)
     ==========
         - Quest Giver: Player
         - Characters:
-            - Tokichiro (cutscenes)
+            - Tokichiro (Cutscenes)
         --------------------
         - Gaki (first time)
         - Gozuki (boss) (first time)
@@ -392,10 +392,10 @@ Awakening Region (Region 1)
     ==========
         - Quest Giver: Tokichiro
         - Characters:
-            - Tokichiro (cutscenes, NPC)
-            - Saito Dosan (cutscenes)
+            - Tokichiro (Cutscenes, NPC)
+            - Saito Dosan (Cutscenes)
             - Senji Toyo (NPC)
-            - Mumyo (cutscenes)
+            - Mumyo (Cutscenes)
         --------------------
         - Outlaw
         - Rouge
@@ -448,8 +448,8 @@ Awakening Region (Region 1)
         - Quest Giver: Tokichiro
         - Characters:
             - Tokichiro (NPC)
-            - Saito Dosan (cutscenes)
-            - Mumyo (cutscenes)
+            - Saito Dosan (Cutscenes)
+            - Mumyo (Cutscenes)
         --------------------
         - Warrior (first time)
         - Ninja (first time)
@@ -518,8 +518,8 @@ Soaring Region (Region 2)
     ==========
         - Quest Giver: Mumyo
         - Characters:
-            - Oda Nobunaga (cutscenes)
-            - Maeda Toshiie (cutscenes, NPC)
+            - Oda Nobunaga (Cutscenes)
+            - Maeda Toshiie (Cutscenes, NPC)
             - Tokichiro (NPC)
         --------------------
         - Gaki
@@ -587,11 +587,11 @@ Soaring Region (Region 2)
     ==========
         - Quest Giver: Tokichiro
         - Characters:
-            - Tokichiro (cutscenes, NPC)
-            - Maeda Toshiie (cutscenes)
-            - Shibata Katsuie (cutscenes)
-            - Mumyo (cutscenes)
-            - Hachisuka Koroku (cutscenes, Ally)
+            - Tokichiro (Cutscenes, NPC)
+            - Maeda Toshiie (Cutscenes)
+            - Shibata Katsuie (Cutscenes)
+            - Mumyo (Cutscenes)
+            - Hachisuka Koroku (Cutscenes, Ally)
         --------------------
         - Warrior
         - Gaki
@@ -667,10 +667,10 @@ Soaring Region (Region 2)
     ==========
         - Quest Giver: Tokichiro
         - Characters:
-            - Tokichiro (cutscenes, NPC)
-            - Takenaka Hanbei (cutscenes)
-            - Mumyo (cutscenes)
-            - Kashin Koji (cutscenes)
+            - Tokichiro (Cutscenes, NPC)
+            - Takenaka Hanbei (Cutscenes)
+            - Mumyo (Cutscenes)
+            - Kashin Koji (Cutscenes)
         --------------------
         - Dweller
         - Koroka (first time)
@@ -725,8 +725,8 @@ Soaring Region (Region 2)
     ==========
         - Quest Giver: Princess Noh
         - Characters:
-            - Princess Noh (cutscenes)
-            - Oda Nobunaga (cutscenes)
+            - Princess Noh (Cutscenes)
+            - Oda Nobunaga (Cutscenes)
         --------------------
         - Gaki
         - Nurikabe
@@ -748,14 +748,14 @@ Shadow Region (Region 3)
     ==========
         - Quest Giver: Tokichiro
         - Characters:
-            - Saito Toshimitsu (cutscenes)
-            - Akechi Mitsuhide (cutscenes)
-            - Tokichiro (cutscenes)
-            - Hachisuka Koroku (cutscenes)
-            - Mumyo (cutscenes, NPC)
+            - Saito Toshimitsu (Cutscenes)
+            - Akechi Mitsuhide (Cutscenes)
+            - Tokichiro (Cutscenes)
+            - Hachisuka Koroku (Cutscenes)
+            - Mumyo (Cutscenes, NPC)
             - Takenaka Hanbei (NPC)
-            - Oda Nobunaga (cutscenes)
-            - Matsunaga Hisahide (cutscenes)
+            - Oda Nobunaga (Cutscenes)
+            - Matsunaga Hisahide (Cutscenes)
         --------------------
         - Ninja Dog (first time)
         - Rouge
@@ -847,12 +847,12 @@ Shadow Region (Region 3)
     ==========
         - Quest Giver: Tokichiro
         - Characters: 
-            - Oda Nobunaga (cutscenes)
-            - Maeda Toshiie (cutscenes)
-            - Shibata Katsuie (cutscenes)
+            - Oda Nobunaga (Cutscenes)
+            - Maeda Toshiie (Cutscenes)
+            - Shibata Katsuie (Cutscenes)
             - Mumyo (NPC, Ally)
-            - Hattori Hanzo (cutscenes)
-            - Honda Tadakatsu (cutscenes, NPC)
+            - Hattori Hanzo (Cutscenes)
+            - Honda Tadakatsu (Cutscenes, NPC)
         --------------------
         - Warrior
         - Skeleton Warrior
@@ -963,9 +963,9 @@ Shadow Region (Region 3)
                 - 4th Reward (20 Dung Balls): Coiled Snake Helmet
                 - 5th Reward (25 Dung Balls): Smithing Text: Horned Turban Helmet
                 - 6th Reward (30 Dung Balls): Smithing Text: Coiled Snake Helmet
-            - Oichi (cutscenes)
-            - Tokichiro (cutscenes)
-            - Kashin Koji (cutscenes)
+            - Oichi (Cutscenes)
+            - Tokichiro (Cutscenes)
+            - Kashin Koji (Cutscenes)
         --------------------
         - Dweller
         - Warrior
@@ -1013,7 +1013,7 @@ Shadow Region (Region 3)
     ==========
         - Quest Giver: Oda Nobunaga
         - Characters: 
-            - Oda Nobunaga (cutscenes)
+            - Oda Nobunaga (Cutscenes)
         --------------------
         - Oda Nobunaga (boss) (first time)
 
@@ -1066,9 +1066,9 @@ Dawn Region (Region 4)
     ==========
         - Quest Giver: Tokichiro
         - Characters: 
-            - Shibata Katsuie (cutscenes, NPC, Ally)
-            - Oda Nobunaga (cutscenes)
-            - Tokichiro (cutscenes, NPC)
+            - Shibata Katsuie (Cutscenes, NPC, Ally)
+            - Oda Nobunaga (Cutscenes)
+            - Tokichiro (Cutscenes, NPC)
             - Mumyo (NPC)
             - Takenaka Hanbei (NPC)
         --------------------
@@ -1149,12 +1149,12 @@ Dawn Region (Region 4)
     ==========
         - Quest Giver: Mumyo
         - Characters: 
-            - Akechi Mitsuhide (cutscenes)
-            - Saito Toshimitsu (cutscenes)
-            - Oda Nobunaga (cutscenes)
-            - Princess Noh (cutscenes)
+            - Akechi Mitsuhide (Cutscenes)
+            - Saito Toshimitsu (Cutscenes)
+            - Oda Nobunaga (Cutscenes)
+            - Princess Noh (Cutscenes)
             - Obsidian Samurai (Ally)
-            - Oichi (cutscenes)
+            - Oichi (Cutscenes)
         --------------------
         - Outlaw
         - Warrior
@@ -1237,10 +1237,10 @@ Dawn Region (Region 4)
     ==========
         - Quest Giver: Mumyo
         - Characters: 
-            - Akechi Mitsuhide (cutscenes)
-            - Saito Toshimitsu (cutscenes)
-            - Kashin Koji (cutscenes)
-            - Tokichiro (cutscenes)
+            - Akechi Mitsuhide (Cutscenes)
+            - Saito Toshimitsu (Cutscenes)
+            - Kashin Koji (Cutscenes)
+            - Tokichiro (Cutscenes)
         --------------------
         - Gaki
         - Skeleton Warrior
@@ -1294,7 +1294,7 @@ Twilight Region (Region 5)
     ==========
         - Quest Giver: Mumyo
         - Characters: 
-            - Oichi (cutscenes)
+            - Oichi (Cutscenes)
         --------------------
         - Skeleton Warrior
         - Yoki (sword)
@@ -1343,13 +1343,13 @@ Twilight Region (Region 5)
     ==========
         - Quest Giver: Hattori Hanzo
         - Characters:
-            - Akechi Mitsuhide / Tenkai (cutscenes, NPC)
-            - Sen no Rikyu (cutscenes)
-            - Mumyo (cutscenes)
+            - Akechi Mitsuhide / Tenkai (Cutscenes, NPC)
+            - Sen no Rikyu (Cutscenes)
+            - Mumyo (Cutscenes)
             - Hattori Hanzo (NPC, Ally)
             - Honda Tadakatsu (NPC, Ally)
-            - Tokichiro (cutscenes)
-            - Kashin Koji (cutscenes)
+            - Tokichiro (Cutscenes)
+            - Kashin Koji (Cutscenes)
         --------------------
         - Ninja
         - Warrior
@@ -1371,11 +1371,11 @@ Twilight Region (Region 5)
     ==========
         - Quest Giver: Nekomata
         - Characters:
-            - Hachisuka Koroku (cutscenes)
-            - Mumyo (cutscenes, Ally)
-            - Tokichiro (cutscenes)
-            - Takenaka Hanbei (cutscenes)
-            - Miyoshino (cutscenes)
+            - Hachisuka Koroku (Cutscenes)
+            - Mumyo (Cutscenes, Ally)
+            - Tokichiro (Cutscenes)
+            - Takenaka Hanbei (Cutscenes)
+            - Miyoshino (Cutscenes)
         --------------------
         - Skeleton Warrior
         - Abbarant Soldier
@@ -1488,7 +1488,7 @@ Dream Region (Region 6)
         - Quest Giver: Miyoshino
         - Characters:
             - Mumyo (NPC)
-            - Tokichiro (cutscenes)
+            - Tokichiro (Cutscenes)
         --------------------
         - Dweller
         - Abbarant Soldier
@@ -1534,9 +1534,9 @@ Dream Region (Region 6)
     ==========    
         - Quest Giver: Mumyo
         - Characters:
-            - Mumyo (cutscenes, NPC)
-            - Sen no Rikyu (cutscenes)
-            - Tokichiro (cutscenes)
+            - Mumyo (Cutscenes, NPC)
+            - Sen no Rikyu (Cutscenes)
+            - Tokichiro (Cutscenes)
         --------------------
         - Warrior
         - Ninja Dog
@@ -1587,7 +1587,7 @@ Dream Region (Region 6)
     ==========
         - Quest Giver: Okuni
         - Characters:
-            -  (NPC, Ally)
+            - Okuni (NPC, Ally)
         --------------------
         - Blue Yoki (kusarigama)
         - Blue Yoki (dual swords)
@@ -1606,8 +1606,24 @@ Dream Region (Region 6)
     ==========
     Cherry Blossom Viewing Daigo (Main Mission)
     ==========
-
-
+        - Quest Giver: Tenkai (Akechi Mitsuhide)
+        - Characters:
+            - Tokichiro (Cutscenes)
+            - Okuni (Cutscenes, NPC)
+            - Mumyo (Cutscenes, NPC, Ally)
+        --------------------
+        - Warrior
+        - Katagiri Katsumoto (Seven Spears #) (first time)
+        - Lesser Umi-Bozu
+        - Magatsu Warrior
+        - Fukushima Masanori (Seven Spears #) (first time)
+        - Abbarant Soldier
+        - Skeleton Warrior
+        - Rokurokubi
+        - Gozuki (boss)
+        - Enki
+        - Kasuya Takenori (Seven Spears #) (first time)
+        - Kato Yoshiaki (Seven Spears #) (first time)
 
 
 
