@@ -1613,17 +1613,23 @@ Dream Region (Region 6)
             - Mumyo (Cutscenes, NPC, Ally)
         --------------------
         - Warrior
-        - Katagiri Katsumoto (Seven Spears #) (first time)
+        - Katagiri Katsumoto (Seven Spears #1) (first time)
         - Lesser Umi-Bozu
         - Magatsu Warrior
-        - Fukushima Masanori (Seven Spears #) (first time)
+        - Fukushima Masanori (Seven Spears #2) (first time)
         - Abbarant Soldier
         - Skeleton Warrior
         - Rokurokubi
         - Gozuki (boss)
         - Enki
-        - Kasuya Takenori (Seven Spears #) (first time)
-        - Kato Yoshiaki (Seven Spears #) (first time)
+        - Kato Yoshiaki (Seven Spears #3) (first time)
+        - Kasuya Takenori (Seven Spears #4) (first time)
+        - Hirano Nagayasu (Seven Spears #5) (first time)
+        - Mujina
+        - Wakisaka Yasuharu (Seven Spears #6) (first time)
+        - Kato Kiyomasa (Seven Spears #7) (first time)
+        - Tokichiro (dream) (first time)
+        - Kashin Koji (first time)
 
 
 

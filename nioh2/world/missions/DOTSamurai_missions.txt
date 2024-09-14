@@ -2235,12 +2235,13 @@ Dream Region (Region 6)
         - Number of Dark Realms: 1
         - Bosses: 
             - Gozuki
-            - 
+            - Tokichiro (dream)
+            - Kashin Koji
         - Guardian Spirit Unlocked: 
-            - 
+            - Yumehami
         - Notable Items In Mission / Mission Rewards:
             - Onmyo Mage's Locks.
-            - 
+            - Ninja's Locks
 
 
 
@@ -2296,6 +2297,26 @@ Dream Region (Region 6)
             - Earn the valuable item: "Cherry Blossom Chapbook"
             - Speak with Azai Nagamasa in the Interim
         --------------------
+
+    ==========
+    The Scented Letter (Sub Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Cherry Blossom Viewing In Daigo"
+            - Speak with Azai Nagamasa in the Interim
+            - Speak with Azai Nagamasa Followed by Takenaka Hanbei in the Interim
+        --------------------
+
+    ==========
+    Sealed Fate (Main Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Cherry Blossom Viewing Daigo"
+        --------------------
+
+
+
+
 
 
 
