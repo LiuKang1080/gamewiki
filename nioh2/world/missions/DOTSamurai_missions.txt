@@ -2241,29 +2241,7 @@ Dream Region (Region 6)
             - Yumehami
         - Notable Items In Mission / Mission Rewards:
             - Onmyo Mage's Locks.
-            - Ninja's Locks
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
+            - Ninja's Locks.
 
     ==========
     Restoring Harmony (Sub Mission)
@@ -2272,6 +2250,21 @@ Dream Region (Region 6)
             - Complete the mission: "The Mausoleum of Evil"
             - Speak with Saito Toshimitsu in the Interim
         --------------------
+        - Recommended level: 110
+        - Gold: 28,200
+        - Amrita: 55,176
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Ryomen Sukuna
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Onmyo Mage's Locks (mission reward).
 
     ==========
     Japanese Heart, Yokai Smarts (Sub Mission)
@@ -2280,6 +2273,21 @@ Dream Region (Region 6)
             - Complete the mission: "The Mausoleum of Evil"
             - Speak with Hachisuka Koroku in the Interim
         --------------------
+        - Recommended level: 110
+        - Gold: 28,600
+        - Amrita: 57,576
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Hachisuka Koroku
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
 
     ==========
     Restless Spirits (Sub Mission)
@@ -2288,15 +2296,21 @@ Dream Region (Region 6)
             - Complete the mission: "The Mausoleum of Evil"
             - Speak with Shibata Katsuie in the Interim
         --------------------
-
-    ==========
-    Yaksha Returns (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Mausoleum of Evil"
-            - Earn the valuable item: "Cherry Blossom Chapbook"
-            - Speak with Azai Nagamasa in the Interim
-        --------------------
+        - Recommended level: 111
+        - Gold: 29,000
+        - Amrita: 59,976
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Oni Shibata Katsuie
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
 
     ==========
     The Scented Letter (Sub Mission)
@@ -2306,6 +2320,45 @@ Dream Region (Region 6)
             - Speak with Azai Nagamasa in the Interim
             - Speak with Azai Nagamasa Followed by Takenaka Hanbei in the Interim
         --------------------
+        - Recommended level: 112
+        - Gold: 29,000
+        - Amrita: 59,976
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+    ==========
+    Yaksha Returns (Sub Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Mausoleum of Evil"
+            - Earn the valuable item: "Cherry Blossom Chapbook"
+            - Speak with Azai Nagamasa in the Interim
+        --------------------
+        - Recommended level: 112
+        - Gold: 29,400
+        - Amrita: 62,376
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Azai Nagamasa
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
 
     ==========
     Sealed Fate (Main Mission)
@@ -2313,6 +2366,61 @@ Dream Region (Region 6)
         - Mission Unlock Requirement:
             - Complete the mission: "Cherry Blossom Viewing Daigo"
         --------------------
+        - Recommended level: 113
+        - Gold: 0
+        - Amrita: 0
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+
+========== ========== ========== ========== ==========
+Afterglow Region (Region 7)
+========== ========== ========== ========== ==========
+    ==========
+    The Blue-Eyed Samurai (Main Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Sealed Fate"
+        --------------------
+        - Recommended level: 113
+        - Gold: 30,400
+        - Amrita: 68,376
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - William
+        - Guardian Spirit Unlocked: 
+            - Saoirse
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

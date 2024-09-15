@@ -535,7 +535,7 @@ Soaring Region (Region 2)
         - Imagawa Yoshimoto (Boss) (first time)
 
     ==========
-    Imagawa Diehard (Side Mission)
+    Imagawa Diehard (Sub Mission)
     ==========
         - Quest Giver: Tokichiro
         - Characters:
@@ -548,7 +548,7 @@ Soaring Region (Region 2)
         - Imagawa Yoshimoto (boss)
 
     ==========
-    Hidetatsu's Dying Wish (Side Mission)
+    Hidetatsu's Dying Wish (Sub Mission)
     ==========
         - Quest Giver: Oda Nobunaga
         - Characters:
@@ -564,7 +564,7 @@ Soaring Region (Region 2)
         - Blue Yoki (dual swords) (first time)
 
     ==========
-    An Error in Calculation (Side Mission)
+    An Error in Calculation (Sub Mission)
     ==========
         - Quest Giver: Maeda Toshiie
         - Characters:
@@ -624,7 +624,7 @@ Soaring Region (Region 2)
         - Waira
 
     ==========
-    A Hot-blodded Howl (Side Mission)
+    A Hot-blodded Howl (Sub Mission)
     ==========
         - Quest Giver: Tokichiro
         - Characters:
@@ -646,7 +646,7 @@ Soaring Region (Region 2)
         - Adachi the Beheader (first time)
 
     ==========
-    The Fire God's Magatama (Side Mission)
+    The Fire God's Magatama (Sub Mission)
     ==========
         - Quest Giver: Senji Toyo
         - Characters:
@@ -1094,7 +1094,7 @@ Dawn Region (Region 4)
         - Gyuki (boss) (first time)
 
     ==========
-    The Missing Gun (Side Mission)
+    The Missing Gun (Sub Mission)
     ==========
         - Quest Giver: Shibata Katsuie
         - Characters: 
@@ -1112,7 +1112,7 @@ Dawn Region (Region 4)
         - Hotaru (Human Saika Warrior) (first time)
 
     ==========
-    The Refined Man of the Underworld (Side Mission)
+    The Refined Man of the Underworld (Sub Mission)
     ==========
         - Quest Giver: Matsunaga Hisahide
         - Characters: 
@@ -1124,7 +1124,7 @@ Dawn Region (Region 4)
         - Mezuki (boss)
 
     ==========
-    Song of the Yokai (Side Mission)
+    Song of the Yokai (Sub Mission)
     ==========
         - Quest Giver: Hachisuka Koroku
         - Characters: 
@@ -1174,7 +1174,7 @@ Dawn Region (Region 4)
         - Kasha (boss) (first time)
 
     ==========
-    The Burning Sky (Side Mission)
+    The Burning Sky (Sub Mission)
     ==========
         - Quest Giver: Senji Toyo
         - Characters: 
@@ -1192,7 +1192,7 @@ Dawn Region (Region 4)
         - Onyudo (fire)
 
     ==========
-    Abduction (Side Mission)
+    Abduction (Sub Mission)
     ==========
         - Quest Giver: Mumyo
         - Characters: 
@@ -1209,7 +1209,7 @@ Dawn Region (Region 4)
         - Ubume
 
     ==========
-    The Warrior (Side Mission)
+    The Warrior (Sub Mission)
     ==========
         - Quest Giver: Mumyo
         - Characters: 
@@ -1258,7 +1258,7 @@ Dawn Region (Region 4)
         - Ryomen Sukuna (boss) (first time)
 
     ==========
-    The Aberrant Mage (Side Mission)
+    The Aberrant Mage (Sub Mission)
     ==========
         - Quest Giver: Mumyo
         - Characters: 
@@ -1277,7 +1277,7 @@ Dawn Region (Region 4)
         - Onyudo (fire)
 
     ==========
-    The Third Word (Side Mission)
+    The Third Word (Sub Mission)
     ==========
         - Quest Giver: Mumyo
         - Characters: 
@@ -1309,7 +1309,7 @@ Twilight Region (Region 5)
         - Oni Shibata Katsuie (boss) (first time)
 
     ==========
-    Okuni's Search (Side Mission)
+    Okuni's Search (Sub Mission)
     ==========
         - Quest Giver: Okuni
         - Characters: 
@@ -1328,7 +1328,7 @@ Twilight Region (Region 5)
         - Enenra (boss)
 
     ==========
-    Farewell to the Past (Side Mission)
+    Farewell to the Past (Sub Mission)
     ==========
         - Quest Giver: Akechi Mitsuhide / Tenkai
         - Characters: 
@@ -1631,7 +1631,95 @@ Dream Region (Region 6)
         - Tokichiro (dream) (first time)
         - Kashin Koji (first time)
 
+    ==========
+    Restoring Harmony (Sub Mission)
+    ==========
+        - Quest Giver: Saito Toshimitsu
+        - Characters:
+            - None
+        --------------------
+        - Ryomen Sukuna (boss)
+
+    ==========
+    Japanese Heart, Yokai Smarts (Sub Mission)
+    ==========
+        - Quest Giver: Hachisuka Koroku
+        - Characters:
+            - None
+        --------------------
+        - Hachisuka Koroku (boss)
+
+    ==========
+    Restless Spirits (Sub Mission)
+    ==========
+        - Quest Giver: Shibata Katsuie
+        - Characters:
+            - None
+        --------------------
+        - Skeleton Warrior
+        - Enki
+        - Thunderstorm Oni-Bi
+        - One-Eyed Oni
+        - Tesso
+        - Rokurokubi
+        - Ubume
+        - Dweller
+        - Wheelmonk
+        - Waira
+        - Oni Shibata Katsuie (boss)
+
+    ==========
+    The Scented Letter (Sub Mission)
+    ==========
+        - Quest Giver: Takenaka Hanbei
+        - Characters:
+            - None
+        --------------------
+        - Ubume
+        - Abbarant Soldier
+        - Nure-Onna
+        - Maelstrom Oni-Bi
+        - Flying Bolt
+        - Dweller
+        - Skeleton Warrior
+        - Koroka
+        - Tesso
+        - Karasu Tengu
+        - Enki
+        - Yoki (axe)
+        - Blue Yoki (dual swords)
+
+    ==========
+    Yaksha Returns (Sub Mission)
+    ==========
+        - Quest Giver: Azai Nagamasa
+        - Characters:
+            - None
+        --------------------
+        - Azai Nagamasa (boss)
+
+    ==========
+    Sealed Fate (Main Mission)
+    ==========
+        - Quest Giver: Mumyo
+        - Characters:
+            - Mumyo (Cutscenes)
+            - William (Cutscenes)
+        --------------------
+        - None
 
 
-
+========== ========== ========== ========== ==========
+Afterglow Region (Region 7)
+========== ========== ========== ========== ==========
+    ==========
+    The Blue-Eyed Samurai (Main Mission)
+    ==========
+        - Quest Giver: Protagonist
+        - Characters:
+            - William (Cutscenes)
+            - Kashin Koji (Cutscenes)
+            - Mumyo (Cutscenes)
+        --------------------
+        - William (boss) (first time)
 

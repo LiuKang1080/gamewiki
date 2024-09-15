@@ -18,11 +18,6 @@ Awakening Region (Region 1)
         - None
 
     ==========
-    The Forest Veiled in Darkness (Sub Mission)
-    ==========
-        - None
-
-    ==========
     The Beast Born of Smoke and Flames (Main Mission)
     ==========
         Sword:
@@ -192,16 +187,6 @@ Awakening Region (Region 1)
             - Divine Branch
 
     ==========
-    A Voice in the Twilight (Sub Mission)
-    ==========
-        - None
-
-    ==========
-    Dark Omens (Sub Mission)
-    ==========
-        - None
-
-    ==========
     The Viper's Sanctum (Main Mission)
     ==========
         Sword:
@@ -278,21 +263,6 @@ Awakening Region (Region 1)
         Tools:
         --------------------
             - Water Amulet
-
-    ==========
-    A Favor for the Blacksmith (Sub Mission)
-    ==========
-        - None
-
-    ==========
-    The Search (Sub Mission)
-    ==========
-        - None
-
-    ==========
-    The Greedy Hunter (Sub Mission)
-    ==========
-        - None
 
 
 ========== ========== ========== ========== ==========
@@ -384,21 +354,6 @@ Soaring Region (Region 2)
             - Tengu's Fan
             - Lightning Amulet
             - Travel Amulet
-
-    ==========
-    Imagawa Diehard (Side Mission)
-    ==========
-        - None
-
-    ==========
-    Hidetatsu's Dying Wish (Side Mission)
-    ==========
-        - None
-
-    ==========
-    An Error in Calculation (Side Mission)
-    ==========
-        - None
 
     ==========
     The Mysterious One Night Castle (Main Mission)
@@ -495,21 +450,6 @@ Soaring Region (Region 2)
             - Explosive Rounds
 
     ==========
-    The Sunomata Yokai Hunt (Main Mission)
-    ==========
-        - None
-
-    ==========
-    A Hot-blodded Howl (Side Mission)
-    ==========
-        - None
-
-    ==========
-    The Fire God's Magatama (Side Mission)
-    ==========
-        - None
-
-    ==========
     The Hollow Fortress (Main Mission)
     ==========
         Sword:
@@ -574,21 +514,6 @@ Soaring Region (Region 2)
         --------------------
             - Yamabushi Sandals
             - Exorcist's Greaves
-
-    ==========
-    An End to Seclusion (Sub Mission)
-    ==========
-        - None
-
-    ==========
-    The Shiftling's Wise Judgement (Sub Mission)
-    ==========
-        - None
-
-    ==========
-    The Viper and the Butterfly (Sub Mission)
-    ==========
-        - None
 
 
 ========== ========== ========== ========== ==========
@@ -673,16 +598,6 @@ Shadow Region (Region 3)
             - Amulet of Camaraderie
 
     ==========
-    Learning A Lesson (Sub Mission)
-    ==========
-        - None
-
-    ==========
-    The Shrine of Oaths (Sub Mission)
-    ==========
-        - None
-
-    ==========
     Immoveable (Sub Mission)
     ==========
         Head Protection:
@@ -704,11 +619,6 @@ Shadow Region (Region 3)
         Foot Protection:
         --------------------
             - Sohaya Garb Gaiters
-
-    ==========
-    A Formal Match (Sub Mission)
-    ==========
-        - None
 
     ==========
     Corpses and Ice (Main Mission)
@@ -788,36 +698,11 @@ Shadow Region (Region 3)
             - Mikawa Warrior's Greaves
 
     ==========
-    Lingering Snow and Crimson Tracks (Sub Mission)
-    ==========
-        - None
-
-    ==========
-    The Tiger Approaches (Sub Mission)
-    ==========
-        - None
-
-    ==========
-    The Brother's Baldes (Sub Mission)
-    ==========
-        - None
-
-    ==========
-    A Shadow's Duty (Sub Mission)
-    ==========
-        - None
-
-    ==========
     The Fallen Star (Sub Mission)
     ==========
         Tools:
         --------------------
             - Yokai Water Pot
-
-    ==========
-    Horns on Head, Dragonfly in Hand (Main Mission)
-    ==========
-        - None
 
     ==========
     Bird In A Cage (Main Mission)
@@ -905,31 +790,6 @@ Shadow Region (Region 3)
         --------------------
             - Mud Jar
 
-    ==========
-    The Point of No Return (Sub Mission)
-    ==========
-        - None
-
-    ==========
-    The Golden Nation (Sub Mission)
-    ==========
-        - None
-
-    ==========
-    The Demon King's Blade (Sub Mission)
-    ==========
-        - None
-
-    ==========
-    The Child's Prodigy's Invitation (Sub Mission)
-    ==========
-        - None
-
-    ==========
-    The Chinese Bellflower Dagger (Sub Mission)
-    ==========
-        - None
-
 
 ========== ========== ========== ========== ==========
 Dawn Region (Region 4)
@@ -1006,21 +866,6 @@ Dawn Region (Region 4)
         --------------------
             - Sticky Pot
             - Inspiriting Gem
-
-    ==========
-    The Missing Gun (Side Mission)
-    ==========
-        - None
-
-    ==========
-    The Refined Man of the Underworld (Side Mission)
-    ==========
-        - None
-
-    ==========
-    Song of the Yokai (Side Mission)
-    ==========
-        - None
 
     ==========
     The Frenzied Blaze (Main Mission)
@@ -1107,21 +952,6 @@ Dawn Region (Region 4)
         Tools:
         --------------------
             - Burning Oil Jar
-
-    ==========
-    The Burning Sky (Side Mission)
-    ==========
-        - None
-
-    ==========
-    Abduction (Side Mission)
-    ==========
-        - None
-
-    ==========
-    The Warrior (Side Mission)
-    ==========
-        - None
 
     ==========
     The Sun Sets on Mount Tenno (Main Mission)
@@ -1391,7 +1221,21 @@ Dream Region (Region 6)
     ==========
         None
 
-    
+    ==========
+    Sealed Fate (Main Mission)
+    ==========
+        None
 
+
+========== ========== ========== ========== ==========
+Afterglow Region (Region 7)
+========== ========== ========== ========== ==========
+    ==========
+    The Blue-Eyed Samurai (Main Mission)
+    ==========
+        Head Protection:
+        --------------------
+            - Moon Charm Helemt
+            - Takezo's Headband
 
 
