@@ -2420,18 +2420,41 @@ Afterglow Region (Region 7)
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
-        - Number of Sudama: 
+        - Number of Sudama: 0
         - Number of Hot Springs: 1
         - Number of Dark Realms: 3
         - Bosses: 
             - Gozuki
             - Mezuki
-            - 
+            - Otakemaru
         - Guardian Spirit Unlocked: 
             - 
         - Notable Items In Mission / Mission Rewards:
             - Ninja's Locks.
             - Onmyo Mage's Locks.
+            - X1 of each weapon type (After defeating Otakemaru).
+
+    ==========
+    Dawn of Hope (Sub Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Blue-Eyed Samurai"
+        --------------------
+        - Recommended level: 117
+        - Gold: 31,600
+        - Amrita: 75,576
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Onryoki
+        - Guardian Spirit Unlocked: 
+            - Gyokuto
+        - Notable Items In Mission / Mission Rewards:
+            - Samurai's Locks (mission reward).
 
 
 
@@ -2440,6 +2463,53 @@ Afterglow Region (Region 7)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    ==========
+    The Trustworthy (Sub Mission) - lvl 118
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "In The Eye of the Beholder"
+        --------------------
+
+    ==========
+    Winds of Ruin (Sub Mission) - lvl 119
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Blue-Eyed Samurai"
+        --------------------
+
+    ==========
+    Wave of Terror (Sub Mission) - lvl 119
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "In The Eye of the Beholder"
+        --------------------
+
+    ==========
+    Calamity's Pulse (Sub Mission) - lvl 120
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "In The Eye of the Beholder"
+        --------------------
 
 
 

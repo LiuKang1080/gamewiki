@@ -1238,4 +1238,11 @@ Afterglow Region (Region 7)
             - Moon Charm Helemt
             - Takezo's Headband
 
+    ==========
+    In The Eye of the Beholder (Main Mission)
+    ==========
+        Head Protection:
+        --------------------
+            - Dragon Head Helmet
 
+    

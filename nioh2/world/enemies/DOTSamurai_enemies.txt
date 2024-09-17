@@ -1730,6 +1730,9 @@ Afterglow Region (Region 7)
         - Characters:
             - Mumyo (Ally)
             - William (Ally)
+            - Maria (Cutscenes)
+            - Kashin Koji (Cutscenes)
+            - Tokichiro (Cutscenes)
         --------------------
         - Yoki (sword + cannon)
         - Yoki (sword)
@@ -1740,10 +1743,30 @@ Afterglow Region (Region 7)
         - Gozuki (boss)
         - Mezuki (boss)
         - Tesso
-        - 
+        - Ubume
+        - Kappa
+        - Otakemaru (boss) (first time)
 
-
-
+    ==========
+    Dawn of Hope (Sub Mission)
+    ==========
+        - Quest Giver: Hattori Hanzo
+        - Characters:
+            - William (Ally)
+        --------------------
+        - Abbarant Soldier
+        - Skeleton Warrior
+        - Yoki (axe)
+        - Yoki (sword)
+        - Ninja
+        - Tesso
+        - Yoki (sword + cannon)
+        - Enki
+        - Yoki (kusarigama)
+        - Yoki (dual swords)
+        - Karasu Tengu
+        - One-Eyed Oni
+        - Onryoki (boss)
 
 
 

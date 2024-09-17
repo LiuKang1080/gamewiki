@@ -69,3 +69,12 @@ Proficiency
         - Weapons: LVL 60
         - Ninjutsu and Onmyo: LVL 70
         - Shiftling: LVL 90
+
+========== ========== ==========
+Other Notes
+========== ========== ==========
+    - Stone of Penance is unlocked after completing the Main Mission In the Eye of the Beholder.
+    - The Builds feature is unlocked after completing the Main Mission In the Eye of the Beholder.
+    - The Tengu's Disciple (DLC 1) is unlocked after completing the Main Mission In the Eye of the Beholder.
+    - Darkness in the Capital (DLC 2) is unlocked after completing the Main Mission In the Eye of the Beholder.
+    - The First Samurai (DLC 3) is unlocked after completing the Main Mission In the Eye of the Beholder.
