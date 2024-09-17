@@ -1723,3 +1723,33 @@ Afterglow Region (Region 7)
         --------------------
         - William (boss) (first time)
 
+    ==========
+    In The Eye of the Beholder (Main Mission)
+    ==========
+        - Quest Giver: Mumyo
+        - Characters:
+            - Mumyo (Ally)
+            - William (Ally)
+        --------------------
+        - Yoki (sword + cannon)
+        - Yoki (sword)
+        - Yoki (axe)
+        - Yoki (kusarigama)
+        - Abbarant Soldier
+        - Magatsu Warrior
+        - Gozuki (boss)
+        - Mezuki (boss)
+        - Tesso
+        - 
+
+
+
+
+
+
+
+
+
+
+
+

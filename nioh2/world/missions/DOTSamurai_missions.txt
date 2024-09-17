@@ -2408,7 +2408,30 @@ Afterglow Region (Region 7)
         - Notable Items In Mission / Mission Rewards:
             - None
 
-
+    ==========
+    In The Eye of the Beholder (Main Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Blue-Eyed Samurai"
+        --------------------
+        - Recommended level: 114
+        - Gold: 31,200
+        - Amrita: 73,176
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 3
+        - Bosses: 
+            - Gozuki
+            - Mezuki
+            - 
+        - Guardian Spirit Unlocked: 
+            - 
+        - Notable Items In Mission / Mission Rewards:
+            - Ninja's Locks.
+            - Onmyo Mage's Locks.
 
 
 
