@@ -1806,20 +1806,20 @@ Dawn Region (Region 4)
             - Complete the mission: "Master of the Dual Blades" (Unlocked after completing Ruin Draws Near (Twilight Region | Region 5)).
         --------------------
         - Recommended level: 80
-        - Gold: 
-        - Amrita: 
-        - Shrine: 
-        - Torii Gate Expedition: 
-        - Number of Kodama: 
-        - Number of Sudama: 
-        - Number of Hot Springs: 
-        - Number of Dark Realms: 
+        - Gold: 17,800
+        - Amrita: 13,952
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
         - Bosses: 
-            - 
+            - Matsunaga Hisahide
         - Guardian Spirit Unlocked: 
-            - 
+            - Itokuri
         - Notable Items In Mission / Mission Rewards:
-            - 
+            - Smithing Text: Summoner's Candle (mission reward).
 
 
 ========== ========== ========== ========== ==========

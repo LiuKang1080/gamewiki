@@ -1285,6 +1285,15 @@ Dawn Region (Region 4)
         --------------------
         - Saika Magoichi (boss)
 
+    ==========
+    Master of the Three Evils (Sub Mission)
+    ==========
+        - Quest Giver: Matsunaga Hisahide
+        - Characters: 
+            - None
+        --------------------
+        - Matsunaga Hisahide (boss) (first time)
+
 
 ========== ========== ========== ========== ==========
 Twilight Region (Region 5)
