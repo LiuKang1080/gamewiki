@@ -2428,11 +2428,11 @@ Afterglow Region (Region 7)
             - Mezuki
             - Otakemaru
         - Guardian Spirit Unlocked: 
-            - 
+            - None
         - Notable Items In Mission / Mission Rewards:
             - Ninja's Locks.
             - Onmyo Mage's Locks.
-            - X1 of each weapon type (After defeating Otakemaru).
+            - X1 of each weapon type in Divine rarity (After defeating Otakemaru).
 
     ==========
     Dawn of Hope (Sub Mission)
@@ -2456,60 +2456,111 @@ Afterglow Region (Region 7)
         - Notable Items In Mission / Mission Rewards:
             - Samurai's Locks (mission reward).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
     ==========
-    The Trustworthy (Sub Mission) - lvl 118
+    The Trustworthy (Sub Mission)
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "In The Eye of the Beholder"
         --------------------
+        - Recommended level: 118
+        - Gold: 120,000
+        - Amrita: 80,776
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Hattori Hanzo
+            - Honda Tadakatsu
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Samurai's Locks (mission reward).
 
     ==========
-    Winds of Ruin (Sub Mission) - lvl 119
+    Winds of Ruin (Sub Mission)
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "The Blue-Eyed Samurai"
         --------------------
+        - Recommended level: 119
+        - Gold: 61,200
+        - Amrita: 69,576
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Tsukahara Bokuden
+            - Sakata Kintoki
+            - Shisenin Kosen
+            - Kato Danzo
+            - Ashikaga Yoshiteru
+            - Hattori Hanzo
+            - Mumyo
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Samurai's Locks (mission reward).
 
     ==========
-    Wave of Terror (Sub Mission) - lvl 119
+    Wave of Terror (Sub Mission)
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "In The Eye of the Beholder"
         --------------------
+        - Recommended level: 119
+        - Gold: 64,800
+        - Amrita: 95,373
+        - Shrine: No
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Gozuki
+            - Ryomen Sukuna
+            - Oni Shibata Katsuie
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
 
     ==========
-    Calamity's Pulse (Sub Mission) - lvl 120
+    Calamity's Pulse (Sub Mission)
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "In The Eye of the Beholder"
         --------------------
+        - Recommended level: 120
+        - Gold: 65,600
+        - Amrita: 99,873
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Yatsu-no-Kami
+            - Shuten Doji
+            - Otakemaru
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - X1 Quality Umbracite.
+
+
+
+
+
+
+
 
 
 

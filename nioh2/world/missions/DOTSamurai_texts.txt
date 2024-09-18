@@ -1245,4 +1245,21 @@ Afterglow Region (Region 7)
         --------------------
             - Dragon Head Helmet
 
-    
+    ==========
+    Winds of Ruin (Sub Mission)
+    ==========
+        Rifle:
+        --------------------
+            - Tatsuke Matchlock
+
+        Cannon:
+        --------------------
+            - Tatsuke Cannon
+
+    ==========
+    Calamity's Pulse (Sub Mission)
+    ==========
+        Tools:
+        --------------------
+            - Herbal Remedy
+            - Glue

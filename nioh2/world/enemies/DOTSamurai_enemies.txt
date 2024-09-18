@@ -45,7 +45,7 @@ Dojo Missions:
         - Characters:
             - None
         --------------------
-        - Tsukahara Bokuden
+        - Tsukahara Bokuden (boss)
 
     ==========
     The Way of the Ninja: Adept (Dojo Mission)
@@ -75,7 +75,7 @@ Dojo Missions:
         - Characters:
             - None
         --------------------
-        - Tsukahara Bokuden
+        - Tsukahara Bokuden (boss)
 
     ==========
     The Way of the Ninja: Veteran (Dojo Mission)
@@ -84,7 +84,7 @@ Dojo Missions:
         - Characters:
             - None
         --------------------
-        - Kato Danzo
+        - Kato Danzo (boss)
 
     ==========
     The Way of the Onmyo: Veteran (Dojo Mission)
@@ -106,7 +106,7 @@ Dojo Missions:
         - Characters:
             - None
         --------------------
-        - Shisenin Kosen
+        - Shisenin Kosen (boss)
 
     ==========
     Hanzo the Demon (Dojo Mission)
@@ -115,7 +115,7 @@ Dojo Missions:
         - Characters:
             - None
         --------------------
-        - Hattori Hanzo
+        - Hattori Hanzo (boss)
 
     ==========
     Master of the Dual Blades (Dojo Mission)
@@ -124,7 +124,7 @@ Dojo Missions:
         - Characters:
             - None
         --------------------
-        - Ashikaga Yoshiteru
+        - Ashikaga Yoshiteru (boss)
 
     ==========
     The Unmoving Mountain (Dojo Mission)
@@ -133,7 +133,7 @@ Dojo Missions:
         - Characters:
             - None
         --------------------
-        - Sakata Kintoki
+        - Sakata Kintoki (boss)
 
     ==========
     The Chain That Splits the Sky (Dojo Mission)
@@ -142,7 +142,7 @@ Dojo Missions:
         - Characters:
             - None
         --------------------
-        - Shisenin Kosen
+        - Shisenin Kosen (boss)
 
     ==========
     The Tengu's Blade (Dojo Mission)
@@ -151,7 +151,7 @@ Dojo Missions:
         - Characters:
             - None
         --------------------
-        - Shisenin Kosen
+        - Shisenin Kosen (boss)
 
     ==========
     Like Lightning (Dojo Mission)
@@ -160,7 +160,7 @@ Dojo Missions:
         - Characters:
             - None
         --------------------
-        - Hattori Hanzo
+        - Hattori Hanzo (boss)
 
     ==========
     The Unstoppable Whirlwind (Dojo Mission)
@@ -169,7 +169,7 @@ Dojo Missions:
         - Characters:
             - None
         --------------------
-        - Sakata Kintoki
+        - Sakata Kintoki (boss)
 
     ==========
     Sharp Eyes (Dojo Mission)
@@ -178,7 +178,7 @@ Dojo Missions:
         - Characters:
             - None
         --------------------
-        - Mumyo
+        - Mumyo (boss)
 
     ==========
     Breaking Free (Dojo Mission)
@@ -187,7 +187,7 @@ Dojo Missions:
         - Characters:
             - None
         --------------------
-        - Hattori Hanzo
+        - Hattori Hanzo (boss)
 
     ==========
     Strike Like a Yokai (Dojo Mission)
@@ -196,7 +196,7 @@ Dojo Missions:
         - Characters:
             - None
         --------------------
-        - Kato Danzo
+        - Kato Danzo (boss)
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -1330,7 +1330,7 @@ Twilight Region (Region 5)
     ==========
     Farewell to the Past (Sub Mission)
     ==========
-        - Quest Giver: Akechi Mitsuhide / Tenkai
+        - Quest Giver: Tenkai (Akechi Mitsuhide)
         - Characters: 
             - None
         --------------------
@@ -1767,6 +1767,64 @@ Afterglow Region (Region 7)
         - Karasu Tengu
         - One-Eyed Oni
         - Onryoki (boss)
+
+    ==========
+    The Trustworthy (Sub Mission)
+    ==========
+        - Quest Giver: Matsunaga Hisahide
+        - Characters:
+            - Mumyo (Ally)
+        --------------------
+        - Hattori Hanzo (boss) (first time)
+        - Honda Tadakatsu (boss)
+
+    ==========
+    Winds of Ruin (Sub Mission)
+    ==========
+        - Quest Giver: Mumyo
+        - Characters:
+            - None
+        --------------------
+        - Tsukahara Bokuden (boss) (first time)
+        - Sakata Kintoki (boss) (first time)
+        - Shisenin Kosen (boss) (first time)
+        - Kato Danzo (boss) (first time)
+        - Ashikaga Yoshiteru (boss) (first time)
+        - Hattori Hanzo (boss)
+        - Mumyo (boss) (first time)
+
+    ==========
+    Wave of Terror (Sub Mission)
+    ==========
+        - Quest Giver: Nekomata
+        - Characters:
+            - None
+        --------------------
+        - Gaki
+        - Yoki (axe)
+        - Yoki (sword)
+        - Maelstrom Oni-Bi
+        - Infernal Oni-Bi
+        - One-Eyed Oni
+        - Gozuki (boss)
+        - Enki
+        - Yamanba
+        - Namahage
+        - Blue Yoki (dual swords)
+        - Ryomen Sukuna (boss)
+        - Oni Shibata Katsuie (boss)
+
+    ==========
+    Calamity's Pulse (Sub Mission)
+    ==========
+        - Quest Giver: Tenkai (Akechi Mitsuhide)
+        - Characters:
+            - None
+        --------------------
+        - Yatsu-no-Kami (boss)
+        - Shuten Doji (boss)
+        - Otakemaru (boss)
+
 
 
 
