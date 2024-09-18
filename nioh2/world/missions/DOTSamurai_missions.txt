@@ -55,6 +55,7 @@ Other Notes:
     - "Breaking Free" unlocks after beating "Ruin Draws Near".
     - "Strike Like a Yokai" unlocks after beating "Ruin Draws Near".
 
+    - "The One Who Lives in the Shadows" unlocks after beating "The High-Spirited Demon".
     - "The Nine Symbols" unlocks after beating "The Mausoleum of Evil".
 
 
@@ -261,6 +262,7 @@ Dojo Missions:
             - None
         - Notable Items In Mission / Mission Rewards:
             - Swordsman's Locks.
+            - Unlocks the Mystic Arts for the Sword.
 
     ==========
     Master of the Dual Blades (Dojo Mission)
@@ -282,6 +284,7 @@ Dojo Missions:
             - None
         - Notable Items In Mission / Mission Rewards:
             - Dual Swordsman's Locks.
+            - Unlocks the Mystic Arts for the Dual Swords.
 
     ==========
     Hanzo the Demon (Dojo Mission)
@@ -303,6 +306,7 @@ Dojo Missions:
             - None
         - Notable Items In Mission / Mission Rewards:
             - Spearman's Locks.
+            - Unlocks the Mystic Arts for the Spear.
 
     ==========
     The Unmoving Mountain (Dojo Mission)
@@ -324,6 +328,7 @@ Dojo Missions:
             - None
         - Notable Items In Mission / Mission Rewards:
             - Axeman's Locks.
+            - Unlocks the Mystic Arts for the Axe.
 
     ==========
     The Chain That Splits the Sky (Dojo Mission)
@@ -345,6 +350,7 @@ Dojo Missions:
             - None
         - Notable Items In Mission / Mission Rewards:
             - Kusarigama Wielder's Locks.
+            - Unlocks the Mystic Arts for the Kusarigama.
 
     ==========
     The Tengu's Blade (Dojo Mission)
@@ -366,6 +372,7 @@ Dojo Missions:
             - None
         - Notable Items In Mission / Mission Rewards:
             - Odachi Wielder's Locks.
+            - Unlocks the Mystic Arts for the Odachi.
 
     ==========
     Like Lightning (Dojo Mission)
@@ -387,6 +394,7 @@ Dojo Missions:
             - None
         - Notable Items In Mission / Mission Rewards:
             - Tonfa Wielder's Locks.
+            - Unlocks the Mystic Arts for the Tonfas.
 
     ==========
     The Unstoppable Whirlwind (Dojo Mission)
@@ -408,6 +416,7 @@ Dojo Missions:
             - None
         - Notable Items In Mission / Mission Rewards:
             - Hatchet Wielder's Locks.
+            - Unlocks the Mystic Arts for the Hatchets.
 
     ==========
     Sharp Eyes (Dojo Mission)
@@ -429,6 +438,7 @@ Dojo Missions:
             - None
         - Notable Items In Mission / Mission Rewards:
             - Switchglaive Wielder's Locks.
+            - Unlocks the Mystic Arts for the Switchglaive.
 
     ==========
     Breaking Free (Dojo Mission)
@@ -450,6 +460,7 @@ Dojo Missions:
             - None
         - Notable Items In Mission / Mission Rewards:
             - Splitstaff Wielder's Locks.
+            - Unlocks the Mystic Arts for the Splitstaff.
 
     ==========
     Strike Like a Yokai (Dojo Mission)
@@ -471,6 +482,51 @@ Dojo Missions:
             - None
         - Notable Items In Mission / Mission Rewards:
             - Fist Wielder's Locks.
+            - Unlocks the Mystic Arts for the Fists.
+
+    ==========
+    The One Who Lives in the Shadows (Dojo Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The High-Spirited Demon".
+            - Required Fists Proficiency: 200,000.
+        --------------------
+        - Recommended level: 100
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Hattori Hanzo
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Ninja's Locks.
+            - Unlocks the Mystic Arts for Ninjutsu.
+
+    ==========
+    The Nine Symbols (Dojo Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Mausoleum of Evil".
+            - Required Fists Proficiency: 250,000.
+        --------------------
+        - Recommended level: 114
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Onryoki
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Onmyo Mage's Locks.
+            - Unlocks the Mystic Arts for Onmyo Magic.
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -2556,8 +2612,10 @@ Afterglow Region (Region 7)
             - X1 Quality Umbracite.
 
 
-
-
+========== ========== ========== ========== ==========
+The Tengu's Disciple (DLC 1)
+========== ========== ========== ========== ==========
+    
 
 
 

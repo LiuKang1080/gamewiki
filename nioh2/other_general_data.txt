@@ -74,10 +74,12 @@ Proficiency
 Other Notes
 ========== ========== ==========
     - Defeating Otakemaru in the mission: In The Eye of the Beholder will drop 1 of each melee and ranged weapon type in Divine rarity.
-        Dream of the Samurai (NG) difficulty.
+        Dream of the Samurai (NG) difficulty. These weapons will always be corrupted weapons.
     - Only Divine and Ethreal rarity armor contains Familiarity.
     - Divine Umbracite unlocks at the Blacksmith after completing the mission: In The Eye of the Beholder.
-    
+
+    - The weapon specific Hair Locks that are rewarded in the weapon specific Dojo Missions grant 2 Skill Points.
+
     - Stone of Penance is unlocked after completing the Main Mission In the Eye of the Beholder.
     - The Builds feature is unlocked after completing the Main Mission In the Eye of the Beholder.
     - The Tengu's Disciple (DLC 1) is unlocked after completing the Main Mission In the Eye of the Beholder.

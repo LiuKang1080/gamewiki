@@ -198,6 +198,27 @@ Dojo Missions:
         --------------------
         - Kato Danzo (boss)
 
+    ==========
+    The One Who Lives in the Shadows (Dojo Mission)
+    ==========
+        - Quest Giver: Hattori Hanzo
+        - Characters:
+            - None
+        --------------------
+        - Hattori Hanzo (boss)
+
+    ==========
+    The Nine Symbols (Dojo Mission)
+    ==========
+        - Quest Giver: Abe no Seimei
+        - Characters:
+            - None
+        --------------------
+        - Maelstrom Oni-Bi
+        - Onyudo (water)
+        - Mitsume Yazura
+        - Onryoki (boss)
+
 
 ========== ========== ========== ========== ========== ========== ==========
 Twilight Missions:
@@ -1835,7 +1856,9 @@ Afterglow Region (Region 7)
         - Otakemaru (boss)
 
 
-
+========== ========== ========== ========== ==========
+The Tengu's Disciple (DLC 1)
+========== ========== ========== ========== ==========
 
 
 
