@@ -75,8 +75,8 @@ Other Notes
 ========== ========== ==========
     - Defeating Otakemaru in the mission: In The Eye of the Beholder will drop 1 of each melee and ranged weapon type in Divine
         rarity. Dream of the Samurai (NG) difficulty. These weapons will always be corrupted weapons.
-    - Defeating Otakemaru in the mission: In The Eye of the Beholder on Dream of the Strong and above for the first time will
-        guaranteed drop a Yasakani Magatama. [========== !!! TEST THIS !!! ==========]
+    - Defeating Otakemaru in the mission: In The Eye of the Beholder on Dream of the Strong and above (on every difficulty) for
+        the first time will guaranteed drop a Yasakani Magatama. (Credits: Oolong Tea)
     - Only Divine and Ethreal rarity armor contains Familiarity.
     - Divine Umbracite unlocks at the Blacksmith after completing the mission: In The Eye of the Beholder.
 
