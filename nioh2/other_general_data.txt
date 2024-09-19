@@ -43,6 +43,10 @@ Key Items
     - Cherry Blossom Chapbook [img complete]:
         - Complete the mission: The Scented Letter (Sub Mission).
 
+    - Incendiary Longbow Arrow [img complete]:
+        - There are a total of 3 Longbow Arrows in the mission: A Song to Calm the Storm (Main Mission).
+
+
 ========== ========== ==========
 Proficiency 
 ========== ========== ==========
@@ -69,6 +73,7 @@ Proficiency
         - Weapons: LVL 60
         - Ninjutsu and Onmyo: LVL 70
         - Shiftling: LVL 90
+
 
 ========== ========== ==========
 Other Notes

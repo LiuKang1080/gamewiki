@@ -2615,10 +2615,84 @@ Afterglow Region (Region 7)
 ========== ========== ========== ========== ==========
 The Tengu's Disciple (DLC 1)
 ========== ========== ========== ========== ==========
-    
+    ==========
+    A Song to Calm the Storm (Main Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "In The Eye of the Beholder"
+        --------------------
+        - Recommended level: 120
+        - Gold: 32,600
+        - Amrita: 86,776
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 10
+        - Number of Sudama: 2
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 2
+        - Bosses: 
+            - Benkei
+            - Uminyudo
+        - Guardian Spirit Unlocked: 
+            - Kurama Tengu
+        - Notable Items In Mission / Mission Rewards:
+            - Onmyo Mage's Locks.
+            - Ninja's Locks.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ==========
+    Shadows Creep in Kurama (Sub Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "A Song to Calm the Storm"
+        --------------------
+
+    ==========
+    The Lost Sword (Sub Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "A Song to Calm the Storm"
+        --------------------
+
+    ==========
+    The Loyal Retainer (Sub Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "A Song to Calm the Storm"
+        --------------------
+
+    ==========
+    Eternal Rivals (Main Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "A Song to Calm the Storm"
+        --------------------
 
 
 

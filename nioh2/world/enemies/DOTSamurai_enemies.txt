@@ -1859,6 +1859,28 @@ Afterglow Region (Region 7)
 ========== ========== ========== ========== ==========
 The Tengu's Disciple (DLC 1)
 ========== ========== ========== ========== ==========
+    ==========
+    A Song to Calm the Storm (Main Mission)
+    ==========
+        - Quest Giver: Hakutaku
+        - Characters:
+            - Benkei (Ally)
+        --------------------
+        - Warrior
+        - Kiryoki (first time)
+        - Gaki
+        - Lesser Umi-Bozu
+        - Sohaya Warrior (splitstaff)
+        - Bakegani (first time)
+        - Abbarant Soldier
+        - Nure-Onna
+        - Kappa
+        - Ubume
+        - Rokurokubi
+        - Benkei (boss) (first time)
+        - Skeleton Warrior
+        - Mujina
+        - Uminyudo (boss) (first time)
 
 
 
@@ -1866,3 +1888,28 @@ The Tengu's Disciple (DLC 1)
 
 
 
+
+
+
+
+
+
+
+
+
+
+    ==========
+    Shadows Creep in Kurama (Sub Mission)
+    ==========
+
+    ==========
+    The Lost Sword (Sub Mission)
+    ==========
+
+    ==========
+    The Loyal Retainer (Sub Mission)
+    ==========
+
+    ==========
+    Eternal Rivals (Main Mission)
+    ==========

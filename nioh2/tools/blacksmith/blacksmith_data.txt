@@ -1,0 +1,54 @@
+========== ========== ==========
+Request for Toyo
+========== ========== ==========
+    - Sell Price Markup:
+        - Number of levels: 20
+        - Increase per level: +1.5%
+
+    - Purchase Price Discount:
+        - Number of levels: 15
+        - Increase per level: +2.0%
+
+    - Forging Cost Discount:
+        - Number of levels: 15
+        - Increase per level: +2.0%
+
+    - Additional Stock:
+        - Number of levels: 5
+        - Increase per level: N/A
+
+    - Additional Special Finds:
+        - Number of levels: 3
+        - Increase per level: N/A
+
+
+========== ========== ==========
+Request for Muramasa
+========== ========== ==========
+    - Upper Level Limit for Forged Items:
+        - Number of levels: 5
+        - Increase per level: +1
+
+    - Lower Level Limit for Forged Items:
+        - Number of levels: 5
+        - Increase per level: +1
+
+    - Soul Matching Cost Discount:
+        - Number of levels: 20
+        - Increase per level: +2.0%
+
+    - Tempering Cost Discount:
+        - Number of levels: 20
+        - Increase per level: +1.5%
+
+    - Refashioning Cost Discount:
+        - Number of levels: 5
+        - Increase per level: +6.0%
+
+    - Pay Soul Matching Cost With Patronage:
+        - Number of levels: 1
+        - Increase per level: N/A
+
+    - Disassemble to Obtain Rare Materials:
+        - Number of levels: 29
+        - Increase per level: N/A
