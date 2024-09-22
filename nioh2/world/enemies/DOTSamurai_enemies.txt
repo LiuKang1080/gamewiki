@@ -1882,25 +1882,49 @@ The Tengu's Disciple (DLC 1)
         - Mujina
         - Uminyudo (boss) (first time)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
     Shadows Creep in Kurama (Sub Mission)
     ==========
+        - Quest Giver: Minamoto no Yoshitsune
+        - Characters:
+            - None
+        --------------------
+        - Revenant (kusarigama)
+        - Gaki
+        - Kiryoki
+        - Bakegani
+        - Revenant (spear)
+        - Yamanba
+        - Nure-Onna
+        - Karakasa Umbrella
+        - Skeleton Warrior
+        - Karasu Tengu
+        - Koroka
+        - Spider
+        - One-Eyed Imp
+        - Namahage
+        - Yoki (sword)
+        - Tesso
+        - Revenant (splitstaff)
+        - Revenant (sword)
+        - Nurikabe
+        - Yoki (axe)
+        - Nue (boss) (first time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
     ==========
     The Lost Sword (Sub Mission)

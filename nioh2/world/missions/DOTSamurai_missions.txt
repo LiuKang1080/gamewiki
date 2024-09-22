@@ -2638,40 +2638,56 @@ The Tengu's Disciple (DLC 1)
         - Notable Items In Mission / Mission Rewards:
             - Onmyo Mage's Locks.
             - Ninja's Locks.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            - Saigyo's Poem I (item pickup in mission).
 
     ==========
-    Shadows Creep in Kurama (Sub Mission)
+    Shadows Creep In Kurama (Sub Mission)
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "A Song to Calm the Storm"
         --------------------
+        - Recommended level: 121
+        - Gold: 33,000
+        - Amrita: 90,776
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 6
+        - Number of Sudama: 2 (1 Big Sudama)
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 1 (0 required)
+        - Bosses: 
+            - Nue
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Saigyo's Poem III (item pickup in mission).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
     ==========
     The Lost Sword (Sub Mission)
@@ -2679,6 +2695,7 @@ The Tengu's Disciple (DLC 1)
         - Mission Unlock Requirement:
             - Complete the mission: "A Song to Calm the Storm"
         --------------------
+        - Recommended level: 122
 
     ==========
     The Loyal Retainer (Sub Mission)
@@ -2686,6 +2703,7 @@ The Tengu's Disciple (DLC 1)
         - Mission Unlock Requirement:
             - Complete the mission: "A Song to Calm the Storm"
         --------------------
+        - Recommended level: 123
 
     ==========
     Eternal Rivals (Main Mission)
@@ -2693,6 +2711,14 @@ The Tengu's Disciple (DLC 1)
         - Mission Unlock Requirement:
             - Complete the mission: "A Song to Calm the Storm"
         --------------------
+        - Recommended level: 124
+
+
+
+
+
+
+
 
 
 
