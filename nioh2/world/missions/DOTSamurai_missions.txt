@@ -2662,33 +2662,6 @@ The Tengu's Disciple (DLC 1)
         - Notable Items In Mission / Mission Rewards:
             - Saigyo's Poem III (item pickup in mission).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
     ==========
     The Lost Sword (Sub Mission)
     ==========
@@ -2696,6 +2669,20 @@ The Tengu's Disciple (DLC 1)
             - Complete the mission: "A Song to Calm the Storm"
         --------------------
         - Recommended level: 122
+        - Gold: 33,400
+        - Amrita: 94,776
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 1 (0 required)
+        - Bosses: 
+            - Taira no Kagekiyo
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
 
     ==========
     The Loyal Retainer (Sub Mission)
@@ -2704,6 +2691,45 @@ The Tengu's Disciple (DLC 1)
             - Complete the mission: "A Song to Calm the Storm"
         --------------------
         - Recommended level: 123
+        - Gold: 80,000
+        - Amrita: 98,776
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 1 (0 required)
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     Eternal Rivals (Main Mission)

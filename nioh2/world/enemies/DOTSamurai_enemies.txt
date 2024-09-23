@@ -1864,6 +1864,7 @@ The Tengu's Disciple (DLC 1)
     ==========
         - Quest Giver: Hakutaku
         - Characters:
+            - Nasu no Yoichi (NPC)
             - Benkei (Ally)
         --------------------
         - Warrior
@@ -1911,28 +1912,59 @@ The Tengu's Disciple (DLC 1)
         - Yoki (axe)
         - Nue (boss) (first time)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
     ==========
     The Lost Sword (Sub Mission)
     ==========
+        - Quest Giver: Minamoto no Yoshitsune
+        - Characters:
+            - Nasu no Yoichi (NPC)
+        --------------------
+        - Abbarant Soldier
+        - Bakegani
+        - Gaki
+        - Namahage
+        - Rokurokubi
+        - Kappa
+        - One-Eyed Oni
+        - Skeleton Warrior
+        - Kiryoki
+        - Lesser Umi-Bozu
+        - Red Kappa
+        - Warrior
+        - Sohaya Warrior (splitstaff)
+        - Taira no Kagekiyo (boss) (first time)
 
     ==========
     The Loyal Retainer (Sub Mission)
     ==========
+        - Quest Giver: Nekomata
+        - Characters:
+            - Kajiwara Kagetoki (Ally)
+        --------------------
+        - Red Kappa
+        - Wheelmonk
+        - Abbarant Soldier
+        - Gaki
+        - Bakegani
+        - Magatsu Warrior
+        - Rokurokubi
+        - Skeleton Warrior
+        - Yoki (axe)
+        - Dweller
+        - Mitsume Yazura
+        - Kiryoki
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     Eternal Rivals (Main Mission)

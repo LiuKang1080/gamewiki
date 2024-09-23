@@ -32,7 +32,7 @@ Key Items
 
     - Umebachi Abacus [img complete]:
         - Obtained at the end of the mission "An Error in Calculation" in a Treasure Chest.
-        - This item is given away to Maeda Toshiie upon completing the side mission.
+        - This item is given away to Maeda Toshiie upon completing this mission.
 
     - Wooden Kannon Sculpture [img complete]:
         - Complete the mission: The Tiger Approaches (Sub Mission).
@@ -45,6 +45,10 @@ Key Items
 
     - Incendiary Longbow Arrow [img complete]:
         - There are a total of 3 Longbow Arrows in the mission: A Song to Calm the Storm (Main Mission).
+
+    - Ame-no-Murakumo Tsurugi [img complete]:
+        - Key item obtained from a chest in the mission: The Lost Sword (Main Mission).
+        - This item is given away to Minamoto no Yoshitsune upon completing this mission.
 
 
 ========== ========== ==========
