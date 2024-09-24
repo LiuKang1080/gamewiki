@@ -666,6 +666,29 @@ Twilight Missions:
         - Notable Items In Mission / Mission Rewards:
             - Quality Umbracite x1 (mission reward).
 
+    ==========
+    Darkness Brewing
+    ==========
+        - Mission Unlock Requirement:
+            - Shadows Creep in Kurama (The Tengu's Disciple | DLC 1).
+            - Eternal Rivals (The Tengu's Disciple | DLC 1).
+        --------------------
+        - Recommended level: 130
+        - Gold: 112,800
+        - Amrita: 410,328
+        - Shrine: Yes
+        - Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 2 (1 Big Sudama)
+        - Number of Hot Springs: 1 (0 required)
+        - Number of Dark Realms: 2 (0 required)
+        - Bosses: 
+            - Nue
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Quality Umbracite x1 (mission reward).
+
 
 ========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
@@ -2706,31 +2729,6 @@ The Tengu's Disciple (DLC 1)
         - Notable Items In Mission / Mission Rewards:
             - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
     Eternal Rivals (Main Mission)
     ==========
@@ -2738,6 +2736,23 @@ The Tengu's Disciple (DLC 1)
             - Complete the mission: "A Song to Calm the Storm"
         --------------------
         - Recommended level: 124
+        - Gold: 34,000
+        - Amrita: 100,776
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 9
+        - Number of Sudama: 1
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 1
+        - Bosses: 
+            - Mezuki
+            - Minamoto no Yoshitsune
+        - Guardian Spirit Unlocked: 
+            - Ho
+        - Notable Items In Mission / Mission Rewards:
+            - Saigyo's Poem II (item pickup in mission).
+            - Samurai's Locks (mission reward).
+            - Seto Taisho Soul Core (mission reward).
 
 
 
@@ -2756,3 +2771,42 @@ The Tengu's Disciple (DLC 1)
 
 
 
+
+
+    ==========
+    An Encounter Among the Blossoms (Sub Mission) lvl 125
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Eternal Rivals"
+        --------------------
+
+    ==========
+    The Tale of the Taira (Sub Mission) lvl 126
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Eternal Rivals"
+        --------------------
+
+    ==========
+    Prisoners of the Stones (Sub Mission) lvl 127
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Eternal Rivals"
+        --------------------
+
+    ==========
+    Soul of the Warrior Monk (Sub Mission) lvl 128
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Eternal Rivals"
+            - Speak With Benkei in the Interim
+        --------------------
+
+    ==========
+    Bond of the Blade (Sub Mission) lvl 129
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Eternal Rivals"
+            - Complete the mission: "Soul of the Warrior Monk"
+            - Speak With Minamoto no Yoshitsune in the Interim
+        --------------------

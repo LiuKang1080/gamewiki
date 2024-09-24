@@ -374,6 +374,24 @@ Twilight Missions:
         - Kappa
         - Shuten Doji (boss)
 
+    ==========
+    Darkness Brewing (Shadows Creep In Kurama | The Tengu's Disciple (DLC 1))
+    ==========
+        - Bakegani
+        - Flying Bolt
+        - Revenant (kusarigama)
+        - Abbarant Soldier
+        - Nuppeppo
+        - Tesso
+        - Gaki
+        - Biwa Boku-Boku
+        - Kiryoki
+        - Ippon-Datara (odachi)
+        - Thunderstorm Oni-Bi
+        - Onyudo (lightning)
+        - Nurikabe
+        - Nue (boss)
+
 
 ========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
@@ -1954,18 +1972,65 @@ The Tengu's Disciple (DLC 1)
         - Mitsume Yazura
         - Kiryoki
 
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
     Eternal Rivals (Main Mission)
     ==========
+        - Quest Giver: Nekomata
+        - Characters:
+            - Minamoto no Yoshitsune (Cutscenes, Ally)
+            - Benkei (Cutscenes)
+        --------------------
+        - Warrior
+        - Sohaya Warrior (splitstaff)
+        - Dweller
+        - Rokurokubi
+        - Abbarant Soldier
+        - Nuppeppo (first time)
+        - Ippon-Datara (odachi)
+        - Rokurokubi
+        - Magatsu Warrior
+        - Kiryoki
+        - Bakegani
+        - The Sohaya (splitstaff) (first time)
+        - Yoki (sword)
+        - Karasu Tengu
+        - Mujina
+        - Mezuki (boss)
+        - Minamoto no Yoshitsune (boss) (first time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ==========
+    An Encounter Among the Blossoms (Sub Mission) lvl 125
+    ==========
+
+    ==========
+    The Tale of the Taira (Sub Mission) lvl 126
+    ==========
+
+    ==========
+    Prisoners of the Stones (Sub Mission) lvl 127
+    ==========
+
+    ==========
+    Soul of the Warrior Monk (Sub Mission) lvl 128
+    ==========
+
+    ==========
+    Bond of the Blade (Sub Mission) lvl 129
+    ==========
+
+
+
+
