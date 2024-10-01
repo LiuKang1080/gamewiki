@@ -1998,22 +1998,42 @@ The Tengu's Disciple (DLC 1)
         - Mezuki (boss)
         - Minamoto no Yoshitsune (boss) (first time)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
     An Encounter Among the Blossoms (Sub Mission) lvl 125
     ==========
+        - Quest Giver: Hakutaku
+        - Characters:
+            - Saigyo the Wandering Monk
+        --------------------
+        - One-Eyed Imp
+        - Karakasa Umbrella
+        - Ubume
+        - Lesser Umi-Bozu
+        - Kiryoki
+        - Gaki
+        - Thunderstorm Oni-Bi
+        - Maelstrom Oni-Bi
+        - Infernal Oni-Bi
+        - Tesso
+        - Abbarant Soldier
+        - Nuppeppo
+        - Karasu Tengu
+        - Red Kappa
+        - Toxic Slime
+        - Bakegani
+        - Onyudo (lightning)
+        - Mitsume Yazura
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     The Tale of the Taira (Sub Mission) lvl 126

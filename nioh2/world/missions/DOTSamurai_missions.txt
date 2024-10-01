@@ -2754,31 +2754,46 @@ The Tengu's Disciple (DLC 1)
             - Samurai's Locks (mission reward).
             - Seto Taisho Soul Core (mission reward).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
     An Encounter Among the Blossoms (Sub Mission) lvl 125
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Eternal Rivals"
         --------------------
+        - Recommended level: 125
+        - Gold: 34,600
+        - Amrita: 106,776
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     The Tale of the Taira (Sub Mission) lvl 126
