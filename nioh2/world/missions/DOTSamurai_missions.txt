@@ -2755,7 +2755,7 @@ The Tengu's Disciple (DLC 1)
             - Seto Taisho Soul Core (mission reward).
 
     ==========
-    An Encounter Among the Blossoms (Sub Mission) lvl 125
+    An Encounter Among the Blossoms (Sub Mission)
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Eternal Rivals"
@@ -2776,52 +2776,93 @@ The Tengu's Disciple (DLC 1)
         - Notable Items In Mission / Mission Rewards:
             - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
-    The Tale of the Taira (Sub Mission) lvl 126
+    The Tale of the Taira (Sub Mission)
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Eternal Rivals"
         --------------------
+        - Recommended level: 126
+        - Gold: 35,200
+        - Amrita: 112,776
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Taira no Kagekiyo
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
 
     ==========
-    Prisoners of the Stones (Sub Mission) lvl 127
+    Prisoners of the Stones (Sub Mission)
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Eternal Rivals"
         --------------------
+        - Recommended level: 127
+        - Gold: 35,800
+        - Amrita: 118,776
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 1
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - Blue Dragon
+        - Notable Items In Mission / Mission Rewards:
+            - Samurai's Locks (mission reward).
 
     ==========
-    Soul of the Warrior Monk (Sub Mission) lvl 128
+    Soul of the Warrior Monk (Sub Mission)
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Eternal Rivals"
             - Speak With Benkei in the Interim
         --------------------
+        - Recommended level: 128
+        - Gold: 36,200
+        - Amrita: 122,776
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Benkei
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
 
     ==========
-    Bond of the Blade (Sub Mission) lvl 129
+    Bond of the Blade (Sub Mission)
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Eternal Rivals"
             - Complete the mission: "Soul of the Warrior Monk"
             - Speak With Minamoto no Yoshitsune in the Interim
         --------------------
+        - Recommended level: 129
+        - Gold: 36,800
+        - Amrita: 128,776
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Minamoto no Yoshitsune
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None

@@ -1999,7 +1999,7 @@ The Tengu's Disciple (DLC 1)
         - Minamoto no Yoshitsune (boss) (first time)
 
     ==========
-    An Encounter Among the Blossoms (Sub Mission) lvl 125
+    An Encounter Among the Blossoms (Sub Mission)
     ==========
         - Quest Giver: Hakutaku
         - Characters:
@@ -2024,33 +2024,62 @@ The Tengu's Disciple (DLC 1)
         - Onyudo (lightning)
         - Mitsume Yazura
 
-
-
-
-
-
-
-
-
-
-
+    ==========
+    The Tale of the Taira (Sub Mission)
+    ==========
+        - Quest Giver: Hakutaku
+        - Characters:
+            - None
+        --------------------
+        - Revenant (axe)
+        - Skeleton Warrior
+        - Revenant (switchglaive)
+        - Abbarant Soldier
+        - Revenant (odachi)
+        - Lesser Umi-Bozu
+        - Taira no Kagekiyo (boss) (first time)
+        - Bakegani
+        - Biwa Boku-Boku
+        - Thunderstorm Oni-Bi
+        - Infernal Oni-Bi
+        - Maelstrom Oni-Bi
 
     ==========
-    The Tale of the Taira (Sub Mission) lvl 126
+    Prisoners of the Stones (Sub Mission)
     ==========
+        - Quest Giver: Nekomata
+        - Characters:
+            - Mysterious Samurai / Date Tomomune (NPC, Ally)
+        --------------------
+        - Warrior
+        - Lesser Umi-Bozu
+        - Gaki
+        - Skeleton Warrior
+        - Abbarant Soldier
+        - Namahage
+        - Koroka
+        - Wheelmonk
+        - Tesso
+        - Bakegani
+        - Waira
+        - Enki
+        - Ippon-Datara
+        - Nuppeppo
 
     ==========
-    Prisoners of the Stones (Sub Mission) lvl 127
+    Soul of the Warrior Monk (Sub Mission)
     ==========
+        - Quest Giver: Hakutaku
+        - Characters:
+            - None
+        --------------------
+        - Benkei (boss)
 
     ==========
-    Soul of the Warrior Monk (Sub Mission) lvl 128
+    Bond of the Blade (Sub Mission)
     ==========
-
-    ==========
-    Bond of the Blade (Sub Mission) lvl 129
-    ==========
-
-
-
-
+        - Quest Giver: Minamoto no Yoshitsune
+        - Characters:
+            - None
+        --------------------
+        - Minamoto no Yoshitsune (boss)
