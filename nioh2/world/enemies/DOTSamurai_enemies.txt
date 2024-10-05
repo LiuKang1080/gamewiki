@@ -2083,3 +2083,37 @@ The Tengu's Disciple (DLC 1)
             - None
         --------------------
         - Minamoto no Yoshitsune (boss)
+
+
+========== ========== ========== ========== ==========
+Darkness In The Capital (DLC 2)
+========== ========== ========== ========== ==========
+    ==========
+    Suzune in the Flames (Main Mission)
+    ==========
+        - Quest Giver: Nekomata
+        - Characters:
+            - Minamoto no Yorimitsu (Cutscenes)
+            - Sakata Kintoki (Cutscenes)
+        --------------------
+        - Wheelmonk
+        - Abbarant Soldier
+        - Rokurokubi
+        - Yamanba
+        - Skeleton Warrior
+        - Gaki
+        - Flying Bolt
+        - Oboroguruma (first time)
+        - One-Eyed Imp
+        - Kiryoki
+        - Minamoto no Yorimitsu (boss) (first time)
+
+
+
+
+
+
+
+
+
+

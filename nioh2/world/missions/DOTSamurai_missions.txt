@@ -2866,3 +2866,49 @@ The Tengu's Disciple (DLC 1)
             - None
         - Notable Items In Mission / Mission Rewards:
             - None
+
+
+========== ========== ========== ========== ==========
+Darkness In The Capital (DLC 2)
+========== ========== ========== ========== ==========
+    ==========
+    Suzune in the Flames (Main Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "In The Eye of the Beholder"
+        --------------------
+        - Recommended level: 130
+        - Gold: 26,550
+        - Amrita: 86,082
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 2
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 2 (0 required)
+        - Bosses: 
+            - Minamoto no Yorimitsu
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Samurai's Locks (mission reward).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
