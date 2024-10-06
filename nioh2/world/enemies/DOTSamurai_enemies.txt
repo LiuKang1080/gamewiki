@@ -392,6 +392,11 @@ Twilight Missions:
         - Nurikabe
         - Nue (boss)
 
+    ==========
+    The Mystery of Rashomon (The Blighted Gate | Darkness In The Capital (DLC 2))
+    ==========
+        - 
+
 
 ========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
@@ -2108,12 +2113,67 @@ Darkness In The Capital (DLC 2)
         - Kiryoki
         - Minamoto no Yorimitsu (boss) (first time)
 
+    ==========
+    The Blighted Gate (Main Mission)
+    ==========
+        - Quest Giver: Hakutaku
+        - Characters:
+            - Minamoto no Yorimitsu (Cutscenes)
+            - Sakata Kintoki (Cutscenes)
+            - Ashiya Doman (Cutscenes)
+            - Abe no Seimei (Cutscenes)
+        --------------------
+        - Skeleton Warrior
+        - Koroka
+        - Tesso
+        - Gaki
+        - Yasha (first time)
+        - Infernal Fox (first time)
+        - Tsuchigumo Ninja (claws) (first time)
+        - Tsuchigumo Ninja (tonfas) (first time)
+        - Nuppeppo
+        - Oboroguruma
+        - Spider
+        - Mujina
+        - Nurikabe
+        - Tsuchigumo Ninja (sword) (first time)
+        - Tsuchigumo (boss) (first time)
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ==========
+    The Buddha's Palm (Sub Mission) lvl 132
+    ==========
+
+    ==========
+    Insatiable Bloodlust (Sub Mission) lvl 133
+    ==========
+
+    ==========
+    Palace of the Damned (Sub Mission) lvl 134
+    ==========
 
 
 

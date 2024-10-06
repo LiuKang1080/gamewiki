@@ -689,6 +689,13 @@ Twilight Missions:
         - Notable Items In Mission / Mission Rewards:
             - Quality Umbracite x1 (mission reward).
 
+    ==========
+    The Mystery of Rashomon
+    ==========
+        - Mission Unlock Requirement:
+            - The Blighted Gate (Darkness In The Capital | DLC 2).
+        --------------------
+
 
 ========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
@@ -2893,6 +2900,28 @@ Darkness In The Capital (DLC 2)
         - Notable Items In Mission / Mission Rewards:
             - Samurai's Locks (mission reward).
 
+    ==========
+    The Blighted Gate (Main Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Suzune in the Flames"
+        --------------------
+        - Recommended level: 131
+        - Gold: 35,600
+        - Amrita: 116,776
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 9
+        - Number of Sudama: 2
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 3
+        - Bosses: 
+            - Tsuchigumo
+        - Guardian Spirit Unlocked: 
+            - Kuzunoha The Fox
+        - Notable Items In Mission / Mission Rewards:
+            - Onmyo Mage's Locks.
+            - Ninja's Locks.
 
 
 
@@ -2910,5 +2939,24 @@ Darkness In The Capital (DLC 2)
 
 
 
+
+
+
+
+
+
+
+
+    ==========
+    The Buddha's Palm (Sub Mission) lvl 132
+    ==========
+
+    ==========
+    Insatiable Bloodlust (Sub Mission) lvl 133
+    ==========
+
+    ==========
+    Palace of the Damned (Sub Mission) lvl 134
+    ==========
 
 
