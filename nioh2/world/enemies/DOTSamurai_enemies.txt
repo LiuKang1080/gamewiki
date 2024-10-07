@@ -2132,40 +2132,63 @@ Darkness In The Capital (DLC 2)
         - Tsuchigumo Ninja (claws) (first time)
         - Tsuchigumo Ninja (tonfas) (first time)
         - Nuppeppo
+        - Kappa
+        - Tsuchigumo Ninja (sword) (first time)
         - Oboroguruma
         - Spider
         - Mujina
         - Nurikabe
-        - Tsuchigumo Ninja (sword) (first time)
         - Tsuchigumo (boss) (first time)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
-    The Buddha's Palm (Sub Mission) lvl 132
+    The Buddha's Palm (Sub Mission)
     ==========
+        - Quest Giver: Minamoto no Yorimitsu
+        - Characters:
+            - Usui Sadamitsu (NPC)
+        --------------------
+        - Warrior
+        - Rouge
+        - Tsuchigumo Ninja (tonfas)
+        - One-Eyed Imp
+        - Oboroguruma
+        - Abbarant Soldier
+        - Gaki
+        - Tsuchigumo Ninja (dual swords) (first time)
+        - Tesso
+        - Sohaya Warrior (switchglaive)
+        - Sohaya Warrior (odachi)
+        - Onyudo (lightning)
+        - Onmyo Mage
+        - Dweller
+        - Yasha
+        - Blue Yoki (dual swords)
+        - Revenant
+        - One-Eyed Oni
+        - Biwa Boku-Boku
+        - Giant Toad (boss) (first time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
     ==========
     Insatiable Bloodlust (Sub Mission) lvl 133

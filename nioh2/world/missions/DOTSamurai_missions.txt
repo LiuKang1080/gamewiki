@@ -2659,7 +2659,7 @@ The Tengu's Disciple (DLC 1)
         - Number of Kodama: 10
         - Number of Sudama: 2
         - Number of Hot Springs: 1
-        - Number of Dark Realms: 2
+        - Number of Dark Realms: 2 (0 required)
         - Bosses: 
             - Benkei
             - Uminyudo
@@ -2750,7 +2750,7 @@ The Tengu's Disciple (DLC 1)
         - Number of Kodama: 9
         - Number of Sudama: 1
         - Number of Hot Springs: 1
-        - Number of Dark Realms: 1
+        - Number of Dark Realms: 1 (0 required)
         - Bosses: 
             - Mezuki
             - Minamoto no Yoshitsune
@@ -2914,7 +2914,7 @@ Darkness In The Capital (DLC 2)
         - Number of Kodama: 9
         - Number of Sudama: 2
         - Number of Hot Springs: 1
-        - Number of Dark Realms: 3
+        - Number of Dark Realms: 3 (0 required)
         - Bosses: 
             - Tsuchigumo
         - Guardian Spirit Unlocked: 
@@ -2923,40 +2923,62 @@ Darkness In The Capital (DLC 2)
             - Onmyo Mage's Locks.
             - Ninja's Locks.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
-    The Buddha's Palm (Sub Mission) lvl 132
+    The Buddha's Palm (Sub Mission)
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Blighted Gate"
+        --------------------
+        - Recommended level: 132
+        - Gold: 36,200
+        - Amrita: 122,776
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 6
+        - Number of Sudama: 1 (1 Big Sudama)
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 3 (0 required)
+        - Bosses: 
+            - Giant Toad
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
     ==========
     Insatiable Bloodlust (Sub Mission) lvl 133
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Blighted Gate"
+        --------------------
 
     ==========
     Palace of the Damned (Sub Mission) lvl 134
     ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "The Blighted Gate"
+        --------------------
 
 
