@@ -2945,34 +2945,48 @@ Darkness In The Capital (DLC 2)
         - Notable Items In Mission / Mission Rewards:
             - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
     ==========
-    Insatiable Bloodlust (Sub Mission) lvl 133
+    Insatiable Bloodlust (Sub Mission)
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "The Blighted Gate"
         --------------------
+        - Recommended level: 133
+        - Gold: 36,600
+        - Amrita: 126,776
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 2 (0 required)
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     Palace of the Damned (Sub Mission) lvl 134

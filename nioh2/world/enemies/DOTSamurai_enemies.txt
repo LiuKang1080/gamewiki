@@ -2168,31 +2168,48 @@ Darkness In The Capital (DLC 2)
         - Biwa Boku-Boku
         - Giant Toad (boss) (first time)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
     ==========
-    Insatiable Bloodlust (Sub Mission) lvl 133
+    Insatiable Bloodlust (Sub Mission)
     ==========
+        - Quest Giver: ??? Minamoto no Yorimitsu ???
+        - Characters:
+            - Minamoto no Yorimitsu (NPC, Ally)
+            - Watanabe no Tsuna (Ally)
+        --------------------
+        - Tesso
+        - Oboroguruma
+        - Nuppeppo
+        - Gaki
+        - Yamanba
+        - Kiryoki
+        - Rokurokubi
+        - Spider
+        - Dweller
+        - Tsuchigumo Ninja (dual swords)
+        - Infernal Fox
+        - Wheelmonk
+        - Flying Bolt
+        - Yasha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     Palace of the Damned (Sub Mission) lvl 134
