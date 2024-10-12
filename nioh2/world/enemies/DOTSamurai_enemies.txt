@@ -9,6 +9,197 @@
 
 
 ========== ========== ========== ========== ========== ========== ==========
+Twilight Missions:
+========== ========== ========== ========== ========== ========== ==========
+    ==========
+    The Violet Cherry Blossoms (The Village of Cursed Blossoms | Awakening Region (Region 1))
+    ==========
+        - Gaki
+        - Gozuki (boss)
+        - Enki
+        - Yoki
+        - Infernal Oni-Bi
+        - Maelstrom Oni-Bi
+        - Nure-Onna
+        - Abbarant Soldier
+        - Ippon-Datara
+        - Mezuki (boss)
+
+    ==========
+    Traces of the Raging Blaze (A Beast Born of Smoke and Flames | Awakening Region (Region 1))
+    ==========
+        - Yoki
+        - Skeleton Warrior
+        - Gaki
+        - Kappa
+        - Ippon-Datara
+        - Infernal Oni-Bi
+        - Enki
+        - Karakasa Umbrella
+        - Dweller
+        - Enenra (boss)
+
+    ==========
+    The Blood Tainted Samurai (Dark Omens | Awakening Region (Region 1))
+    ==========
+        - Enki
+        - Abbarant Soldier
+        - Gaki
+        - Revenant
+        - Yoki
+        - Ippon-Datara
+        - Biwa Boku-Boku
+        - Thunderstorm Oni-Bi
+        - Karasu Tengu
+
+    ==========
+    Blood on the Wind (The Mysterious One Night Castle | Soaring Region (Region 2))
+    ==========
+        - Yoki
+        - Abbarant Soldier
+        - Dweller
+        - Enki
+        - Gaki
+        - Skeleton Warrior
+        - Karasu Tengu
+        - Yamanba
+        - Karakasa Umbrella
+        - Lesser Umi-Bozu
+        - Nure-Onna
+        - Ippon-Datara
+        - Waira
+        - Red Kappa
+        - Biwa Boku-Boku
+        - Kamaitachi (boss)
+
+    ==========
+    The Cursed Castle Ruins (A Bird In A Cage | Shadow Region (Region 3))
+    ==========
+        - Tesso
+        - Dweller
+        - Spider
+        - Abbarant Soldier
+        - Rokurokubi
+        - Ninja Dog
+        - Warrior
+        - Yoki (axe)
+        - Namahage
+        - Yoki (sword)
+        - Waira
+        - Skeleton Warrior
+        - Toxic Slime
+        - Azai Nagamasa (boss)
+
+    ==========
+    The Defiled Sanctuary (The Golden Nation | Shadow Region (Region 3))
+    ==========
+        - Dweller
+        - Abbarant Soldier
+        - Tesso
+        - Gaki
+        - Ubume
+        - Ippon-Datara (odachi)
+        - Karakasa Umbrella
+        - One-Eyed Oni
+        - Nure-Onna
+        - Rokurokubi
+        - Kasha (boss)
+
+    ==========
+    Mountain of the Dark Lord (The Sun Sets on Mount Tenno | Dawn Region (Region 4))
+    ==========
+        - Nure-Onna
+        - Toxic Slime
+        - Skeleton Warrior
+        - Spider
+        - Mitsume Yazura
+        - Wheelmonk
+        - Tesso
+        - Rokurokubi
+        - Yoki (axe)
+        - Flying Bolt
+        - Ubume
+        - Gaki
+        - Nurikabe
+        - Red Kappa
+        - Onyudo (fire)
+        - Onyudo (lightning)
+        - Ryomen Sukuna (boss)
+
+    ==========
+    The Island of Monsters (Twilight Region (Region 5))
+    ==========
+        - Blue Yoki (dual swords)
+        - Gaki
+        - Skeleton Warrior
+        - Enki
+        - Blue Yoki (kusarigama)
+        - Namahage
+        - Rokurokubi
+        - Kappa
+        - Karasu Tengu
+        - Waira
+        - Nure-Onna
+        - Mujina
+        - Tatarimokke (boss)
+
+    ==========
+    Wings of the Phoenix (The Mausoleum of Evil | Dream Region (Region 6))
+    ==========
+        - Flying Bolt
+        - Red Kappa
+        - Spider
+        - Gaki
+        - Ubume
+        - Tesso
+        - Yamanba
+        - Mitsume Yazura
+        - Biwa Boku-Boku
+        - Infernal Oni-Bi
+        - Onyudo (lightning)
+        - Mujina
+        - Nurikabe
+        - Kappa
+        - Shuten Doji (boss)
+
+    ==========
+    Darkness Brewing (Shadows Creep In Kurama | The Tengu's Disciple (DLC 1))
+    ==========
+        - Bakegani
+        - Flying Bolt
+        - Revenant (kusarigama)
+        - Abbarant Soldier
+        - Nuppeppo
+        - Tesso
+        - Gaki
+        - Biwa Boku-Boku
+        - Kiryoki
+        - Ippon-Datara (odachi)
+        - Thunderstorm Oni-Bi
+        - Onyudo (lightning)
+        - Nurikabe
+        - Nue (boss)
+
+    ==========
+    The Mystery of Rashomon (The Blighted Gate | Darkness In The Capital (DLC 2))
+    ==========
+        - Abbarant Soldier
+        - Oboroguruma
+        - Kappa
+        - Spider
+        - Dweller
+        - Ubume
+        - Wheelmonk
+        - Skeleton Warrior
+        - Mujina
+        - Karasu Tengu
+        - Yasha
+        - Kiryoki
+        - Biwa Boku-Boku
+        - Tsuchigumo (boss)
+
+
+========== ========== ========== ========== ========== ========== ==========
 Dojo Missions:
 ========== ========== ========== ========== ========== ========== ==========
     ==========
@@ -218,184 +409,6 @@ Dojo Missions:
         - Onyudo (water)
         - Mitsume Yazura
         - Onryoki (boss)
-
-
-========== ========== ========== ========== ========== ========== ==========
-Twilight Missions:
-========== ========== ========== ========== ========== ========== ==========
-    ==========
-    The Violet Cherry Blossoms (The Village of Cursed Blossoms | Awakening Region (Region 1))
-    ==========
-        - Gaki
-        - Gozuki (boss)
-        - Enki
-        - Yoki
-        - Infernal Oni-Bi
-        - Maelstrom Oni-Bi
-        - Nure-Onna
-        - Abbarant Soldier
-        - Ippon-Datara
-        - Mezuki (boss)
-
-    ==========
-    Traces of the Raging Blaze (A Beast Born of Smoke and Flames | Awakening Region (Region 1))
-    ==========
-        - Yoki
-        - Skeleton Warrior
-        - Gaki
-        - Kappa
-        - Ippon-Datara
-        - Infernal Oni-Bi
-        - Enki
-        - Karakasa Umbrella
-        - Dweller
-        - Enenra (boss)
-
-    ==========
-    The Blood Tainted Samurai (Dark Omens | Awakening Region (Region 1))
-    ==========
-        - Enki
-        - Abbarant Soldier
-        - Gaki
-        - Revenant
-        - Yoki
-        - Ippon-Datara
-        - Biwa Boku-Boku
-        - Thunderstorm Oni-Bi
-        - Karasu Tengu
-
-    ==========
-    Blood on the Wind (The Mysterious One Night Castle | Soaring Region (Region 2))
-    ==========
-        - Yoki
-        - Abbarant Soldier
-        - Dweller
-        - Enki
-        - Gaki
-        - Skeleton Warrior
-        - Karasu Tengu
-        - Yamanba
-        - Karakasa Umbrella
-        - Lesser Umi-Bozu
-        - Nure-Onna
-        - Ippon-Datara
-        - Waira
-        - Red Kappa
-        - Biwa Boku-Boku
-        - Kamaitachi (boss)
-
-    ==========
-    The Cursed Castle Ruins (A Bird In A Cage | Shadow Region (Region 3))
-    ==========
-        - Tesso
-        - Dweller
-        - Spider
-        - Abbarant Soldier
-        - Rokurokubi
-        - Ninja Dog
-        - Warrior
-        - Yoki (axe)
-        - Namahage
-        - Yoki (sword)
-        - Waira
-        - Skeleton Warrior
-        - Toxic Slime
-        - Azai Nagamasa (boss)
-
-    ==========
-    The Defiled Sanctuary (The Golden Nation | Shadow Region (Region 3))
-    ==========
-        - Dweller
-        - Abbarant Soldier
-        - Tesso
-        - Gaki
-        - Ubume
-        - Ippon-Datara (odachi)
-        - Karakasa Umbrella
-        - One-Eyed Oni
-        - Nure-Onna
-        - Rokurokubi
-        - Kasha (boss)
-
-    ==========
-    Mountain of the Dark Lord (The Sun Sets on Mount Tenno | Dawn Region (Region 4))
-    ==========
-        - Nure-Onna
-        - Toxic Slime
-        - Skeleton Warrior
-        - Spider
-        - Mitsume Yazura
-        - Wheelmonk
-        - Tesso
-        - Rokurokubi
-        - Yoki (axe)
-        - Flying Bolt
-        - Ubume
-        - Gaki
-        - Nurikabe
-        - Red Kappa
-        - Onyudo (fire)
-        - Onyudo (lightning)
-        - Ryomen Sukuna (boss)
-
-    ==========
-    The Island of Monsters (Twilight Region (Region 5))
-    ==========
-        - Blue Yoki (dual swords)
-        - Gaki
-        - Skeleton Warrior
-        - Enki
-        - Blue Yoki (kusarigama)
-        - Namahage
-        - Rokurokubi
-        - Kappa
-        - Karasu Tengu
-        - Waira
-        - Nure-Onna
-        - Mujina
-        - Tatarimokke (boss)
-
-    ==========
-    Wings of the Phoenix (The Mausoleum of Evil | Dream Region (Region 6))
-    ==========
-        - Flying Bolt
-        - Red Kappa
-        - Spider
-        - Gaki
-        - Ubume
-        - Tesso
-        - Yamanba
-        - Mitsume Yazura
-        - Biwa Boku-Boku
-        - Infernal Oni-Bi
-        - Onyudo (lightning)
-        - Mujina
-        - Nurikabe
-        - Kappa
-        - Shuten Doji (boss)
-
-    ==========
-    Darkness Brewing (Shadows Creep In Kurama | The Tengu's Disciple (DLC 1))
-    ==========
-        - Bakegani
-        - Flying Bolt
-        - Revenant (kusarigama)
-        - Abbarant Soldier
-        - Nuppeppo
-        - Tesso
-        - Gaki
-        - Biwa Boku-Boku
-        - Kiryoki
-        - Ippon-Datara (odachi)
-        - Thunderstorm Oni-Bi
-        - Onyudo (lightning)
-        - Nurikabe
-        - Nue (boss)
-
-    ==========
-    The Mystery of Rashomon (The Blighted Gate | Darkness In The Capital (DLC 2))
-    ==========
-        - 
 
 
 ========== ========== ========== ========== ========== ========== ==========
