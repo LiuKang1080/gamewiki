@@ -2204,29 +2204,33 @@ Darkness In The Capital (DLC 2)
         - Flying Bolt
         - Yasha
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
-    Palace of the Damned (Sub Mission) lvl 134
+    Palace of the Damned (Sub Mission)
     ==========
+        - Quest Giver: Abe no Seimei
+        - Characters:
+            - 
+        --------------------
+        - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
