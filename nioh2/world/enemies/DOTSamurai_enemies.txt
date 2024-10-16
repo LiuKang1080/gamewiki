@@ -2141,7 +2141,7 @@ Darkness In The Capital (DLC 2)
         - Tesso
         - Gaki
         - Yasha (first time)
-        - Infernal Fox (first time)
+        - Infernal Fox Spirit (first time)
         - Tsuchigumo Ninja (claws) (first time)
         - Tsuchigumo Ninja (tonfas) (first time)
         - Nuppeppo
@@ -2199,7 +2199,7 @@ Darkness In The Capital (DLC 2)
         - Spider
         - Dweller
         - Tsuchigumo Ninja (dual swords)
-        - Infernal Fox
+        - Infernal Fox Spirit
         - Wheelmonk
         - Flying Bolt
         - Yasha
@@ -2209,8 +2209,20 @@ Darkness In The Capital (DLC 2)
     ==========
         - Quest Giver: Abe no Seimei
         - Characters:
-            - 
+            - Minamoto no Yorimitsu (NPC)
+            - Abe no Seimei (NPC)
         --------------------
+        - Bakegani
+        - Onmyo Mage
+        - Toxic Slime
+        - Oboroguruma
+        - Abbarant Soldier
+        - Skeleton Warrior
+        - Flying Bolt
+        - Yasha
+        - Hellish Hag (first time)
+        - Infernal Fox Spirit
+        - Kiryoki
         - 
 
 

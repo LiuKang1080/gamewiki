@@ -2983,7 +2983,7 @@ Darkness In The Capital (DLC 2)
             - None
 
     ==========
-    Palace of the Damned (Sub Mission) lvl 134
+    Palace of the Damned (Sub Mission)
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "The Blighted Gate"
@@ -2994,15 +2994,16 @@ Darkness In The Capital (DLC 2)
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 8
-        - Number of Sudama: 
+        - Number of Sudama: 1
         - Number of Hot Springs: 1
-        - Number of Dark Realms: 2 (0 required)
+        - Number of Dark Realms: 1 (0 required)
         - Bosses: 
             - 
         - Guardian Spirit Unlocked: 
             - 
         - Notable Items In Mission / Mission Rewards:
-            - X2 Hair Locks
+            - Ninja's Locks.
+            - Onmyo Mage's Locks.
 
 
 
