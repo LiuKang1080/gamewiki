@@ -4,8 +4,8 @@
 /* ========== ========== ========== ========== ==========
 Table of Contents JavaScript 
 ========== ========== ========== ========== ========== */
-function katana() {
-    let element = document.getElementById("katana");
+function sword() {
+    let element = document.getElementById("sword");
     element.scrollIntoView();
 }
 
