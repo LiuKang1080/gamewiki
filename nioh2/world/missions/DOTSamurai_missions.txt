@@ -209,7 +209,7 @@ Twilight Missions:
         - Shrine: Yes
         - Expedition: Yes
         - Number of Kodama: 0
-        - Number of Sudama: 2 (1 Big Sudama)
+        - Number of Sudama: 2 (1 big Sudama)
         - Number of Hot Springs: 1 (0 required)
         - Number of Dark Realms: 2 (0 required)
         - Bosses: 
@@ -2697,7 +2697,7 @@ The Tengu's Disciple (DLC 1)
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 6
-        - Number of Sudama: 2 (1 Big Sudama)
+        - Number of Sudama: 2 (1 big Sudama)
         - Number of Hot Springs: 1
         - Number of Dark Realms: 1 (0 required)
         - Bosses: 
@@ -2950,7 +2950,7 @@ Darkness In The Capital (DLC 2)
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 6
-        - Number of Sudama: 1 (1 Big Sudama)
+        - Number of Sudama: 1 (1 big Sudama)
         - Number of Hot Springs: 1
         - Number of Dark Realms: 3 (0 required)
         - Bosses: 
@@ -2994,18 +2994,99 @@ Darkness In The Capital (DLC 2)
         - Shrine: Yes
         - Torii Gate Expedition: Yes
         - Number of Kodama: 8
-        - Number of Sudama: 1
+        - Number of Sudama: 2 (1 big Sudama)
         - Number of Hot Springs: 1
-        - Number of Dark Realms: 1 (0 required)
+        - Number of Dark Realms: 2 (0 required)
         - Bosses: 
-            - 
+            - White Tiger
+            - Nue
+            - Ashiya Doman
+            - Lightning Gods of Yomi
         - Guardian Spirit Unlocked: 
-            - 
+            - Oh
+            - Ho-Oh
         - Notable Items In Mission / Mission Rewards:
             - Ninja's Locks.
             - Onmyo Mage's Locks.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ==========
+    Boundless Chaos (Sub Mission) - lvl 135
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Palace of the Damned"
+        --------------------
+
+    ==========
+    The Sweet Scent of Plums (Sub Mission) - lvl 136
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Palace of the Damned"
+            - Complete the mission: "Boundless Chaos"
+        --------------------
+
+    ==========
+    A Storm in the Underworld (Sub Mission) - lvl 138
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Palace of the Damned"
+            - Speak with Abe no Seimei in the Interim
+        --------------------
+
+    ==========
+    The Demon Slayers (Sub Mission) - lvl 
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Palace of the Damned"
+        --------------------
+
+    ==========
+    The Revelry Ends (Sub Mission) - lvl 139
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Palace of the Damned"
+            - Complete the mission: "A Storm in the Underworld"
+            - Speak with Minamoto no Yorimitsu in the Interim
+            - Complete the mission: "The Demon Slayers"
+        --------------------
+
+    ==========
+    The Dragon Clan (Sub Mission) - lvl 140
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Palace of the Damned"
+        --------------------
 
 
 

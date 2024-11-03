@@ -2211,6 +2211,9 @@ Darkness In The Capital (DLC 2)
         - Characters:
             - Minamoto no Yorimitsu (NPC)
             - Abe no Seimei (NPC)
+            - Ashiya Doman (Cutscenes)
+            - Abe no Seimei (Cutscenes, Ally)
+            - Minamoto no Yorimitsu (Cutscenes, Ally)
         --------------------
         - Bakegani
         - Onmyo Mage
@@ -2223,7 +2226,94 @@ Darkness In The Capital (DLC 2)
         - Hellish Hag (first time)
         - Infernal Fox Spirit
         - Kiryoki
-        - 
+        - Thunderstorm Fox Spirit (first time)
+        - Nurikabe
+        - White Tiger (boss) (first time)
+        - Underworld Soldier (first time)
+        - Nue (boss)
+        - Ashiya Doman (boss) (first time)
+        - Lightning Gods of Yomi (boss) (first time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ==========
+    Boundless Chaos (Sub Mission) - lvl 135
+    ==========
+        - Quest Giver: 
+        - Characters:
+            - 
+        --------------------
+
+    ==========
+    The Sweet Scent of Plums (Sub Mission) - lvl 136
+    ==========
+        - Quest Giver: 
+        - Characters:
+            - 
+        --------------------
+
+    ==========
+    A Storm in the Underworld (Sub Mission) - lvl 138
+    ==========
+        - Quest Giver: 
+        - Characters:
+            - 
+        --------------------
+
+    ==========
+    The Demon Slayers (Sub Mission) - lvl 
+    ==========
+        - Quest Giver: 
+        - Characters:
+            - 
+        --------------------
+
+    ==========
+    The Revelry Ends (Sub Mission) - lvl 139
+    ==========
+        - Quest Giver: 
+        - Characters:
+            - 
+        --------------------
+
+    ==========
+    The Dragon Clan (Sub Mission) - lvl 140
+    ==========
+        - Quest Giver: 
+        - Characters:
+            - 
+        --------------------
 
 
 
