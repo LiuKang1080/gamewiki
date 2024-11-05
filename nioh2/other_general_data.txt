@@ -50,6 +50,18 @@ Key Items
         - Key item obtained from a chest in the mission: The Lost Sword (Main Mission).
         - This item is given away to Minamoto no Yoshitsune upon completing this mission.
 
+    - Purifying Arrow [img complete]:
+        - Key item obtained during the mission: Boundless Chaos.
+        - This item is removed at the end of the mission.
+
+    - Large Baby Stone [img complete]:
+        - Key item obtained during the mission: Boundless Chaos.
+        - This item is removed at the end of the mission.
+
+    - Hand-Picked Plum Blossoms [img complete]:
+        - Key item obtained towards the end of the mission: The Sweet Scent of Plums.
+        - Item can be given to Fujiwara no Yasumasa at the end of the mission.
+
 
 ========== ========== ==========
 Proficiency 

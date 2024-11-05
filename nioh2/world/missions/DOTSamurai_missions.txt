@@ -3009,52 +3009,105 @@ Darkness In The Capital (DLC 2)
             - Ninja's Locks.
             - Onmyo Mage's Locks.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
-    Boundless Chaos (Sub Mission) - lvl 135
+    Boundless Chaos (Sub Mission)
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Palace of the Damned"
         --------------------
+        - Recommended level: 135
+        - Gold: 37,400
+        - Amrita: 134,776
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 1 (0 required)
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
 
     ==========
-    The Sweet Scent of Plums (Sub Mission) - lvl 136
+    The Sweet Scent of Plums (Sub Mission)
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Palace of the Damned"
             - Complete the mission: "Boundless Chaos"
         --------------------
+        - Recommended level: 136
+        - Gold: 37,800
+        - Amrita: 138,776
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 1 (0 required)
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Samurai's Locks (mission reward).
+
+    ==========
+    The Demon Slayers (Sub Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Palace of the Damned"
+            - Complete the mission: "The Sweet Scent of Plums"
+        --------------------
+        - Recommended level: 137
+        - Gold: 38,200
+        - Amrita: 142,776
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 1 (0 required)
+        - Number of Dark Realms: 1 (0 required)
+        - Bosses: 
+            - Watanabe no Tsuna
+            - Urabe no Suetake
+            - Fujiwara no Yasumasa
+            - Usui Sadamitsu
+            - Sakata Kintoki
+            - Minamoto no Yorimitsu
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
 
     ==========
     A Storm in the Underworld (Sub Mission) - lvl 138
@@ -3062,13 +3115,6 @@ Darkness In The Capital (DLC 2)
         - Mission Unlock Requirement:
             - Complete the mission: "Palace of the Damned"
             - Speak with Abe no Seimei in the Interim
-        --------------------
-
-    ==========
-    The Demon Slayers (Sub Mission) - lvl 
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Palace of the Damned"
         --------------------
 
     ==========

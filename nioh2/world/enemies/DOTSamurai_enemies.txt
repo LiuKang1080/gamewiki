@@ -2234,65 +2234,106 @@ Darkness In The Capital (DLC 2)
         - Ashiya Doman (boss) (first time)
         - Lightning Gods of Yomi (boss) (first time)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
-    Boundless Chaos (Sub Mission) - lvl 135
+    Boundless Chaos (Sub Mission)
     ==========
-        - Quest Giver: 
+        - Quest Giver: Abe no Seimei
         - Characters:
-            - 
+            - Urabe no Suetake (Ally)
         --------------------
+        - Dweller
+        - Hellish Hag
+        - Gaki
+        - Underworld Soldier
+        - Oboroguruma
+        - Kiryoki
+        - Onyudo (fire)
+        - Yoki (sword)
+        - Nuppeppo
+        - Skeleton Warrior
+        - One-Eyed Imp
+        - Ubume
+        - Infernal Oni-Bi
+        - Wheelmonk
 
     ==========
-    The Sweet Scent of Plums (Sub Mission) - lvl 136
+    The Sweet Scent of Plums (Sub Mission)
     ==========
-        - Quest Giver: 
+        - Quest Giver: Nekomata
         - Characters:
-            - 
+            - Fujiwara no Yasumasa (NPC, Ally)
         --------------------
+        - Sohaya Warrior (hatchets)
+        - Warrior
+        - Tsuchigumo Warrior (fists)
+        - Onmyo Mage
+        - Tsuchigumo Warrior (sword)
+        - Infernal Fox Spirit
+        - Maelstrom Oni-Bi
+        - Underworld Soldier
+        - Yasha
+        - Hellish Hag
+        - One-Eyed Imp
+        - Skeleton Warrior
+        - Abbarant Soldier
+        - Ubume
+        - Karakasa Umbrella
+        - Kiryoki
+        - Bakegani
+        - Oboroguruma
+
+    ==========
+    The Demon Slayers (Sub Mission)
+    ==========
+        - Quest Giver: Sakata Kintoki
+        - Characters:
+            - None
+        --------------------
+        - Warrior
+        - Sohaya Warrior (splitstaff)
+        - Watanabe no Tsuna (boss) (first time)
+        - Sohaya Warrior (fists)
+        - Urabe no Suetake (boss) (first time)
+        - Rokurokubi
+        - Skeleton Warrior
+        - Fujiwara no Yasumasa (boss) (first time)
+        - Usui Sadamitsu (boss) (first time)
+        - Sakata Kintoki (boss) (first time)
+        - Minamoto no Yorimitsu (boss)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
 
     ==========
     A Storm in the Underworld (Sub Mission) - lvl 138
-    ==========
-        - Quest Giver: 
-        - Characters:
-            - 
-        --------------------
-
-    ==========
-    The Demon Slayers (Sub Mission) - lvl 
     ==========
         - Quest Giver: 
         - Characters:
