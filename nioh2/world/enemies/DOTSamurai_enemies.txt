@@ -2367,40 +2367,57 @@ The First Samurai (DLC 3)
         - Waira
         - Tate Eboshi (boss) (first time)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
-    In Search of the Elixir (Sub Mission) - lvl 139
+    In Search of the Elixir (Sub Mission)
     ==========
-        - Quest Giver: 
+        - Quest Giver: Suzuka
         - Characters:
-            - 
+            - Izumo no Hirosada (NPC)
         --------------------
+        - Outlaw
+        - Sohaya Warrior (fists)
+        - Warrior (splitstaff)
+        - Sohaya Warrior (odachi)
+        - Tsuchigumo Ninja (kusarigama)
+        - Ninja Dog
+        - Rokurokubi
+        - Konaki-Jiji
+        - Dweller
+        - Bakegani
+        - Waira
+        - Nurikabe
+        - Onyudo (water)
+        - Abbarant Soldier
+        - Skeleton Warrior
+        - Gaki
+        - Tesso
+        - Toxic Slime
+        - Yatsu-no-Kami (boss)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     Words of Respite (Sub Mission) - lvl 140

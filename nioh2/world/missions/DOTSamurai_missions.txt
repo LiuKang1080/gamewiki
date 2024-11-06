@@ -3181,33 +3181,47 @@ The First Samurai (DLC 3)
             - Ninja's Locks.
             - Onmyo Mage's Locks.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
-    In Search of the Elixir (Sub Mission) - lvl 139
+    In Search of the Elixir (Sub Mission)
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Dawn of the Demon"
         --------------------
+        - Recommended level: 139
+        - Gold: 39,000
+        - Amrita: 150,776
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 6
+        - Number of Sudama: 1
+        - Number of Hot Springs: 2 
+        - Number of Dark Realms: 1 (0 required)
+        - Bosses: 
+            - Yatsu-no-Kami
+        - Guardian Spirit Unlocked: 
+            - Amabie
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
     ==========
     Words of Respite (Sub Mission) - lvl 140
