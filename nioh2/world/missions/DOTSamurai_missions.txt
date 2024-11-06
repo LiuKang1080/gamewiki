@@ -3068,7 +3068,7 @@ Darkness In The Capital (DLC 2)
         - Torii Gate Expedition: Yes
         - Number of Kodama: 0
         - Number of Sudama: 0
-        - Number of Hot Springs: 1 (0 required)
+        - Number of Hot Springs: 1
         - Number of Dark Realms: 1 (0 required)
         - Bosses: 
             - Watanabe no Tsuna
@@ -3154,6 +3154,32 @@ Darkness In The Capital (DLC 2)
             - Ninja's Locks (mission reward).
 
 
+========== ========== ========== ========== ==========
+The First Samurai (DLC 3)
+========== ========== ========== ========== ==========
+    ==========
+    Dawn of the Demon (Main Mission)
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "In The Eye of the Beholder"
+        --------------------
+        - Recommended level: 138
+        - Gold: 38,400
+        - Amrita: 144,776
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 10
+        - Number of Sudama: 2
+        - Number of Hot Springs: 1
+        - Number of Dark Realms: 2 (0 required)
+        - Bosses: 
+            - Ancient Otakemaru
+            - Tate Eboshi
+        - Guardian Spirit Unlocked: 
+            - Sohaya
+        - Notable Items In Mission / Mission Rewards:
+            - Ninja's Locks.
+            - Onmyo Mage's Locks.
 
 
 
@@ -3176,6 +3202,26 @@ Darkness In The Capital (DLC 2)
 
 
 
+    ==========
+    In Search of the Elixir (Sub Mission) - lvl 139
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Dawn of the Demon"
+        --------------------
+
+    ==========
+    Words of Respite (Sub Mission) - lvl 140
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Dawn of the Demon"
+        --------------------
+
+    ==========
+    A Distant Dream (Main Mission) - lvl 142
+    ==========
+        - Mission Unlock Requirement:
+            - Complete the mission: "Dawn of the Demon"
+        --------------------
 
 
 
@@ -3186,13 +3232,5 @@ Darkness In The Capital (DLC 2)
 
 
 
-
-
-
-
-
-
-
-    
 
 

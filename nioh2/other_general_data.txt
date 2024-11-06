@@ -62,6 +62,15 @@ Key Items
         - Key item obtained towards the end of the mission: The Sweet Scent of Plums.
         - Item can be given to Fujiwara no Yasumasa at the end of the mission.
 
+    - Village Gate Key [img complete]:
+        - Key item obtained during the mission: Dawn of the Demon.
+
+    - Grilled Tang Sweet [img complete]:
+        - Obtained in the following missions:
+            - Dawn of the Demon
+            - 
+            - 
+
 
 ========== ========== ==========
 Proficiency 

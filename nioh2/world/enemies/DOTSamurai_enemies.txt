@@ -2333,6 +2333,39 @@ Darkness In The Capital (DLC 2)
         - Ren Hayabusa (boss) (first time)
 
 
+========== ========== ========== ========== ==========
+The First Samurai (DLC 3)
+========== ========== ========== ========== ==========
+    ==========
+    Dawn of the Demon (Main Mission)
+    ==========
+        - Quest Giver: Protagonist
+        - Characters:
+            - Ancient Otakemaru (Cutscenes)
+            - Suzuka (Cutscenes, Ally)
+        --------------------
+        - Outlaw
+        - Revenant
+        - Skeleton Warrior
+        - Hellish Hag
+        - Gaki
+        - Nuppeppo
+        - Ninja Dog
+        - Underworld Soldier
+        - Konaki-Jiji (first time)
+        - Enki
+        - Mujina
+        - Ancient Otakemaru (boss) (first time)        
+        - Nure-Onna
+        - Bakegani
+        - Abbarant Soldier
+        - Nurikabe
+        - Lesser Umi-Bozu
+        - Karasu Tengu
+        - Lightning Fox Spirit
+        - Itsumade (first time)
+        - Waira
+        - Tate Eboshi (boss) (first time)
 
 
 
@@ -2350,15 +2383,6 @@ Darkness In The Capital (DLC 2)
 
 
 
-    
-
-    
-
-    
-
-    
-
-    
 
 
 
@@ -2369,6 +2393,30 @@ Darkness In The Capital (DLC 2)
 
 
 
+
+    ==========
+    In Search of the Elixir (Sub Mission) - lvl 139
+    ==========
+        - Quest Giver: 
+        - Characters:
+            - 
+        --------------------
+
+    ==========
+    Words of Respite (Sub Mission) - lvl 140
+    ==========
+        - Quest Giver: 
+        - Characters:
+            - 
+        --------------------
+
+    ==========
+    A Distant Dream (Main Mission) - lvl 142
+    ==========
+        - Quest Giver: 
+        - Characters:
+            - 
+        --------------------
 
 
 
