@@ -1,6 +1,14 @@
 ========== ========== ==========
 Key Items
 ========== ========== ==========
+    - Village Cemetery Key [img complete]:
+        - Key item obtained at the beginning of the mission: The Village of Cursed Blossoms.
+        - Key item is removed upon completing the mission.
+
+    - Inner Shrine Key [img complete]:
+        - Key item obtained at the beginning of the mission: The Village of Cursed Blossoms.
+        - Key item is removed upon completing the mission.
+
     - Commendation From Katsuie [img complete]:
         - Ally and help Shibata Katsuie in the mission: The Shiftling's Wise Judgement (Sub Mission).
 
