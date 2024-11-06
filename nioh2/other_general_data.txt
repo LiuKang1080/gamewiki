@@ -110,3 +110,13 @@ Other Notes
     - The First Samurai (DLC 3) is unlocked after completing the Main Mission In the Eye of the Beholder.
 
     - Palace of the Damned | number of Fire Altars: 5
+
+    - Spirit Stone rarity drops depending on difficulty:
+        Dream of the Samurai (NG):
+            - Small Spirit Stone
+            - Spirit Stone
+            - Large Spirit Stone
+            - Lumicite Fragment
+            - Lumicite Shard
+            - Lumicite Crystal
+            - Embercite Crystal (mission reward: The Revelry Ends)

@@ -3082,43 +3082,32 @@ Darkness In The Capital (DLC 2)
         - Notable Items In Mission / Mission Rewards:
             - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-
     ==========
-    A Storm in the Underworld (Sub Mission) - lvl 138
+    A Storm in the Underworld (Sub Mission)
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Palace of the Damned"
             - Speak with Abe no Seimei in the Interim
         --------------------
+        - Recommended level: 138
+        - Gold: 85,000
+        - Amrita: 152,776
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Ashiya Doman
+            - Lightning Gods of Yomi
+        - Guardian Spirit Unlocked: 
+            - Janomecho
+        - Notable Items In Mission / Mission Rewards:
+            - Onmyo Mage's Locks (mission reward).
 
     ==========
-    The Revelry Ends (Sub Mission) - lvl 139
+    The Revelry Ends (Sub Mission)
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Palace of the Damned"
@@ -3126,13 +3115,67 @@ Darkness In The Capital (DLC 2)
             - Speak with Minamoto no Yorimitsu in the Interim
             - Complete the mission: "The Demon Slayers"
         --------------------
+        - Recommended level: 139
+        - Gold: 38,600
+        - Amrita: 146,776
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Shuten Doji
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
 
     ==========
-    The Dragon Clan (Sub Mission) - lvl 140
+    The Dragon Clan (Sub Mission)
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Palace of the Damned"
         --------------------
+        - Recommended level: 140
+        - Gold: 39,800
+        - Amrita: 158,776
+        - Shrine: No
+        - Torii Gate Expedition: No
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Ren Hayabusa
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Ninja's Locks (mission reward).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

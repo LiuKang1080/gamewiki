@@ -2301,14 +2301,36 @@ Darkness In The Capital (DLC 2)
         - Sakata Kintoki (boss) (first time)
         - Minamoto no Yorimitsu (boss)
 
+    ==========
+    A Storm in the Underworld (Sub Mission)
+    ==========
+        - Quest Giver: Abe no Seimei
+        - Characters:
+            - Taira no Korehira (NPC, Ally)
+        --------------------
+        - Hellish Hag
+        - Bakegani
+        - Underworld Soldier
+        - Ashiya Doman (boss)
+        - Lightning Gods of Yomi (boss)
 
+    ==========
+    The Revelry Ends (Sub Mission)
+    ==========
+        - Quest Giver: Minamoto no Yorimitsu
+        - Characters:
+            - Minamoto no Yorimitsu (Ally)
+        --------------------
+        - Shuten Doji (boss)
 
-
-
-
-
-
-
+    ==========
+    The Dragon Clan (Sub Mission)
+    ==========
+        - Quest Giver: Nekomata
+        - Characters:
+            - None
+        --------------------
+        - Ren Hayabusa (boss) (first time)
 
 
 
@@ -2332,29 +2354,11 @@ Darkness In The Capital (DLC 2)
 
     
 
-    ==========
-    A Storm in the Underworld (Sub Mission) - lvl 138
-    ==========
-        - Quest Giver: 
-        - Characters:
-            - 
-        --------------------
+    
 
-    ==========
-    The Revelry Ends (Sub Mission) - lvl 139
-    ==========
-        - Quest Giver: 
-        - Characters:
-            - 
-        --------------------
+    
 
-    ==========
-    The Dragon Clan (Sub Mission) - lvl 140
-    ==========
-        - Quest Giver: 
-        - Characters:
-            - 
-        --------------------
+    
 
 
 
