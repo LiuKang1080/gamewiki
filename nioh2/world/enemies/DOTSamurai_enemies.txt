@@ -427,8 +427,10 @@ Awakening Region (Region 1)
         - Gaki (first time)
         - Gozuki (boss) (first time)
         - Enki (first time)
-        - Outlaw (first time)
-        - Rouge (first time)
+        - Outlaw (bow) (first time)
+        - Outlaw (spear) (first time)
+        - Outlaw (sword) (first time)
+        - Rouge (axe) (first time)
         - Yoki (sword) (first time)
         - Mezuki (boss) (first time)
 
@@ -439,8 +441,11 @@ Awakening Region (Region 1)
         - Characters:
             - Tokichiro (NPC)
         --------------------
-        - Outlaw
-        - Rouge
+        - Outlaw (sword)
+        - Rouge (axe)
+        - Rouge (spear) (first time)
+        - Outlaw (bow)
+        - Rouge (dual swords)
         - Gaki
         - Enki
 
