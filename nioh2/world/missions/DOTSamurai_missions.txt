@@ -3203,32 +3203,46 @@ The First Samurai (DLC 3)
         - Notable Items In Mission / Mission Rewards:
             - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
     ==========
-    Words of Respite (Sub Mission) - lvl 140
+    Words of Respite (Sub Mission)
     ==========
         - Mission Unlock Requirement:
             - Complete the mission: "Dawn of the Demon"
         --------------------
+        - Recommended level: 140
+        - Gold: 39,400
+        - Amrita: 154,776
+        - Shrine: Yes
+        - Torii Gate Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0 
+        - Number of Dark Realms: 1 (0 required)
+        - Bosses: 
+            - None
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     A Distant Dream (Main Mission) - lvl 142

@@ -2394,38 +2394,53 @@ The First Samurai (DLC 3)
         - Toxic Slime
         - Yatsu-no-Kami (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
-    Words of Respite (Sub Mission) - lvl 140
+    Words of Respite (Sub Mission)
     ==========
-        - Quest Giver: 
+        - Quest Giver: Suzuka
         - Characters:
-            - 
+            - Kukai (NPC)
         --------------------
+        - Warrior (spear)
+        - Warrior (sword)
+        - Warrior (bow)
+        - Warrior (axe)
+        - Rokurokubi
+        - Namahage
+        - Abbarant Soldier
+        - Kiryoki
+        - Dweller
+        - Spider
+        - Gaki
+        - Nuppeppo
+        - Oboroguruma
+        - Harinobo (first time)
+        - Itsumade
+        - Hellish Hag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
     ==========
     A Distant Dream (Main Mission) - lvl 142

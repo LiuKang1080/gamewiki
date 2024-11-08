@@ -1,13 +1,12 @@
 ========== ========== ==========
 Key Items
 ========== ========== ==========
-    - Village Cemetery Key [img complete]:
-        - Key item obtained at the beginning of the mission: The Village of Cursed Blossoms.
-        - Key item is removed upon completing the mission.
+    - Ame-no-Murakumo Tsurugi [img complete]:
+        - Key item obtained from a chest in the mission: The Lost Sword (Main Mission).
+        - This item is given away to Minamoto no Yoshitsune upon completing this mission.
 
-    - Inner Shrine Key [img complete]:
-        - Key item obtained at the beginning of the mission: The Village of Cursed Blossoms.
-        - Key item is removed upon completing the mission.
+    - Cherry Blossom Chapbook [img complete]:
+        - Complete the mission: The Scented Letter (Sub Mission).
 
     - Commendation From Katsuie [img complete]:
         - Ally and help Shibata Katsuie in the mission: The Shiftling's Wise Judgement (Sub Mission).
@@ -18,18 +17,56 @@ Key Items
     - Foreign Necklace [img complete]:
         - Complete the mission: A Formal Match (Sub Mission).
 
+    - Grand Master's Brush I - IV [img complete]:
+        - There are 4 Grand Master's Brushes spread across the mission: Words of Respite. All 4 key items are given away to
+            Kukai at the end of the mission.
+
+    - Grilled Tang Sweet [img complete]:
+        - Obtained in the following missions:
+            - Dawn of the Demon.
+            - In Search of the Elixir.
+            - A Distant Dream.
+
+    - Handmade Doll [img complete]:
+        - Defeat Ryomen Sukuna in the mission: Restoring Harmony (Sub Mission).
+
     - Harakiri Sword [img complete]:
         - Pick up item during the mission: The Village of Cursed Blossoms (Main Mission).
 
-    - Kagatsuchi's Magatama [========== TODO ==========]:
+    - Incendiary Longbow Arrow [img complete]:
+        - There are a total of 3 Longbow Arrows in the mission: A Song to Calm the Storm (Main Mission).
+
+    - Inner Shrine Key [img complete]:
+        - Key item obtained at the beginning of the mission: The Village of Cursed Blossoms.
+        - Key item is removed upon completing the mission.
+
+    - Kagatsuchi's Magatama [img complete]:
         - Complete the missions:
             - A Favor for the Blacksmith (Sub Mission).
             - The Burning Sky (Sub Mission).
             - Calling on the Fire God (Sub Mission).
         - Kagatsuchi's Magatamas are given away to the Blacksmith when clicking on the Forge option.
 
+    - Large Baby Stone [img complete]:
+        - Key item obtained during the mission: Boundless Chaos.
+        - This item is removed at the end of the mission.
+
+    - Plum Blossoms / Hand-Picked Plum Blossoms [img complete]:
+        - Key item obtained towards the end of the mission: The Sweet Scent of Plums.
+        - Item can be given to Fujiwara no Yasumasa at the end of the mission.
+
+    - Purifying Arrow [img complete]:
+        - Key item obtained during the mission: Boundless Chaos.
+        - This item is removed at the end of the mission.
+
     - Repaired Hiragumo Kettle [img complete]:
         - Complete the mission: Scattered Fragments (Sub Mission).
+
+    - Saigyo's Poems 1 - III [img complete]:
+        - Obtained in the following missions:
+            - A Song to Calm the Storm.
+            - Eternal Rivals.
+            - Shadows Creep in Kurama.
 
     - Spirit Stone Hairpin [img complete]:
         - Obtained at the end of the mission "The Dream's End" after defeating Kasha.
@@ -42,42 +79,15 @@ Key Items
         - Obtained at the end of the mission "An Error in Calculation" in a Treasure Chest.
         - This item is given away to Maeda Toshiie upon completing this mission.
 
-    - Wooden Kannon Sculpture [img complete]:
-        - Complete the mission: The Tiger Approaches (Sub Mission).
-
-    - Handmade Doll [img complete]:
-        - Defeat Ryomen Sukuna in the mission: Restoring Harmony (Sub Mission).
-
-    - Cherry Blossom Chapbook [img complete]:
-        - Complete the mission: The Scented Letter (Sub Mission).
-
-    - Incendiary Longbow Arrow [img complete]:
-        - There are a total of 3 Longbow Arrows in the mission: A Song to Calm the Storm (Main Mission).
-
-    - Ame-no-Murakumo Tsurugi [img complete]:
-        - Key item obtained from a chest in the mission: The Lost Sword (Main Mission).
-        - This item is given away to Minamoto no Yoshitsune upon completing this mission.
-
-    - Purifying Arrow [img complete]:
-        - Key item obtained during the mission: Boundless Chaos.
-        - This item is removed at the end of the mission.
-
-    - Large Baby Stone [img complete]:
-        - Key item obtained during the mission: Boundless Chaos.
-        - This item is removed at the end of the mission.
-
-    - Hand-Picked Plum Blossoms [img complete]:
-        - Key item obtained towards the end of the mission: The Sweet Scent of Plums.
-        - Item can be given to Fujiwara no Yasumasa at the end of the mission.
+    - Village Cemetery Key [img complete]:
+        - Key item obtained at the beginning of the mission: The Village of Cursed Blossoms.
+        - Key item is removed upon completing the mission.
 
     - Village Gate Key [img complete]:
         - Key item obtained during the mission: Dawn of the Demon.
 
-    - Grilled Tang Sweet [img complete]:
-        - Obtained in the following missions:
-            - Dawn of the Demon
-            - 
-            - 
+    - Wooden Kannon Sculpture [img complete]:
+        - Complete the mission: The Tiger Approaches (Sub Mission).
 
 
 ========== ========== ==========
