@@ -9,6 +9,19 @@
 
 
 ========== ========== ========== ========== ========== ========== ==========
+Notes:
+========== ========== ========== ========== ========== ========== ==========
+    - For all of the missions the enemy type Outlaw and Rouge will be combined into a single enemy type due to the fact that
+        they have similar behaviour. The difference in their behaviour depends on the type of the weapon those enemies are using.
+    - Both the Outlaw and Rouge will be combined into the enemy type Rouge.
+    - Warriors come in both large and small types. Both types are generally heavily armored. The small warrior enemies behave the
+        same as Outlaws and Rouges.
+    - Warriors of the smaller type will be grouped with the Outlaws and Rouges. All of these enemies types will be considered as
+        Rouges.
+    - The larger Warrior enemy type will be considered as a Warrior.
+
+
+========== ========== ========== ========== ========== ========== ==========
 Twilight Missions:
 ========== ========== ========== ========== ========== ========== ==========
     ==========
@@ -420,17 +433,17 @@ Awakening Region (Region 1)
     ==========
     The Village of Cursed Blossoms (Main Mission)
     ==========
-        - Quest Giver: Player
+        - Quest Giver: Protagonist
         - Characters:
             - Tokichiro (Cutscenes)
         --------------------
         - Gaki (first time)
         - Gozuki (boss) (first time)
         - Enki (first time)
-        - Outlaw (bow) (first time)
-        - Outlaw (spear) (first time)
-        - Outlaw (sword) (first time)
-        - Rouge (axe) (first time)
+        - Rouge (bow) (first time)
+        - Rouge (spear) (first time)
+        - Rouge (sword) (first time)
+        - Warrior (axe) (first time)
         - Yoki (sword) (first time)
         - Mezuki (boss) (first time)
 
@@ -441,11 +454,11 @@ Awakening Region (Region 1)
         - Characters:
             - Tokichiro (NPC)
         --------------------
-        - Outlaw (sword)
+        - Rouge (sword)
         - Rouge (axe)
-        - Rouge (spear) (first time)
-        - Outlaw (bow)
-        - Rouge (dual swords)
+        - Rouge (spear)
+        - Rouge (bow)
+        - Warrior (dual swords)
         - Gaki
         - Enki
 
@@ -459,8 +472,12 @@ Awakening Region (Region 1)
             - Senji Toyo (NPC)
             - Mumyo (Cutscenes)
         --------------------
-        - Outlaw
-        - Rouge
+        - Rouge (sword)
+        - Warrior (sword) (first time)
+        - Rouge (spear)
+        - Rouge (bow)
+        - Warrior (spear) (first time)
+        - Warrior (odachi) (first time)
         - Ippon-Datara (hammer) (first time)
         - Gaki
         - Sohaya Warrior (hatchets) (first time)
