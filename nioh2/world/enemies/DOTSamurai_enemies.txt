@@ -9,19 +9,6 @@
 
 
 ========== ========== ========== ========== ========== ========== ==========
-Notes:
-========== ========== ========== ========== ========== ========== ==========
-    - For all of the missions the enemy type Outlaw and Rouge will be combined into a single enemy type due to the fact that
-        they have similar behaviour. The difference in their behaviour depends on the type of the weapon those enemies are using.
-    - Both the Outlaw and Rouge will be combined into the enemy type Rouge.
-    - Warriors come in both large and small types. Both types are generally heavily armored. The small warrior enemies behave the
-        same as Outlaws and Rouges.
-    - Warriors of the smaller type will be grouped with the Outlaws and Rouges. All of these enemies types will be considered as
-        Rouges.
-    - The larger Warrior enemy type will be considered as a Warrior.
-
-
-========== ========== ========== ========== ========== ========== ==========
 Twilight Missions:
 ========== ========== ========== ========== ========== ========== ==========
     ==========
@@ -440,9 +427,9 @@ Awakening Region (Region 1)
         - Gaki (first time)
         - Gozuki (boss) (first time)
         - Enki (first time)
-        - Rouge (bow) (first time)
-        - Rouge (spear) (first time)
-        - Rouge (sword) (first time)
+        - Rogue (bow) (first time)
+        - Rogue (spear) (first time)
+        - Rogue (sword) (first time)
         - Warrior (axe) (first time)
         - Yoki (sword) (first time)
         - Mezuki (boss) (first time)
@@ -454,10 +441,10 @@ Awakening Region (Region 1)
         - Characters:
             - Tokichiro (NPC)
         --------------------
-        - Rouge (sword)
-        - Rouge (axe)
-        - Rouge (spear)
-        - Rouge (bow)
+        - Rogue (sword)
+        - Rogue (axe)
+        - Rogue (spear)
+        - Rogue (bow)
         - Warrior (dual swords)
         - Gaki
         - Enki
@@ -472,10 +459,10 @@ Awakening Region (Region 1)
             - Senji Toyo (NPC)
             - Mumyo (Cutscenes)
         --------------------
-        - Rouge (sword)
+        - Rogue (sword)
         - Warrior (sword) (first time)
-        - Rouge (spear)
-        - Rouge (bow)
+        - Rogue (spear)
+        - Rogue (bow)
         - Warrior (spear) (first time)
         - Warrior (odachi) (first time)
         - Ippon-Datara (hammer) (first time)
@@ -512,7 +499,7 @@ Awakening Region (Region 1)
             - None
         --------------------
         - Outlaw
-        - Rouge
+        - Rogue
         - Abbarant Soldier (first time)
         - Enki
         - Gaki
@@ -711,7 +698,7 @@ Soaring Region (Region 2)
             - Maeda Toshiie (Ally)
         --------------------
         - Warrior
-        - Rouge
+        - Rogue
         - Ippon-Datara (odachi)
         - Gaki
         - Dweller
@@ -837,7 +824,7 @@ Shadow Region (Region 3)
             - Matsunaga Hisahide (Cutscenes)
         --------------------
         - Ninja Dog (first time)
-        - Rouge
+        - Rogue
         - Warrior
         - Gaki
         - Skeleton Warrior
@@ -858,7 +845,7 @@ Shadow Region (Region 3)
         - Characters:
             - None
         --------------------
-        - Rouge
+        - Rogue
         - Warrior
         - Gaki
         - Yamanba
@@ -885,7 +872,7 @@ Shadow Region (Region 3)
         - One-Eyed Oni
         - Gaki
         - Koroka
-        - Rouge
+        - Rogue
         - Warrior
         - Karakasa Umbrella
         - Maelstrom Oni-Bi
@@ -901,7 +888,7 @@ Shadow Region (Region 3)
         --------------------
         - Sohaya Warrior (axe) (first time)
         - Sohaya Warrior (hatchets)
-        - Rouge
+        - Rogue
         - Warrior
         - Ninja Dog
         - Sohaya Warrior (odachi) (first time)
@@ -1121,7 +1108,7 @@ Shadow Region (Region 3)
         - Characters: 
             - Takenaka Hanbei (NPC)
         --------------------
-        - Rouge
+        - Rogue
         - Sohaya Warrior (switchglaive)
         - Dog
         - Sohaya Warrior (odachi)
@@ -1180,7 +1167,7 @@ Dawn Region (Region 4)
             - None
         --------------------
         - Saika Clan
-        - Rouge
+        - Rogue
         - Ninja Dog
         - Kosuzume (Human Saika Warrior) (first time)
         - Tesso
@@ -2183,7 +2170,7 @@ Darkness In The Capital (DLC 2)
             - Usui Sadamitsu (NPC)
         --------------------
         - Warrior
-        - Rouge
+        - Rogue
         - Tsuchigumo Ninja (tonfas)
         - One-Eyed Imp
         - Oboroguruma
