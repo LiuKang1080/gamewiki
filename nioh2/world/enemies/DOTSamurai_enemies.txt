@@ -427,12 +427,57 @@ Awakening Region (Region 1)
         - Gaki (first time)
         - Gozuki (boss) (first time)
         - Enki (first time)
-        - Outlaw (bow) (first time)
+        - Outlaw (bow, sowrd) (first time)
         - Outlaw (spear) (first time)
         - Rouge (axe) (first time)
         - Outlaw (sword) (first time)
         - Yoki (sword) (first time)
         - Mezuki (boss) (first time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     The Forest Veiled in Darkness (Sub Mission)
