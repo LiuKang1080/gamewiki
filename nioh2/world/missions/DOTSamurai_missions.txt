@@ -17,7 +17,13 @@
             - 
         - Guardian Spirit Unlocked: 
             - 
-        - Notable Items In Mission / Mission Rewards: 
+        - Mission Rewards: 
+            First Time:
+            -
+            ----------
+            Subsequent Completes:
+            - 
+        - Notable Items In Mission:
             - 
 
 

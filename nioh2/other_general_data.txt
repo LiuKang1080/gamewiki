@@ -98,7 +98,6 @@ Proficiency
         - Ninjutsu and Onmyo: LVL 50
         - Shiftling: LVL 70
 
-
     ========== ========== ==========
     Test the other difficulties
     ========== ========== ==========
@@ -118,32 +117,93 @@ Proficiency
         - Shiftling: LVL 90
 
 
-========== ========== ==========
+========== ========== ========== ========== ==========
 Other Notes
+========== ========== ========== ========== ==========
 ========== ========== ==========
+Dream of the Samurai (NG) Notes:
+========== ========== ==========
+    - The weapon specific Hair Locks that are rewarded in the weapon specific Dojo Missions grant 2 Skill Points for that weapon.
     - Defeating Otakemaru in the mission: In The Eye of the Beholder will drop 1 of each melee and ranged weapon type in Divine
         rarity. Dream of the Samurai (NG) difficulty. These weapons will always be corrupted weapons.
-    - Defeating Otakemaru in the mission: In The Eye of the Beholder on Dream of the Strong and above (on every difficulty) for
-        the first time will guaranteed drop a Yasakani Magatama. (Credits: Oolong Tea)
     - Only Divine and Ethreal rarity armor contains Familiarity.
     - Divine Umbracite unlocks at the Blacksmith after completing the mission: In The Eye of the Beholder.
-
-    - The weapon specific Hair Locks that are rewarded in the weapon specific Dojo Missions grant 2 Skill Points.
-
     - Stone of Penance is unlocked after completing the Main Mission In the Eye of the Beholder.
     - The Builds feature is unlocked after completing the Main Mission In the Eye of the Beholder.
     - The Tengu's Disciple (DLC 1) is unlocked after completing the Main Mission In the Eye of the Beholder.
     - Darkness in the Capital (DLC 2) is unlocked after completing the Main Mission In the Eye of the Beholder.
     - The First Samurai (DLC 3) is unlocked after completing the Main Mission In the Eye of the Beholder.
 
-    - Palace of the Damned | number of Fire Altars: 5
+    - Palace of the Damned | number of Fire Altars: 5.
 
     - Spirit Stone rarity drops depending on difficulty:
-        Dream of the Samurai (NG):
-            - Small Spirit Stone
-            - Spirit Stone
-            - Large Spirit Stone
-            - Lumicite Fragment
-            - Lumicite Shard
-            - Lumicite Crystal
-            - Embercite Crystal (mission reward: The Revelry Ends)
+    Spirit Stones that drop on Dream of the Samurai (NG):
+        - Small Spirit Stone [new]
+        - Spirit Stone [new]
+        - Large Spirit Stone [new]
+        - Lumicite Fragment [new]
+        - Lumicite Shard [new]
+        - Lumicite Crystal [new]
+        - Embercite Crystal [new] (mission reward: The Revelry Ends) (DLC 2 and onward on Dream of the Samurai difficulty)
+
+    - Maximum gear level: 150 - 160.
+    - Maximum gear + level: +10.
+
+========== ========== ==========
+Dream of the Strong (NG+1) Notes:
+========== ========== ==========
+    - Defeating Otakemaru in the mission: In The Eye of the Beholder on Dream of the Strong and above (on every difficulty) for
+        the first time will guaranteed drop a Yasakani Magatama. (Credits: Oolong Tea)
+    - Gain access to the Stone of Penance.
+    - Gain access to Demon Parade Picture Scrolls.
+    - Obtain the Smithing Text: Kodama Bowl upon completing all Main and Side missions on Dream of the Strong.
+    - Maximum gear level: 160 - 170.
+    - Maximum gear + level: +10.
+
+========== ========== ==========
+Dream of the Demon (NG+2) Notes:
+========== ========== ==========
+    - Requires The Tengu's Disciple (DLC 1).
+    - Gain acess to Divine Soul Cores. Maximum level of Soul Core Rank is now 20, from 10.
+    - Enemies can now have their weapon imbued with Poison or Paralysis.
+    - Enemies can have the Curse of the Demon buff
+        - +60% more HP for enemies
+        - -10% damage taken for enemies
+        - Both of these buffs cannot be removed in any way. (Credits: Fat Valentine)
+
+    - All bosses have Curse of the Demon.
+    - Gain access to Silibar Ingots. (Store Amrita)
+    - Gain access to Scroll of the Demon Picture Scrolls.
+    - Obtain the Smiting Text: Scampuss Hat upon completing all Main and Side missions on Dream of the Demon.
+    - Maximum gear level: 170 - 180.
+    - Maximum gear + level: +20.
+
+========== ========== ==========
+Dream of the Wise (NG+3) Notes:
+========== ========== ==========
+    - Requires Darkness in the Capital (DLC 2).
+    - Gain access to Ethreal rarity gear.
+    - Character Stats can now go above 99 up to a maximum of 200
+    - Enemies can have the Curse of the Wise buff:
+        - Contains all of the stats from Curse of the Demon
+        - Enemies have more Ki damage
+        - Enemies restore HP upon successfully hitting the player.
+
+    - Gain access to Scroll of the Wise Picture Scrolls.
+    - Obtain the Smithing text: Sudama Skull upon completing all Main and Side missions on Dream of the Wise.
+    - Gain access to Dream of the Nioh and The Underworld upon completing In the Eye of the Beholder on Dream of the Wise.
+    - Maximum gear level: 180 - 190.
+    - Maximum gear + level: +30.
+
+========== ========== ==========
+Dream of the Nioh (NG+4) Notes:
+========== ========== ==========
+    - Requires The First Samurai (DLC 3).
+    - Gain access to Ethreal Soul Cores. Maximum level of Soul Core Rank is now 30, from 20.
+    - Cursed Enemies gain passive health recovery.
+    - Obtain the Smithing Text: Mumyo's Mask upon completing all Main and Side missions on Dream of the Nioh.
+    - Maximum gear level: 190 - 200.
+    - Maximum gear + level: +120.
+
+[Credits:]
+    - Lef
