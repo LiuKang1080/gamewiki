@@ -120,6 +120,14 @@ Proficiency
 ========== ========== ========== ========== ==========
 Other Notes
 ========== ========== ========== ========== ==========
+Gear Rarity:
+    - Common (white)
+    - Uncommon (yellow)
+    - Rare (blue)
+    - Exotic (purple)
+    - Divine (green)
+    - Ethreal (orange)
+
 ========== ========== ==========
 Dream of the Samurai (NG) Notes:
 ========== ========== ==========
@@ -156,7 +164,7 @@ Dream of the Strong (NG+1) Notes:
         the first time will guaranteed drop a Yasakani Magatama. (Credits: Oolong Tea)
     - Gain access to the Stone of Penance.
     - Gain access to Demon Parade Picture Scrolls.
-    - Obtain the Smithing Text: Kodama Bowl upon completing all Main and Side missions on Dream of the Strong.
+    - Obtain the Smithing Text: Kodama Bowl upon completing all Main and Sub missions on Dream of the Strong.
     - Maximum gear level: 160 - 170.
     - Maximum gear + level: +10.
 
@@ -174,7 +182,7 @@ Dream of the Demon (NG+2) Notes:
     - All bosses have Curse of the Demon.
     - Gain access to Silibar Ingots. (Store Amrita)
     - Gain access to Scroll of the Demon Picture Scrolls.
-    - Obtain the Smiting Text: Scampuss Hat upon completing all Main and Side missions on Dream of the Demon.
+    - Obtain the Smiting Text: Scampuss Hat upon completing all Main and Sub missions on Dream of the Demon.
     - Maximum gear level: 170 - 180.
     - Maximum gear + level: +20.
 
@@ -190,8 +198,8 @@ Dream of the Wise (NG+3) Notes:
         - Enemies restore HP upon successfully hitting the player.
 
     - Gain access to Scroll of the Wise Picture Scrolls.
-    - Obtain the Smithing text: Sudama Skull upon completing all Main and Side missions on Dream of the Wise.
     - Gain access to Dream of the Nioh and The Underworld upon completing In the Eye of the Beholder on Dream of the Wise.
+    - Obtain the Smithing text: Sudama Skull upon completing all Main and Sub missions on Dream of the Wise.
     - Maximum gear level: 180 - 190.
     - Maximum gear + level: +30.
 
@@ -201,7 +209,7 @@ Dream of the Nioh (NG+4) Notes:
     - Requires The First Samurai (DLC 3).
     - Gain access to Ethreal Soul Cores. Maximum level of Soul Core Rank is now 30, from 20.
     - Cursed Enemies gain passive health recovery.
-    - Obtain the Smithing Text: Mumyo's Mask upon completing all Main and Side missions on Dream of the Nioh.
+    - Obtain the Smithing Text: Mumyo's Mask upon completing all Main and Sub missions on Dream of the Nioh.
     - Maximum gear level: 190 - 200.
     - Maximum gear + level: +120.
 

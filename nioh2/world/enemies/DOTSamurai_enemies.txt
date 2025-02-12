@@ -434,51 +434,6 @@ Awakening Region (Region 1)
         - Yoki (sword) (first time)
         - Mezuki (boss) (first time)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ==========
     The Forest Veiled in Darkness (Sub Mission)
     ==========
@@ -493,6 +448,40 @@ Awakening Region (Region 1)
         - Rouge (dual swords) (first time)
         - Gaki
         - Enki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     The Beast Born of Smoke and Flames (Main Mission)

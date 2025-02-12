@@ -18,10 +18,10 @@
         - Guardian Spirit Unlocked: 
             - 
         - Mission Rewards: 
-            First Time:
-            -
-            ----------
-            Subsequent Completes:
+        First Time:
+            - 
+        ---------- ---------- ----------
+        Subsequent Completes:
             - 
         - Notable Items In Mission:
             - 
@@ -744,7 +744,19 @@ Awakening Region (Region 1)
             - Mezuki
         - Guardian Spirit Unlocked: 
             - Masaru
-        - Notable Items In Mission / Mission Rewards:
+        - Mission Rewards: 
+        First Time:
+            - Longbow (uncommon)
+            - Sacred Arrow x4
+            - High-Quality Leather Platelet x3
+            - Red Spider Lily x1
+        ---------- ---------- ----------
+        Subsequent Completes:
+            - Blood-Encrusted Sawtooth x1
+            - Warped Jawbone x1
+            - Quality Leather Platelet x3
+            - Quality Leather Cord x3
+        - Notable Items In Mission:
             - Samurai Skill points (in level).
 
     ==========
@@ -766,8 +778,57 @@ Awakening Region (Region 1)
             - None
         - Guardian Spirit Unlocked: 
             - None
-        - Notable Items In Mission / Mission Rewards:
+        - Mission Rewards: 
+        First Time:
+            - Small Spirit Stone x2
+            - Yokai Incense x1
+            - Mountain Bandit Hatchets (rare)
+        ---------- ---------- ----------
+        Subsequent Completes:
+            - Night Raider Cuirass (uncommon)
+            - Night Raider Waistguard (uncommon)
+            - Quality Wood x3
+            - Quality Lacquer x2
+        - Notable Items In Mission:
             - Unlocks the Manage Soul Core option at the Shrine after beating mission.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     The Beast Born of Smoke and Flames (Main Mission)
