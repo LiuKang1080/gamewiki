@@ -414,102 +414,105 @@ Dojo Missions:
 ========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
 ========== ========== ========== ========== ========== ========== ==========
-========== ========== ========== ========== ==========
+========== ========== ========== ========== ========== ========== ==========
 Awakening Region (Region 1)
-========== ========== ========== ========== ==========
-    ==========
-    The Village of Cursed Blossoms (Main Mission)
-    ==========
-        - Quest Giver: Protagonist
-        - Characters:
-            - Tokichiro (Cutscenes)
-        --------------------
-        - Gaki (first time)
-        - Gozuki (boss) (first time)
-        - Enki (first time)
-        - Outlaw (bow, sowrd) (first time)
-        - Outlaw (spear) (first time)
-        - Rouge (axe) (first time)
-        - Outlaw (sword) (first time)
-        - Yoki (sword) (first time)
-        - Mezuki (boss) (first time)
+========== ========== ========== ========== ========== ========== ==========
+==========
+The Village of Cursed Blossoms (Main Mission)
+==========
+    - Quest Giver: Protagonist
+    - Characters:
+        - Tokichiro (Cutscenes)
+    --------------------
+    - Gaki (first time)
+    - Gozuki (boss) (first time)
+    - Enki (first time)
+    - Outlaw (bow, sowrd) (first time)
+    - Outlaw (spear) (first time)
+    - Rogue (big) (axe) (first time)
+    - Outlaw (sword) (first time)
+    - Yoki (sword) (first time)
+    - Mezuki (boss) (first time)
 
-    ==========
-    The Forest Veiled in Darkness (Sub Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters:
-            - Tokichiro (NPC)
-        --------------------
-        - Outlaw (sword)
-        - Rouge (axe)
-        - Rouge (spear) (first time)
-        - Outlaw (bow)
-        - Rouge (dual swords) (first time)
-        - Gaki
-        - Enki
+==========
+The Forest Veiled in Darkness (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Tokichiro (NPC)
+    --------------------
+    - Outlaw (sword)
+    - Rogue (axe)
+    - Rogue (spear) (first time)
+    - Outlaw (bow)
+    - Rogue (big) (dual swords) (first time)
+    - Gaki
+    - Enki
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+==========
+The Beast Born of Smoke and Flames (Main Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Tokichiro (Cutscenes, NPC)
+        - Saito Dosan (Cutscenes)
+        - Senji Toyo (NPC)
+        - Mumyo (Cutscenes)
+    --------------------
+    - Outlaw (sword)
+    - Rogue (big) (sword) (first time)
+    - Outlaw (spear)
+    - Rogue (big) (spear) (first time)
+    - Rogue (big) (odachi) (first time)
+    - Outlaw (bow, sword)
+    - Outlaw (bow)
+    - Ippon-Datara (hammer) (first time)
+    - Gaki
+    - Sohaya Warrior (hatchets) (first time)
+    - Yoki (sword)
+    - Enki
+    - Dweller (first time)
+    - Mujina (first time)
+    - Ippon-Datara (odachi) (first time)
+    - Rogue (bow, sword) (first time)
+    - Nurikabe (first time)
+    - Skeleton Warrior (bow) (first time)
+    - Enenra (boss) (first time)
 
 
 
-    ==========
-    The Beast Born of Smoke and Flames (Main Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters:
-            - Tokichiro (Cutscenes, NPC)
-            - Saito Dosan (Cutscenes)
-            - Senji Toyo (NPC)
-            - Mumyo (Cutscenes)
-        --------------------
-        - Rogue (sword)
-        - Warrior (sword) (first time)
-        - Rogue (spear)
-        - Rogue (bow)
-        - Warrior (spear) (first time)
-        - Warrior (odachi) (first time)
-        - Ippon-Datara (hammer) (first time)
-        - Gaki
-        - Sohaya Warrior (hatchets) (first time)
-        - Yoki (sword)
-        - Enki
-        - Dweller (first time)
-        - Mujina (first time)
-        - Ippon-Datara (odachi) (first time)
-        - Nurikabe (first time)
-        - Skeleton Warrior (first time)
-        - Enenra (boss) (first time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     A Voice in the Twilight (Sub Mission)

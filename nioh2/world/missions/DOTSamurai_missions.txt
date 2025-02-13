@@ -1,29 +1,30 @@
-    ==========
-    TEMPLATE ()
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "".
-        --------------------
-        - Recommended level: 
-        - Gold: 
-        - Amrita: 
-        - Shrine: 
-        - Torii Gate Expedition: 
-        - Number of Kodama: 
-        - Number of Sudama: 
-        - Number of Hot Springs: 
-        - Number of Dark Realms: 
-        - Bosses: 
-            - 
-        - Guardian Spirit Unlocked: 
-            - 
-        - Mission Rewards: 
+==========
+TEMPLATE ()
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "".
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
         First Time:
             - 
         ---------- ---------- ----------
         Subsequent Completes:
             - 
-        - Notable Items In Mission:
+        ---------- ---------- ----------
+        Notable Items During / Post Mission:
             - 
 
 
@@ -721,30 +722,30 @@ Dojo Missions:
 ========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
 ========== ========== ========== ========== ========== ========== ==========
-========== ========== ========== ========== ==========
+========== ========== ========== ========== ========== ========== ==========
 Awakening Region (Region 1)
-========== ========== ========== ========== ==========
-    ==========
-    The Village of Cursed Blossoms (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - None, mission unlocked by default.
-        --------------------
-        - Recommended level: 1
-        - Gold: 2,800
-        - Amrita: 1,200
-        - Shrine: Yes
-        - Expedition: Yes
-        - Number of Kodama: 7
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 1
-        - Bosses: 
-            - Gozuki
-            - Mezuki
-        - Guardian Spirit Unlocked: 
-            - Masaru
-        - Mission Rewards: 
+========== ========== ========== ========== ========== ========== ==========
+==========
+The Village of Cursed Blossoms (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - None, mission unlocked by default.
+    --------------------
+    - Recommended level: 1
+    - Gold: 2,800
+    - Amrita: 1,200
+    - Shrine: Yes
+    - Expedition: Yes
+    - Number of Kodama: 7
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1
+    - Bosses: 
+        - Gozuki
+        - Mezuki
+    - Guardian Spirit Unlocked: 
+        - Masaru
+    - Mission Rewards: 
         First Time:
             - Longbow (uncommon)
             - Sacred Arrow x4
@@ -756,106 +757,121 @@ Awakening Region (Region 1)
             - Warped Jawbone x1
             - Quality Leather Platelet x3
             - Quality Leather Cord x3
-        - Notable Items In Mission:
-            - Samurai Skill points (in level).
+        ---------- ---------- ----------
+        Notable Items During / Post Mission:
+            - Gain Samurai Skill points in level.
 
-    ==========
-    The Forest Veiled in Darkness (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Village of Cursed Blossoms".
-        --------------------
-        - Recommended level: 9
-        - Gold: 3,800
-        - Amrita: 1,440
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 2
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Mission Rewards: 
+==========
+The Forest Veiled in Darkness (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Village of Cursed Blossoms".
+    --------------------
+    - Recommended level: 9
+    - Gold: 3,800
+    - Amrita: 1,440
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 2
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
         First Time:
             - Small Spirit Stone x2
             - Yokai Incense x1
             - Mountain Bandit Hatchets (rare)
         ---------- ---------- ----------
         Subsequent Completes:
-            - Night Raider Cuirass (uncommon)
-            - Night Raider Waistguard (uncommon)
+            - Night Raider Cuirass (uncommon) (chest)
+            - Night Raider Waistguard (uncommon) (legs)
             - Quality Wood x3
             - Quality Lacquer x2
-        - Notable Items In Mission:
+        ---------- ---------- ----------
+        Notable Items During / Post Mission:
             - Unlocks the Manage Soul Core option at the Shrine after beating mission.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    The Beast Born of Smoke and Flames (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Village of Cursed Blossoms".
-        --------------------
-        - Recommended level: 10
-        - Gold: 4,200
-        - Amrita: 1,568
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 7
-        - Number of Sudama: 1
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 2
-        - Bosses: 
-            - Enenra
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
+==========
+The Beast Born of Smoke and Flames (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Village of Cursed Blossoms".
+    --------------------
+    - Recommended level: 10
+    - Gold: 4,200
+    - Amrita: 1,568
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 7
+    - Number of Sudama: 1
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 2
+    - Bosses: 
+        - Enenra
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+        First Time:
+            - Highest Quality Tamahagane x3
+            - Highest Quality Ingot x3
+            - Highest Quality Iron Platelet x3
+        ---------- ---------- ----------
+        Subsequent Completes:
+            - Ippon-Datara Fang x1
+            - High-Quality Tamahagane x2
+            - Quality Ingot x2
+            - Quality Iron Platelet x2
+        ---------- ---------- ----------
+        Notable Items During / Post Mission:
             - Ninja's Locks.
             - Onmyo Mage's Locks.
-            - Unlocks the Blacksmith option at the Starting Point after beating mission.
-            - Unlocks the Dojo mission: "The Way of the Warrior: Novice" after beating mission.
+            - Gain Samurai Skill point in level.
             - Unlocks Agyo Titles after beating mission.
             - Unlocks Ungyo Titles after beating mission.
+            - Unlocks the Blacksmith option at the Starting Point after beating mission.
+            - Unlocks the Dojo mission: "The Way of the Warrior: Novice" after beating mission.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     A Voice in the Twilight (Sub Mission)
@@ -995,9 +1011,9 @@ Awakening Region (Region 1)
             - None
 
 
-========== ========== ========== ========== ==========
+========== ========== ========== ========== ========== ========== ==========
 Soaring Region (Region 2)
-========== ========== ========== ========== ==========
+========== ========== ========== ========== ========== ========== ==========
     ==========
     The Hidden Monsters of Okehazama (Main Mission)
     ==========
@@ -1273,9 +1289,9 @@ Soaring Region (Region 2)
             - None
 
 
-========== ========== ========== ========== ==========
+========== ========== ========== ========== ========== ========== ==========
 Shadow Region (Region 3)
-========== ========== ========== ========== ==========
+========== ========== ========== ========== ========== ========== ==========
     ==========
     A Way Out (Main Mission)
     ==========
