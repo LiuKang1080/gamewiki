@@ -252,25 +252,33 @@ Twilight Missions:
 ========== ========== ========== ========== ========== ========== ==========
 Dojo Missions:
 ========== ========== ========== ========== ========== ========== ==========
-    ==========
-    The Way of the Warrior: Novice (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Beast Born of Smoke and Flames".
-        --------------------
-        - Recommended level: 35
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
+==========
+The Way of the Warrior: Novice (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Beast Born of Smoke and Flames".
+    --------------------
+    - Recommended level: 35
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+        First Time:
+            - Samurai's Locks x1
+            - Wooden Sword (rare)
+        ---------- ---------- ----------
+        Subsequent Completes:
+            - Wooden Sword (uncommon)
+        ---------- ---------- ----------
+        Notable Items During / Post Mission:
             - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Samurai's Locks.
 
     ==========
     The Way of the Ninja: Novice (Dojo Mission)
@@ -835,114 +843,155 @@ The Beast Born of Smoke and Flames (Main Mission)
             - Unlocks the Blacksmith option at the Starting Point after beating mission.
             - Unlocks the Dojo mission: "The Way of the Warrior: Novice" after beating mission.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    A Voice in the Twilight (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Beast Born of Smoke and Flames".
-        --------------------
-        - Recommended level: 20
-        - Gold: 4,800
-        - Amrita: 1,760
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Gozuki
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
+==========
+A Voice in the Twilight (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Beast Born of Smoke and Flames".
+    --------------------
+    - Recommended level: 20
+    - Gold: 4,800
+    - Amrita: 1,760
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Gozuki
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+        First Time:
+            - Clay Bell of Beckoning x1
+            - Summoner's Candle x1
+            - Bandit Axe (rare)
+            - Demon's Horn x1
+        ---------- ---------- ----------
+        Subsequent Completes:
+            - Clay Bell of Beckoning x1
+            - Demon's Horn x1
+            - Divine Branch x1
+            - Signpost Amulet x2
+        ---------- ---------- ----------
+        Notable Items During / Post Mission:
             - None
 
-    ==========
-    Dark Omens (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Beast Born of Smoke and Flames".
-        --------------------
-        - Recommended level: 21
-        - Gold: 5,200
-        - Amrita: 1,920
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 3
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
+==========
+Dark Omens (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Beast Born of Smoke and Flames".
+    --------------------
+    - Recommended level: 21
+    - Gold: 5,200
+    - Amrita: 1,920
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 3
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+        First Time:
+            - Sacred Ash x1
+            - Small Spirit Stone x3
+            - Genin's Kusarigama (rare)
+            - Brawler's Waistguard (rare)
+        ---------- ---------- ----------
+        Subsequent Completes:
+            - Brawler's Cuirass (uncommon)
+            - Brawler's Greaves (uncommon)
+            - Brawler's Helmet (rare)
+            - Small Spirit Stone x1
+        ---------- ---------- ----------
+        Notable Items During / Post Mission:
             - Onmyo Mage's Locks.
             - Ninja's Locks.
 
-    ==========
-    The Viper's Sanctum (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Beast Born of Smoke and Flames".
-        --------------------
-        - Recommended level: 24
-        - Gold: 5,600
-        - Amrita: 2,080
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 6
-        - Number of Sudama: 2
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 3
-        - Bosses: 
-            - Yatsu-no-Kami
-        - Guardian Spirit Unlocked: 
-            - Shirohami
-        - Notable Items In Mission / Mission Rewards:
+==========
+The Viper's Sanctum (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Beast Born of Smoke and Flames".
+    --------------------
+    - Recommended level: 24
+    - Gold: 5,600
+    - Amrita: 2,080
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 6
+    - Number of Sudama: 2
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 3
+    - Bosses: 
+        - Yatsu-no-Kami
+    - Guardian Spirit Unlocked: 
+        - Shirohami
+    - Mission Rewards: 
+        First Time:
+            - Shinto Priest's Hunting Garb (rare)
+            - Shinto Priest's Hakama (rare)
+            - Tanegashima Matchlock (rare)
+            - Roaring Gun Ammunition x4
+        ---------- ---------- ----------
+        Subsequent Completes:
+            - Bladed Horn x1
+            - Glowing Lock of Wet Hair x1
+            - Shinto Priest's Headgear
+            - Poison Pearl x1
+        ---------- ---------- ----------
+        Notable Items During / Post Mission:
             - Onmyo Mage's Locks.
             - Ninja's Locks.
             - Unlocks Twilight Missions after beating level.
             - Unlocks the Dojo mission: "The Way of the Ninja: Novice" after beating level.
             - Unlocks the Dojo mission: "The Way of the Onmyo: Novice" after beating level.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+            
 
     ==========
     A Favor for the Blacksmith (Sub Mission)

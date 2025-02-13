@@ -202,14 +202,14 @@ Twilight Missions:
 ========== ========== ========== ========== ========== ========== ==========
 Dojo Missions:
 ========== ========== ========== ========== ========== ========== ==========
-    ==========
-    The Way of the Warrior: Novice (Dojo Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters:
-            - Tsukahara Bokuden (NPC)
-        --------------------
-        - Outlaw
+==========
+The Way of the Warrior: Novice (Dojo Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Tsukahara Bokuden (NPC)
+    --------------------
+    - Outlaw (sword)
 
     ==========
     The Way of the Ninja: Novice (Dojo Mission)
@@ -479,6 +479,69 @@ The Beast Born of Smoke and Flames (Main Mission)
     - Skeleton Warrior (bow) (first time)
     - Enenra (boss) (first time)
 
+==========
+A Voice in the Twilight (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - None
+    --------------------
+    - Gaki
+    - Infernal Oni-Bi (first time)
+    - Yoki (sword)
+    - Enki
+    - Thunderstorm Oni-Bi (first time)
+    - Gozuki (boss)
+
+==========
+Dark Omens (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - None
+    --------------------
+    - Outlaw (spear)
+    - Outlaw (axe)
+    - Rogue (sword)
+    - Rogue (rifle, sword)
+    - Outlaw (bow, sword)
+    - Outlaw (rifle, sword)
+    - Rogue (big) (axe)
+    - Abbarant Soldier (first time)
+    - Enki
+    - Gaki
+    - One-Eyed Oni (first time)
+    - Sohaya Warrior (hatchets)
+    - Rogue (big) (odachi)
+    - Yoki (sword)
+    - Karasu Tengu (first time)
+
+==========
+The Viper's Sanctum (Main Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Tokichiro (NPC)
+        - Saito Dosan (Cutscenes)
+        - Mumyo (Cutscenes)
+    --------------------
+    - Gaki
+    - Warrior (sword) (first time)
+    - Warrior (spear) (first time)
+    - Warrior (axe) (first time)
+    - Warrior (big) (spear) (first time)
+    - Ninja (sword) (first time)
+    - Yoki (axe) (first time)
+    - Sohaya Warrior (hatchets)
+    - Abbarant Soldier
+    - Nure-Onna (first time)
+    - Nurikabe
+    - Yoki (sword)
+    - Enki
+    - Warrior (bow, sword)
+    - Toxic Slime (first time)
+    - Ippon-Datara (hammer)
+    - Yatsu-no-Kami (boss) (first time)
 
 
 
@@ -509,64 +572,11 @@ The Beast Born of Smoke and Flames (Main Mission)
 
 
 
+    
+
+    
 
 
-
-
-
-    ==========
-    A Voice in the Twilight (Sub Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters:
-            - None
-        --------------------
-        - Gaki
-        - Infernal Oni-Bi (first time)
-        - Yoki (sword)
-        - Enki
-        - Thunderstorm Oni-Bi (first time)
-        - Gozuki (boss)
-
-    ==========
-    Dark Omens (Sub Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters:
-            - None
-        --------------------
-        - Outlaw
-        - Rogue
-        - Abbarant Soldier (first time)
-        - Enki
-        - Gaki
-        - One-Eyed Oni (first time)
-        - Sohaya Warrior
-        - Yoki (sword)
-        - Karasu Tengu (first time)
-
-    ==========
-    The Viper's Sanctum (Main Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters:
-            - Tokichiro (NPC)
-            - Saito Dosan (Cutscenes)
-            - Mumyo (Cutscenes)
-        --------------------
-        - Warrior (first time)
-        - Ninja (first time)
-        - Gaki
-        - Yoki (axe) (first time)
-        - Sohaya Warrior (hatchets)
-        - Abbarant Soldier
-        - Nure-Onna (first time)
-        - Nurikabe
-        - Yoki (sword)
-        - Enki
-        - Toxic Slime (first time)
-        - Ippon-Datara (hammer)
-        - Yatsu-no-Kami (boss) (first time)
 
     ==========
     A Favor for the Blacksmith (Sub Mission)
