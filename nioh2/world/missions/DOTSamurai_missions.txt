@@ -953,67 +953,80 @@ The Viper's Sanctum (Main Mission)
             - Unlocks the Dojo mission: "The Way of the Ninja: Novice" after beating level.
             - Unlocks the Dojo mission: "The Way of the Onmyo: Novice" after beating level.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-            
-
-    ==========
-    A Favor for the Blacksmith (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Viper's Sanctum".
-        --------------------
-        - Recommended level: 30
-        - Gold: 6,200
-        - Amrita: 2,352
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
+==========
+A Favor for the Blacksmith (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Viper's Sanctum".
+    --------------------
+    - Recommended level: 30
+    - Gold: 6,200
+    - Amrita: 2,352
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+        First Time:
+            - Kobizen Odachi (rare)
+            - Bronze Hammer (rare)
+            - Officer's Spear (rare)
+            - Retainer's Tonfa (rare)
+        ---------- ---------- ----------
+        Subsequent Completes:
+            - Martial Artist's Switchglaive
+            - Seki Dual Tachi (dual swords)
+            - Naked Steel Kusarigama
+            - Bizen Osafune (sword)
+        ---------- ---------- ----------
+        Notable Items During / Post Mission:
             - Kagatsuchi Magatama (Mission Reward - Increases the average rarity of uncommon+ forged items by 1%).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     The Search (Sub Mission)

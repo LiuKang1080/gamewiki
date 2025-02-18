@@ -543,6 +543,22 @@ The Viper's Sanctum (Main Mission)
     - Ippon-Datara (hammer)
     - Yatsu-no-Kami (boss) (first time)
 
+==========
+A Favor for the Blacksmith (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Mumyo (Ally)
+    --------------------
+    - Dweller
+    - Lesser Umi-Bozu (first time)
+    - Gaki
+    - Yoki (sword)
+    - Ippon-Datara (hammer)
+    - Wheelmonk (first time)
+    - Rogue (big) (odachi)
+    - Outlaw (bow, sword)
+    - Rogue (big) (dual swords)
 
 
 
@@ -572,27 +588,12 @@ The Viper's Sanctum (Main Mission)
 
 
 
-    
-
-    
 
 
 
-    ==========
-    A Favor for the Blacksmith (Sub Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters:
-            - Mumyo (Ally)
-        --------------------
-        - Dweller
-        - Lesser Umi-Bozu (first time)
-        - Gaki
-        - Yoki (sword)
-        - Ippon-Datara (hammer)
-        - Wheelmonk (first time)
-        - Warrior
-        - Outlaw
+
+
+
 
     ==========
     The Search (Sub Mission)
