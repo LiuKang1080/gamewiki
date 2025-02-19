@@ -25,19 +25,24 @@ Twilight Missions:
         - Ippon-Datara
         - Mezuki (boss)
 
-    ==========
-    Traces of the Raging Blaze (A Beast Born of Smoke and Flames | Awakening Region (Region 1))
-    ==========
-        - Yoki
-        - Skeleton Warrior
-        - Gaki
-        - Kappa
-        - Ippon-Datara
-        - Infernal Oni-Bi
-        - Enki
-        - Karakasa Umbrella
-        - Dweller
-        - Enenra (boss)
+==========
+Traces of the Raging Blaze (A Beast Born of Smoke and Flames | Awakening Region (Region 1))
+==========
+    - Yoki (sword)
+    - Skeleton Warrior (spear)
+    - Skeleton Warrior (sword)
+    - Gaki
+    - Kappa
+    - Ippon-Datara (hammer)
+    - Skeleton Warrior (rifle, sword)
+    - Infernal Oni-Bi
+    - Enki
+    - Karakasa Umbrella
+    - Dweller
+    - Mujina
+    - Yoki (axe)
+    - Skeleton Warrior (cannon, sword)
+    - Enenra (boss)
 
     ==========
     The Blood Tainted Samurai (Dark Omens | Awakening Region (Region 1))
@@ -476,7 +481,7 @@ The Beast Born of Smoke and Flames (Main Mission)
     - Ippon-Datara (odachi) (first time)
     - Rogue (bow, sword) (first time)
     - Nurikabe (first time)
-    - Skeleton Warrior (bow) (first time)
+    - Skeleton Warrior (bow, sword) (first time)
     - Enenra (boss) (first time)
 
 ==========
@@ -570,6 +575,17 @@ A Favor for the Blacksmith (Sub Mission)
 
 
 
+==========
+The Search (Sub Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters:
+        - Tokichiro (NPC)
+    --------------------
+    - Gaki
+    - Ippon-Datara (odachi)
+    - Nure-Onna
+    - Enki
 
 
 
@@ -595,17 +611,17 @@ A Favor for the Blacksmith (Sub Mission)
 
 
 
-    ==========
-    The Search (Sub Mission)
-    ==========
-        - Quest Giver: Mumyo
-        - Characters:
-            - Tokichiro (NPC)
-        --------------------
-        - Gaki
-        - Ippon-Datara (odachi)
-        - Nure-Onna
-        - Enki
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     The Greedy Hunter (Sub Mission)

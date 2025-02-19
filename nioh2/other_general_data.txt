@@ -46,6 +46,9 @@ Key Items
             - The Burning Sky (Sub Mission).
             - Calling on the Fire God (Sub Mission).
         - Kagatsuchi's Magatamas are given away to the Blacksmith when clicking on the Forge option.
+        - Increases the average rarity of uncommon+ forged items by 1%.
+        - Ex: When you use all purple-quality materials the chance of a purple item is 33% base + 1 - 2% per Kagatsuchi's
+            Magatama collected. Other rarities proportionally decrease.
 
     - Large Baby Stone [img complete]:
         - Key item obtained during the mission: Boundless Chaos.
