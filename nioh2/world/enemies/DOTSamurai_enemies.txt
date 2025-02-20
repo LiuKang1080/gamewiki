@@ -44,18 +44,23 @@ Traces of the Raging Blaze (A Beast Born of Smoke and Flames | Awakening Region 
     - Skeleton Warrior (cannon, sword)
     - Enenra (boss)
 
-    ==========
-    The Blood Tainted Samurai (Dark Omens | Awakening Region (Region 1))
-    ==========
-        - Enki
-        - Abbarant Soldier
-        - Gaki
-        - Revenant
-        - Yoki
-        - Ippon-Datara
-        - Biwa Boku-Boku
-        - Thunderstorm Oni-Bi
-        - Karasu Tengu
+==========
+The Blood Tainted Samurai (Dark Omens | Awakening Region (Region 1))
+==========
+    - Enki
+    - Abbarant Soldier
+    - Gaki
+    - Revenant (spear)
+    - Revenant (hammer)
+    - Yoki (axe)
+    - Ippon-Datara (hammer)
+    - Dweller
+    - Skeleton Warrior (bow, sword)
+    - Skeleton Warrior (spear)
+    - Biwa Boku-Boku
+    - Thunderstorm Oni-Bi
+    - Yoki (sword)
+    - Karasu Tengu
 
     ==========
     Blood on the Wind (The Mysterious One Night Castle | Soaring Region (Region 2))

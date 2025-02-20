@@ -127,6 +127,40 @@ Traces of the Raging Blaze
         Notable Items During / Post Mission:
             - None
 
+==========
+The Blood Tainted Samurai
+==========
+    - Mission Unlock Requirement:
+        - Dark Omens (Awakening Region | Region 1).
+    --------------------
+    - Recommended level: 39
+    - Gold: 23,400 / 7,800
+    - Amrita: 9,600 / 3,200
+    - Shrine: Yes
+    - Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+        First Time:
+            - Quality Umbracite x1
+            - Small Spirit Stone x3
+            - Karasu Tengu Feather X1
+            - Sacred Ash x1
+        ---------- ---------- ----------
+        Subsequent Completes:
+            - Small Spirit Stone x2
+            - Sacred Ash x1
+            - Karasu Tengu Feather x1
+        ---------- ---------- ----------
+        Notable Items During / Post Mission:
+            - None
+
     ==========
     The Defiled Sanctuary
     ==========
