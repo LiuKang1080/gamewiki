@@ -1035,16 +1035,6 @@ A Favor for the Blacksmith (Sub Mission)
         Notable Items During / Post Mission:
             - Kagatsuchi Magatama (Mission Reward - Increases the average rarity of uncommon+ forged items by 1%).
 
-
-
-
-
-
-
-
-
-
-
 ==========
 The Search (Sub Mission)
 ==========
@@ -1066,71 +1056,95 @@ The Search (Sub Mission)
         - None
     - Mission Rewards: 
         First Time:
-            - 
+            - Kodama Bowl (rare)
+            - Possessed Kodama Bowl x1
         ---------- ---------- ----------
         Subsequent Completes:
-            - 
+            - Quality Leather Cord x3
+            - Possessed Kodama Bowl x2
+            - Quality Leather Platelet x3
+            - Signpost Amulet x2
         ---------- ---------- ----------
         Notable Items During / Post Mission:
             - Smithing Text: Possessed Kodama Bowl.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    The Greedy Hunter (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Viper's Sanctum".
-        --------------------
-        - Recommended level: 34
-        - Gold: 7,000
-        - Amrita: 2,752
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
+==========
+The Greedy Hunter (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Viper's Sanctum".
+    --------------------
+    - Recommended level: 34
+    - Gold: 7,000
+    - Amrita: 2,752
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+        First Time:
+            - Gyosha Hand Axe (rare)
+            - Seven Scalp Switchglaive (rare)
+            - Sohaya Garb Faceplate (uncommon)
+            - Enki Pelt x2
+        ---------- ---------- ----------
+        Subsequent Completes:
+            - Enki Pelt x1
+            - Skeletal Warrior's Sacrum x1
+            - Warped Jawbone x1
+        ---------- ---------- ----------
+        Notable Items During / Post Mission:
             - None
 
 
 ========== ========== ========== ========== ========== ========== ==========
 Soaring Region (Region 2)
 ========== ========== ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     ==========
     The Hidden Monsters of Okehazama (Main Mission)
     ==========

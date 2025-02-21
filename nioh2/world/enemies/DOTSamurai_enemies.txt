@@ -511,7 +511,7 @@ Dark Omens (Sub Mission)
         - None
     --------------------
     - Outlaw (spear)
-    - Outlaw (axe)
+    - Outlaw (axe) (first time)
     - Rogue (sword)
     - Rogue (rifle, sword)
     - Outlaw (bow, sword)
@@ -570,16 +570,6 @@ A Favor for the Blacksmith (Sub Mission)
     - Outlaw (bow, sword)
     - Rogue (big) (dual swords)
 
-
-
-
-
-
-
-
-
-
-
 ==========
 The Search (Sub Mission)
 ==========
@@ -592,62 +582,67 @@ The Search (Sub Mission)
     - Nure-Onna
     - Enki
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    The Greedy Hunter (Sub Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters:
-            - None
-        --------------------
-        - Outlaw
-        - Enki
-        - Gaki
-        - Nure-Onna
-        - Abbarant Soldier
-        - Yoki (axe)
-        - Yoki (sword)
-        - Sohaya Warrior (switchglaive)
+==========
+The Greedy Hunter (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - None
+    --------------------
+    - Outlaw (dual swords)
+    - Outlaw (sword)
+    - Outlaw (bow, sword)
+    - Outlaw (axe)
+    - Enki
+    - Gaki
+    - Nure-Onna
+    - Abbarant Soldier
+    - Yoki (axe)
+    - Yoki (sword)
+    - Sohaya Warrior (switchglaive)
 
 
 ========== ========== ========== ========== ==========
 Soaring Region (Region 2)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     ==========
     The Hidden Monsters of Okehazama (Main Mission)
     ==========
