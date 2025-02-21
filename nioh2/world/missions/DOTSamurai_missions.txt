@@ -69,28 +69,41 @@ Other Notes:
 ========== ========== ========== ========== ========== ========== ==========
 Twilight Missions:
 ========== ========== ========== ========== ========== ========== ==========
-    ==========
-    The Violet Cherry Blossoms
-    ==========
-        - Mission Unlock Requirement:
-            - The Village of Cursed Blossoms (Awakening Region | Region 1).
-        --------------------
-        - Recommended level: 20
-        - Gold: 14,400
-        - Amrita: 5,280
-        - Shrine: Yes
-        - Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 1
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 2 (0 required)
-        - Bosses: 
-            - Gozuki
-            - Mezuki
-        - Guardian Spirit Unlocked: 
+==========
+The Violet Cherry Blossoms
+==========
+    - Mission Unlock Requirement:
+        - The Village of Cursed Blossoms (Awakening Region | Region 1).
+    --------------------
+    - Recommended level: 20
+    - Gold: 14,400 / 4,800
+    - Amrita: 5,280 / 1,760
+    - Shrine: Yes
+    - Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 3
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 2 (0 required)
+    - Bosses: 
+        - Gozuki
+        - Mezuki
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+        First Time:
+            - Quality Umbracite x1
+            - Sacred Arrow x4
+            - Highest Quality Leather Platelet x2
+            - Highest Leather Cord x2
+        ---------- ---------- ----------
+        Subsequent Completes:
+            - Blood-Encrusted Sawtooth x1
+            - Enki Pelt x1
+            - Highest Quality Leather Platelet x1
+            - Highest Leather Cord x1
+        ---------- ---------- ----------
+        Notable Items During / Post Mission:
             - None
-        - Notable Items In Mission / Mission Rewards:
-            - Quality Umbracite x1 (mission reward).
 
 ==========
 Traces of the Raging Blaze

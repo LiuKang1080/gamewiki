@@ -11,19 +11,20 @@
 ========== ========== ========== ========== ========== ========== ==========
 Twilight Missions:
 ========== ========== ========== ========== ========== ========== ==========
-    ==========
-    The Violet Cherry Blossoms (The Village of Cursed Blossoms | Awakening Region (Region 1))
-    ==========
-        - Gaki
-        - Gozuki (boss)
-        - Enki
-        - Yoki
-        - Infernal Oni-Bi
-        - Maelstrom Oni-Bi
-        - Nure-Onna
-        - Abbarant Soldier
-        - Ippon-Datara
-        - Mezuki (boss)
+==========
+The Violet Cherry Blossoms (The Village of Cursed Blossoms | Awakening Region (Region 1))
+==========
+    - Gaki
+    - Gozuki (boss)
+    - Enki
+    - Yoki (sword)
+    - Infernal Oni-Bi
+    - Maelstrom Oni-Bi
+    - Yoki (axe)
+    - Nure-Onna
+    - Abbarant Soldier
+    - Ippon-Datara (hammer)
+    - Mezuki (boss)
 
 ==========
 Traces of the Raging Blaze (A Beast Born of Smoke and Flames | Awakening Region (Region 1))
