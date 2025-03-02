@@ -1,0 +1,7 @@
+- Unique colors for the games are listed in tailwind.config.js under the section Themes --> Colors.
+- The JavaScript functionality is done with FlowbiteJS
+    - Flowbite also contains TailwindCSS fragments.
+    - Flowbite also contains SVG HTML icons
+
+- SVG HTML icons primarily comes from Bootstrap CSS icons, located here: https://icons.getbootstrap.com/
+- SVG HTML icons secondary source comes from Flowbite, located here: https://flowbite.com/icons/
