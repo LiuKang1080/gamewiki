@@ -42,57 +42,57 @@ module.exports = {
 				'medium-red': '#48181F',
 				'dark-red': '#30171b',
 
-				/* ========== ========== ==========
-				Rarity Text Colors:
-				========== ========== ========== */
-					/* ==========
-					Common Gear Text Color: [WHITE]
-					========== */
-					// text-slate-300
+                /* ========== ========== ==========
+                Rarity Text Colors:
+                ========== ========== ========== */
+                /* ==========
+                Common Gear Text Color: [WHITE]
+                ========== */
+                // text-slate-300
 
-					/* ==========
-					Uncommon Gear Text Color: [YELLOW]
-					========== */
-					'uncommon-text-color': '#fcde62',
+                /* ==========
+                Uncommon Gear Text Color: [YELLOW]
+                ========== */
+                'uncommon-text-color': '#fcde62',
 
-					/* ==========
-					Rare Gear Text Color: [BLUE]
-					========== */
-					'rare-text-color': '#7cd8ff',
+                /* ==========
+                Rare Gear Text Color: [BLUE]
+                ========== */
+                'rare-text-color': '#7cd8ff',
 
-					/* ==========
-					Exotic Gear Text Color: [PURPLE]
-					========== */
-					'exotic-text-color': '#d2a1ff',
+                /* ==========
+                Exotic Gear Text Color: [PURPLE]
+                ========== */
+                'exotic-text-color': '#d2a1ff',
 
-					/* ==========
-					Divine Gear Text Color: [GREEN]
-					========== */
-					'divine-text-color': '#92f974',
+                /* ==========
+                Divine Gear Text Color: [GREEN]
+                ========== */
+                'divine-text-color': '#92f974',
 
-					/* ==========
-					Ethreal Gear Text Color: [ORANGE]
-					========== */
-					// Ethereal Gear Color
-					// font-bold text-transparent bg-clip-text bg-gradient-to-b from-[#fdd365] to-[#fa7e38]
+                /* ==========
+                Ethreal Gear Text Color: [ORANGE]
+                ========== */
+                // Ethereal Gear Color
+                // font-bold text-transparent bg-clip-text bg-gradient-to-b from-[#fdd365] to-[#fa7e38]
 
-					// Soul Core Drop color
-					// font-bold text-transparent bg-clip-text bg-gradient-to-b from-[#fa7e38] to-[#fdd365]
+                // Soul Core Drop color
+                // font-bold text-transparent bg-clip-text bg-gradient-to-b from-[#fa7e38] to-[#fdd365]
 
-					/* ==========
-					Tea Utensil Drop Color: [SILVER]
-					========== */
-					// font-bold text-transparent bg-clip-text bg-gradient-to-b from-[#c3d4e2] to-[#768192]
+                /* ==========
+                Tea Utensil Drop Color: [SILVER]
+                ========== */
+                // font-bold text-transparent bg-clip-text bg-gradient-to-b from-[#c3d4e2] to-[#768192]
 
-					/* ==========
-					Debuff Text Color: [RED]
-					========== */
-					'debuff-text-color': '#ed406a',
+                /* ==========
+                Debuff Text Color: [DEBUFF RED]
+                ========== */
+                'debuff-text-color': '#ed406a',
 
-					/* ==========
-					Buff Text Color: [RED]
-					========== */
-					'buff-text-color': '#409af1',
+                /* ==========
+                Buff Text Color: [BUFF BLUE]
+                ========== */
+                'buff-text-color': '#409af1',
 
 
 				/* ========== ========== ==========
