@@ -30,11 +30,9 @@ function credits() {
 }
 
 
-/*
-========== ========== ========== ========== ==========
+/* ========== ========== ========== ========== ==========
 Sort Table Function
-========== ========== ========== ========== ==========
-*/
+========== ========== ========== ========== ========== */
 document.querySelector("#sort-button-1").addEventListener("click", async_call);
 document.querySelector("#sort-button-2").addEventListener("click", async_call);
 document.querySelector("#sort-button-3").addEventListener("click", async_call);
@@ -65,8 +63,11 @@ function sort_table(event) {
         // we start by saying no switching is done
         switching = false;
 
-        // loop through all of the elements in the current_tbody_list except for the first row, the first row is the header for the table
-        // i needs to be global within the function so that the for loop and the if statement can use the current index
+        /*
+            - loop through all of the elements in the current_tbody_list except for the first row, the first row is the header
+                for the table.
+            - i needs to be global within the function so that the for loop and the if statement can use the current index
+        */
         for (i = 1; i < (current_tbodies_list.length - 1); i++) {
             // start by saying that should_switch is false
             should_switch = false;
@@ -115,11 +116,9 @@ async function async_call(event) {
 }
 
 
-/*
-========== ========== ========== ========== ==========
+/* ========== ========== ========== ========== ==========
 Refresh Window Function
-========== ========== ========== ========== ==========
-*/
+========== ========== ========== ========== ========== */
 document.querySelector("#refresh-button-1").addEventListener("click", refresh_location);
 document.querySelector("#refresh-button-2").addEventListener("click", refresh_location);
 document.querySelector("#refresh-button-3").addEventListener("click", refresh_location);

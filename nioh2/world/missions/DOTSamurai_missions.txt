@@ -340,45 +340,68 @@ The Way of the Warrior: Novice (Dojo Mission)
         Notable Items During / Post Mission:
             - None
 
-    ==========
-    The Way of the Ninja: Novice (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Viper's Sanctum".
-        --------------------
-        - Recommended level: 35
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
+==========
+The Way of the Ninja: Novice (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Viper's Sanctum".
+    --------------------
+    - Recommended level: 35
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+        First Time:
+            - Ninja's Locks x1
+            - Shinobi Hood
+            - Shinobi Robes
+            - Shinobi Hakama
+        ---------- ---------- ----------
+        Subsequent Completes:
+            - Shinobi Bracers
+            - Shinobi Gaiters
+        ---------- ---------- ----------
+        Notable Items During / Post Mission:
             - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Ninja's Locks.
 
-    ==========
-    The Way of Onmyo: Novice (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Viper's Sanctum".
-        --------------------
-        - Recommended level: 35
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
+==========
+The Way of Onmyo: Novice (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Viper's Sanctum".
+    --------------------
+    - Recommended level: 35
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+        First Time:
+            - Onmyo Mage's Locks x1
+            - Fire Amulet x1
+            - Water Amulet x1
+            - Lightning Amulet x1
+        ---------- ---------- ----------
+        Subsequent Completes:
+            - Fire Amulet x1
+            - Water Amulet x1
+            - Lightning Amulet x1
+        ---------- ---------- ----------
+        Notable Items During / Post Mission:
             - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks.
 
     ==========
     The Way of the Warrior: Adept (Dojo Mission)
@@ -1119,68 +1142,77 @@ The Greedy Hunter (Sub Mission)
 ========== ========== ========== ========== ========== ========== ==========
 Soaring Region (Region 2)
 ========== ========== ========== ========== ========== ========== ==========
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    The Hidden Monsters of Okehazama (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Viper's Sanctum" and move onto the Soaring Region (2nd Region).
-        --------------------
-        - Recommended level: 35
-        - Gold: 7,400
-        - Amrita: 2,976
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 7
-        - Number of Sudama: 2
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 2
-        - Bosses: 
-            - Imagawa Yoshimoto
-        - Guardian Spirit Unlocked: 
-            - Rokugezo
-        - Notable Items In Mission / Mission Rewards:
+==========
+The Hidden Monsters of Okehazama (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Viper's Sanctum" and move onto the Soaring Region (2nd Region).
+    --------------------
+    - Recommended level: 35
+    - Gold: 7,400
+    - Amrita: 2,976
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 7
+    - Number of Sudama: 2
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 2
+    - Bosses: 
+        - Imagawa Yoshimoto
+    - Guardian Spirit Unlocked: 
+        - Rokugezo
+    - Mission Rewards: 
+        First Time:
+            - Samurai's Locks x1
+            - Master Archer's Bow (rare)
+            - Master Archer's Cuirass (rare)
+            - Master Archer's Waistguard (rare)
+        ---------- ---------- ----------
+        Subsequent Completes:
+            - 
+        ---------- ---------- ----------
+        Notable Items During / Post Mission:
             - Ninja's Locks.
             - Onmyo Mage's Locks.
-            - Samurai's Locks (Mission Reward).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     Imagawa Diehard (Sub Mission)

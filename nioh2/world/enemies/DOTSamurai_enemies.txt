@@ -222,23 +222,23 @@ The Way of the Warrior: Novice (Dojo Mission)
     --------------------
     - Outlaw (sword)
 
-    ==========
-    The Way of the Ninja: Novice (Dojo Mission)
-    ==========
-        - Quest Giver: Kato Danzo
-        - Characters:
-            - Kato Danzo (NPC)
-        --------------------
-        - Ninja
+==========
+The Way of the Ninja: Novice (Dojo Mission)
+==========
+    - Quest Giver: Kato Danzo
+    - Characters:
+        - Kato Danzo (NPC)
+    --------------------
+    - Ninja (dual swords)
 
-    ==========
-    The Way of Onmyo: Novice (Dojo Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters:
-            - Abe no Seimei (NPC)
-        --------------------
-        - Gaki
+==========
+The Way of Onmyo: Novice (Dojo Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Abe no Seimei (NPC)
+    --------------------
+    - Gaki (big)
 
     ==========
     The Way of the Warrior: Adept (Dojo Mission)
@@ -438,7 +438,7 @@ The Village of Cursed Blossoms (Main Mission)
     - Gaki (first time)
     - Gozuki (boss) (first time)
     - Enki (first time)
-    - Outlaw (bow, sowrd) (first time)
+    - Outlaw (bow + fire arrow, sowrd) (first time)
     - Outlaw (spear) (first time)
     - Rogue (big) (axe) (first time)
     - Outlaw (sword) (first time)
@@ -606,6 +606,30 @@ The Greedy Hunter (Sub Mission)
 ========== ========== ========== ========== ==========
 Soaring Region (Region 2)
 ========== ========== ========== ========== ==========
+==========
+The Hidden Monsters of Okehazama (Main Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters:
+        - Oda Nobunaga (Cutscenes)
+        - Maeda Toshiie (Cutscenes, NPC)
+        - Tokichiro (NPC)
+    --------------------
+    - Gaki
+    - Enki
+    - Yamanba (first time)
+    - Nure-Onna
+    - Karasu Tengu
+    - Infernal Oni-Bi
+    - Maelstrom Oni-Bi (first time)
+    - One-Eyed Oni
+    - Warrior (axe)
+    - Warrior (bow + fire arrow, sword)
+    - Warrior (big) (dual swords)
+    - Warrior (sword)
+    - Nurikabe
+    - Warrior (spear)
+    - Imagawa Yoshimoto (Boss) (first time)
 
 
 
@@ -644,26 +668,6 @@ Soaring Region (Region 2)
 
 
 
-    ==========
-    The Hidden Monsters of Okehazama (Main Mission)
-    ==========
-        - Quest Giver: Mumyo
-        - Characters:
-            - Oda Nobunaga (Cutscenes)
-            - Maeda Toshiie (Cutscenes, NPC)
-            - Tokichiro (NPC)
-        --------------------
-        - Gaki
-        - Enki
-        - Yamanba (first time)
-        - Nure-Onna
-        - Karasu Tengu
-        - Infernal Oni-Bi
-        - Maelstrom Oni-Bi (first time)
-        - One-Eyed Oni
-        - Warrior
-        - Nurikabe
-        - Imagawa Yoshimoto (Boss) (first time)
 
     ==========
     Imagawa Diehard (Sub Mission)
