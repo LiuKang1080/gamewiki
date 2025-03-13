@@ -452,7 +452,7 @@ The Forest Veiled in Darkness (Sub Mission)
     - Characters:
         - Tokichiro (NPC)
     --------------------
-    - Outlaw (sword)
+    - Outlaw (torch, sword)
     - Rogue (axe)
     - Rogue (spear) (first time)
     - Outlaw (bow + fire arrow, sword)
