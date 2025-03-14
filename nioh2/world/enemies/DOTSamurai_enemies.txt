@@ -515,8 +515,8 @@ Dark Omens (Sub Mission)
     - Characters:
         - None
     --------------------
+    - Outlaw (torch, axe) (first time)
     - Outlaw (spear)
-    - Outlaw (axe) (first time)
     - Rogue (sword)
     - Rogue (rifle, sword)
     - Outlaw (bow + fire arrow, sword)
@@ -527,6 +527,7 @@ Dark Omens (Sub Mission)
     - Gaki
     - One-Eyed Oni (first time)
     - Sohaya Warrior (hatchets)
+    - Outlaw (torch, rifle, sword)
     - Rogue (big) (odachi)
     - Yoki (sword)
     - Karasu Tengu (first time)
