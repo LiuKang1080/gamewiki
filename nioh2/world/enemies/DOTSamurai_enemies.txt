@@ -55,7 +55,9 @@ The Blood Tainted Samurai (Dark Omens | Awakening Region (Region 1))
     - Revenant (hammer)
     - Yoki (axe)
     - Ippon-Datara (hammer)
+    - Gaki (big)
     - Dweller
+    - Dweller (big)
     - Skeleton Warrior (bow + fire arrow, sword)
     - Skeleton Warrior (spear)
     - Biwa Boku-Boku
