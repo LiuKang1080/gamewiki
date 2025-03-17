@@ -15,6 +15,7 @@ Twilight Missions:
 The Violet Cherry Blossoms (The Village of Cursed Blossoms | Awakening Region (Region 1))
 ==========
     - Gaki
+    - Gaki (big)
     - Gozuki (boss)
     - Enki
     - Yoki (sword)
@@ -572,6 +573,7 @@ A Favor for the Blacksmith (Sub Mission)
     - Lesser Umi-Bozu (first time)
     - Gaki
     - Yoki (sword)
+    - Dweller (big) (first time)
     - Ippon-Datara (hammer)
     - Wheelmonk (first time)
     - Rogue (big) (torch, odachi)
@@ -603,6 +605,7 @@ The Greedy Hunter (Sub Mission)
     - Outlaw (axe)
     - Enki
     - Gaki
+    - Gaki (big)
     - Nure-Onna
     - Abbarant Soldier
     - Yoki (axe)
