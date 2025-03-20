@@ -1169,116 +1169,155 @@ The Hidden Monsters of Okehazama (Main Mission)
             - Master Archer's Waistguard (rare)
         ---------- ---------- ----------
         Subsequent Completes:
-            - 
+            - Sozasamonji Matsukurago (dual swords) (rare)
+            - Master Archer's Greaves (rare)
+            - Master Archer's Gauntlets (rare)
+            - Lightning Amulet X2 (common)
         ---------- ---------- ----------
         Notable Items During / Post Mission:
             - Ninja's Locks.
             - Onmyo Mage's Locks.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    Imagawa Diehard (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Hidden Monsters of Okehazama".
-        --------------------
-        - Recommended level: 39
-        - Gold: 7,800
-        - Amrita: 3,200
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Imagawa Yoshimoto
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
+==========
+Imagawa Diehard (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Hidden Monsters of Okehazama".
+    --------------------
+    - Recommended level: 39
+    - Gold: 7,800
+    - Amrita: 3,200
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Imagawa Yoshimoto
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+        First Time:
+            - Master Archer's Hat (rare)
+            - Wild Boar Crest Helmet (rare)
+            - Sessai's Switchglaive (rare)
+        ---------- ---------- ----------
+        Subsequent Completes:
+            - Wild Boar Crest Helmet (rare)
+            - Quality Lacquer x3
+            - Quality Wood X3
+            - Righteous Jasper X2
+        ---------- ---------- ----------
+        Notable Items During / Post Mission:
             - None
 
-    ==========
-    Hidetatsu's Dying Wish (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Hidden Monsters of Okehazama".
-        --------------------
-        - Recommended level: 40
-        - Gold: 8,200
-        - Amrita: 3,456
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
+==========
+Hidetatsu's Dying Wish (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Hidden Monsters of Okehazama".
+    --------------------
+    - Recommended level: 40
+    - Gold: 8,200
+    - Amrita: 3,456
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+        First Time:
+            - Transient Blade (rare)
+            - Pit Viper's Robes (rare)
+            - Pit Viper's Hakama (rare)
+            - Pit Viper's Shoes (rare)
+        ---------- ---------- ----------
+        Subsequent Completes:
+            - Transient Blade (rare)
+            - Pit Viper's Robes (rare)
+            - Pit Viper's Hakama (rare)
+            - Pit Viper's Shoes (rare)
+        ---------- ---------- ----------
+        Notable Items During / Post Mission:
             - None
 
-    ==========
-    An Error in Calculation (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Hidden Monsters of Okehazama".
-        --------------------
-        - Recommended level: 41
-        - Gold: 8,600
-        - Amrita: 3,712
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 1
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
+==========
+An Error in Calculation (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Hidden Monsters of Okehazama".
+    --------------------
+    - Recommended level: 41
+    - Gold: 8,600
+    - Amrita: 3,712
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Warrior's Cross Spear (rare)
+        - Abacus (exotic)
+        - High-Quality Leather Platelet X3
+        - High-Quality Leather Cord X3
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Warrior's Cross Spear (rare)
+        - High-Quality Leather Platelet X2
+        - High-Quality Leather Cord X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
 
     ==========
     The Mysterious One Night Castle (Main Mission)

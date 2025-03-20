@@ -630,6 +630,7 @@ The Hidden Monsters of Okehazama (Main Mission)
     - Yamanba (first time)
     - Nure-Onna
     - Karasu Tengu
+    - Gaki (big)
     - Infernal Oni-Bi
     - Maelstrom Oni-Bi (first time)
     - One-Eyed Oni
@@ -641,6 +642,62 @@ The Hidden Monsters of Okehazama (Main Mission)
     - Warrior (spear)
     - Imagawa Yoshimoto (Boss) (first time)
 
+==========
+Imagawa Diehard (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - None
+    --------------------
+    - Warrior (bow + fire arrow, sword)
+    - Warrior (torch, spear)
+    - Warrior (dual swords)
+    - Warrior (spear)
+    - Okabe Motonobu (first time)
+    - Ninja (sword)
+    - Okabe Masatsuna (first time)
+    - Imagawa Yoshimoto (Boss)
+
+==========
+Hidetatsu's Dying Wish (Sub Mission)
+==========
+    - Quest Giver: Oda Nobunaga
+    - Characters:
+        - None
+    --------------------
+    - Warrior (sword)
+    - Warrior (axe)
+    - Warrior (big) (spear)
+    - Toxic Slime
+    - Warrior (big) (axe)
+    - Warrior (bow + fire arrow, sword)
+    - Sohaya Warrior (hatchets)
+    - Warrior (big) (odachi)  
+    - Warrior (big) (sword) 
+    - Nure-Onna
+    - One-Eyed Oni
+    - Gaki
+    - Infernal Oni-Bi
+    - Blue Yoki (dual swords) (first time)
+
+==========
+An Error in Calculation (Sub Mission)
+==========
+    - Quest Giver: Maeda Toshiie
+    - Characters:
+        - None
+    --------------------
+    - Gaki
+    - Karakasa Umbrella
+    - Toxic Slime
+    - Kappa
+    - Nure-Onna
+    - One-Eyed Oni
+    - Dweller
+    - Karasu Tengu
+    - Biwa Boku-Boku (first time)
+    - Enki
+    - Waira (first time)
 
 
 
@@ -674,58 +731,11 @@ The Hidden Monsters of Okehazama (Main Mission)
 
 
 
+    
 
+    
 
-
-
-
-    ==========
-    Imagawa Diehard (Sub Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters:
-            - None
-        --------------------
-        - Warrior
-        - Ninja
-        - Okabe Motonobu (first time)
-        - Okabe Masatsuna (first time)
-        - Imagawa Yoshimoto (boss)
-
-    ==========
-    Hidetatsu's Dying Wish (Sub Mission)
-    ==========
-        - Quest Giver: Oda Nobunaga
-        - Characters:
-            - None
-        --------------------
-        - Warrior
-        - Toxic Slime
-        - Sohaya Warrior (hatchets)
-        - Nure-Onna
-        - One-Eyed Oni
-        - Gaki
-        - Infernal Oni-Bi
-        - Blue Yoki (dual swords) (first time)
-
-    ==========
-    An Error in Calculation (Sub Mission)
-    ==========
-        - Quest Giver: Maeda Toshiie
-        - Characters:
-            - None
-        --------------------
-        - Gaki
-        - Karakasa Umbrella
-        - Toxic Slime
-        - Kappa
-        - Nure-Onna
-        - One-Eyed Oni
-        - Dweller
-        - Karasu Tengu
-        - Biwa Boku-Boku (first time)
-        - Enki
-        - Waira (first time)
+    
 
     ==========
     The Mysterious One Night Castle (Main Mission)
