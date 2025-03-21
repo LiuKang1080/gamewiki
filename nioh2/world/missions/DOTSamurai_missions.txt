@@ -403,65 +403,97 @@ The Way of Onmyo: Novice (Dojo Mission)
         Notable Items During / Post Mission:
             - None
 
-    ==========
-    The Way of the Warrior: Adept (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Mysterious One Night Castle".
-        --------------------
-        - Recommended level: 59
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
+==========
+The Way of the Warrior: Adept (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Mysterious One Night Castle".
+        - Required Weapon Proficiency: 20,000.
+    --------------------
+    - Recommended level: 59
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+        First Time:
+            - Samurai's Locks X1
+            - Prayer Beads (uncommon)
+            - Book of Reincarnation X1
+        ---------- ---------- ----------
+        Subsequent Completes:
+            - Daion-Jin's Sake X1
+            - Ochoko Cup X2
+        ---------- ---------- ----------
+        Notable Items During / Post Mission:
             - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Samurai's Locks.
+        
 
-    ==========
-    The Way of the Ninja: Adept (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Mysterious One Night Castle".
-        --------------------
-        - Recommended level: 59
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
+==========
+The Way of the Ninja: Adept (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Mysterious One Night Castle".
+        - Required Ninjutsu Proficiency: 30,000.
+    --------------------
+    - Recommended level: 59
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+        First Time:
+            - Ninja's Locks X1
+            - Writing Set (uncommon)
+            - Shinobi Box X1
+        ---------- ---------- ----------
+        Subsequent Completes:
+            - Gunpowder Bomb X4
+        ---------- ---------- ----------
+        Notable Items During / Post Mission:
             - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Ninja's Locks.
 
-    ==========
-    The Way of the Onmyo: Adept (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Mysterious One Night Castle".
-        --------------------
-        - Recommended level: 59
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
+==========
+The Way of the Onmyo: Adept (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Mysterious One Night Castle".
+        - Required Onmyo Magic Proficiency: 30,000.
+    --------------------
+    - Recommended level: 59
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+        First Time:
+            - Onmyo Mage's Locks X1
+            - Divination Board (uncommon)
+            - Sacred Brush X1
+        ---------- ---------- ----------
+        Subsequent Completes:
+            - Signpost Amulet X2
+        ---------- ---------- ----------
+        Notable Items During / Post Mission:
             - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks.
 
     ==========
     The Way of the Warrior: Veteran (Dojo Mission)
@@ -1281,8 +1313,78 @@ An Error in Calculation (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
+==========
+The Mysterious One Night Castle (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Hidden Monsters of Okehazama".
+    --------------------
+    - Recommended level: 43
+    - Gold: 8,800
+    - Amrita: 3,840
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 7
+    - Number of Sudama: 1
+    - Number of Hot Springs: 2
+    - Number of Dark Realms: 3
+    - Bosses: 
+        - Kamaitachi
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Hand Cannon (rare)
+        - Explosive Rounds X3
+        - High-Quality Wood X3
+        - High-Quality Lacquer X3
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Sickle Blade Fragments X1
+        - High-Quality Wood X2
+        - Waira Claw X1
+        - High-Quality Lacquer X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Onmyo Mage's Locks.
+        - Ninja's Locks.
+        - Unlocks the Dojo mission: "The Way of the Warrior: Adept" after beating level.
+        - Unlocks the Dojo mission: "The Way of the Ninja: Adept" after beating level.
+        - Unlocks the Dojo mission: "The Way of the Onmyo: Adept" after beating level.
 
-
+==========
+The Sunomata Yokai Hunt (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Mysterious One Night Castle".
+    --------------------
+    - Recommended level: 46
+    - Gold: 9,200
+    - Amrita: 4,128
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Custom Kusarigama (rare)
+        - Japanese Scissors (rare)
+        - Red Spider Lily X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Custom Kusarigama (rare)
+        - Kappa Shell X1
+        - Karasu Tengu Feather X1
+        - Red Spider Lily X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 
@@ -1319,53 +1421,9 @@ An Error in Calculation (Sub Mission)
 
     
 
-    ==========
-    The Mysterious One Night Castle (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Hidden Monsters of Okehazama".
-        --------------------
-        - Recommended level: 43
-        - Gold: 8,800
-        - Amrita: 3,840
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 7
-        - Number of Sudama: 1
-        - Number of Hot Springs: 2
-        - Number of Dark Realms: 3
-        - Bosses: 
-            - Kamaitachi
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks.
-            - Ninja's Locks.
-            - Unlocks the Dojo mission: "The Way of the Warrior: Adept" after beating level.
-            - Unlocks the Dojo mission: "The Way of the Ninja: Adept" after beating level.
-            - Unlocks the Dojo mission: "The Way of the Onmyo: Adept" after beating level.
+    
 
-    ==========
-    The Sunomata Yokai Hunt (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Mysterious One Night Castle".
-        --------------------
-        - Recommended level: 46
-        - Gold: 9,200
-        - Amrita: 4,128
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
+
 
     ==========
     A Hot-blodded Howl (Sub Mission)

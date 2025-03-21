@@ -243,35 +243,38 @@ The Way of Onmyo: Novice (Dojo Mission)
     --------------------
     - Gaki (big)
 
-    ==========
-    The Way of the Warrior: Adept (Dojo Mission)
-    ==========
-        - Quest Giver: Tsukahara Bokuden
-        - Characters:
-            - None
-        --------------------
-        - Tsukahara Bokuden (boss)
+==========
+The Way of the Warrior: Adept (Dojo Mission)
+==========
+    - Quest Giver: Tsukahara Bokuden
+    - Characters:
+        - None
+    --------------------
+    - Tsukahara Bokuden (boss)
 
-    ==========
-    The Way of the Ninja: Adept (Dojo Mission)
-    ==========
-        - Quest Giver: Kato Danzo
-        - Characters:
-            - Kato Danzo (NPC)
-        --------------------
-        - Ninja
+==========
+The Way of the Ninja: Adept (Dojo Mission)
+==========
+    - Quest Giver: Kato Danzo
+    - Characters:
+        - Kato Danzo (NPC)
+    --------------------
+    - Ninja (sword)
+    - Ninja (tonfas)
+    - Ninja (dual swords)
+    - Ninja (big) (sword)
 
-    ==========
-    The Way of the Onmyo: Adept (Dojo Mission)
-    ==========
-        - Quest Giver: Abe no Seimei
-        - Characters:
-            - Abe no Seimei (NPC)
-        --------------------
-        - One-Eyed Imp
-        - Karakasa Umbrella
-        - Infernal Oni-Bi
-        - Ippon-Datara (hammer)
+==========
+The Way of the Onmyo: Adept (Dojo Mission)
+==========
+    - Quest Giver: Abe no Seimei
+    - Characters:
+        - Abe no Seimei (NPC)
+    --------------------
+    - One-Eyed Imp
+    - Karakasa Umbrella
+    - Infernal Oni-Bi
+    - Ippon-Datara (hammer)
     
     ==========
     The Way of the Warrior: Veteran (Dojo Mission)
@@ -640,7 +643,7 @@ The Hidden Monsters of Okehazama (Main Mission)
     - Warrior (sword)
     - Nurikabe
     - Warrior (spear)
-    - Imagawa Yoshimoto (Boss) (first time)
+    - Imagawa Yoshimoto (boss) (first time)
 
 ==========
 Imagawa Diehard (Sub Mission)
@@ -656,7 +659,7 @@ Imagawa Diehard (Sub Mission)
     - Okabe Motonobu (first time)
     - Ninja (sword)
     - Okabe Masatsuna (first time)
-    - Imagawa Yoshimoto (Boss)
+    - Imagawa Yoshimoto (boss)
 
 ==========
 Hidetatsu's Dying Wish (Sub Mission)
@@ -699,6 +702,57 @@ An Error in Calculation (Sub Mission)
     - Enki
     - Waira (first time)
 
+==========
+The Mysterious One Night Castle (Main Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Tokichiro (Cutscenes, NPC)
+        - Maeda Toshiie (Cutscenes)
+        - Shibata Katsuie (Cutscenes)
+        - Mumyo (Cutscenes)
+        - Hachisuka Koroku (Cutscenes, Ally)
+    --------------------
+    - Warrior (axe)
+    - Warrior (bow + fire arrow, sword)
+    - Warrior (spear)
+    - Warrior (big) (odachi) 
+    - Gaki
+    - Aberrant Soldier
+    - Karasu Tengu
+    - Yamanba
+    - Waira
+    - Nure-Onna
+    - Lesser Umi-Bozu
+    - Enki
+    - Sohaya Warrior (switchglaive)
+    - Rogue (axe)
+    - Warrior (sword)
+    - Rogue (spear)
+    - Rogue (sword)
+    - Warrior (big) (axe)
+    - Nurikabe
+    - Karakasa Umbrella
+    - Kappa
+    - Kamaitachi (boss) (first time)
+
+==========
+The Sunomata Yokai Hunt (Main Mission)
+==========
+    - Quest Giver: Hachisuka Koroku
+    - Characters:
+        - Hachisuka Koroku (Ally)
+    --------------------
+    - Skeleton Warrior (bow + fire arrow, sword)
+    - Enki
+    - Skeleton Warrior (spear)
+    - Skeleton Warrior (big) (axe)
+    - Karasu Tengu
+    - Nure-Onna
+    - Gaki
+    - Lesser Umi-Bozu
+    - Skeleton Warrior (rifle, sword)
+    - Waira
 
 
 
@@ -729,54 +783,6 @@ An Error in Calculation (Sub Mission)
 
 
 
-
-
-    
-
-    
-
-    
-
-    ==========
-    The Mysterious One Night Castle (Main Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters:
-            - Tokichiro (Cutscenes, NPC)
-            - Maeda Toshiie (Cutscenes)
-            - Shibata Katsuie (Cutscenes)
-            - Mumyo (Cutscenes)
-            - Hachisuka Koroku (Cutscenes, Ally)
-        --------------------
-        - Warrior
-        - Gaki
-        - Abbarant Soldier
-        - Karasu Tengu
-        - Yamanba
-        - Waira
-        - Nure-Onna
-        - Lesser Umi-Bozu
-        - Enki
-        - Sohaya Warrior (switchglaive)
-        - Nurikabe
-        - Karakasa Umbrella
-        - Kappa
-        - Kamaitachi (boss) (first time)
-
-    ==========
-    The Sunomata Yokai Hunt (Main Mission)
-    ==========
-        - Quest Giver: Hachisuka Koroku
-        - Characters:
-            - Hachisuka Koroku (Ally)
-        --------------------
-        - Skeleton Warrior
-        - Enki
-        - Karasu Tengu
-        - Nure-Onna
-        - Gaki
-        - Lesser Umi-Bozu
-        - Waira
 
     ==========
     A Hot-blodded Howl (Sub Mission)
