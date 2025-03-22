@@ -755,6 +755,136 @@ The Sunomata Yokai Hunt (Main Mission)
     - Skeleton Warrior (rifle, sword)
     - Waira
 
+==========
+A Hot-blodded Howl (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Maeda Keiji (NPC)
+        - Maeda Toshiie (Ally)
+    --------------------
+    - Warrior (sword)
+    - Warrior (axe)
+    - Rogue (big) (hammer)
+    - Ippon-Datara (odachi)
+    - Warrior (bow + fire arrow, sword)
+    - Gaki
+    - Dweller
+    - Enki
+    - One-Eyed Oni
+    - Waira
+    - Aberrant Soldier
+    - Dweller (big)
+    - Nurikabe
+    - Infernal Oni-Bi
+    - Yoki (sword)
+    - Gaki (big)
+    - Warrior (spear)
+    - Rogue (big) (dual swords)
+    - Warrior (torch, sword)
+    - Rogue (big) (spear)
+    - Adachi the Beheader (first time)
+
+==========
+The Fire God's Magatama (Sub Mission)
+==========
+    - Quest Giver: Senji Toyo
+    - Characters:
+        - None
+    --------------------
+    - Skeleton Warrior (sword)
+    - Gaki
+    - Skeleton Warrior (spear)
+    - Nure-Onna
+    - Enki
+    - Yamanba
+    - Skeleton Warrior (bow + fire arrow, sword)
+    - Karasu Tengu
+    - Infernal Oni-Bi
+    - Toxic Slime
+    - Waira
+
+==========
+The Hollow Fortress (Main Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Tokichiro (Cutscenes, NPC)
+        - Takenaka Hanbei (Cutscenes)
+        - Mumyo (Cutscenes)
+        - Kashin Koji (Cutscenes)
+    --------------------
+    - Dweller
+    - Dweller (big)
+    - Koroka (first time)
+    - Warrior (torch, sword)
+    - Enki
+    - Warrior (sword)
+    - Warrior (big) (axe)
+    - Warrior (big) (odachi)
+    - Aberrant Soldier
+    - Rokurokubi (spear) (first time)
+    - Onryoki (boss) (first time)
+    - Snowclops (first time)
+    - Warrior (bow + fire arrow, sword)
+    - Rokurokubi (dual swords) (first time)
+    - Warrior (big) (torch, axe)
+    - Mujina
+    - Rokurokubi (sword) (first time)
+    - Saito Yoshitatsu (boss) (first time)
+
+==========
+An End to Seclusion (Sub Mission)
+==========
+    - Quest Giver: Oichi
+    - Characters:
+        - None
+    --------------------
+    - Karakasa Umbrella
+    - Yamanba
+    - Infernal Oni-Bi
+    - Karasu Tengu
+    - One-Eyed Oni
+    - Abbarant Soldier
+    - Maelstrom Oni-Bi
+    - Waira
+    - Rokurokubi (spear)
+
+==========
+The Shiftling's Wise Judgement (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Shibata Katsuie (NPC, Ally)
+        - Hachisuka Koroku (NPC, Ally)
+    --------------------
+    (Side w/ Hachisuka Koroku)
+    - Warrior (axe)
+    - Warrior (big) (dual swords)
+    - Warrior (big) (odachi)
+    - Warrior (big) (axe)
+    - Warrior (bow + fire arrow, sword)
+    - Warrior (dual swords)
+    - Warrior (sword)
+    - Warrior (spear)
+    - Ninja (dual swords) (first time)
+    - Warrior (big) (sword)
+    - Warrior (conch shell, sword)
+    - Ninja (cannon, sword) (first time)
+    - Ninja (sword)
+    - Ninja (kusarigama) (first time)
+    - Shibata Katsuie (boss) (first time)
+
+    (Side w/ Shibata Katsuie)
+    - Skeleton Warrior ()
+    - Enki
+    - Gaki
+    - Karakasa Umbrella
+    - One-Eyed Oni
+    - Dweller
+    - Ippon Datara (odachi)
+    - Ippon-Datara (hammer)
+    - Hachisuka Koroku (boss) (first time)
 
 
 
@@ -776,111 +906,15 @@ The Sunomata Yokai Hunt (Main Mission)
 
 
 
+    
 
 
 
 
 
+    
 
 
-
-
-    ==========
-    A Hot-blodded Howl (Sub Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters:
-            - Maeda Keiji (NPC)
-            - Maeda Toshiie (Ally)
-        --------------------
-        - Warrior
-        - Rogue
-        - Ippon-Datara (odachi)
-        - Gaki
-        - Dweller
-        - Enki
-        - One-Eyed Oni
-        - Waira
-        - Abbarant Soldier
-        - Nurikabe
-        - Yoki (sword)
-        - Infernal Oni-Bi
-        - Adachi the Beheader (first time)
-
-    ==========
-    The Fire God's Magatama (Sub Mission)
-    ==========
-        - Quest Giver: Senji Toyo
-        - Characters:
-            - None
-        --------------------
-        - Skeleton Warrior
-        - Gaki
-        - Nure-Onna
-        - Enki
-        - Yamanba
-        - Karasu Tengu
-        - Infernal Oni-Bi
-        - Toxic Slime
-        - Waira
-
-    ==========
-    The Hollow Fortress (Main Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters:
-            - Tokichiro (Cutscenes, NPC)
-            - Takenaka Hanbei (Cutscenes)
-            - Mumyo (Cutscenes)
-            - Kashin Koji (Cutscenes)
-        --------------------
-        - Dweller
-        - Koroka (first time)
-        - Warrior
-        - Enki
-        - Abbarant Soldier
-        - Rokurokubi (first time)
-        - Onryoki (boss) (first time)
-        - Snowclops (first time)
-        - Saito Yoshitatsu (boss) (first time)
-
-    ==========
-    An End to Seclusion (Sub Mission)
-    ==========
-        - Quest Giver: Oichi
-        - Characters:
-            - None
-        --------------------
-        - Karakasa Umbrella
-        - Yamanba
-        - Infernal Oni-Bi
-        - Karasu Tengu
-        - One-Eyed Oni
-        - Abbarant Soldier
-        - Maelstrom Oni-Bi
-        - Waira
-        - Rokurokubi
-
-    ==========
-    The Shiftling's Wise Judgement (Sub Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters:
-            - Shibata Katsuie (NPC, Ally)
-            - Hachisuka Koroku (NPC, Ally)
-        --------------------
-        - Warrior
-        - Ninja
-        - Shibata Katsuie (boss) (first time)
-        - Skeleton Warrior
-        - Enki
-        - Gaki
-        - Karakasa Umbrella
-        - One-Eyed Oni
-        - Dweller
-        - Ippon Datara (odachi)
-        - Ippon-Datara (hammer)
-        - Hachisuka Koroku (boss) (first time)
 
     ==========
     The Viper and the Butterfly (Sub Mission)

@@ -1386,6 +1386,175 @@ The Sunomata Yokai Hunt (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
+==========
+A Hot-blodded Howl (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Mysterious One Night Castle".
+    --------------------
+    - Recommended level: 47
+    - Gold: 9,400
+    - Amrita: 4,272
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 5
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - Okuri-Inu
+    - Mission Rewards: 
+    First Time:
+        - Captain's Spear (rare)
+        - High-Quality Tamahagane X3
+        - Whetstone X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Captain's Spear (rare)
+        - High-Quality Tamahagane X3
+        - High-Quality Ingot X2
+        - Whetstone x1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Fire God's Magatama (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Mysterious One Night Castle".
+    --------------------
+    - Recommended level: 49
+    - Gold: 9,800
+    - Amrita: 4,560
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 3 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Swordsmith's Hammer (rare)
+        - Kiku Ichimonji (sword) (rare)
+        - Seki Kaneyoshi Dual Tachi (dual swords) (rare)
+        - Rai Kuniyuki Odachi (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Hachiya Kusarigama (rare)
+        - Hero's Hatchets (rare)
+        - Terminus Switchglaive (rare)
+        - Martial Artist's Tonfa (rare)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Hollow Fortress (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Mysterious One Night Castle".
+    --------------------
+    - Recommended level: 50
+    - Gold: 10,200
+    - Amrita: 4,880
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 6
+    - Number of Sudama: 3
+    - Number of Hot Springs: 2
+    - Number of Dark Realms: 2
+    - Bosses: 
+        - Onryoki
+        - Saito Yoshitatsu
+    - Guardian Spirit Unlocked: 
+        - Double Guardian Spirits. Unlocks: Makami / Ame-no-Mitori / Kagewani (only 1 will be given).
+    - Mission Rewards: 
+    First Time:
+        - Genryu's Helmet (rare)
+        - Genryu's Cuirass (rare)
+        - Genryu's Waistguard (rare)
+        - Hand Mirror (accessory) (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Udoto (sword) (rare)
+        - Genryu's Gauntlets (rare)
+        - Genryu's Greaves (rare)
+        - Spirit Stone X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Ninja's Locks.
+        - Onmyo Mage's Locks.
+        - Unlocks 2nd Guardian Spirit (complete mission).
+
+==========
+An End to Seclusion (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Hollow Fortress".
+    --------------------
+    - Recommended level: 54
+    - Gold: 10,600
+    - Amrita: 5,200
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 3 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Tobikura Kusarigama (rare)
+        - Sacred Arrow X4
+        - Roaring Gun Ammunition X3
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Slender Vertebra X1
+        - Sacred Arrow X3
+        - Roaring Gun Ammunition X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Shiftling's Wise Judgement (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Hollow Fortress".
+    --------------------
+    - Recommended level: 57
+    - Gold: 11,000
+    - Amrita: 5,536
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Shibata Katsuie
+        - Hachisuka Koroku
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 
@@ -1415,129 +1584,10 @@ The Sunomata Yokai Hunt (Sub Mission)
 
 
 
-    
-
-    
-
-    
-
-    
 
 
 
-    ==========
-    A Hot-blodded Howl (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Mysterious One Night Castle".
-        --------------------
-        - Recommended level: 47
-        - Gold: 9,400
-        - Amrita: 4,272
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 5
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - Okuri-Inu
-        - Notable Items In Mission / Mission Rewards:
-            - None
 
-    ==========
-    The Fire God's Magatama (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Mysterious One Night Castle".
-        --------------------
-        - Recommended level: 49
-        - Gold: 9,800
-        - Amrita: 4,560
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 3 (0 required)
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-    ==========
-    The Hollow Fortress (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Mysterious One Night Castle".
-        --------------------
-        - Recommended level: 50
-        - Gold: 10,200
-        - Amrita: 4,880
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 6
-        - Number of Sudama: 3
-        - Number of Hot Springs: 2
-        - Number of Dark Realms: 2
-        - Bosses: 
-            - Onryoki
-            - Saito Yoshitatsu
-        - Guardian Spirit Unlocked: 
-            - Double Guardian Spirits Unlocks | Makami / Ame-no-Mitori / Kagewani (only 1 will be given).
-        - Notable Items In Mission / Mission Rewards:
-            - Ninja's Locks.
-            - Onmyo Mage's Locks.
-            - Unlocks 2nd Guardian Spirit (complete mission).
-
-    ==========
-    An End to Seclusion (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Hollow Fortress".
-        --------------------
-        - Recommended level: 54
-        - Gold: 10,600
-        - Amrita: 5,200
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 3 (0 required)
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-    ==========
-    The Shiftling's Wise Judgement (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Hollow Fortress".
-        --------------------
-        - Recommended level: 57
-        - Gold: 11,000
-        - Amrita: 5,536
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 1
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Shibata Katsuie
-            - Hachisuka Koroku
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
 
     ==========
     The Viper and the Butterfly (Sub Mission)
