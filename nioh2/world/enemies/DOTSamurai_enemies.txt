@@ -528,6 +528,7 @@ Dark Omens (Sub Mission)
     - Rogue (rifle, sword)
     - Outlaw (bow + fire arrow, sword)
     - Outlaw (rifle, sword)
+    - Outlaw (conch shell, sword)
     - Rogue (big) (axe)
     - Abbarant Soldier (first time)
     - Enki
@@ -858,7 +859,7 @@ The Shiftling's Wise Judgement (Sub Mission)
         - Shibata Katsuie (NPC, Ally)
         - Hachisuka Koroku (NPC, Ally)
     --------------------
-    (Side w/ Hachisuka Koroku)
+    (Side w/ Hachisuka Koroku):
     - Warrior (axe)
     - Warrior (big) (dual swords)
     - Warrior (big) (odachi)
@@ -875,98 +876,100 @@ The Shiftling's Wise Judgement (Sub Mission)
     - Ninja (kusarigama) (first time)
     - Shibata Katsuie (boss) (first time)
 
-    (Side w/ Shibata Katsuie)
-    - Skeleton Warrior ()
+    (Side w/ Shibata Katsuie):
+    - Skeleton Warrior (spear)
     - Enki
     - Gaki
     - Karakasa Umbrella
     - One-Eyed Oni
     - Dweller
+    - Gaki (big)
     - Ippon Datara (odachi)
+    - Dweller (big)
     - Ippon-Datara (hammer)
     - Hachisuka Koroku (boss) (first time)
 
+==========
+The Viper and the Butterfly (Sub Mission)
+==========
+    - Quest Giver: Princess Noh
+    - Characters:
+        - Princess Noh (Cutscenes)
+        - Oda Nobunaga (Cutscenes)
+    --------------------
+    - Gaki
+    - Nurikabe
+    - Koroka
+    - Nure-Onna
+    - Abbarant Soldier
+    - Snowclops
+    - Karasu Tengu
+    - Biwa Boku-Boku
+    - Yamanba
+    - Revenant (switchglaive)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-    
-
-
-
-    ==========
-    The Viper and the Butterfly (Sub Mission)
-    ==========
-        - Quest Giver: Princess Noh
-        - Characters:
-            - Princess Noh (Cutscenes)
-            - Oda Nobunaga (Cutscenes)
-        --------------------
-        - Gaki
-        - Nurikabe
-        - Koroka
-        - Nure-Onna
-        - Abbarant Soldier
-        - One-Eyed Oni
-        - Karasu Tengu
-        - Biwa Boku-Boku
-        - Yamanba
-        - Revenant
-    
 
 ========== ========== ========== ========== ==========
 Shadow Region (Region 3)
 ========== ========== ========== ========== ==========
-    ==========
-    A Way Out (Main Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters:
-            - Saito Toshimitsu (Cutscenes)
-            - Akechi Mitsuhide (Cutscenes)
-            - Tokichiro (Cutscenes)
-            - Hachisuka Koroku (Cutscenes)
-            - Mumyo (Cutscenes, NPC)
-            - Takenaka Hanbei (NPC)
-            - Oda Nobunaga (Cutscenes)
-            - Matsunaga Hisahide (Cutscenes)
-        --------------------
-        - Ninja Dog (first time)
-        - Rogue
-        - Warrior
-        - Gaki
-        - Skeleton Warrior
-        - Yamanba
-        - Mitsume Yazura (first time)
-        - Revenant
-        - Biwa Boku-Boku
-        - One-Eyed Imp (first time)
-        - Karasu Tengu
-        - Karakasa Umbrella
-        - Nurikabe
-        - Tatarimokke (boss) (first time)
+==========
+A Way Out (Main Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Saito Toshimitsu (Cutscenes)
+        - Akechi Mitsuhide (Cutscenes)
+        - Tokichiro (Cutscenes)
+        - Hachisuka Koroku (Cutscenes)
+        - Mumyo (Cutscenes, NPC)
+        - Takenaka Hanbei (NPC)
+        - Oda Nobunaga (Cutscenes)
+        - Matsunaga Hisahide (Cutscenes)
+    --------------------
+    - Ninja Dog (first time)
+    - Rogue
+    - Warrior
+    - Gaki
+    - Skeleton Warrior
+    - Yamanba
+    - Mitsume Yazura (first time)
+    - Revenant
+    - Biwa Boku-Boku
+    - One-Eyed Imp (first time)
+    - Karasu Tengu
+    - Karakasa Umbrella
+    - Nurikabe
+    - Tatarimokke (boss) (first time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
 
     ==========
     Learning A Lesson (Sub Mission)

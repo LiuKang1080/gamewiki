@@ -1548,96 +1548,124 @@ The Shiftling's Wise Judgement (Sub Mission)
         - None
     - Mission Rewards: 
     First Time:
-        - 
+        - Double-headed Snake Tonfa (rare)
+        - Borehole Bow (rare)
+        - Sakai Rifle (rare)
+        - Explosive Rounds X3
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Explosive Rounds X2
+        - Quality Wood X5
+        - Quality Lacquer X5
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Viper and the Butterfly (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Hollow Fortress".
+    --------------------
+    - Recommended level: 58
+    - Gold: 11,400
+    - Amrita: 5,888
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - Usura-Hicho
+    - Mission Rewards: 
+    First Time:
+        - Sasayuki Switchglaive (Water) (rare)
+        - Principal Governor's Cuirass (rare)
+        - Principal Governor's Waistguard (rare)
+        - Comb (accessory) (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Sasayuki Switchglaive (Water) (rare)
+        - Principal Governor's Faceplate (rare)
+        - Principal Governor's Gauntlets (rare)
+        - Principal Governor's Greaves (rare)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    The Viper and the Butterfly (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Hollow Fortress".
-        --------------------
-        - Recommended level: 58
-        - Gold: 11,400
-        - Amrita: 5,888
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - Usura-Hicho
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-
 ========== ========== ========== ========== ========== ========== ==========
 Shadow Region (Region 3)
 ========== ========== ========== ========== ========== ========== ==========
-    ==========
-    A Way Out (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Hollow Fortress".
-        --------------------
-        - Recommended level: 59
-        - Gold: 12,000
-        - Amrita: 6,432
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 7
-        - Number of Sudama: 2
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 3
-        - Bosses: 
-            - Tatarimokke 
-        - Guardian Spirit Unlocked: 
-            - Yaonami-Hime
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks.
-            - Ninja's Locks.
-            - Unlocks the Hidden Tea House.    
+==========
+A Way Out (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Hollow Fortress".
+    --------------------
+    - Recommended level: 59
+    - Gold: 12,000
+    - Amrita: 6,432
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 7
+    - Number of Sudama: 2
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 3
+    - Bosses: 
+        - Tatarimokke 
+    - Guardian Spirit Unlocked: 
+        - Yaonami-Hime
+    - Mission Rewards: 
+    First Time:
+        - Sohaya Mask (rare)
+        - Sohaya Cuirass (rare)
+        - Tenmoku ()
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Onmyo Mage's Locks.
+        - Ninja's Locks.
+        - Unlocks the Hidden Tea House.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     Learning A Lesson (Sub Mission)
