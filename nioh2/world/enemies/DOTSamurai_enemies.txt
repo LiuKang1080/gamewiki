@@ -21,6 +21,7 @@ The Violet Cherry Blossoms (The Village of Cursed Blossoms | Awakening Region (R
     - Yoki (sword)
     - Infernal Oni-Bi
     - Maelstrom Oni-Bi
+    - Mujina
     - Yoki (axe)
     - Nure-Onna
     - Abbarant Soldier
@@ -927,20 +928,153 @@ A Way Out (Main Mission)
         - Matsunaga Hisahide (Cutscenes)
     --------------------
     - Ninja Dog (first time)
-    - Rogue
-    - Warrior
-    - Gaki
-    - Skeleton Warrior
+    - Rogue (bow + fire arrow, sword)
+    - Rogue (torch, sword)
+    - Rogue (axe)
+    - Rogue (sword)
+    - Rogue (spear)
+    - Warrior (big) (torch, odachi)
     - Yamanba
+    - Gaki
+    - Skeleton Warrior (big) (axe)
+    - Skeleton Warrior (bow + fire arrow, sword)
+    - Warrior (big) (spear)
+    - Warrior (big) (odachi)
+    - Outlaw (sword)
+    - Outlaw (conch shell, sword)
     - Mitsume Yazura (first time)
-    - Revenant
-    - Biwa Boku-Boku
     - One-Eyed Imp (first time)
+    - Biwa Boku-Boku
+    - Skeleton Warrior (cannon, sword)
+    - Skeleton Warrior (spear)
     - Karasu Tengu
+    - Outlaw (rifle, sword)
+    - Outlaw (axe)
     - Karakasa Umbrella
+    - Skeleton Warrior (rifle, sword)
     - Nurikabe
     - Tatarimokke (boss) (first time)
 
+==========
+Learning A Lesson (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - None
+    --------------------
+    - Rogue (axe)
+    - Rogue (sword)
+    - Rogue (cannon, sword)
+    - Warrior (big) (odachi)
+    - Skeleton Warrior (spear)
+    - Dweller
+    - Gaki
+    - Yamanba
+    - Yoki (sword)
+    - Rogue (torch, sword)
+    - Sohaya Warrior (hatchets)
+    - Skeleton Warrior (cannon, sword)
+    - Ippon Datara (odachi)
+    - Warrior (big) (hammer)
+    - Sohaya Warrior (switchglaive)
+    - Abbarant Soldier
+    - Warrior (big) (axe)
+    - Kappa
+    - Enki
+
+==========
+The Shrine of Oaths (Sub Mission)
+==========
+    - Quest Giver: Takenaka Hanbei
+    - Characters:
+        - None
+    --------------------
+    - Abbarant Soldier
+    - Yoki (axe)
+    - Yoki (sword)
+    - Mitsume Yazura 
+    - One-Eyed Oni
+    - Gaki
+    - Koroka
+    - Rogue (conch shell, sword)
+    - Rogue (spear)
+    - Rogue (big) (odachi)
+    - Rogue (bow + fire arrow, sword)
+    - Rogue (rifle, sword)
+    - Karakasa Umbrella
+    - Maelstrom Oni-Bi
+    - Infernal Oni-Bi
+    - Karasu Tengu
+
+==========
+Immoveable (Sub Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters:
+        - None
+    --------------------
+    - Sohaya Warrior (axe) (first time)
+    - Sohaya Warrior (hatchets)
+    - Rogue (torch, rifle, sword)
+    - Rogue (rifle, sword)
+    - Rogue (big) (spear)
+    - Rogue (axe)
+    - Ninja Dog
+    - Sohaya Warrior (odachi) (first time)
+    - Enki
+    - Mitsume Yazura
+    - Gaki
+    - Skeleton Warrior (rifle, sword)
+    - Karasu Tengu
+    - Skeleton Warrior (spear)
+    - Skeleton Warrior (big) (axe)
+
+==========
+A Formal Match (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters: 
+        - Tokichiro (NPC)
+        - Oda Nobunaga (NPC)
+    --------------------
+    - Obsidian Samurai (boss) (first time)
+
+==========
+Corpses and Ice (Main Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters: 
+        - Oda Nobunaga (Cutscenes)
+        - Maeda Toshiie (Cutscenes)
+        - Shibata Katsuie (Cutscenes)
+        - Mumyo (NPC, Ally)
+        - Hattori Hanzo (Cutscenes)
+        - Honda Tadakatsu (Cutscenes, NPC)
+    --------------------
+    - Warrior (sword)
+    - Warrior (spear)
+    - Warrior (torch, sword)
+    - Warrior (rifle, sword)
+    - Warrior (big) (odachi)
+    - Warrior (torch, rifle, sword)
+    - Mujina
+    - Skeleton Warrior (rifle, sword)
+    - Gaki
+    - Yoki (axe)
+    - Enki
+    - Warrior (torch, axe)
+    - Skeleton Warrior (big) (axe)
+    - Skeleton Warrior (spear)
+    - Warrior (conch shell, sword)
+    - Warrior (axe)
+    - Mitsume Yazura
+    - Rokurokubi
+    - Warrior (big) (spear)
+    - Magara Takamoto (first time)
+    - Namahage (first time)
+    - Maelstrom Oni-Bi
+    - Lesser Umi-Bozu
+    - Magara Naotaka (boss) (first time)
 
 
 
@@ -966,105 +1100,11 @@ A Way Out (Main Mission)
 
 
 
-    
 
 
 
 
-    ==========
-    Learning A Lesson (Sub Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters:
-            - None
-        --------------------
-        - Rogue
-        - Warrior
-        - Gaki
-        - Yamanba
-        - Dweller
-        - Yoki (sword)
-        - Sohaya Warrior (hatchets)
-        - Skeleton Warrior
-        - Ippon Datara (odachi)
-        - Abbarant Soldier
-        - Enki
-        - Kappa
 
-    ==========
-    The Shrine of Oaths (Sub Mission)
-    ==========
-        - Quest Giver: Takenaka Hanbei
-        - Characters:
-            - None
-        --------------------
-        - Abbarant Soldier
-        - Yoki (axe)
-        - Yoki (sword)
-        - Mitsume Yazura 
-        - One-Eyed Oni
-        - Gaki
-        - Koroka
-        - Rogue
-        - Warrior
-        - Karakasa Umbrella
-        - Maelstrom Oni-Bi
-        - Infernal Oni-Bi
-        - Karasu Tengu
-
-    ==========
-    Immoveable (Sub Mission)
-    ==========
-        - Quest Giver: Mumyo
-        - Characters:
-            - None
-        --------------------
-        - Sohaya Warrior (axe) (first time)
-        - Sohaya Warrior (hatchets)
-        - Rogue
-        - Warrior
-        - Ninja Dog
-        - Sohaya Warrior (odachi) (first time)
-        - Enki
-        - Mitsume Yazura
-        - Gaki
-        - Karasu Tengu
-        - Skeleton Warrior
-
-    ==========
-    A Formal Match (Sub Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters: 
-            - Tokichiro (NPC)
-            - Oda Nobunaga (NPC)
-        --------------------
-        - Obsidian Samurai (boss) (first time)
-
-    ==========
-    Corpses and Ice (Main Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters: 
-            - Oda Nobunaga (Cutscenes)
-            - Maeda Toshiie (Cutscenes)
-            - Shibata Katsuie (Cutscenes)
-            - Mumyo (NPC, Ally)
-            - Hattori Hanzo (Cutscenes)
-            - Honda Tadakatsu (Cutscenes, NPC)
-        --------------------
-        - Warrior
-        - Skeleton Warrior
-        - Gaki
-        - Yoki (axe)
-        - Enki
-        - Mitsume Yazura
-        - Rokurokubi
-        - Magara Takamoto (first time)
-        - Namahage (first time)
-        - Maelstrom Oni-Bi
-        - Lesser Umi-Bozu
-        - Magara Naotaka (boss) (first time)
 
     ==========
     Lingering Snow and Crimson Tracks (Sub Mission)

@@ -869,20 +869,20 @@ The Village of Cursed Blossoms (Main Mission)
     - Guardian Spirit Unlocked: 
         - Masaru
     - Mission Rewards: 
-        First Time:
-            - Longbow (uncommon)
-            - Sacred Arrow x4
-            - High-Quality Leather Platelet x3
-            - Red Spider Lily x1
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - Blood-Encrusted Sawtooth x1
-            - Warped Jawbone x1
-            - Quality Leather Platelet x3
-            - Quality Leather Cord x3
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - Gain Samurai Skill points in level.
+    First Time:
+        - Longbow (uncommon)
+        - Sacred Arrow x4
+        - High-Quality Leather Platelet x3
+        - Red Spider Lily x1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Blood-Encrusted Sawtooth x1
+        - Warped Jawbone x1
+        - Quality Leather Platelet x3
+        - Quality Leather Cord x3
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Gain Samurai Skill points in level.
 
 ==========
 The Forest Veiled in Darkness (Sub Mission)
@@ -904,19 +904,19 @@ The Forest Veiled in Darkness (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-        First Time:
-            - Small Spirit Stone x2
-            - Yokai Incense x1
-            - Mountain Bandit Hatchets (rare)
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - Night Raider Cuirass (uncommon) (chest)
-            - Night Raider Waistguard (uncommon) (legs)
-            - Quality Wood x3
-            - Quality Lacquer x2
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - Unlocks the Manage Soul Core option at the Shrine after beating mission.
+    First Time:
+        - Small Spirit Stone x2
+        - Yokai Incense x1
+        - Mountain Bandit Hatchets (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Night Raider Cuirass (uncommon) (chest)
+        - Night Raider Waistguard (uncommon) (legs)
+        - Quality Wood x3
+        - Quality Lacquer x2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Unlocks the Manage Soul Core option at the Shrine after beating mission.
 
 ==========
 The Beast Born of Smoke and Flames (Main Mission)
@@ -938,25 +938,25 @@ The Beast Born of Smoke and Flames (Main Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-        First Time:
-            - Highest Quality Tamahagane x3
-            - Highest Quality Ingot x3
-            - Highest Quality Iron Platelet x3
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - Ippon-Datara Fang x1
-            - High-Quality Tamahagane x2
-            - Quality Ingot x2
-            - Quality Iron Platelet x2
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - Ninja's Locks.
-            - Onmyo Mage's Locks.
-            - Gain Samurai Skill point in level.
-            - Unlocks Agyo Titles after beating mission.
-            - Unlocks Ungyo Titles after beating mission.
-            - Unlocks the Blacksmith option at the Starting Point after beating mission.
-            - Unlocks the Dojo mission: "The Way of the Warrior: Novice" after beating mission.
+    First Time:
+        - Highest Quality Tamahagane x3
+        - Highest Quality Ingot x3
+        - Highest Quality Iron Platelet x3
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Ippon-Datara Fang x1
+        - High-Quality Tamahagane x2
+        - Quality Ingot x2
+        - Quality Iron Platelet x2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Ninja's Locks.
+        - Onmyo Mage's Locks.
+        - Gain Samurai Skill point in level.
+        - Unlocks Agyo Titles after beating mission.
+        - Unlocks Ungyo Titles after beating mission.
+        - Unlocks the Blacksmith option at the Starting Point after beating mission.
+        - Unlocks the Dojo mission: "The Way of the Warrior: Novice" after beating mission.
 
 ==========
 A Voice in the Twilight (Sub Mission)
@@ -978,20 +978,20 @@ A Voice in the Twilight (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-        First Time:
-            - Clay Bell of Beckoning x1
-            - Summoner's Candle x1
-            - Bandit Axe (rare)
-            - Demon's Horn x1
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - Clay Bell of Beckoning x1
-            - Demon's Horn x1
-            - Divine Branch x1
-            - Signpost Amulet x2
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - Increases Astral Wisdom.
+    First Time:
+        - Clay Bell of Beckoning x1
+        - Summoner's Candle x1
+        - Bandit Axe (rare)
+        - Demon's Horn x1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Clay Bell of Beckoning x1
+        - Demon's Horn x1
+        - Divine Branch x1
+        - Signpost Amulet x2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Increases Astral Wisdom.
 
 ==========
 Dark Omens (Sub Mission)
@@ -1013,21 +1013,21 @@ Dark Omens (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-        First Time:
-            - Sacred Ash x1
-            - Small Spirit Stone x3
-            - Genin's Kusarigama (rare)
-            - Brawler's Waistguard (rare)
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - Brawler's Cuirass (uncommon)
-            - Brawler's Greaves (uncommon)
-            - Brawler's Helmet (rare)
-            - Small Spirit Stone x1
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - Onmyo Mage's Locks.
-            - Ninja's Locks.
+    First Time:
+        - Sacred Ash x1
+        - Small Spirit Stone x3
+        - Genin's Kusarigama (rare)
+        - Brawler's Waistguard (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Brawler's Cuirass (uncommon)
+        - Brawler's Greaves (uncommon)
+        - Brawler's Helmet (rare)
+        - Small Spirit Stone x1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Onmyo Mage's Locks.
+        - Ninja's Locks.
 
 ==========
 The Viper's Sanctum (Main Mission)
@@ -1049,24 +1049,24 @@ The Viper's Sanctum (Main Mission)
     - Guardian Spirit Unlocked: 
         - Shirohami
     - Mission Rewards: 
-        First Time:
-            - Shinto Priest's Hunting Garb (rare)
-            - Shinto Priest's Hakama (rare)
-            - Tanegashima Matchlock (rare)
-            - Roaring Gun Ammunition x4
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - Bladed Horn x1
-            - Glowing Lock of Wet Hair x1
-            - Shinto Priest's Headgear
-            - Poison Pearl x1
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - Onmyo Mage's Locks.
-            - Ninja's Locks.
-            - Unlocks Twilight Missions after beating level.
-            - Unlocks the Dojo mission: "The Way of the Ninja: Novice" after beating level.
-            - Unlocks the Dojo mission: "The Way of the Onmyo: Novice" after beating level.
+    First Time:
+        - Shinto Priest's Hunting Garb (rare)
+        - Shinto Priest's Hakama (rare)
+        - Tanegashima Matchlock (rare)
+        - Roaring Gun Ammunition x4
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Bladed Horn x1
+        - Glowing Lock of Wet Hair x1
+        - Shinto Priest's Headgear
+        - Poison Pearl x1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Onmyo Mage's Locks.
+        - Ninja's Locks.
+        - Unlocks Twilight Missions after beating level.
+        - Unlocks the Dojo mission: "The Way of the Ninja: Novice" after beating level.
+        - Unlocks the Dojo mission: "The Way of the Onmyo: Novice" after beating level.
 
 ==========
 A Favor for the Blacksmith (Sub Mission)
@@ -1088,20 +1088,20 @@ A Favor for the Blacksmith (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-        First Time:
-            - Kobizen Odachi (rare)
-            - Bronze Hammer (rare)
-            - Officer's Spear (rare)
-            - Retainer's Tonfa (rare)
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - Martial Artist's Switchglaive
-            - Seki Dual Tachi (dual swords)
-            - Naked Steel Kusarigama
-            - Bizen Osafune (sword)
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - Kagatsuchi Magatama (Mission Reward - Increases the average rarity of uncommon+ forged items by 1%).
+    First Time:
+        - Kobizen Odachi (rare)
+        - Bronze Hammer (rare)
+        - Officer's Spear (rare)
+        - Retainer's Tonfa (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Martial Artist's Switchglaive
+        - Seki Dual Tachi (dual swords)
+        - Naked Steel Kusarigama
+        - Bizen Osafune (sword)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Kagatsuchi Magatama (Mission Reward - Increases the average rarity of uncommon+ forged items by 1%).
 
 ==========
 The Search (Sub Mission)
@@ -1123,18 +1123,18 @@ The Search (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-        First Time:
-            - Kodama Bowl (rare)
-            - Possessed Kodama Bowl x1
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - Quality Leather Cord x3
-            - Possessed Kodama Bowl x2
-            - Quality Leather Platelet x3
-            - Signpost Amulet x2
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - Smithing Text: Possessed Kodama Bowl.
+    First Time:
+        - Kodama Bowl (rare)
+        - Possessed Kodama Bowl x1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Quality Leather Cord x3
+        - Possessed Kodama Bowl x2
+        - Quality Leather Platelet x3
+        - Signpost Amulet x2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Smithing Text: Possessed Kodama Bowl.
 
 ==========
 The Greedy Hunter (Sub Mission)
@@ -1156,19 +1156,19 @@ The Greedy Hunter (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-        First Time:
-            - Gyosha Hand Axe (rare)
-            - Seven Scalp Switchglaive (rare)
-            - Sohaya Garb Faceplate (uncommon)
-            - Enki Pelt x2
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - Enki Pelt x1
-            - Skeletal Warrior's Sacrum x1
-            - Warped Jawbone x1
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - None
+    First Time:
+        - Gyosha Hand Axe (rare)
+        - Seven Scalp Switchglaive (rare)
+        - Sohaya Garb Faceplate (uncommon)
+        - Enki Pelt x2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Enki Pelt x1
+        - Skeletal Warrior's Sacrum x1
+        - Warped Jawbone x1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -1194,21 +1194,21 @@ The Hidden Monsters of Okehazama (Main Mission)
     - Guardian Spirit Unlocked: 
         - Rokugezo
     - Mission Rewards: 
-        First Time:
-            - Samurai's Locks x1
-            - Master Archer's Bow (rare)
-            - Master Archer's Cuirass (rare)
-            - Master Archer's Waistguard (rare)
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - Sozasamonji Matsukurago (dual swords) (rare)
-            - Master Archer's Greaves (rare)
-            - Master Archer's Gauntlets (rare)
-            - Lightning Amulet X2 (common)
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - Ninja's Locks.
-            - Onmyo Mage's Locks.
+    First Time:
+        - Samurai's Locks x1
+        - Master Archer's Bow (rare)
+        - Master Archer's Cuirass (rare)
+        - Master Archer's Waistguard (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Sozasamonji Matsukurago (dual swords) (rare)
+        - Master Archer's Greaves (rare)
+        - Master Archer's Gauntlets (rare)
+        - Lightning Amulet X2 (common)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Ninja's Locks.
+        - Onmyo Mage's Locks.
 
 ==========
 Imagawa Diehard (Sub Mission)
@@ -1230,19 +1230,19 @@ Imagawa Diehard (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-        First Time:
-            - Master Archer's Hat (rare)
-            - Wild Boar Crest Helmet (rare)
-            - Sessai's Switchglaive (rare)
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - Wild Boar Crest Helmet (rare)
-            - Quality Lacquer x3
-            - Quality Wood X3
-            - Righteous Jasper X2
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - None
+    First Time:
+        - Master Archer's Hat (rare)
+        - Wild Boar Crest Helmet (rare)
+        - Sessai's Switchglaive (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Wild Boar Crest Helmet (rare)
+        - Quality Lacquer x3
+        - Quality Wood X3
+        - Righteous Jasper X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 ==========
 Hidetatsu's Dying Wish (Sub Mission)
@@ -1264,20 +1264,20 @@ Hidetatsu's Dying Wish (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-        First Time:
-            - Transient Blade (rare)
-            - Pit Viper's Robes (rare)
-            - Pit Viper's Hakama (rare)
-            - Pit Viper's Shoes (rare)
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - Transient Blade (rare)
-            - Pit Viper's Robes (rare)
-            - Pit Viper's Hakama (rare)
-            - Pit Viper's Shoes (rare)
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - None
+    First Time:
+        - Transient Blade (rare)
+        - Pit Viper's Robes (rare)
+        - Pit Viper's Hakama (rare)
+        - Pit Viper's Shoes (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Transient Blade (rare)
+        - Pit Viper's Robes (rare)
+        - Pit Viper's Hakama (rare)
+        - Pit Viper's Shoes (rare)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 ==========
 An Error in Calculation (Sub Mission)
@@ -1623,16 +1623,191 @@ A Way Out (Main Mission)
     First Time:
         - Sohaya Mask (rare)
         - Sohaya Cuirass (rare)
-        - Tenmoku ()
+        - Tenmoku (tea utensil) (rare)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Petrified Eye X1
+        - Sohaya Gauntlets (rare)
+        - Sohaya Waistguard (rare)
+        - Sohaya Greaves (rare)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - Onmyo Mage's Locks.
         - Ninja's Locks.
+        - Increases Astral Wisdom.
         - Unlocks the Hidden Tea House.
-        
+
+==========
+Learning A Lesson (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "A Way Out".
+    --------------------
+    - Recommended level: 62
+    - Gold: 12,400
+    - Amrita: 6,816
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Jikkyu Mitsutada (sword) (rare)
+        - Sacred Water X5
+        - Spirit Stone X3
+        - Skeletal Warrior's Sacrum X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Jikkyu Mitsutada (sword) (rare)
+        - Sacred Water X3
+        - Spirit Stone X1
+        - Aberrant Spirit Stone X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Shrine of Oaths (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "A Way Out".
+    --------------------
+    - Recommended level: 63
+    - Gold: 13,200
+    - Amrita: 7,616
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - Makami / Ame-no-Mitori / Kagewani (only 1 will be given).
+    - Mission Rewards: 
+    First Time:
+        - Petrified Eye X1
+        - Poison Omamori (accessory) (rare)
+        - Prayer Beads (accessory) (rare)
+        - Divine Branch X3
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Petrified Eye X1
+        - Divine Branch X3
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Onmyo Mage's Locks.
+
+==========
+Immovable (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "A Way Out".
+    --------------------
+    - Recommended level: 63
+    - Gold: 12,800
+    - Amrita: 7,200
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Extinction Switchglaive (rare)
+        - Small Spirit Stone X6
+        - Summoner's Candle X1
+        - Omamori (accessory) (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Small Spirit Stone X3
+        - Skeletal Warrior's Sacrum X1
+        - Warped Jawbone X2
+        - Yokai Water Pot X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+A Formal Match (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "A Way Out".
+    --------------------
+    - Recommended level: 64
+    - Gold: 13,800
+    - Amrita: 8,240
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Obsidian Samurai
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Gozutenno's Axe (rare)
+        - Obsidian Helmet (rare)
+        - Obsidian Cuirass (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Starcutter Sword (uncommon)
+        - Obsidian Waistguard (uncommon)
+        - Obsidian Gauntlets (uncommon)
+        - Obsidian Greaves (uncommon)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+Corpses and Ice (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "A Way Out".
+    --------------------
+    - Recommended level: 65
+    - Gold: 13,400
+    - Amrita: 7,824
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 8
+    - Number of Sudama: 2
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 3
+    - Bosses: 
+        - Magara Naotaka
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Taro Tachi (Water) (odachi) (rare)
+        - Water Omamori (accessory) (rare)
+        - Highest-Quality Leather Platelet X3
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Namahage Horn X1
+        - Water Amulet X3
+        - High-Quality Leather Platelet X3
+        - High-Quality Leather Cord X3
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Onmyo Mage's Locks.
+        - Ninja's Locks.
 
 
 
@@ -1667,116 +1842,8 @@ A Way Out (Main Mission)
 
 
 
-    ==========
-    Learning A Lesson (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "A Way Out".
-        --------------------
-        - Recommended level: 62
-        - Gold: 12,400
-        - Amrita: 6,816
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 1
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
 
-    ==========
-    The Shrine of Oaths (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "A Way Out".
-        --------------------
-        - Recommended level: 63
-        - Gold: 13,200
-        - Amrita: 7,616
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - Makami / Ame-no-Mitori / Kagewani (only 1 will be given).
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks.
 
-    ==========
-    Immovable (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "A Way Out".
-        --------------------
-        - Recommended level: 63
-        - Gold: 12,800
-        - Amrita: 7,200
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-    ==========
-    A Formal Match (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "A Way Out".
-        --------------------
-        - Recommended level: 64
-        - Gold: 13,800
-        - Amrita: 8,240
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Obsidian Samurai
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-    ==========
-    Corpses and Ice (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "A Way Out".
-        --------------------
-        - Recommended level: 65
-        - Gold: 13,400
-        - Amrita: 7,824
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 8
-        - Number of Sudama: 2
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 3
-        - Bosses: 
-            - Magara Naotaka
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks.
-            - Ninja's Locks.
 
     ==========
     Lingering Snow and Crimson Tracks (Sub Mission)
