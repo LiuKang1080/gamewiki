@@ -1071,11 +1071,110 @@ Corpses and Ice (Main Mission)
     - Rokurokubi
     - Warrior (big) (spear)
     - Magara Takamoto (first time)
-    - Namahage (first time)
+    - Namahage (dual cleavers) (first time)
+    - Namahage (odachi) (first time)
     - Maelstrom Oni-Bi
     - Lesser Umi-Bozu
     - Magara Naotaka (boss) (first time)
 
+==========
+Lingering Snow and Crimson Tracks (Sub Mission)
+==========
+    - Quest Giver: Takenaka Hanbei
+    - Characters: 
+        - None
+    --------------------
+    - Karakasa Umbrella
+    - One-Eyed Imp
+    - Snowclops
+    - Enki
+    - Namahage (dual cleavers)
+    - Maelstrom Oni-Bi
+    - Infernal Oni-Bi
+    - Flying Bolt (first time)
+
+==========
+The Tiger Approaches (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters: 
+        - Honda Tadakatsu (Ally)
+    --------------------
+    - Abbarant Soldier
+    - Skeleton Warrior (rifle, sword)
+    - Gaki
+    - Enki
+    - Rokurokubi (spear)
+    - Rokurokubi (sword)
+    - Snowclops
+    - Mitsume Yazura
+    - Rokurokubi (dual swords)
+    - Yamanba
+    - Namahage (dual cleavers)
+
+==========
+The Brother's Baldes (Sub Mission)
+==========
+    - Quest Giver: Honda Tadakatsu
+    - Characters: 
+        - None
+    --------------------
+    - Rokurokubi (torch, spear)
+    - Abbarant Soldier
+    - Revenant (odachi)
+    - Skeleton Warrior (spear)
+    - Skeleton Warrior (rifle, sword)
+    - Magara Naotaka (boss)
+
+==========
+A Shadow's Duty (Sub Mission)
+==========
+    - Quest Giver: Honda Tadakatsu
+    - Characters: 
+        - Hattori Hanzo (NPC)
+    --------------------
+    - Warrior (big) (axe)
+    - Warrior (sword)
+    - Ninja (bow + fire arrow, sword)
+    - Warrior (big) (sword)
+    - Warrior (rifle, sword)
+    - Warrior (axe)
+    - Warrior (torch, sword)
+    - Ninja (sword)
+    - Skeleton Warrior (big) (axe)
+    - Gaki
+    - Abbarant Soldier
+    - Warrior (odachi) (first time)
+    - Warrior (big) (rifle, sword) (first time)
+    - Warrior (spear)
+    - Warrior (conch shell, sword)
+    - Enki
+    - Skeleton Warrior (sword)
+    - Skeleton Warrior (spear)
+    - Rokurokubi (dual swords)
+    - Namahage (dual cleavers)
+
+==========
+The Fallen Star (Sub Mission)
+==========
+    - Quest Giver: Maeda Toshiie
+    - Characters: 
+        - Maeda Toshiie (Ally)
+    --------------------
+    - Takeda Shingen (first time)
+    - Yamamoto Kansuke (Revenant) (first time)
+    - Biwa Boku-Boku
+    - Revenant (N/A | summon from Biwa Boku Boku)
+    - Thunderstorm Oni-Bi
+
+==========
+Horns on Head, Dragonfly in Hand (Main Mission)
+==========
+    - Quest Giver: Honda Tadakatsu
+    - Characters: 
+        - None
+    --------------------
+    - Honda Tadakatsu (boss) (first time)
 
 
 
@@ -1106,89 +1205,6 @@ Corpses and Ice (Main Mission)
 
 
 
-    ==========
-    Lingering Snow and Crimson Tracks (Sub Mission)
-    ==========
-        - Quest Giver: Takenaka Hanbei
-        - Characters: 
-            - None
-        --------------------
-        - Karakasa Umbrella
-        - One-Eyed Imp
-        - Snowclops
-        - Enki
-        - Namahage
-        - Maelstrom Oni-Bi
-        - Infernal Oni-Bi
-        - Flying Bolt (first time)
-
-    ==========
-    The Tiger Approaches (Sub Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters: 
-            - Honda Tadakatsu (Ally)
-        --------------------
-        - Abbarant Soldier
-        - Skeleton Warrior
-        - Rokurokubi
-        - Gaki
-        - Enki
-        - Snowclops
-        - Mitsume Yazura
-        - Yamanba
-        - Namahage
-
-    ==========
-    The Brother's Baldes (Sub Mission)
-    ==========
-        - Quest Giver: Honda Tadakatsu
-        - Characters: 
-            - None
-        --------------------
-        - Abbarant Soldier
-        - Rokurokubi
-        - Revenant
-        - Skeleton Warrior
-        - Magara Naotaka (boss)
-
-    ==========
-    A Shadow's Duty (Sub Mission)
-    ==========
-        - Quest Giver: Honda Tadakatsu
-        - Characters: 
-            - Hattori Hanzo (NPC)
-        --------------------
-        - Warrior
-        - Ninja
-        - Gaki
-        - Abbarant Soldier
-        - Skeleton Warrior
-        - Rokurokubi
-        - Enki
-        - Namahage
-
-    ==========
-    The Fallen Star (Sub Mission)
-    ==========
-        - Quest Giver: Maeda Toshiie
-        - Characters: 
-            - Maeda Toshiie (Ally)
-        --------------------
-        - Takeda Shingen (first time)
-        - Yamamoto Kansuke (Revenant) (first time)
-        - Revenant
-        - Biwa Boku-Boku
-        - Thunderstorm Oni-Bi
-
-    ==========
-    Horns on Head, Dragonfly in Hand (Main Mission)
-    ==========
-        - Quest Giver: Honda Tadakatsu
-        - Characters: 
-            - None
-        --------------------
-        - Honda Tadakatsu (boss) (first time)
 
     ==========
     Bird In A Cage (Main Mission)

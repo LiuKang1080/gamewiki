@@ -1809,6 +1809,214 @@ Corpses and Ice (Main Mission)
         - Onmyo Mage's Locks.
         - Ninja's Locks.
 
+==========
+Lingering Snow and Crimson Tracks (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Corpses and Ice".
+    --------------------
+    - Recommended level: 68
+    - Gold: 13,800
+    - Amrita: 8,240
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Haguro Ninja Hatchets (rare)
+        - Governor's Helmet (rare)
+        - Governor's Cuirass (rare)
+        - Governor's Waistguard (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Snowclops Loincloth X1
+        - Governor's Gauntlets (rare)
+        - Governor's Greaves (rare)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Tiger Approaches (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Corpses and Ice".
+    --------------------
+    - Recommended level: 69
+    - Gold: 14,600
+    - Amrita: 9,144
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Samurai's Locks X1
+        - Shinobi Cuirass (rare)
+        - Shinobi Waistguard (rare)
+        - Shinobi Faceplate (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Shinobi Gauntlets (rare)
+        - Shinobi Greaves (rare)
+        - Lock of Grey Hair X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Brother's Blades (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Corpses and Ice".
+    --------------------
+    - Recommended level: 69
+    - Gold: 14,200
+    - Amrita: 8,688
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - Magara Naotaka
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Taro Tachi (odachi) (water) (exotic)
+        - Jiro Tachi (odachi) (rare)
+        - Large Spirit Stone X2
+        - Righteous Jasper X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Spirit Stone X2
+        - Righteous Jasper X2
+        - High-Quality Tamahagane X2
+        - High-Quality Ingot X4
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+A Shadow's Duty (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Corpses and Ice".
+        - Complete the mission: "The Tiger Approaches".
+    --------------------
+    - Recommended level: 70
+    - Gold: 15,400
+    - Amrita: 10,160
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Ninja's Locks X1
+        - Smithing Text: Shinobi Box
+        - Greater Good Helmet (rare)
+        - Sohaya Tsurugi (sword) (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Greater Good Waistguard (uncommon)
+        - Greater Good Gauntlets (uncommon)
+        - Greater Good Greaves (uncommon)
+        - Greater Good Cuirass (rare)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Fallen Star (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Shiftling's Wise Judgement".
+        - Complete the mission: "Learning A Lesson".
+        - Complete the mission: "A Shadow's Duty".
+    --------------------
+    - Recommended level: 70
+    - Gold: 14,800
+    - Amrita: 9,392
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Suwa Myojin Helmet (rare)
+        - Tatenashi Cuirass (rare)
+        - Smithing Text: Yokai Water Pot
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Tatenashi Helmet (uncommon)
+        - Tatenashi Gauntlets (uncommon)
+        - Tatenashi Waistguard (uncommon)
+        - Tatenashi Greaves (uncommon)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+Horns on Head, Dragonfly in Hand (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Corpses and Ice".
+        - Complete the mission: "The Tiger Approaches".
+    --------------------
+    - Recommended level: 71
+    - Gold: 15,600
+    - Amrita: 10,432
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Honda Tadakatsu
+    - Guardian Spirit Unlocked: 
+        - Shin-Roku
+    - Mission Rewards: 
+    First Time:
+        - Tombokiri (spear) (lightning) (rare)
+        - Warrior of the East Helmet (rare)
+        - Warrior of the East Cuirass (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Warrior of the East Waistguard (uncommon)
+        - Warrior of the East Gauntlets (uncommon)
+        - Warrior of the East Greaves (uncommon)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 
@@ -1845,142 +2053,7 @@ Corpses and Ice (Main Mission)
 
 
 
-    ==========
-    Lingering Snow and Crimson Tracks (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Corpses and Ice".
-        --------------------
-        - Recommended level: 68
-        - Gold: 13,800
-        - Amrita: 8,240
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
 
-    ==========
-    The Tiger Approaches (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Corpses and Ice".
-        --------------------
-        - Recommended level: 69
-        - Gold: 14,600
-        - Amrita: 9,144
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Samurai's Locks (mission reward).
-
-    ==========
-    The Brother's Blades (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Corpses and Ice".
-        --------------------
-        - Recommended level: 69
-        - Gold: 14,200
-        - Amrita: 8,688
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Magara Naotaka
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-    ==========
-    A Shadow's Duty (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Corpses and Ice".
-            - Complete the mission: "The Tiger Approaches".
-        --------------------
-        - Recommended level: 70
-        - Gold: 15,400
-        - Amrita: 10,160
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Ninja's Locks (mission reward).
-            - Smithing Text: Shinobi Box.
-
-    ==========
-    The Fallen Star (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Shiftling's Wise Judgement".
-            - Complete the mission: "Learning A Lesson".
-            - Complete the mission: "A Shadow's Duty".
-        --------------------
-        - Recommended level: 70
-        - Gold: 14,800
-        - Amrita: 9,392
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Smithing Text: Yoaki Water Pot.
-
-    ==========
-    Horns on Head, Dragonfly in Hand (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Corpses and Ice".
-            - Complete the mission: "The Tiger Approaches".
-        --------------------
-        - Recommended level: 71
-        - Gold: 15,600
-        - Amrita: 10,432
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Honda Tadakatsu
-        - Guardian Spirit Unlocked: 
-            - Shin-Roku
-        - Notable Items In Mission / Mission Rewards:
-            - None
 
     ==========
     Bird In A Cage (Main Mission)
