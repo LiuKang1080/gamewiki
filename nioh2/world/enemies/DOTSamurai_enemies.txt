@@ -88,23 +88,31 @@ The Blood Tainted Samurai (Dark Omens | Awakening Region (Region 1))
         - Biwa Boku-Boku
         - Kamaitachi (boss)
 
-    ==========
-    The Cursed Castle Ruins (A Bird In A Cage | Shadow Region (Region 3))
-    ==========
-        - Tesso
-        - Dweller
-        - Spider
-        - Abbarant Soldier
-        - Rokurokubi
-        - Ninja Dog
-        - Warrior
-        - Yoki (axe)
-        - Namahage
-        - Yoki (sword)
-        - Waira
-        - Skeleton Warrior
-        - Toxic Slime
-        - Azai Nagamasa (boss)
+==========
+The Cursed Castle Ruins (A Bird In A Cage | Shadow Region (Region 3))
+==========
+    - Tesso
+    - Dweller
+    - Spider (medium)
+    - Spider (small)
+    - Abbarant Soldier
+    - Rokurokubi (sword)
+    - Rokurokubi (torch, sword)
+    - Ninja Dog
+    - Dweller (big)
+    - Yoki (axe)
+    - Warrior (sword)
+    - Namahage (dual cleavers)
+    - Namahage (odachi)
+    - Yoki (sword)
+    - Skeleton Warrior (cannon, sword)
+    - Toxic Slime
+    - Waira
+    - Mujina
+    - Skeleton Warrior (rifle, sword)
+    - Rokurokubi (spear)
+    - Spider (big)
+    - Azai Nagamasa (boss)
 
     ==========
     The Defiled Sanctuary (The Golden Nation | Shadow Region (Region 3))
@@ -1176,119 +1184,111 @@ Horns on Head, Dragonfly in Hand (Main Mission)
     --------------------
     - Honda Tadakatsu (boss) (first time)
 
+==========
+Bird In A Cage (Main Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters: 
+        - Ryunojo the Dung Lover (NPC)
+            - 1st Reward (5 Dung Balls): Lumicite Shard
+            - 2nd Reward (10 Dung Balls): Lumicite Crystal
+            - 3rd Reward (15 Dung Balls): Horned Turban Helmet
+            - 4th Reward (20 Dung Balls): Coiled Snake Helmet
+            - 5th Reward (25 Dung Balls): Smithing Text: Horned Turban Helmet
+            - 6th Reward (30 Dung Balls): Smithing Text: Coiled Snake Helmet
+        - Oichi (Cutscenes)
+        - Tokichiro (Cutscenes)
+        - Kashin Koji (Cutscenes)
+    --------------------
+    - Dweller
+    - Spider (medium) (first time)
+    - Spider (small) (first time)
+    - Warrior (sword)
+    - Warrior (torch, sword)
+    - Warrior (torch, axe)
+    - Warrior (big) (sword)
+    - Warrior (big) (torch, odachi)
+    - Ninja Dog
+    - Dweller (big)
+    - Tesso (first time)
+    - Warrior (big) (axe)
+    - Warrior (conch shell, sword)
+    - Yoki (axe)
+    - Warrior (axe)
+    - Warrior (rifle, sword)
+    - Skeleton Warrior (big) (axe)
+    - Warrior (big) (spear)
+    - Warrior (big) (dual swords)
+    - Skeleton Warrior (big) (hammer)
+    - Waira
+    - Koroka
+    - Yokai (sword)
+    - Skeleton Warrior (cannon, sword)
+    - Toxic Slime
+    - Nurikabe
+    - Namahage (dual cleavers)
+    - Mujina
+    - Skeleton Warrior (rifle, sword)
+    - Warrior (big) (odachi)
+    - Spider (big) (first time)
+    - Azai Nagamasa (boss) (first time)
 
+==========
+The Point of No Return (Sub Mission)
+==========
+    - Quest Giver: Takenaka Hanbei
+    - Characters: 
+        - None
+    --------------------
+    - Saito Yoshitatsu
 
+==========
+The Golden Nation (Sub Mission)
+==========
+    - Quest Giver: Takenaka Hanbei
+    - Characters: 
+        - Gamo Ujisato (NPC)
+    --------------------
+    - Rokurokubi (dual swords)
+    - Rokurokubi (torch, sword)
+    - Ubume (first time)
+    - Flying Bolt
+    - Skeleton Warrior (rifle, sword)
+    - Skeleton Warrior (big) (axe)
+    - Tesso
+    - Ninja (sword)
+    - Skeleton Warrior (spear)
+    - Mitsume Yazura
+    - Ninja (dual swords)
+    - Yoki (sword)
+    - Onryoki (boss)
 
+==========
+The Demon King's Blade (Sub Mission)
+==========
+    - Quest Giver: Oda Nobunaga
+    - Characters: 
+        - Oda Nobunaga (Cutscenes)
+    --------------------
+    - Oda Nobunaga (boss) (first time)
 
+==========
+The Child's Prodigy's Invitation (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters: 
+        - None
+    --------------------
+    - Gamo Ujisato (boss) (first time)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    Bird In A Cage (Main Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters: 
-            - Ryunojo the Dung Lover (NPC)
-                - 1st Reward (5 Dung Balls): Lumicite Shard
-                - 2nd Reward (10 Dung Balls): Lumicite Crystal
-                - 3rd Reward (15 Dung Balls): Horned Turban Helmet
-                - 4th Reward (20 Dung Balls): Coiled Snake Helmet
-                - 5th Reward (25 Dung Balls): Smithing Text: Horned Turban Helmet
-                - 6th Reward (30 Dung Balls): Smithing Text: Coiled Snake Helmet
-            - Oichi (Cutscenes)
-            - Tokichiro (Cutscenes)
-            - Kashin Koji (Cutscenes)
-        --------------------
-        - Dweller
-        - Warrior
-        - Spider (first time)
-        - Ninja Dog
-        - Yoki (axe)
-        - Tesso (first time)
-        - Skeleton Warrior
-        - Waira
-        - Yokai (sword)
-        - Koroka
-        - Toxic Slime
-        - Nurikabe
-        - Namahage
-        - Azai Nagamasa (boss) (first time)
-
-    ==========
-    The Point of No Return (Sub Mission)
-    ==========
-        - Quest Giver: Takenaka Hanbei
-        - Characters: 
-            - None
-        --------------------
-        - Saito Yoshitatsu
-
-    ==========
-    The Golden Nation (Sub Mission)
-    ==========
-        - Quest Giver: Takenaka Hanbei
-        - Characters: 
-            - Gamo Ujisato (NPC)
-        --------------------
-        - Rokurokubi
-        - Ninja
-        - Ubume (first time)
-        - Flying Bolt
-        - Skeleton Warrior
-        - Tesso
-        - Mitsume Yazura
-        - Yoki (sword)
-        - Onryoki (boss)
-
-    ==========
-    The Demon King's Blade (Sub Mission)
-    ==========
-        - Quest Giver: Oda Nobunaga
-        - Characters: 
-            - Oda Nobunaga (Cutscenes)
-        --------------------
-        - Oda Nobunaga (boss) (first time)
-
-    ==========
-    The Child's Prodigy's Invitation (Sub Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters: 
-            - None
-        --------------------
-        - Gamo Ujisato (boss) (first time)
-
-    ==========
-    The Chinese Bellflower Dagger (Sub Mission)
-    ==========
-        - Quest Giver: Saito Toshimitsu
-        - Characters: 
-            - None
-        --------------------
-        - Saito Toshimitsu (boss) (first time)
+==========
+The Chinese Bellflower Dagger (Sub Mission)
+==========
+    - Quest Giver: Saito Toshimitsu
+    - Characters: 
+        - None
+    --------------------
+    - Saito Toshimitsu (boss) (first time)
 
     ==========
     A Strong Bond (Sub Mission)
@@ -1316,37 +1316,78 @@ Horns on Head, Dragonfly in Hand (Main Mission)
 ========== ========== ========== ========== ==========
 Dawn Region (Region 4)
 ========== ========== ========== ========== ==========
-    ==========
-    Pervading Waters (Main Mission)
-    ==========
-        - Quest Giver: Tokichiro
-        - Characters: 
-            - Shibata Katsuie (Cutscenes, NPC, Ally)
-            - Oda Nobunaga (Cutscenes)
-            - Tokichiro (Cutscenes, NPC)
-            - Mumyo (NPC)
-            - Takenaka Hanbei (NPC)
-        --------------------
-        - Saika Clan (first time)
-        - Outlaw
-        - Muni (Human Saika Warrior) (first-time)
-        - Nure-Onna
-        - Gaki
-        - Skeleton Warrior
-        - Mitsume Yazura
-        - Thunderstorm Oni-Bi
-        - Tesso
-        - One-Eyed Oni
-        - Ubume
-        - Onyudo (fire) (first time)
-        - Shimotsuma Rairen (Human Saika Warrior) (first time)
-        - Maelstrom Oni-Bi
-        - Infernal Oni-Bi
-        - Koroka
-        - Biwa Boku-Boku
-        - Nurikabe
-        - Saika Magoichi (boss) (first time)
-        - Gyuki (boss) (first time)
+==========
+Pervading Waters (Main Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters: 
+        - Shibata Katsuie (Cutscenes, NPC, Ally)
+        - Oda Nobunaga (Cutscenes)
+        - Tokichiro (Cutscenes, NPC)
+        - Mumyo (NPC)
+        - Takenaka Hanbei (NPC)
+    --------------------
+    - Saika Clan (dual pistols, rifle, dual swords) (first time)
+    - Saika Clan (rifle, kusarigama) (first time)
+    - Outlaw (conch shell, sword)
+    - Outlaw (spear)
+    - Nurikabe
+    - Saika Clan (cannon, kusarigama) (first time)
+    - Outlaw (sword)
+    - Muni (human saika warrior) (kusarigama) (first-time)
+    - Nure-Onna
+    - Gaki
+    - Skeleton Warrior (cannon, sword)
+    - Mitsume Yazura
+    - Skeleton Warrior (bow + fire arrow, sword)
+    - Thunderstorm Oni-Bi
+    - One-Eyed Imp
+    - Tesso
+    - Skeleton Warrior (spear)
+    - Ubume
+    - Skeleton Warrior (sword)
+    - Onyudo (water) (first time)
+    - Shimotsuma Rairen (human saika warrior) (spear) (first time)
+    - Maelstrom Oni-Bi
+    - Infernal Oni-Bi
+    - Koroka
+    - Mujina
+    - Biwa Boku-Boku
+    - Saika Magoichi (boss) (first time)
+    - Gyuki (boss) (first time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
 
     ==========
     The Missing Gun (Sub Mission)

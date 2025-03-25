@@ -18,14 +18,14 @@ TEMPLATE ()
     - Guardian Spirit Unlocked: 
         - 
     - Mission Rewards: 
-        First Time:
-            - 
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - 
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - 
+    First Time:
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
 
 
 ==========
@@ -90,20 +90,20 @@ The Violet Cherry Blossoms
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-        First Time:
-            - Quality Umbracite x1
-            - Sacred Arrow x4
-            - Highest Quality Leather Platelet x2
-            - Highest Leather Cord x2
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - Blood-Encrusted Sawtooth x1
-            - Enki Pelt x1
-            - Highest Quality Leather Platelet x1
-            - Highest Leather Cord x1
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - None
+    First Time:
+        - Quality Umbracite x1
+        - Sacred Arrow x4
+        - Highest Quality Leather Platelet x2
+        - Highest Leather Cord x2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Blood-Encrusted Sawtooth x1
+        - Enki Pelt x1
+        - Highest Quality Leather Platelet x1
+        - Highest Leather Cord x1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 ==========
 Traces of the Raging Blaze
@@ -125,20 +125,20 @@ Traces of the Raging Blaze
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-        First Time:
-            - Quality Umbracite x1
-            - Highest Quality Ingot x2
-            - Highest Quality Tamahagane x2
-            - Highest Quality Iron Platelet x2
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - Smoldering Ash Pile x1
-            - Highest Quality Ingot x1
-            - Highest Quality Tamahagane x1
-            - Highest Quality Iron Platelet x1
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - None
+    First Time:
+        - Quality Umbracite x1
+        - Highest Quality Ingot x2
+        - Highest Quality Tamahagane x2
+        - Highest Quality Iron Platelet x2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Smoldering Ash Pile x1
+        - Highest Quality Ingot x1
+        - Highest Quality Tamahagane x1
+        - Highest Quality Iron Platelet x1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 ==========
 The Blood Tainted Samurai
@@ -160,19 +160,54 @@ The Blood Tainted Samurai
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-        First Time:
-            - Quality Umbracite x1
-            - Small Spirit Stone x3
-            - Karasu Tengu Feather X1
-            - Sacred Ash x1
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - Small Spirit Stone x2
-            - Sacred Ash x1
-            - Karasu Tengu Feather x1
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - None
+    First Time:
+        - Quality Umbracite x1
+        - Small Spirit Stone x3
+        - Karasu Tengu Feather X1
+        - Sacred Ash x1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Small Spirit Stone x2
+        - Sacred Ash x1
+        - Karasu Tengu Feather x1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Cursed Castle Ruins
+==========
+    - Mission Unlock Requirement:
+        - Bird in a Cage (Shadow Region | Region 3).
+    --------------------
+    - Recommended level: 76
+    - Gold: 50,400 / 16,800
+    - Amrita: 36,696 / 12,232
+    - Shrine: Yes
+    - Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 3 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Quality Umbracite X1
+        - Kamaitachi's Front Teeth X1
+        - Burnt Wick X1
+        - Highest-Quality Iron Platelet X3
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Large Spirit Stone X1
+        - Burnt Wick X1
+        - Kamaitachi's Front Teeth X1
+        - Highest-Quality Iron Platelet X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
     ==========
     The Defiled Sanctuary
@@ -330,15 +365,15 @@ The Way of the Warrior: Novice (Dojo Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-        First Time:
-            - Samurai's Locks x1
-            - Wooden Sword (rare)
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - Wooden Sword (uncommon)
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - None
+    First Time:
+        - Samurai's Locks x1
+        - Wooden Sword (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Wooden Sword (uncommon)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 ==========
 The Way of the Ninja: Novice (Dojo Mission)
@@ -358,18 +393,18 @@ The Way of the Ninja: Novice (Dojo Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-        First Time:
-            - Ninja's Locks x1
-            - Shinobi Hood
-            - Shinobi Robes
-            - Shinobi Hakama
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - Shinobi Bracers
-            - Shinobi Gaiters
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - None
+    First Time:
+        - Ninja's Locks x1
+        - Shinobi Hood
+        - Shinobi Robes
+        - Shinobi Hakama
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Shinobi Bracers
+        - Shinobi Gaiters
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 ==========
 The Way of Onmyo: Novice (Dojo Mission)
@@ -389,19 +424,19 @@ The Way of Onmyo: Novice (Dojo Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-        First Time:
-            - Onmyo Mage's Locks x1
-            - Fire Amulet x1
-            - Water Amulet x1
-            - Lightning Amulet x1
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - Fire Amulet x1
-            - Water Amulet x1
-            - Lightning Amulet x1
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - None
+    First Time:
+        - Onmyo Mage's Locks x1
+        - Fire Amulet x1
+        - Water Amulet x1
+        - Lightning Amulet x1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Fire Amulet x1
+        - Water Amulet x1
+        - Lightning Amulet x1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 ==========
 The Way of the Warrior: Adept (Dojo Mission)
@@ -422,17 +457,17 @@ The Way of the Warrior: Adept (Dojo Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-        First Time:
-            - Samurai's Locks X1
-            - Prayer Beads (uncommon)
-            - Book of Reincarnation X1
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - Daion-Jin's Sake X1
-            - Ochoko Cup X2
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - None
+    First Time:
+        - Samurai's Locks X1
+        - Prayer Beads (uncommon)
+        - Book of Reincarnation X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Daion-Jin's Sake X1
+        - Ochoko Cup X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
         
 
 ==========
@@ -454,16 +489,16 @@ The Way of the Ninja: Adept (Dojo Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-        First Time:
-            - Ninja's Locks X1
-            - Writing Set (uncommon)
-            - Shinobi Box X1
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - Gunpowder Bomb X4
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - None
+    First Time:
+        - Ninja's Locks X1
+        - Writing Set (uncommon)
+        - Shinobi Box X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Gunpowder Bomb X4
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 ==========
 The Way of the Onmyo: Adept (Dojo Mission)
@@ -484,16 +519,16 @@ The Way of the Onmyo: Adept (Dojo Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-        First Time:
-            - Onmyo Mage's Locks X1
-            - Divination Board (uncommon)
-            - Sacred Brush X1
-        ---------- ---------- ----------
-        Subsequent Completes:
-            - Signpost Amulet X2
-        ---------- ---------- ----------
-        Notable Items During / Post Mission:
-            - None
+    First Time:
+        - Onmyo Mage's Locks X1
+        - Divination Board (uncommon)
+        - Sacred Brush X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Signpost Amulet X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
     ==========
     The Way of the Warrior: Veteran (Dojo Mission)
@@ -2018,177 +2053,213 @@ Horns on Head, Dragonfly in Hand (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
+==========
+Bird In A Cage (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Corpses and Ice".
+    --------------------
+    - Recommended level: 71
+    - Gold: 14,800
+    - Amrita: 9,392
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 7
+    - Number of Sudama: 1
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 3
+    - Bosses: 
+        - Azai Nagamasa
+    - Guardian Spirit Unlocked: 
+        - Hiyokucho
+    - Mission Rewards: 
+    First Time:
+        - Samurai's Locks X1
+        - Kohoku Master's Helmet (rare)
+        - Kohoku Master's Cuirass (rare)
+        - Azai Ichimonji (sword) (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Kohoku Master's Waistguard (rare)
+        - Kohoku Master's Gauntlets (rare)
+        - Kohoku Master's Greaves (rare)
+        - Saisetsu-Shin's Sake X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Ninja's Locks.
+        - Onmyo Mage's Locks.
 
+==========
+The Point of No Return (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Bird In A Cage".
+    --------------------
+    - Recommended level: 74
+    - Gold: 15,800
+    - Amrita: 10,712
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Saito Yoshitatsu
+    - Guardian Spirit Unlocked: 
+        - Makami / Ame-no-Mitori / Kagewani (only 1 will be given).
+    - Mission Rewards: 
+    First Time:
+        - Hand Mirror (accessory) (rare)
+        - Summoner's Candle X1
+        - Book of Reincarnation X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - High-Quality Iron Platelet X3
+        - Yokai Water Pot X2
+        - Red Spider Lily X1
+        - High-Quality Ingot X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
+==========
+The Golden Nation (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Bird In A Cage".
+    --------------------
+    - Recommended level: 74
+    - Gold: 15,400
+    - Amrita: 10,160
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 3
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Onryoki
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Wisdom Sutra Sword & Plane Cutter (dual swords) (rare)
+        - Swallowtail Helmet (rare)
+        - Swallowtail Cuirass (rare)
+        - Karamono Katatsuki
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Swallowtail Waistguard (uncommon)
+        - Swallowtail Gauntlets (uncommon)
+        - Swallowtail Greaves (rare)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
+==========
+The Demon King's Blade (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Bird In A Cage".
+    --------------------
+    - Recommended level: 74
+    - Gold: 16,200
+    - Amrita: 11,296
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Oda Nobunaga
+    - Guardian Spirit Unlocked: 
+        - Tengen Kujaku
+    - Mission Rewards: 
+    First Time:
+        - Vice-Minister's Cuirass (rare)
+        - Vice-Minister's Waistguard (rare)
+        - Vice-Minister's Gauntlets (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Vice-Minister's Cuirass (rare)
+        - Vice-Minister's Waistguard (rare)
+        - Vice-Minister's Gauntlets (rare)
+        - Vice-Minister's Greaves (rare)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Increases Astral Wisdom.
 
+==========
+The Child's Prodigy's Invitation (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Bird In A Cage".
+        - Complete the mission: "The Golden Nation".
+    --------------------
+    - Recommended level: 75
+    - Gold: 29,050
+    - Amrita: 11,912
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Gamo Ujisato
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Wisdom Sutra & Plane Cutter (dual swords) (rare)
+        - Hino Rifle (rare)
+        - Swallowtail Greaves (rare)
+        - Swallowtail Waistguard (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Swallowtail Helmet (rare)
+        - Swallowtail Cuirass (rare)
+        - Swallowtail Gauntlets (rare)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    Bird In A Cage (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Corpses and Ice".
-        --------------------
-        - Recommended level: 71
-        - Gold: 14,800
-        - Amrita: 9,392
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 7
-        - Number of Sudama: 1
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 3
-        - Bosses: 
-            - Azai Nagamasa
-        - Guardian Spirit Unlocked: 
-            - Hiyokucho
-        - Notable Items In Mission / Mission Rewards:
-            - Ninja's Locks.
-            - Onmyo Mage's Locks.
-            - Samurai's Locks (mission reward).
-
-    ==========
-    The Point of No Return (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Bird In A Cage".
-        --------------------
-        - Recommended level: 74
-        - Gold: 15,800
-        - Amrita: 10,712
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Saito Yoshitatsu
-        - Guardian Spirit Unlocked: 
-            - Makami / Ame-no-Mitori / Kagewani (only 1 will be given).
-        - Notable Items In Mission / Mission Rewards:
-            - Book of Reincarnation.
-
-    ==========
-    The Golden Nation (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Bird In A Cage".
-        --------------------
-        - Recommended level: 74
-        - Gold: 15,400
-        - Amrita: 10,160
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 3
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Onryoki
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-    ==========
-    The Demon King's Blade (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Bird In A Cage".
-        --------------------
-        - Recommended level: 74
-        - Gold: 16,200
-        - Amrita: 11,296
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Oda Nobunaga
-        - Guardian Spirit Unlocked: 
-            - Tengen Kujaku
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-    ==========
-    The Child's Prodigy's Invitation (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Bird In A Cage".
-            - Complete the mission: "The Golden Nation".
-        --------------------
-        - Recommended level: 75
-        - Gold: 29,050
-        - Amrita: 11,912
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Gamo Ujisato
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-    ==========
-    The Chinese Bellflower Dagger (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "A Way Out".
-        --------------------
-        - Recommended level: 65
-        - Gold: 24,850
-        - Amrita: 8,688
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Saito Toshimitsu
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks (mission reward).
+==========
+The Chinese Bellflower Dagger (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "A Way Out".
+    --------------------
+    - Recommended level: 65
+    - Gold: 24,850
+    - Amrita: 8,688
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Saito Toshimitsu
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Onmyo Mage's Locks X1
+        - Divination Board (accessory) (rare)
+        - Sacred Brush X1
+        - Sacred Water X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Sacred Brush X1
+        - Fire Amulet X2
+        - Water Amulet X2
+        - Lightning Amulet X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
     ==========
     A Strong Bond (Sub Mission)
@@ -2216,32 +2287,84 @@ Horns on Head, Dragonfly in Hand (Sub Mission)
 ========== ========== ========== ========== ==========
 Dawn Region (Region 4)
 ========== ========== ========== ========== ==========
-    ==========
-    Pervading Waters (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "A Way Out" and enter the Dawn Region.
-        --------------------
-        - Recommended level: 75
-        - Gold: 16,600
-        - Amrita: 11,912
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 9
-        - Number of Sudama: 1
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 2
-        - Bosses: 
-            - Saika Magoichi
-            - Guyki
-        - Guardian Spirit Unlocked: 
-            - Hyobishin
-        - Notable Items In Mission / Mission Rewards:
-            - Ninja's Locks.
-            - Onmyo Mage's Locks.
-            - Unlocks the Dojo mission: "The Way of the Warrior: Veteran" after beating mission.
-            - Unlocks the Dojo mission: "The Way of the Ninja: Veteran" after beating mission.
-            - Unlocks the Dojo mission: "The Way of the Onmyo: Veteran" after beating mission.    
+==========
+Pervading Waters (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "A Way Out" and enter the Dawn Region.
+    --------------------
+    - Recommended level: 75
+    - Gold: 16,600
+    - Amrita: 11,912
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 9
+    - Number of Sudama: 2
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 2
+    - Bosses: 
+        - Saika Magoichi
+        - Guyki
+    - Guardian Spirit Unlocked: 
+        - Hyobishin
+    - Mission Rewards: 
+    First Time:
+        - Ravenwing Rifle (rare)
+        - Yatagarasu Cuirass (rare)
+        - Yatagarasu Headband (rare)
+        - Yatagarasu Waistguard (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Haccho Nenbutsu (sword) (rare)
+        - Yatagarasu Gauntlets (rare)
+        - Yatagarasu Greaves (rare)
+        - Large Spirit Stone X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Ninja's Locks.
+        - Onmyo Mage's Locks.
+        - Unlocks the Dojo mission: "The Way of the Warrior: Veteran" after beating mission.
+        - Unlocks the Dojo mission: "The Way of the Ninja: Veteran" after beating mission.
+        - Unlocks the Dojo mission: "The Way of the Onmyo: Veteran" after beating mission.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
 
     ==========
     The Missing Gun (Sub Mission)
