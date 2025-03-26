@@ -67,284 +67,6 @@ Other Notes:
 
 
 ========== ========== ========== ========== ========== ========== ==========
-Twilight Missions:
-========== ========== ========== ========== ========== ========== ==========
-==========
-The Violet Cherry Blossoms
-==========
-    - Mission Unlock Requirement:
-        - The Village of Cursed Blossoms (Awakening Region | Region 1).
-    --------------------
-    - Recommended level: 20
-    - Gold: 14,400 / 4,800
-    - Amrita: 5,280 / 1,760
-    - Shrine: Yes
-    - Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 3
-    - Number of Hot Springs: 0
-    - Number of Dark Realms: 2 (0 required)
-    - Bosses: 
-        - Gozuki
-        - Mezuki
-    - Guardian Spirit Unlocked: 
-        - None
-    - Mission Rewards: 
-    First Time:
-        - Quality Umbracite x1
-        - Sacred Arrow x4
-        - Highest Quality Leather Platelet x2
-        - Highest Leather Cord x2
-    ---------- ---------- ----------
-    Subsequent Completes:
-        - Blood-Encrusted Sawtooth x1
-        - Enki Pelt x1
-        - Highest Quality Leather Platelet x1
-        - Highest Leather Cord x1
-    ---------- ---------- ----------
-    Notable Items During / Post Mission:
-        - None
-
-==========
-Traces of the Raging Blaze
-==========
-    - Mission Unlock Requirement:
-        - The Beast Born of Smoke and Flames (Awakening Region | Region 1).
-    --------------------
-    - Recommended level: 25
-    - Gold: 17,400 / 5,800
-    - Amrita: 6,480 / 2,160
-    - Shrine: Yes
-    - Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 2
-    - Number of Hot Springs: 0
-    - Number of Dark Realms: 2 (0 required)
-    - Bosses: 
-        - Enenra
-    - Guardian Spirit Unlocked: 
-        - None
-    - Mission Rewards: 
-    First Time:
-        - Quality Umbracite x1
-        - Highest Quality Ingot x2
-        - Highest Quality Tamahagane x2
-        - Highest Quality Iron Platelet x2
-    ---------- ---------- ----------
-    Subsequent Completes:
-        - Smoldering Ash Pile x1
-        - Highest Quality Ingot x1
-        - Highest Quality Tamahagane x1
-        - Highest Quality Iron Platelet x1
-    ---------- ---------- ----------
-    Notable Items During / Post Mission:
-        - None
-
-==========
-The Blood Tainted Samurai
-==========
-    - Mission Unlock Requirement:
-        - Dark Omens (Awakening Region | Region 1).
-    --------------------
-    - Recommended level: 39
-    - Gold: 23,400 / 7,800
-    - Amrita: 9,600 / 3,200
-    - Shrine: Yes
-    - Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 1
-    - Number of Hot Springs: 0
-    - Number of Dark Realms: 1 (0 required)
-    - Bosses: 
-        - None
-    - Guardian Spirit Unlocked: 
-        - None
-    - Mission Rewards: 
-    First Time:
-        - Quality Umbracite x1
-        - Small Spirit Stone x3
-        - Karasu Tengu Feather X1
-        - Sacred Ash x1
-    ---------- ---------- ----------
-    Subsequent Completes:
-        - Small Spirit Stone x2
-        - Sacred Ash x1
-        - Karasu Tengu Feather x1
-    ---------- ---------- ----------
-    Notable Items During / Post Mission:
-        - None
-
-==========
-The Cursed Castle Ruins
-==========
-    - Mission Unlock Requirement:
-        - Bird in a Cage (Shadow Region | Region 3).
-    --------------------
-    - Recommended level: 76
-    - Gold: 50,400 / 16,800
-    - Amrita: 36,696 / 12,232
-    - Shrine: Yes
-    - Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 1
-    - Number of Hot Springs: 0
-    - Number of Dark Realms: 3 (0 required)
-    - Bosses: 
-        - None
-    - Guardian Spirit Unlocked: 
-        - None
-    - Mission Rewards: 
-    First Time:
-        - Quality Umbracite X1
-        - Kamaitachi's Front Teeth X1
-        - Burnt Wick X1
-        - Highest-Quality Iron Platelet X3
-    ---------- ---------- ----------
-    Subsequent Completes:
-        - Large Spirit Stone X1
-        - Burnt Wick X1
-        - Kamaitachi's Front Teeth X1
-        - Highest-Quality Iron Platelet X1
-    ---------- ---------- ----------
-    Notable Items During / Post Mission:
-        - None
-
-    ==========
-    The Defiled Sanctuary
-    ==========
-        - Mission Unlock Requirement:
-            - The Fallen Star (Shadow Region | Region 3).
-            - Pervading Waters (Dawn Region | Region 4).
-        --------------------
-        - Recommended level: 83
-        - Gold: 18,800
-        - Amrita: 15,888
-        - Shrine: Yes
-        - Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Kasha
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Quality Umbracite x1 (mission reward).
-
-    ==========
-    Mountain of the Dark Lord
-    ==========
-        - Mission Unlock Requirement:
-            - The Sun Sets on Mount Tenno (Dawn Region | Region 4).
-        --------------------
-        - Recommended level: 85
-        - Gold: 65,400
-        - Amrita: 71,784
-        - Shrine: Yes
-        - Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 1
-        - Number of Hot Springs: 1 (0 required)
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - Ryomen Sukuna
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Quality Umbracite x1 (mission reward).
-
-    ==========
-    The Island of Monsters
-    ==========
-        - Mission Unlock Requirement:
-            - The High Spirited Demon (Twilight Region | Region 5).
-        --------------------
-        - Recommended level: 102
-        - Gold: 80,400
-        - Amrita: 140,328
-        - Shrine: Yes
-        - Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 2
-        - Number of Hot Springs: 1 (0 required)
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - Tatarimokke
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Quality Umbracite x1 (mission reward).
-
-    ==========
-    Wings of the Phoenix
-    ==========
-        - Mission Unlock Requirement:
-            - The Mausoleum of Evil (Dream Region | Region 6).
-        --------------------
-        - Recommended level: 113
-        - Gold: 89,400
-        - Amrita: 194,328
-        - Shrine: Yes
-        - Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 1 (0 required)
-        - Number of Dark Realms: 2 (0 required)
-        - Bosses: 
-            - Shuten Doji
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Quality Umbracite x1 (mission reward).
-
-    ==========
-    Darkness Brewing
-    ==========
-        - Mission Unlock Requirement:
-            - Shadows Creep in Kurama (The Tengu's Disciple | DLC 1).
-            - Eternal Rivals (The Tengu's Disciple | DLC 1).
-        --------------------
-        - Recommended level: 130
-        - Gold: 112,800
-        - Amrita: 410,328
-        - Shrine: Yes
-        - Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 2 (1 big Sudama)
-        - Number of Hot Springs: 1 (0 required)
-        - Number of Dark Realms: 2 (0 required)
-        - Bosses: 
-            - Nue
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Quality Umbracite x1 (mission reward).
-
-    ==========
-    The Mystery of Rashomon
-    ==========
-        - Mission Unlock Requirement:
-            - The Blighted Gate (Darkness In The Capital | DLC 2).
-        --------------------
-        - Recommended level: 141
-        - Gold: 121,200
-        - Amrita: 494,328
-        - Shrine: Yes
-        - Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 1
-        - Number of Hot Springs: 1 (0 required)
-        - Number of Dark Realms: 3 (0 required)
-        - Bosses: 
-            - Tsuchigumo
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Quality Umbracite x1 (mission reward).
-
-
-========== ========== ========== ========== ========== ========== ==========
 Dojo Missions:
 ========== ========== ========== ========== ========== ========== ==========
 ==========
@@ -530,65 +252,103 @@ The Way of the Onmyo: Adept (Dojo Mission)
     Notable Items During / Post Mission:
         - None
 
-    ==========
-    The Way of the Warrior: Veteran (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Pervading Waters".
-        --------------------
-        - Recommended level: 88
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Samurai's Locks.
+==========
+The Way of the Warrior: Veteran (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Pervading Waters".
+        - Required Weapon Proficiency: 80,000.
+    --------------------
+    - Recommended level: 88
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Samurai's Locks X1
+        - Master Swordsman's Robes (rare)
+        - Master Swordsman's Hakama (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Bizen Kageyasu (sword) (uncommon)
+        - Master Swordsman's Bracer (uncommon)
+        - Master Swordsman's Sandals (uncommon)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
-    ==========
-    The Way of the Ninja: Veteran (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Pervading Waters".
-        --------------------
-        - Recommended level: 88
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Ninja's Locks.
+==========
+The Way of the Ninja: Veteran (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Pervading Waters".
+        - Required Ninjutsu Proficiency: 100,000.
+    --------------------
+    - Recommended level: 88
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Ninja's Locks X1
+        - Flying Kato's Robes (rare)
+        - Flying Kato's Waistguard (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Swift Hawk (sword) (uncommon)
+        - Flying Kato's Gauntlets (uncommon)
+        - Flying Kato's Greaves (uncommon)
+        - Flying Kato's Mask (uncommon)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
-    ==========
-    The Way of the Onmyo: Veteran (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Pervading Waters".
-        --------------------
-        - Recommended level: 88
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks.
+==========
+The Way of the Onmyo: Veteran (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Pervading Waters".
+        - Required Onmyo Magic Proficiency: 100,000.
+    --------------------
+    - Recommended level: 88
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Onmyo Mage's Locks X1
+        - Divination Board (accessory) (rare)
+        - Sacred Brush X2 (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Sacred Brush X1
+        - Water Amulet X2
+        - Fire Amulet X2
+        - Lightning Amulet X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
     ==========
     Opening of the Mind's Eye (Dojo Mission)
@@ -875,6 +635,319 @@ The Way of the Onmyo: Adept (Dojo Mission)
         - Notable Items In Mission / Mission Rewards:
             - Onmyo Mage's Locks.
             - Unlocks the Mystic Arts for Onmyo Magic.
+
+
+========== ========== ========== ========== ========== ========== ==========
+Twilight Missions:
+========== ========== ========== ========== ========== ========== ==========
+==========
+The Violet Cherry Blossoms
+==========
+    - Mission Unlock Requirement:
+        - The Village of Cursed Blossoms (Awakening Region | Region 1).
+    --------------------
+    - Recommended level: 20
+    - Gold: 14,400 / 4,800
+    - Amrita: 5,280 / 1,760
+    - Shrine: Yes
+    - Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 3
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 2 (0 required)
+    - Bosses: 
+        - Gozuki
+        - Mezuki
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Quality Umbracite x1
+        - Sacred Arrow x4
+        - Highest Quality Leather Platelet x2
+        - Highest Leather Cord x2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Blood-Encrusted Sawtooth x1
+        - Enki Pelt x1
+        - Highest Quality Leather Platelet x1
+        - Highest Leather Cord x1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+Traces of the Raging Blaze
+==========
+    - Mission Unlock Requirement:
+        - The Beast Born of Smoke and Flames (Awakening Region | Region 1).
+    --------------------
+    - Recommended level: 25
+    - Gold: 17,400 / 5,800
+    - Amrita: 6,480 / 2,160
+    - Shrine: Yes
+    - Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 2
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 2 (0 required)
+    - Bosses: 
+        - Enenra
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Quality Umbracite x1
+        - Highest Quality Ingot x2
+        - Highest Quality Tamahagane x2
+        - Highest Quality Iron Platelet x2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Smoldering Ash Pile x1
+        - Highest Quality Ingot x1
+        - Highest Quality Tamahagane x1
+        - Highest Quality Iron Platelet x1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Blood Tainted Samurai
+==========
+    - Mission Unlock Requirement:
+        - Dark Omens (Awakening Region | Region 1).
+    --------------------
+    - Recommended level: 39
+    - Gold: 23,400 / 7,800
+    - Amrita: 9,600 / 3,200
+    - Shrine: Yes
+    - Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Quality Umbracite x1
+        - Small Spirit Stone x3
+        - Karasu Tengu Feather X1
+        - Sacred Ash x1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Small Spirit Stone x2
+        - Sacred Ash x1
+        - Karasu Tengu Feather x1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+Blood on the Wind
+==========
+    - Mission Unlock Requirement:
+        - The Mysterious One Night Castle (Soaring Region | Region 2).
+    --------------------
+    - Recommended level: 58
+    - Gold: 34,200 / 
+    - Amrita: 17,664 / 
+    - Shrine: Yes
+    - Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 
+    - Number of Hot Springs: 0
+    - Number of Dark Realms:  (0 required)
+    - Bosses: 
+        - Kamaitachi
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Quality Umbracite x1
+        - Sickle Blade Fragments X1
+        - Highest-Quality Wood X2
+        - Highest-Quality Lacquer X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Sickle Blade Fragments X1
+        - Highest-Quality Wood X1
+        - Highest-Quality Lacquer X1
+        - Spirit Stone X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Cursed Castle Ruins
+==========
+    - Mission Unlock Requirement:
+        - Bird in a Cage (Shadow Region | Region 3).
+    --------------------
+    - Recommended level: 76
+    - Gold: 50,400 / 16,800
+    - Amrita: 36,696 / 12,232
+    - Shrine: Yes
+    - Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 3 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Quality Umbracite X1
+        - Kamaitachi's Front Teeth X1
+        - Burnt Wick X1
+        - Highest-Quality Iron Platelet X3
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Large Spirit Stone X1
+        - Burnt Wick X1
+        - Kamaitachi's Front Teeth X1
+        - Highest-Quality Iron Platelet X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+    ==========
+    The Defiled Sanctuary
+    ==========
+        - Mission Unlock Requirement:
+            - The Fallen Star (Shadow Region | Region 3).
+            - Pervading Waters (Dawn Region | Region 4).
+        --------------------
+        - Recommended level: 83
+        - Gold: 18,800
+        - Amrita: 15,888
+        - Shrine: Yes
+        - Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 0
+        - Number of Dark Realms: 0
+        - Bosses: 
+            - Kasha
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Quality Umbracite x1 (mission reward).
+
+    ==========
+    Mountain of the Dark Lord
+    ==========
+        - Mission Unlock Requirement:
+            - The Sun Sets on Mount Tenno (Dawn Region | Region 4).
+        --------------------
+        - Recommended level: 85
+        - Gold: 65,400
+        - Amrita: 71,784
+        - Shrine: Yes
+        - Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 1
+        - Number of Hot Springs: 1 (0 required)
+        - Number of Dark Realms: 1 (0 required)
+        - Bosses: 
+            - Ryomen Sukuna
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Quality Umbracite x1 (mission reward).
+
+    ==========
+    The Island of Monsters
+    ==========
+        - Mission Unlock Requirement:
+            - The High Spirited Demon (Twilight Region | Region 5).
+        --------------------
+        - Recommended level: 102
+        - Gold: 80,400
+        - Amrita: 140,328
+        - Shrine: Yes
+        - Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 2
+        - Number of Hot Springs: 1 (0 required)
+        - Number of Dark Realms: 1 (0 required)
+        - Bosses: 
+            - Tatarimokke
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Quality Umbracite x1 (mission reward).
+
+    ==========
+    Wings of the Phoenix
+    ==========
+        - Mission Unlock Requirement:
+            - The Mausoleum of Evil (Dream Region | Region 6).
+        --------------------
+        - Recommended level: 113
+        - Gold: 89,400
+        - Amrita: 194,328
+        - Shrine: Yes
+        - Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 0
+        - Number of Hot Springs: 1 (0 required)
+        - Number of Dark Realms: 2 (0 required)
+        - Bosses: 
+            - Shuten Doji
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Quality Umbracite x1 (mission reward).
+
+    ==========
+    Darkness Brewing
+    ==========
+        - Mission Unlock Requirement:
+            - Shadows Creep in Kurama (The Tengu's Disciple | DLC 1).
+            - Eternal Rivals (The Tengu's Disciple | DLC 1).
+        --------------------
+        - Recommended level: 130
+        - Gold: 112,800
+        - Amrita: 410,328
+        - Shrine: Yes
+        - Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 2 (1 big Sudama)
+        - Number of Hot Springs: 1 (0 required)
+        - Number of Dark Realms: 2 (0 required)
+        - Bosses: 
+            - Nue
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Quality Umbracite x1 (mission reward).
+
+    ==========
+    The Mystery of Rashomon
+    ==========
+        - Mission Unlock Requirement:
+            - The Blighted Gate (Darkness In The Capital | DLC 2).
+        --------------------
+        - Recommended level: 141
+        - Gold: 121,200
+        - Amrita: 494,328
+        - Shrine: Yes
+        - Expedition: Yes
+        - Number of Kodama: 0
+        - Number of Sudama: 1
+        - Number of Hot Springs: 1 (0 required)
+        - Number of Dark Realms: 3 (0 required)
+        - Bosses: 
+            - Tsuchigumo
+        - Guardian Spirit Unlocked: 
+            - None
+        - Notable Items In Mission / Mission Rewards:
+            - Quality Umbracite x1 (mission reward).
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -2327,7 +2400,34 @@ Pervading Waters (Main Mission)
         - Unlocks the Dojo mission: "The Way of the Ninja: Veteran" after beating mission.
         - Unlocks the Dojo mission: "The Way of the Onmyo: Veteran" after beating mission.
 
-
+==========
+The Missing Gun (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Pervading Waters".
+    --------------------
+    - Recommended level: 78
+    - Gold: 17,000
+    - Amrita: 12,560
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 
@@ -2366,27 +2466,7 @@ Pervading Waters (Main Mission)
 
 
 
-    ==========
-    The Missing Gun (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Pervading Waters".
-        --------------------
-        - Recommended level: 78
-        - Gold: 17,000
-        - Amrita: 12,560
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 1
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
+
 
     ==========
     The Refined Man of the Underworld (Sub Mission)

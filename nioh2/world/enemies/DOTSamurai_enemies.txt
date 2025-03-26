@@ -9,6 +9,221 @@
 
 
 ========== ========== ========== ========== ========== ========== ==========
+Dojo Missions:
+========== ========== ========== ========== ========== ========== ==========
+==========
+The Way of the Warrior: Novice (Dojo Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Tsukahara Bokuden (NPC)
+    --------------------
+    - Outlaw (sword)
+
+==========
+The Way of the Ninja: Novice (Dojo Mission)
+==========
+    - Quest Giver: Kato Danzo
+    - Characters:
+        - Kato Danzo (NPC)
+    --------------------
+    - Ninja (dual swords)
+
+==========
+The Way of Onmyo: Novice (Dojo Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Abe no Seimei (NPC)
+    --------------------
+    - Gaki (big)
+
+==========
+The Way of the Warrior: Adept (Dojo Mission)
+==========
+    - Quest Giver: Tsukahara Bokuden
+    - Characters:
+        - None
+    --------------------
+    - Tsukahara Bokuden (boss)
+
+==========
+The Way of the Ninja: Adept (Dojo Mission)
+==========
+    - Quest Giver: Kato Danzo
+    - Characters:
+        - Kato Danzo (NPC)
+    --------------------
+    - Ninja (sword)
+    - Ninja (tonfas)
+    - Ninja (dual swords)
+    - Ninja (big) (sword)
+
+==========
+The Way of the Onmyo: Adept (Dojo Mission)
+==========
+    - Quest Giver: Abe no Seimei
+    - Characters:
+        - Abe no Seimei (NPC)
+    --------------------
+    - One-Eyed Imp
+    - Karakasa Umbrella
+    - Infernal Oni-Bi
+    - Ippon-Datara (hammer)
+    
+==========
+The Way of the Warrior: Veteran (Dojo Mission)
+==========
+    - Quest Giver: Tsukahara Bokuden
+    - Characters:
+        - None
+    --------------------
+    - Tsukahara Bokuden (boss)
+
+==========
+The Way of the Ninja: Veteran (Dojo Mission)
+==========
+    - Quest Giver: Kato Danzo
+    - Characters:
+        - None
+    --------------------
+    - Kato Danzo (boss)
+
+==========
+The Way of the Onmyo: Veteran (Dojo Mission)
+==========
+    - Quest Giver: Abe no Seimei
+    - Characters:
+        - Abe no Seimei (NPC)
+    --------------------
+    - Tesso
+    - Infernal Oni-Bi
+    - Maelstrom Oni-Bi
+    - One-Eyed Imp
+    - Ubume
+
+    ==========
+    Opening of the Mind's Eye (Dojo Mission)
+    ==========
+        - Quest Giver: Shisenin Kosen
+        - Characters:
+            - None
+        --------------------
+        - Shisenin Kosen (boss)
+
+    ==========
+    Hanzo the Demon (Dojo Mission)
+    ==========
+        - Quest Giver: Hattori Hanzo
+        - Characters:
+            - None
+        --------------------
+        - Hattori Hanzo (boss)
+
+    ==========
+    Master of the Dual Blades (Dojo Mission)
+    ==========
+        - Quest Giver: Ashikaga Yoshiteru
+        - Characters:
+            - None
+        --------------------
+        - Ashikaga Yoshiteru (boss)
+
+    ==========
+    The Unmoving Mountain (Dojo Mission)
+    ==========
+        - Quest Giver: Sakata Kintoki
+        - Characters:
+            - None
+        --------------------
+        - Sakata Kintoki (boss)
+
+    ==========
+    The Chain That Splits the Sky (Dojo Mission)
+    ==========
+        - Quest Giver: Shisenin Kosen
+        - Characters:
+            - None
+        --------------------
+        - Shisenin Kosen (boss)
+
+    ==========
+    The Tengu's Blade (Dojo Mission)
+    ==========
+        - Quest Giver: Shisenin Kosen
+        - Characters:
+            - None
+        --------------------
+        - Shisenin Kosen (boss)
+
+    ==========
+    Like Lightning (Dojo Mission)
+    ==========
+        - Quest Giver: Hattori Hanzo
+        - Characters:
+            - None
+        --------------------
+        - Hattori Hanzo (boss)
+
+    ==========
+    The Unstoppable Whirlwind (Dojo Mission)
+    ==========
+        - Quest Giver: Sakata Kintoki
+        - Characters:
+            - None
+        --------------------
+        - Sakata Kintoki (boss)
+
+    ==========
+    Sharp Eyes (Dojo Mission)
+    ==========
+        - Quest Giver: Mumyo
+        - Characters:
+            - None
+        --------------------
+        - Mumyo (boss)
+
+    ==========
+    Breaking Free (Dojo Mission)
+    ==========
+        - Quest Giver: Hattori Hanzo
+        - Characters:
+            - None
+        --------------------
+        - Hattori Hanzo (boss)
+
+    ==========
+    Strike Like a Yokai (Dojo Mission)
+    ==========
+        - Quest Giver: Kato Danzo
+        - Characters:
+            - None
+        --------------------
+        - Kato Danzo (boss)
+
+    ==========
+    The One Who Lives in the Shadows (Dojo Mission)
+    ==========
+        - Quest Giver: Hattori Hanzo
+        - Characters:
+            - None
+        --------------------
+        - Hattori Hanzo (boss)
+
+    ==========
+    The Nine Symbols (Dojo Mission)
+    ==========
+        - Quest Giver: Abe no Seimei
+        - Characters:
+            - None
+        --------------------
+        - Maelstrom Oni-Bi
+        - Onyudo (water)
+        - Mitsume Yazura
+        - Onryoki (boss)
+
+
+========== ========== ========== ========== ========== ========== ==========
 Twilight Missions:
 ========== ========== ========== ========== ========== ========== ==========
 ==========
@@ -68,25 +283,34 @@ The Blood Tainted Samurai (Dark Omens | Awakening Region (Region 1))
     - Yoki (sword)
     - Karasu Tengu
 
-    ==========
-    Blood on the Wind (The Mysterious One Night Castle | Soaring Region (Region 2))
-    ==========
-        - Yoki
-        - Abbarant Soldier
-        - Dweller
-        - Enki
-        - Gaki
-        - Skeleton Warrior
-        - Karasu Tengu
-        - Yamanba
-        - Karakasa Umbrella
-        - Lesser Umi-Bozu
-        - Nure-Onna
-        - Ippon-Datara
-        - Waira
-        - Red Kappa
-        - Biwa Boku-Boku
-        - Kamaitachi (boss)
+==========
+Blood on the Wind (The Mysterious One Night Castle | Soaring Region (Region 2))
+==========
+    - Yoki (sword)
+    - Abbarant Soldier
+    - Dweller
+    - Enki
+    - Gaki
+    - Skeleton Warrior (bow + fire arrow, sword)
+    - Karasu Tengu
+    - Yamanba
+    - Karakasa Umbrella
+    - Skeleton Warrior (spear)
+    - Lesser Umi-Bozu
+    - Nure-Onna
+    - Ippon-Datara (hammer)
+    - Yoki (axe)
+    - Gaki (big)
+    - Dweller (big)
+    - Waira
+    - Skeleton Warrior (cannon, sword)
+    - Red Kappa
+    - Nurikabe
+    - Mujina
+    - Skeleton Warrior (rifle, sword)
+    - Ippon-Datara (odachi)
+    - Biwa Boku-Boku
+    - Kamaitachi (boss)
 
 ==========
 The Cursed Castle Ruins (A Bird In A Cage | Shadow Region (Region 3))
@@ -221,221 +445,6 @@ The Cursed Castle Ruins (A Bird In A Cage | Shadow Region (Region 3))
         - Kiryoki
         - Biwa Boku-Boku
         - Tsuchigumo (boss)
-
-
-========== ========== ========== ========== ========== ========== ==========
-Dojo Missions:
-========== ========== ========== ========== ========== ========== ==========
-==========
-The Way of the Warrior: Novice (Dojo Mission)
-==========
-    - Quest Giver: Tokichiro
-    - Characters:
-        - Tsukahara Bokuden (NPC)
-    --------------------
-    - Outlaw (sword)
-
-==========
-The Way of the Ninja: Novice (Dojo Mission)
-==========
-    - Quest Giver: Kato Danzo
-    - Characters:
-        - Kato Danzo (NPC)
-    --------------------
-    - Ninja (dual swords)
-
-==========
-The Way of Onmyo: Novice (Dojo Mission)
-==========
-    - Quest Giver: Tokichiro
-    - Characters:
-        - Abe no Seimei (NPC)
-    --------------------
-    - Gaki (big)
-
-==========
-The Way of the Warrior: Adept (Dojo Mission)
-==========
-    - Quest Giver: Tsukahara Bokuden
-    - Characters:
-        - None
-    --------------------
-    - Tsukahara Bokuden (boss)
-
-==========
-The Way of the Ninja: Adept (Dojo Mission)
-==========
-    - Quest Giver: Kato Danzo
-    - Characters:
-        - Kato Danzo (NPC)
-    --------------------
-    - Ninja (sword)
-    - Ninja (tonfas)
-    - Ninja (dual swords)
-    - Ninja (big) (sword)
-
-==========
-The Way of the Onmyo: Adept (Dojo Mission)
-==========
-    - Quest Giver: Abe no Seimei
-    - Characters:
-        - Abe no Seimei (NPC)
-    --------------------
-    - One-Eyed Imp
-    - Karakasa Umbrella
-    - Infernal Oni-Bi
-    - Ippon-Datara (hammer)
-    
-    ==========
-    The Way of the Warrior: Veteran (Dojo Mission)
-    ==========
-        - Quest Giver: Tsukahara Bokuden
-        - Characters:
-            - None
-        --------------------
-        - Tsukahara Bokuden (boss)
-
-    ==========
-    The Way of the Ninja: Veteran (Dojo Mission)
-    ==========
-        - Quest Giver: Kato Danzo
-        - Characters:
-            - None
-        --------------------
-        - Kato Danzo (boss)
-
-    ==========
-    The Way of the Onmyo: Veteran (Dojo Mission)
-    ==========
-        - Quest Giver: Abe no Seimei
-        - Characters:
-            - Abe no Seimei (NPC)
-        --------------------
-        - Tesso
-        - Infernal Oni-Bi
-        - Maelstrom Oni-Bi
-        - One-Eyed Imp
-        - Ubume
-
-    ==========
-    Opening of the Mind's Eye (Dojo Mission)
-    ==========
-        - Quest Giver: Shisenin Kosen
-        - Characters:
-            - None
-        --------------------
-        - Shisenin Kosen (boss)
-
-    ==========
-    Hanzo the Demon (Dojo Mission)
-    ==========
-        - Quest Giver: Hattori Hanzo
-        - Characters:
-            - None
-        --------------------
-        - Hattori Hanzo (boss)
-
-    ==========
-    Master of the Dual Blades (Dojo Mission)
-    ==========
-        - Quest Giver: Ashikaga Yoshiteru
-        - Characters:
-            - None
-        --------------------
-        - Ashikaga Yoshiteru (boss)
-
-    ==========
-    The Unmoving Mountain (Dojo Mission)
-    ==========
-        - Quest Giver: Sakata Kintoki
-        - Characters:
-            - None
-        --------------------
-        - Sakata Kintoki (boss)
-
-    ==========
-    The Chain That Splits the Sky (Dojo Mission)
-    ==========
-        - Quest Giver: Shisenin Kosen
-        - Characters:
-            - None
-        --------------------
-        - Shisenin Kosen (boss)
-
-    ==========
-    The Tengu's Blade (Dojo Mission)
-    ==========
-        - Quest Giver: Shisenin Kosen
-        - Characters:
-            - None
-        --------------------
-        - Shisenin Kosen (boss)
-
-    ==========
-    Like Lightning (Dojo Mission)
-    ==========
-        - Quest Giver: Hattori Hanzo
-        - Characters:
-            - None
-        --------------------
-        - Hattori Hanzo (boss)
-
-    ==========
-    The Unstoppable Whirlwind (Dojo Mission)
-    ==========
-        - Quest Giver: Sakata Kintoki
-        - Characters:
-            - None
-        --------------------
-        - Sakata Kintoki (boss)
-
-    ==========
-    Sharp Eyes (Dojo Mission)
-    ==========
-        - Quest Giver: Mumyo
-        - Characters:
-            - None
-        --------------------
-        - Mumyo (boss)
-
-    ==========
-    Breaking Free (Dojo Mission)
-    ==========
-        - Quest Giver: Hattori Hanzo
-        - Characters:
-            - None
-        --------------------
-        - Hattori Hanzo (boss)
-
-    ==========
-    Strike Like a Yokai (Dojo Mission)
-    ==========
-        - Quest Giver: Kato Danzo
-        - Characters:
-            - None
-        --------------------
-        - Kato Danzo (boss)
-
-    ==========
-    The One Who Lives in the Shadows (Dojo Mission)
-    ==========
-        - Quest Giver: Hattori Hanzo
-        - Characters:
-            - None
-        --------------------
-        - Hattori Hanzo (boss)
-
-    ==========
-    The Nine Symbols (Dojo Mission)
-    ==========
-        - Quest Giver: Abe no Seimei
-        - Characters:
-            - None
-        --------------------
-        - Maelstrom Oni-Bi
-        - Onyudo (water)
-        - Mitsume Yazura
-        - Onryoki (boss)
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -1356,7 +1365,23 @@ Pervading Waters (Main Mission)
     - Saika Magoichi (boss) (first time)
     - Gyuki (boss) (first time)
 
-
+==========
+The Missing Gun (Sub Mission)
+==========
+    - Quest Giver: Shibata Katsuie
+    - Characters: 
+        - None
+    --------------------
+    - Saika Clan
+    - Rogue
+    - Ninja Dog
+    - Kosuzume (Human Saika Warrior) (first time)
+    - Tesso
+    - One-Eyed Oni
+    - Skeleton Warrior
+    - Ubume
+    - Spider
+    - Hotaru (Human Saika Warrior) (first time)
 
 
 
@@ -1389,23 +1414,7 @@ Pervading Waters (Main Mission)
 
 
 
-    ==========
-    The Missing Gun (Sub Mission)
-    ==========
-        - Quest Giver: Shibata Katsuie
-        - Characters: 
-            - None
-        --------------------
-        - Saika Clan
-        - Rogue
-        - Ninja Dog
-        - Kosuzume (Human Saika Warrior) (first time)
-        - Tesso
-        - One-Eyed Oni
-        - Skeleton Warrior
-        - Ubume
-        - Spider
-        - Hotaru (Human Saika Warrior) (first time)
+
 
     ==========
     The Refined Man of the Underworld (Sub Mission)
