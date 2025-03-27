@@ -2421,10 +2421,15 @@ The Missing Gun (Sub Mission)
         - None
     - Mission Rewards: 
     First Time:
-        - 
+        - Roaring Gun Ammunition X5
+        - Tactician's Helmet (rare)
+        - Tactician's Cuirass (rare)
+        - Tactician's Waistguard (rare)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Roaring Gun Ammunition X4
+        - Tactician's Gauntlets (rare)
+        - Tactician's Greaves (rare)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None

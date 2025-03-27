@@ -1372,16 +1372,26 @@ The Missing Gun (Sub Mission)
     - Characters: 
         - None
     --------------------
-    - Saika Clan
-    - Rogue
+    - Saika Clan (dual pistols, rifle, dual swords)
+    - Rogue (big) (sword)
+    - Rogue (torch, spear)
+    - Rogue (sword)
     - Ninja Dog
-    - Kosuzume (Human Saika Warrior) (first time)
+    - Rogue (big) (spear)
+    - Saika Clan (cannon, dual swords)
+    - Saika Clan (kusarigama)
+    - Rogue (axe)
+    - Rogue (big) (axe)
+    - Kosuzume (human saika warrior) (kusarigama) (first time)
     - Tesso
+    - Skeleton Warrior (rifle, sword)
     - One-Eyed Oni
-    - Skeleton Warrior
+    - Skeleton Warrior (big) (axe)
     - Ubume
-    - Spider
-    - Hotaru (Human Saika Warrior) (first time)
+    - Spider (big)
+    - Spider (medium)
+    - Skeleton Warrior (spear)
+    - Hotaru (human saika warrior) (dual swords) (first time)
 
 
 
