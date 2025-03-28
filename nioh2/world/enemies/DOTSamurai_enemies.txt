@@ -1393,6 +1393,38 @@ The Missing Gun (Sub Mission)
     - Skeleton Warrior (spear)
     - Hotaru (human saika warrior) (dual swords) (first time)
 
+==========
+The Refined Man of the Underworld (Sub Mission)
+==========
+    - Quest Giver: Matsunaga Hisahide
+    - Characters: 
+        - None
+    --------------------
+    - Gaki
+    - Enki
+    - Gozuki (boss)
+    - Mezuki (boss)
+
+==========
+Song of the Yokai (Sub Mission)
+==========
+    - Quest Giver: Hachisuka Koroku
+    - Characters: 
+        - Okuni (NPC)
+    --------------------
+    - Rokurokubi (sword)
+    - Lesser Umi-Bozu
+    - Nure-Onna (drops the Wood Tile: Ro)
+    - Koroka
+    - Yamanba (drops the Wood Tile: Ha)
+    - Gaki
+    - Flying Bolt (drops the Wood Tile: I)
+    - Ninja (dual swords)
+    - Abbarant Soldier
+    - Enki
+    - Maelstrom Oni-Bi
+    - Tesso
+    - Ubume
 
 
 
@@ -1416,7 +1448,6 @@ The Missing Gun (Sub Mission)
 
 
 
-    
 
 
 
@@ -1426,38 +1457,7 @@ The Missing Gun (Sub Mission)
 
 
 
-    ==========
-    The Refined Man of the Underworld (Sub Mission)
-    ==========
-        - Quest Giver: Matsunaga Hisahide
-        - Characters: 
-            - None
-        --------------------
-        - Gaki
-        - Enki
-        - Gozuki (boss)
-        - Mezuki (boss)
 
-    ==========
-    Song of the Yokai (Sub Mission)
-    ==========
-        - Quest Giver: Hachisuka Koroku
-        - Characters: 
-            - Okuni (NPC)
-        --------------------
-        - Rokurokubi
-        - Nure-Onna
-        - Lesser Umi-Bozu
-        - Koroka
-        - Gaki
-        - Flying Bolt
-        - Ninja
-        - Yamanba
-        - Abbarant Soldier
-        - Enki
-        - Maelstrom Oni-Bi
-        - Tesso
-        - Ubume
 
     ==========
     The Frenzied Blaze (Main Mission)

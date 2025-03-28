@@ -2434,10 +2434,74 @@ The Missing Gun (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
+==========
+The Refined Man of the Underworld (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Pervading Waters".
+    --------------------
+    - Recommended level: 79
+    - Gold: 17,600
+    - Amrita: 13,592
+    - Shrine: No
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Gozuki
+        - Mezuki
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Karamono Hyotan (tea utensil) (rare)
+        - Summoner's Candle X1
+        - Yokai Water Pot X3
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Large Crooked Horn X1
+        - Yokai Water Pot X3
+        - Warped Jawbone X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
-
-
-
+==========
+Song of the Yokai (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Pervading Waters".
+    --------------------
+    - Recommended level: 79
+    - Gold: 17,400
+    - Amrita: 13,240
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 7
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Dancing Blade (sword) (rare)
+        - Yokai Incense X1
+        - Comb (accessory) (rare)
+        - Smithing Text: Dancing Blade
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Yokai Incense X1
+        - Glowing Lock of Wet Hair X1
+        - Lock of Grey Hair X3
+        - Ochoko Cup X5
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 
@@ -2473,50 +2537,9 @@ The Missing Gun (Sub Mission)
 
 
 
-    ==========
-    The Refined Man of the Underworld (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Pervading Waters".
-        --------------------
-        - Recommended level: 79
-        - Gold: 17,600
-        - Amrita: 13,592
-        - Shrine: No
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Gozuki
-            - Mezuki
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
 
-    ==========
-    Song of the Yokai (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Pervading Waters".
-        --------------------
-        - Recommended level: 79
-        - Gold: 17,400
-        - Amrita: 13,240
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 7
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Smithing Text: Dancing Blade.
+
+
 
     ==========
     The Frenzied Blaze (Main Mission)

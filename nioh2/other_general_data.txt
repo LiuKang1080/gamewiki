@@ -5,6 +5,14 @@ Key Items
         - Key item obtained from a chest in the mission: The Lost Sword (Main Mission).
         - This item is given away to Minamoto no Yoshitsune upon completing this mission.
 
+    - Back Room Key [img complete]:
+        - Key found after defeating Ubume in the gauntlet section at the end of the Sub Mission: Song of the Yokai.
+        - Back Room Key removed from inventory after opening the final door releasing Okuni in the Sub Mission: Song of the Yokai.
+
+    - Chinese Tea Vessel [img complete]:
+        - Item drops after defeating Mezuki in the Sub Mission: The Refined Man of the Underworld.
+        - Item is given away at the end of the Sub Mission: The Refined Man of the Underworld.
+
     - Cherry Blossom Chapbook [img complete]:
         - Complete the mission: The Scented Letter (Sub Mission).
 
@@ -39,6 +47,10 @@ Key Items
     - Inner Shrine Key [img complete]:
         - Key item obtained at the beginning of the mission: The Village of Cursed Blossoms.
         - Key item is removed upon completing the mission.
+
+    I-Ro-Ha Wooden Tiles [img complete]:
+        - All 3 Wooden Tiles are collected in the Sub Mission: Song of the Yokai.
+        - All 3 Wooden Tiles are removed from the player's inventory upon opening the final wooden door requiring the 3 tiles.
 
     - Kagatsuchi's Magatama [img complete]:
         - Complete the missions:
