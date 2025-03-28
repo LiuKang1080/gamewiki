@@ -338,20 +338,20 @@ The Cursed Castle Ruins (A Bird In A Cage | Shadow Region (Region 3))
     - Spider (big)
     - Azai Nagamasa (boss)
 
-    ==========
-    The Defiled Sanctuary (The Golden Nation | Shadow Region (Region 3))
-    ==========
-        - Dweller
-        - Abbarant Soldier
-        - Tesso
-        - Gaki
-        - Ubume
-        - Ippon-Datara (odachi)
-        - Karakasa Umbrella
-        - One-Eyed Oni
-        - Nure-Onna
-        - Rokurokubi
-        - Kasha (boss)
+==========
+The Defiled Sanctuary (The Golden Nation | Shadow Region (Region 3))
+==========
+    - Dweller
+    - Abbarant Soldier
+    - Tesso
+    - Gaki
+    - Ubume
+    - Ippon-Datara (odachi)
+    - Karakasa Umbrella
+    - One-Eyed Oni
+    - Nure-Onna
+    - Rokurokubi (sword)
+    - Kasha (boss)
 
     ==========
     Mountain of the Dark Lord (The Sun Sets on Mount Tenno | Dawn Region (Region 4))
@@ -1426,6 +1426,46 @@ Song of the Yokai (Sub Mission)
     - Tesso
     - Ubume
 
+==========
+The Frenzied Blaze (Main Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters: 
+        - Akechi Mitsuhide (Cutscenes)
+        - Saito Toshimitsu (Cutscenes)
+        - Oda Nobunaga (Cutscenes)
+        - Princess Noh (Cutscenes)
+        - Obsidian Samurai (Ally)
+        - Oichi (Cutscenes)
+    --------------------
+    - Warrior (sword)
+    - Onmyo Mage (first time)
+    - Outlaw (axe)
+    - Warrior (spear)
+    - Warrior (torch, spear)
+    - Outlaw (bow + fire arrow, sword)
+    - Gaki
+    - Kappa
+    - Gaki (big)
+    - Skeleton Warrior (spear)
+    - Koroka
+    - Wheelmonk (blue flames) (first time)
+    - Infernal Oni-Bi
+    - Skeleton Warrior (big) (axe)
+    - Dweller
+    - Rokurokubi (sword)
+    - Ubume
+    - Mujina
+    - Rokurokubi (torch, sword)
+    - Skeleton Warrior (rifle, sword)
+    - Nurikabe
+    - Ippon-Datara (hammer)
+    - Warrior (rifle, sword)
+    - Warrior (big) (spear)
+    - Warrior (big) (dual swords)
+    - Onyudo (fire)
+    - Skeleton Warrior (cannon, sword)
+    - Kasha (boss) (first time)
 
 
 
@@ -1459,34 +1499,6 @@ Song of the Yokai (Sub Mission)
 
 
 
-    ==========
-    The Frenzied Blaze (Main Mission)
-    ==========
-        - Quest Giver: Mumyo
-        - Characters: 
-            - Akechi Mitsuhide (Cutscenes)
-            - Saito Toshimitsu (Cutscenes)
-            - Oda Nobunaga (Cutscenes)
-            - Princess Noh (Cutscenes)
-            - Obsidian Samurai (Ally)
-            - Oichi (Cutscenes)
-        --------------------
-        - Outlaw
-        - Warrior
-        - Onmyo Mage (first time)
-        - Gaki
-        - Skeleton Warrior
-        - Koroka
-        - Wheelmonk
-        - Infernal Oni-Bi
-        - Dweller
-        - Rokurokubi
-        - Ubume
-        - Mujina
-        - Nurikabe
-        - Onyudo (fire)
-        - Ippon-Datara (hammer)
-        - Kasha (boss) (first time)
 
     ==========
     The Burning Sky (Sub Mission)

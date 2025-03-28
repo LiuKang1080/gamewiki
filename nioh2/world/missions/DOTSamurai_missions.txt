@@ -815,28 +815,40 @@ The Cursed Castle Ruins
     Notable Items During / Post Mission:
         - None
 
-    ==========
-    The Defiled Sanctuary
-    ==========
-        - Mission Unlock Requirement:
-            - The Fallen Star (Shadow Region | Region 3).
-            - Pervading Waters (Dawn Region | Region 4).
-        --------------------
-        - Recommended level: 83
-        - Gold: 18,800
-        - Amrita: 15,888
-        - Shrine: Yes
-        - Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Kasha
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Quality Umbracite x1 (mission reward).
+==========
+The Defiled Sanctuary
+==========
+    - Mission Unlock Requirement:
+        - The Fallen Star (Shadow Region | Region 3).
+        - Pervading Waters (Dawn Region | Region 4).
+    --------------------
+    - Recommended level: 83
+    - Gold: 56,400 / 18,800
+    - Amrita: 47,664 / 15,888
+    - Shrine: Yes
+    - Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Kasha
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Quality Umbracite X1
+        - Summoner's Candle X1
+        - Highest-Quality Wood X5
+        - Infernal Nail X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Highest-Quality Wood X2
+        - Broken Wheel Piece X1
+        - Demon's Horn X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
     ==========
     Mountain of the Dark Lord
@@ -2503,6 +2515,41 @@ Song of the Yokai (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
+==========
+The Frenzied Blaze (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Pervading Waters".
+    --------------------
+    - Recommended level: 80
+    - Gold: 18,000
+    - Amrita: 14,320
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 8
+    - Number of Sudama: 2
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 3
+    - Bosses: 
+        - Kasha
+    - Guardian Spirit Unlocked: 
+        - Nine Tails
+    - Mission Rewards: 
+    First Time:
+        - Infernal Nail X1
+        - Fire Omamori (accessory) (rare)
+        - Burning Oil Jar X3
+        - Sacred Ash X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Broken Wheel Piece X1
+        - Gunpowder Bomb X3
+        - Burning Oil Jar X2
+        - Fire Amulet X3
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Onmyo Mage's Locks.
+        - Ninja's Locks.
 
 
 
@@ -2530,7 +2577,6 @@ Song of the Yokai (Sub Mission)
 
 
 
-    
 
 
 
@@ -2541,28 +2587,7 @@ Song of the Yokai (Sub Mission)
 
 
 
-    ==========
-    The Frenzied Blaze (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Pervading Waters".
-        --------------------
-        - Recommended level: 80
-        - Gold: 18,000
-        - Amrita: 14,320
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 8
-        - Number of Sudama: 2
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 3
-        - Bosses: 
-            - Kasha
-        - Guardian Spirit Unlocked: 
-            - Nine Tails
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks.
-            - Ninja's Locks.
+
 
     ==========
     The Burning Sky (Sub Mission)
@@ -2709,7 +2734,7 @@ Song of the Yokai (Sub Mission)
         - Mission Unlock Requirement:
             - Complete the mission: "The Sun Sets on Mount Tenno".
             - Complete the mission: "The Refined Man of the Underworld".
-            - Complete the mission: "Master of the Dual Blades" (Unlocked after completing Ruin Draws Near (Twilight Region | Region 5)).
+            - Complete the mission: "Master of the Dual Blades" (Unlocked after completing the Main Mission: Ruin Draws Near (Twilight Region | Region 5)).
         --------------------
         - Recommended level: 80
         - Gold: 17,800
