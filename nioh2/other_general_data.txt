@@ -77,6 +77,11 @@ Key Items
     - Repaired Hiragumo Kettle [img complete]:
         - Complete the mission: Scattered Fragments (Sub Mission).
 
+    - Rusty Key [img complete]:
+        - Obtained in the Sub Mission: The Burning Sky.
+        - Item is used to unlock the final gauntlet section.
+        - Item removed from inventory upon completing mission.
+
     - Saigyo's Poems 1 - III [img complete]:
         - Obtained in the following missions:
             - A Song to Calm the Storm.

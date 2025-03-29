@@ -2551,6 +2551,143 @@ The Frenzied Blaze (Main Mission)
         - Onmyo Mage's Locks.
         - Ninja's Locks.
 
+==========
+The Burning Sky (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Frenzied Blaze".
+    --------------------
+    - Recommended level: 83
+    - Gold: 18,800
+    - Amrita: 15,888
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Kamui (odachi) (fire) (rare)
+        - Radiant Flame (hatchets) (fire) (rare)
+        - Twin Dragon Tonfa (fire) (rare)
+        - Sacred Water X4
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Aberrant Switchglaive (rare)
+        - Nightcrow Kusarigama (rare)
+        - Evil-Crusher Hammer (rare)
+        - Sacred Water X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Kagatsuchi Magatama (Mission Reward - Increases the average rarity of uncommon+ forged items by 1%).
+
+==========
+Abduction (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Frenzied Blaze".
+    --------------------
+    - Recommended level: 83
+    - Gold: 18,400
+    - Amrita: 15,080
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Baby Stone Fragment X1
+        - Omamori (accessory) (rare)
+        - Prayer Beads (accessory) (rare)
+        - Book of Reincarnation X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Baby Stone Fragment X1
+        - One-Eyed Imp's Clogs X1
+        - Umbrella Rib X3
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Warrior (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Frenzied Blaze".
+    --------------------
+    - Recommended level: 84
+    - Gold: 19,200
+    - Amrita: 16,752
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - Atlas Bear
+    - Mission Rewards: 
+    First Time:
+        - Conqueror's Cuirass (rare)
+        - Conqueror's Gauntlets (rare)
+        - Conqueror's Waistguard (rare)
+        - Conqueror's Greaves (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Conqueror's Cuirass (rare)
+        - Conqueror's Gauntlets (rare)
+        - Conqueror's Greaves (rare)
+        - Conqueror's Waistguard (rare)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Sun Sets on Mount Tenno (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Frenzied Blaze".
+    --------------------
+    - Recommended level: 85
+    - Gold: 19,400
+    - Amrita: 17,208
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 8
+    - Number of Sudama: 2
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 2
+    - Bosses: 
+        - Ryomen Sukuna
+    - Guardian Spirit Unlocked: 
+        - Genbu
+    - Mission Rewards: 
+    First Time:
+        - Onmyo Mage's Locks X1
+        - Ryomen Sukuna's Sword (rare)
+        - Ryomen Sukuna's Axe (rare)
+        - Smithing Text: Sacred Brush
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Onmyo Mage's Locks.
+        - Ninja's Locks.
+        - 3rd Soul Core slot unlocked for Guardian Spirits (complete mission).
 
 
 
@@ -2589,97 +2726,6 @@ The Frenzied Blaze (Main Mission)
 
 
 
-    ==========
-    The Burning Sky (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Frenzied Blaze".
-        --------------------
-        - Recommended level: 83
-        - Gold: 18,800
-        - Amrita: 15,888
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Kagatsuchi Magatama (Mission Reward - Increases the average rarity of uncommon+ forged items by 1%).
-
-    ==========
-    Abduction (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Frenzied Blaze".
-        --------------------
-        - Recommended level: 83
-        - Gold: 18,400
-        - Amrita: 15,080
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Book of Reincarnation (mission reward).
-
-    ==========
-    The Warrior (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Frenzied Blaze".
-        --------------------
-        - Recommended level: 84
-        - Gold: 19,200
-        - Amrita: 16,752
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - Atlas Bear
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-    ==========
-    The Sun Sets on Mount Tenno (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Frenzied Blaze".
-        --------------------
-        - Recommended level: 85
-        - Gold: 19,400
-        - Amrita: 17,208
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 8
-        - Number of Sudama: 2
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 2
-        - Bosses: 
-            - Ryomen Sukuna
-        - Guardian Spirit Unlocked: 
-            - Genbu
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks.
-            - Ninja's Locks.
-            - Onmyo Mage's Locks (mission reward).
-            - Smithing Text: Sacred Brush (mission reward).
-            - 3rd Soul Core slot unlocked for Guardian Spirits (complete mission).
 
     ==========
     The Aberrant Mage (Sub Mission)

@@ -1467,6 +1467,102 @@ The Frenzied Blaze (Main Mission)
     - Skeleton Warrior (cannon, sword)
     - Kasha (boss) (first time)
 
+==========
+The Burning Sky (Sub Mission)
+==========
+    - Quest Giver: Senji Toyo
+    - Characters: 
+        - None
+    --------------------
+    - Gaki
+    - Skeleton Warrior (spear)
+    - Enki
+    - Ubume
+    - Yamanba
+    - One-Eyed Imp
+    - Mitsume Yazura
+    - One-Eyed Oni
+    - Skeleton Warrior (bow + fire arrow, sword)
+    - Karasu Tengu
+    - Skeleton Warrior (rifle, sword)
+    - Skeleton Warrior (big) (axe)
+    - Infernal Oni-Bi
+    - Onyudo (fire)
+
+==========
+Abduction (Sub Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters: 
+        - None
+    --------------------
+    - Gaki
+    - Gaki (big)
+    - One-Eyed Imp
+    - Lesser Umi-Bozu
+    - Infernal Oni-Bi
+    - Maelstrom Oni-Bi
+    - Thunderstorm Oni-Bi
+    - Yamanba
+    - Karakasa Umbrella
+    - Koroka
+    - Tesso
+    - Ubume
+
+==========
+The Warrior (Sub Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters: 
+        - Obsidian Samurai (NPC)
+    --------------------
+    - Skeleton Warrior (spear)
+    - Dweller
+    - Skeleton Warrior (rifle, sword)
+    - Infernal Oni-Bi
+    - One-Eyed Oni
+    - Tesso
+    - Outlaw (sword)
+    - Warrior (odachi)
+    - Mitsume Yazura
+    - Ubume
+    - Warrior (axe)
+    - Skeleton Warrior (bow + fire arrow, sword)
+    - Warrior (big) (dual swords)
+    - Warrior (bow + fire arrow, sword)
+    - Thunderstorm Oni-Bi
+    - Warrior (big) (odachi)
+    - Enki
+    - Tesso
+    - Abbarant Soldier
+    - Onyudo (fire)
+    - Yoki (axe)
+    - Ippon-Datara (hammer)
+
+==========
+The Sun Sets on Mount Tenno (Main Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters: 
+        - Akechi Mitsuhide (Cutscenes)
+        - Saito Toshimitsu (Cutscenes)
+        - Kashin Koji (Cutscenes)
+        - Tokichiro (Cutscenes)
+    --------------------
+    - Gaki
+    - Skeleton Warrior
+    - Warrior
+    - Yoki (axe)
+    - Nure-Onna
+    - Waira
+    - Blue Yoki (kusarigama) (first time)
+    - Nurikabe
+    - Onmyo Mage
+    - Onyudo (water) (first time)
+    - Abbarant Soldier
+    - Blue Yoki (dual swords)
+    - Onyudo (fire)
+    - Ryomen Sukuna (boss) (first time)
 
 
 
@@ -1500,89 +1596,6 @@ The Frenzied Blaze (Main Mission)
 
 
 
-    ==========
-    The Burning Sky (Sub Mission)
-    ==========
-        - Quest Giver: Senji Toyo
-        - Characters: 
-            - None
-        --------------------
-        - Gaki
-        - Skeleton Warrior
-        - Enki
-        - Ubume
-        - Yamanba
-        - One-Eyed Oni
-        - Mitsume Yazura
-        - Karasu Tengu
-        - Infernal Oni-Bi
-        - Onyudo (fire)
-
-    ==========
-    Abduction (Sub Mission)
-    ==========
-        - Quest Giver: Mumyo
-        - Characters: 
-            - None
-        --------------------
-        - Gaki
-        - One-Eyed Oni
-        - Lesser Umi-Bozu
-        - Infernal Oni-Bi
-        - Maelstrom Oni-Bi
-        - Thunderstorm Oni-Bi
-        - Yamanba
-        - Karakasa Umbrella
-        - Ubume
-
-    ==========
-    The Warrior (Sub Mission)
-    ==========
-        - Quest Giver: Mumyo
-        - Characters: 
-            - Obsidian Samurai (NPC)
-        --------------------
-        - Skeleton Warrior
-        - Dweller
-        - Infernal Oni-Bi
-        - Tesso
-        - One-Eyed Oni
-        - Outlaw
-        - Warrior
-        - Enki
-        - Thunderstorm Oni-Bi
-        - Ubume
-        - Mitsume Yazura
-        - Tesso
-        - Abbarant Soldier
-        - Onyudo (fire)
-        - Yoki (axe)
-        - Ippon-Datara (hammer)
-
-    ==========
-    The Sun Sets on Mount Tenno (Main Mission)
-    ==========
-        - Quest Giver: Mumyo
-        - Characters: 
-            - Akechi Mitsuhide (Cutscenes)
-            - Saito Toshimitsu (Cutscenes)
-            - Kashin Koji (Cutscenes)
-            - Tokichiro (Cutscenes)
-        --------------------
-        - Gaki
-        - Skeleton Warrior
-        - Warrior
-        - Yoki (axe)
-        - Nure-Onna
-        - Waira
-        - Blue Yoki (kusarigama) (first time)
-        - Nurikabe
-        - Onmyo Mage
-        - Onyudo (water) (first time)
-        - Abbarant Soldier
-        - Blue Yoki (dual swords)
-        - Onyudo (fire)
-        - Ryomen Sukuna (boss) (first time)
 
     ==========
     The Aberrant Mage (Sub Mission)
