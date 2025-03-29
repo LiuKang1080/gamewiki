@@ -2682,97 +2682,87 @@ The Sun Sets on Mount Tenno (Main Mission)
         - Smithing Text: Sacred Brush
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Mud Jar X2
+        - Wheel of Ice and Fire X1
+        - Spirit Stone X4
+        - Ryomen Sukuna's Bow (rare)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - Onmyo Mage's Locks.
         - Ninja's Locks.
         - 3rd Soul Core slot unlocked for Guardian Spirits (complete mission).
 
+==========
+The Aberrant Mage (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Sun Sets on Mount Tenno".
+        - Defeat an Onmyo Mage 10 or more times.
+    --------------------
+    - Recommended level: 87
+    - Gold: 19,800
+    - Amrita: 18,168
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Onmyo Mage's Locks X1
+        - Smithing Text: Sacred Ash
+        - Onmyo Hunting Garb (chest piece) (exotic)
+        - Onmyo Hunting Hakama (leg piece) (exotic)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Onmyo Hunting Hat (rare)
+        - Onmyo Hunting Bracers (rare)
+        - Onmyo Hunting Shoes (rare)
+        - Lightning Amulet X3
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    The Aberrant Mage (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Sun Sets on Mount Tenno".
-            - Defeat an Onmyo Mage 10 or more times.
-        --------------------
-        - Recommended level: 87
-        - Gold: 19,800
-        - Amrita: 18,168
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks (mission reward).
-            - Smithing Text: Sacred Ash (mission reward).
-
-    ==========
-    The Third Word (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Sun Sets on Mount Tenno".
-            - Complete the mission: "The Aberrant Mage".
-        --------------------
-        - Recommended level: 88
-        - Gold: 20,600
-        - Amrita: 20,280
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Saika Magoichi
-        - Guardian Spirit Unlocked: 
-            - Yatagarasu
-        - Notable Items In Mission / Mission Rewards:
-            - None
+==========
+The Third Word (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Sun Sets on Mount Tenno".
+        - Complete the mission: "The Aberrant Mage".
+    --------------------
+    - Recommended level: 88
+    - Gold: 20,600
+    - Amrita: 20,280
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Saika Magoichi
+    - Guardian Spirit Unlocked: 
+        - Yatagarasu
+    - Mission Rewards: 
+    First Time:
+        - Highest-Quality Leather Platelet X3
+        - Highest-Quality Leather Cord X3
+        - Highest-Quality Lacquer X3
+        - Highest-Quality Ingot X3
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - High-Quality Leather Platelet X3
+        - High-Quality Leather Cord X3
+        - High-Quality Lacquer X3
+        - High-Quality Ingot X3
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
     ==========
     Master of the Three Evils (Sub Mission)
@@ -2803,6 +2793,49 @@ The Sun Sets on Mount Tenno (Main Mission)
 Twilight Region (Region 5)
 ========== ========== ========== ========== ==========
     - Guardian Spirit "Nekomata" unlocks upon entering the region.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     Ruin Draws Near (Main Mission)

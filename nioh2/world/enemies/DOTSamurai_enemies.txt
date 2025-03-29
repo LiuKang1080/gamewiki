@@ -1550,80 +1550,69 @@ The Sun Sets on Mount Tenno (Main Mission)
         - Tokichiro (Cutscenes)
     --------------------
     - Gaki
-    - Skeleton Warrior
-    - Warrior
+    - Skeleton Warrior (spear)
+    - Warrior (torch, spear)
+    - Warrior (dual swords)
+    - Warrior (bow + fire arrow, sword)
+    - Skeleton Warrior (sword)
     - Yoki (axe)
+    - Warrior (rifle, sword)
     - Nure-Onna
     - Waira
+    - Warrior (odachi)
     - Blue Yoki (kusarigama) (first time)
+    - Skeleton Warrior (rifle, sword)
+    - Skeleton Warrior (bow + fire arrow, sword)
+    - Warrior (axe)
+    - Warrior (spear)
+    - Warrior (cannon, sword)
+    - Warrior (big) (odachi)
+    - Warrior (torch, sword)
+    - Warrior (big) (rifle, sword)
     - Nurikabe
     - Onmyo Mage
-    - Onyudo (water) (first time)
+    - Ubume
     - Abbarant Soldier
     - Blue Yoki (dual swords)
+    - Onyudo (water) (first time)
+    - Skeleton Warrior (big) (axe)
     - Onyudo (fire)
     - Ryomen Sukuna (boss) (first time)
 
+==========
+The Aberrant Mage (Sub Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters: 
+        - Saika Magoichi (Ally)
+    --------------------
+    - Warrior (sword)
+    - Warrior (axe)
+    - Warrior (big) (rifle, sword)
+    - Warrior (big) (torch, odachi)
+    - Warrior (big) (spear)
+    - Spider
+    - Dweller
+    - Dweller (big)
+    - Koroka
+    - Tesso
+    - Warrior (rifle, sword)
+    - Warrior (big) (axe)
+    - Onmyo Mage
+    - Enki
+    - Abbarant Soldier
+    - Ubume
+    - Onyudo (lightning) (first time)
+    - Onyudo (fire)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    The Aberrant Mage (Sub Mission)
-    ==========
-        - Quest Giver: Mumyo
-        - Characters: 
-            - Saika Magoichi (Ally)
-        --------------------
-        - Warrior
-        - Spider
-        - Dweller
-        - Tesso
-        - Koroka
-        - Enki
-        - Onmyo Mage
-        - Tesso
-        - Ubume
-        - Onyudo (lightning) (first time)
-        - Onyudo (fire)
-
-    ==========
-    The Third Word (Sub Mission)
-    ==========
-        - Quest Giver: Mumyo
-        - Characters: 
-            - None
-        --------------------
-        - Saika Magoichi (boss)
+==========
+The Third Word (Sub Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters: 
+        - None
+    --------------------
+    - Saika Magoichi (boss)
 
     ==========
     Master of the Three Evils (Sub Mission)
@@ -1638,6 +1627,50 @@ The Sun Sets on Mount Tenno (Main Mission)
 ========== ========== ========== ========== ==========
 Twilight Region (Region 5)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     ==========
     Ruin Draws Near (Main Mission)
     ==========

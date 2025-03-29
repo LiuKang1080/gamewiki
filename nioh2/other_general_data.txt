@@ -79,8 +79,8 @@ Key Items
 
     - Rusty Key [img complete]:
         - Obtained in the Sub Mission: The Burning Sky.
-        - Item is used to unlock the final gauntlet section.
-        - Item removed from inventory upon completing mission.
+        - Obtained in the Sub Mission: The Aberrant Mage.
+        - Item is removed from inventory upon completing the above missions.
 
     - Saigyo's Poems 1 - III [img complete]:
         - Obtained in the following missions:
