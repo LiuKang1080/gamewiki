@@ -2794,6 +2794,51 @@ Twilight Region (Region 5)
 ========== ========== ========== ========== ==========
     - Guardian Spirit "Nekomata" unlocks upon entering the region.
 
+==========
+Ruin Draws Near (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Sun Sets on Mount Tenno".
+    --------------------
+    - Recommended level: 88
+    - Gold: 21,200
+    - Amrita: 22,032
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 7
+    - Number of Sudama: 2
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 4
+    - Bosses: 
+        - Maeda Toshiie
+        - Oni Shibata Katsuie
+    - Guardian Spirit Unlocked: 
+        - Inosasao
+    - Mission Rewards: 
+    First Time:
+        - Samurai's Locks X1
+        - Urn Splitter Hatchets (rare)
+        - Oni Shibata's Cuirass (rare)
+        - Oni Shibata's Helmet (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Onmyo Mage's Locks.
+        - Ninja's Locks.
+        - Samurai's Locks (mission reward).
+        - Unlocks the Dojo mission: "Opening of the Mind's Eye" after beating mission.
+        - Unlocks the Dojo mission: "Hanzo the Demon" after beating mission.
+        - Unlocks the Dojo mission: "Master of the Dual Blades" after beating mission.
+        - Unlocks the Dojo mission: "The Unmoving Mountain" after beating mission.
+        - Unlocks the Dojo mission: "The Chain That Splits the Sky" after beating mission.
+        - Unlocks the Dojo mission: "Sharp Eyes" after beating mission.
+        - Unlocks the Dojo mission: "Like Lightning" after beating mission.
+        - Unlocks the Dojo mission: "The Tengu's Blade" after beating mission.
+        - Unlocks the Dojo mission: "The Unstoppable Whirlwind" after beating mission.
+        - Unlocks the Dojo mission: "Breaking Free" after beating mission.
+        - Unlocks the Dojo mission: "Strike Like a Yokai" after beating mission.
 
 
 
@@ -2837,41 +2882,6 @@ Twilight Region (Region 5)
 
 
 
-    ==========
-    Ruin Draws Near (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Sun Sets on Mount Tenno".
-        --------------------
-        - Recommended level: 88
-        - Gold: 21,200
-        - Amrita: 22,032
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 7
-        - Number of Sudama: 2
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 4
-        - Bosses: 
-            - Maeda Toshiie
-            - Oni Shibata Katsuie
-        - Guardian Spirit Unlocked: 
-            - Inosasao
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks.
-            - Ninja's Locks.
-            - Samurai's Locks (mission reward).
-            - Unlocks the Dojo mission: "Opening of the Mind's Eye" after beating mission.
-            - Unlocks the Dojo mission: "Hanzo the Demon" after beating mission.
-            - Unlocks the Dojo mission: "Master of the Dual Blades" after beating mission.
-            - Unlocks the Dojo mission: "The Unmoving Mountain" after beating mission.
-            - Unlocks the Dojo mission: "The Chain That Splits the Sky" after beating mission.
-            - Unlocks the Dojo mission: "Sharp Eyes" after beating mission.
-            - Unlocks the Dojo mission: "Like Lightning" after beating mission.
-            - Unlocks the Dojo mission: "The Tengu's Blade" after beating mission.
-            - Unlocks the Dojo mission: "The Unstoppable Whirlwind" after beating mission.
-            - Unlocks the Dojo mission: "Breaking Free" after beating mission.
-            - Unlocks the Dojo mission: "Strike Like a Yokai" after beating mission.
 
     ==========
     Okuni's Search (Sub Mission)
