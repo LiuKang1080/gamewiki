@@ -48,7 +48,7 @@ Key Items
         - Key item obtained at the beginning of the mission: The Village of Cursed Blossoms.
         - Key item is removed upon completing the mission.
 
-    I-Ro-Ha Wooden Tiles [img complete]:
+    - I-Ro-Ha Wooden Tiles [img complete]:
         - All 3 Wooden Tiles are collected in the Sub Mission: Song of the Yokai.
         - All 3 Wooden Tiles are removed from the player's inventory upon opening the final wooden door requiring the 3 tiles.
 
@@ -61,6 +61,10 @@ Key Items
         - Increases the average rarity of uncommon+ forged items by 1%.
         - Ex: When you use all purple-quality materials the chance of a purple item is 33% base + 1 - 2% per Kagatsuchi's
             Magatama collected. Other rarities proportionally decrease.
+
+    - Kitanosho Keep Key [img complete]:
+        - Key item obtained after defeating Maeda Toshiie in the Main Mission: Ruin Draws Near.
+        - Item is removed from inventory upon completing the mission.
 
     - Large Baby Stone [img complete]:
         - Key item obtained during the mission: Boundless Chaos.

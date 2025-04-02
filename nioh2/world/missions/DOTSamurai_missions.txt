@@ -850,27 +850,40 @@ The Defiled Sanctuary
     Notable Items During / Post Mission:
         - None
 
-    ==========
-    Mountain of the Dark Lord
-    ==========
-        - Mission Unlock Requirement:
-            - The Sun Sets on Mount Tenno (Dawn Region | Region 4).
-        --------------------
-        - Recommended level: 85
-        - Gold: 65,400
-        - Amrita: 71,784
-        - Shrine: Yes
-        - Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 1
-        - Number of Hot Springs: 1 (0 required)
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - Ryomen Sukuna
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Quality Umbracite x1 (mission reward).
+==========
+Mountain of the Dark Lord
+==========
+    - Mission Unlock Requirement:
+        - The Sun Sets on Mount Tenno (Dawn Region | Region 4).
+    --------------------
+    - Recommended level: 91
+    - Gold: 65,400 / 21,800
+    - Amrita: 71,784 / 32,928
+    - Shrine: Yes
+    - Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 2
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - Ryomen Sukuna
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Quality Umbracite X1
+        - Wheel of Ice and Fire X1
+        - Waira Claw X2
+        - Mud Jar X3
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Mud Jar X2
+        - Wheel of Ice and Fire X1
+        - Waira Claw X1
+        - Writhing Tongue X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
     ==========
     The Island of Monsters
@@ -2822,12 +2835,14 @@ Ruin Draws Near (Main Mission)
         - Oni Shibata's Helmet (rare)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Oni Shibata's Waistguard (uncommon)
+        - Oni Shibata's Gauntlets (rare)
+        - Oni Shibata's Greaves (rare)
+        - Lumicite Fragment X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - Onmyo Mage's Locks.
         - Ninja's Locks.
-        - Samurai's Locks (mission reward).
         - Unlocks the Dojo mission: "Opening of the Mind's Eye" after beating mission.
         - Unlocks the Dojo mission: "Hanzo the Demon" after beating mission.
         - Unlocks the Dojo mission: "Master of the Dual Blades" after beating mission.

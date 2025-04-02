@@ -353,26 +353,33 @@ The Defiled Sanctuary (The Golden Nation | Shadow Region (Region 3))
     - Rokurokubi (sword)
     - Kasha (boss)
 
-    ==========
-    Mountain of the Dark Lord (The Sun Sets on Mount Tenno | Dawn Region (Region 4))
-    ==========
-        - Nure-Onna
-        - Toxic Slime
-        - Skeleton Warrior
-        - Spider
-        - Mitsume Yazura
-        - Wheelmonk
-        - Tesso
-        - Rokurokubi
-        - Yoki (axe)
-        - Flying Bolt
-        - Ubume
-        - Gaki
-        - Nurikabe
-        - Red Kappa
-        - Onyudo (fire)
-        - Onyudo (lightning)
-        - Ryomen Sukuna (boss)
+==========
+Mountain of the Dark Lord (The Sun Sets on Mount Tenno | Dawn Region (Region 4))
+==========
+    - Nure-Onna
+    - Toxic Slime
+    - Skeleton Warrior (sword)
+    - Spider (medium)
+    - Skeleton Warrior (spear)
+    - Mitsume Yazura
+    - Wheelmonk
+    - Tesso
+    - Spider (small)
+    - Spider (big)
+    - Yoki (axe)
+    - Rokurokubi (spear)
+    - Flying Bolt
+    - Rokurokubi (dual swords)
+    - Ubume
+    - Gaki (big)
+    - Nurikabe
+    - Red Kappa
+    - Abbarant Soldier
+    - Skeleton Warrior (big) (axe)
+    - Gaki
+    - Onyudo (fire)
+    - Onyudo (lightning)
+    - Ryomen Sukuna (boss)
 
     ==========
     The Island of Monsters (Twilight Region (Region 5))
@@ -1627,6 +1634,34 @@ The Third Word (Sub Mission)
 ========== ========== ========== ========== ==========
 Twilight Region (Region 5)
 ========== ========== ========== ========== ==========
+==========
+Ruin Draws Near (Main Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters: 
+        - Oichi (Cutscenes)
+    --------------------
+    - Skeleton Warrior (cannon, sword)
+    - Skeleton Warrior (spear)
+    - Skeleton Warrior (big) (axe)
+    - Skeleton Warrior (rifle, sword)
+    - Yoki (sword)
+    - Tesso
+    - Skeleton Warrior (bow + fire arrow, sword)
+    - Onyudo (fire)
+    - Mujina
+    - Abbarant Soldier
+    - Wheelmonk
+    - Warrior (axe)
+    - Warrior (torch, spear)
+    - Warrior (cannon, sword)
+    - Infernal oni-Bi
+    - Koroka
+    - Warrior (spear)
+    - Maeda Toshiie (boss) (first time)
+    - Nurikabe
+    - Ippon-Datara (hammer)
+    - Oni Shibata Katsuie (boss) (first time)
 
 
 
@@ -1671,24 +1706,6 @@ Twilight Region (Region 5)
 
 
 
-    ==========
-    Ruin Draws Near (Main Mission)
-    ==========
-        - Quest Giver: Mumyo
-        - Characters: 
-            - Oichi (Cutscenes)
-        --------------------
-        - Skeleton Warrior
-        - Yoki (sword)
-        - Onyudo (fire)
-        - Tesso
-        - Abbarant Soldier
-        - Wheelmonk
-        - Infernal oni-Bi
-        - Koroka
-        - Maeda Toshiie (boss) (first time)
-        - Ippon-Datara (hammer)
-        - Oni Shibata Katsuie (boss) (first time)
 
     ==========
     Okuni's Search (Sub Mission)
