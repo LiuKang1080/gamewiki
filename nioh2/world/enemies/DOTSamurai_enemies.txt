@@ -326,8 +326,8 @@ The Cursed Castle Ruins (A Bird In A Cage | Shadow Region (Region 3))
     - Dweller (big)
     - Yoki (axe)
     - Warrior (sword)
-    - Namahage (dual cleavers)
-    - Namahage (odachi)
+    - Namahage (bloodstained cleavers)
+    - Namahage (bloodstained blade)
     - Yoki (sword)
     - Skeleton Warrior (cannon, sword)
     - Toxic Slime
@@ -1095,8 +1095,8 @@ Corpses and Ice (Main Mission)
     - Rokurokubi
     - Warrior (big) (spear)
     - Magara Takamoto (first time)
-    - Namahage (dual cleavers) (first time)
-    - Namahage (odachi) (first time)
+    - Namahage (bloodstained cleavers) (first time)
+    - Namahage (bloodstained blade) (first time)
     - Maelstrom Oni-Bi
     - Lesser Umi-Bozu
     - Magara Naotaka (boss) (first time)
@@ -1112,7 +1112,7 @@ Lingering Snow and Crimson Tracks (Sub Mission)
     - One-Eyed Imp
     - Snowclops
     - Enki
-    - Namahage (dual cleavers)
+    - Namahage (bloodstained cleavers)
     - Maelstrom Oni-Bi
     - Infernal Oni-Bi
     - Flying Bolt (first time)
@@ -1134,7 +1134,7 @@ The Tiger Approaches (Sub Mission)
     - Mitsume Yazura
     - Rokurokubi (dual swords)
     - Yamanba
-    - Namahage (dual cleavers)
+    - Namahage (bloodstained cleavers)
 
 ==========
 The Brother's Baldes (Sub Mission)
@@ -1176,7 +1176,7 @@ A Shadow's Duty (Sub Mission)
     - Skeleton Warrior (sword)
     - Skeleton Warrior (spear)
     - Rokurokubi (dual swords)
-    - Namahage (dual cleavers)
+    - Namahage (bloodstained cleavers)
 
 ==========
 The Fallen Star (Sub Mission)
@@ -1242,7 +1242,7 @@ Bird In A Cage (Main Mission)
     - Skeleton Warrior (cannon, sword)
     - Toxic Slime
     - Nurikabe
-    - Namahage (dual cleavers)
+    - Namahage (bloodstained cleavers)
     - Mujina
     - Skeleton Warrior (rifle, sword)
     - Warrior (big) (odachi)
@@ -1663,6 +1663,26 @@ Ruin Draws Near (Main Mission)
     - Ippon-Datara (hammer)
     - Oni Shibata Katsuie (boss) (first time)
 
+==========
+Okuni's Search (Sub Mission)
+==========
+    - Quest Giver: Okuni
+    - Characters: 
+        - Okuni (Ally)
+    --------------------
+    - Nure-Onna
+    - Flying Bolt
+    - Tesso
+    - Namahage (bloodstained cleavers)
+    - Gaki
+    - Blue Yoki (dual swords)
+    - Namahage (bloodstained blade)
+    - Skeleton Warrior (rifle, sword)
+    - One-Eyed Imp
+    - Yamanba
+    - Ubume
+    - Onyudo (fire)
+    - Enenra (boss)
 
 
 
@@ -1707,24 +1727,6 @@ Ruin Draws Near (Main Mission)
 
 
 
-    ==========
-    Okuni's Search (Sub Mission)
-    ==========
-        - Quest Giver: Okuni
-        - Characters: 
-            - Okuni (Ally)
-        --------------------
-        - Nure-Onna
-        - Flying Bolt
-        - Tesso
-        - Gaki
-        - Namahage
-        - Blue Yoki (dual swords)
-        - One-Eyed Oni
-        - Yamanba
-        - Ubume
-        - Onyudo
-        - Enenra (boss)
 
     ==========
     Farewell to the Past (Sub Mission)

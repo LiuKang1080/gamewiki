@@ -9,6 +9,10 @@ Key Items
         - Key found after defeating Ubume in the gauntlet section at the end of the Sub Mission: Song of the Yokai.
         - Back Room Key removed from inventory after opening the final door releasing Okuni in the Sub Mission: Song of the Yokai.
 
+    - Beaded Hairpin [img complete]:
+        - Obtained after defeating Enenra in the Side Mission: Okuni's Search.
+        - Item is removed after completing the mission.
+
     - Chinese Tea Vessel [img complete]:
         - Item drops after defeating Mezuki in the Sub Mission: The Refined Man of the Underworld.
         - Item is given away at the end of the Sub Mission: The Refined Man of the Underworld.

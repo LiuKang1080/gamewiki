@@ -2855,6 +2855,38 @@ Ruin Draws Near (Main Mission)
         - Unlocks the Dojo mission: "Breaking Free" after beating mission.
         - Unlocks the Dojo mission: "Strike Like a Yokai" after beating mission.
 
+==========
+Okuni's Search (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Ruin Draws Near".
+    --------------------
+    - Recommended level: 90
+    - Gold: 21,400
+    - Amrita: 22,648
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 7
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Enenra
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Fan (accessory) (rare)
+        - Glowing Lock of Wet Hair X3
+        - Smithing Text: Yokai Incense
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Glowing Lock of Wet Hair X1
+        - Lock of Grey Hair X1
+        - White Cloth X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 
@@ -2898,27 +2930,6 @@ Ruin Draws Near (Main Mission)
 
 
 
-    ==========
-    Okuni's Search (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Ruin Draws Near".
-        --------------------
-        - Recommended level: 90
-        - Gold: 21,400
-        - Amrita: 22,648
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 7
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Enenra
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Smithing Text: Yokai Incense (mission reward).
 
     ==========
     Farewell to the Past (Sub Mission)
