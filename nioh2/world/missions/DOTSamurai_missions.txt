@@ -2888,6 +2888,39 @@ Okuni's Search (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
+==========
+Farewell to the Past (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Ruin Draws Near".
+    --------------------
+    - Recommended level: 91
+    - Gold: 38,850
+    - Amrita: 25,272
+    - Shrine: No
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Akechi Chikakage (sword) (rare)
+        - Hyuga Director's Helmet (rare)
+        - Hyuga Director's Cuirass (rare)
+        - Hyuga Director's Gauntlets (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Hyuga Director's Waistguard (rare)
+        - Hyuga Director's Greaves (rare)
+        - High-Quality Iron Platelet X3
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 
@@ -2930,28 +2963,6 @@ Okuni's Search (Sub Mission)
 
 
 
-
-    ==========
-    Farewell to the Past (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Ruin Draws Near".
-        --------------------
-        - Recommended level: 91
-        - Gold: 38,850
-        - Amrita: 25,272
-        - Shrine: No
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
 
     ==========
     The Two Faces of Hospitality (Main Mission)

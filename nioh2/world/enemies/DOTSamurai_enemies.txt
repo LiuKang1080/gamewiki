@@ -1684,6 +1684,19 @@ Okuni's Search (Sub Mission)
     - Onyudo (fire)
     - Enenra (boss)
 
+==========
+Farewell to the Past (Sub Mission)
+==========
+    - Quest Giver: Tenkai (Akechi Mitsuhide)
+    - Characters: 
+        - None
+    --------------------
+    - Warrior (dual swords)
+    - Warrior (spear)
+    - Warrior (big) (odachi)
+    - Onmyo Mage
+    - Warrior (big) (dual swords)
+    - Mysterious Samurai
 
 
 
@@ -1728,16 +1741,6 @@ Okuni's Search (Sub Mission)
 
 
 
-    ==========
-    Farewell to the Past (Sub Mission)
-    ==========
-        - Quest Giver: Tenkai (Akechi Mitsuhide)
-        - Characters: 
-            - None
-        --------------------
-        - Warrior
-        - Onmyo Mage
-        - Mysterious Samurai
 
     ==========
     The Two Faces of Hospitality (Main Mission)
