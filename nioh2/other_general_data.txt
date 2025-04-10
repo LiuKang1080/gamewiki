@@ -88,6 +88,7 @@ Key Items
     - Rusty Key [img complete]:
         - Obtained in the Sub Mission: The Burning Sky.
         - Obtained in the Sub Mission: The Aberrant Mage.
+        - Obtained in the Main Mission: The Two Faces of Hospitality.
         - Item is removed from inventory upon completing the above missions.
 
     - Saigyo's Poems 1 - III [img complete]:

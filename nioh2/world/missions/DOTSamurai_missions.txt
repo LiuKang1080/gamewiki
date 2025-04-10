@@ -2922,6 +2922,41 @@ Farewell to the Past (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
+==========
+The Two Faces of Hospitality (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Ruin Draws Near".
+    --------------------
+    - Recommended level: 91
+    - Gold: 22,600
+    - Amrita: 26,680
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 7
+    - Number of Sudama: 1
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 2
+    - Bosses: 
+        - Tokichiro
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time:
+        - Ogo & Nagamei Masamune (dual swords) (rare)
+        - Golden Gourd Plated Headband
+        - Golden Gourd Cuirass
+        - Tokichiro's Gourd (accessory) (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Golden Gourd Waistguard (uncommon)
+        - Golden Gourd Gauntlets (uncommon)
+        - Golden Gourd Greaves (uncommon)
+        - Large Spirit Stone X3
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Onmyo Mage's Locks.
+        - Ninja's Locks.
 
 
 
@@ -2964,28 +2999,6 @@ Farewell to the Past (Sub Mission)
 
 
 
-    ==========
-    The Two Faces of Hospitality (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Ruin Draws Near".
-        --------------------
-        - Recommended level: 91
-        - Gold: 22,600
-        - Amrita: 26,680
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 7
-        - Number of Sudama: 1
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 2
-        - Bosses: 
-            - Tokichiro
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks.
-            - Ninja's Locks.
 
     ==========
     The High-Spirited Demon (Main Mission)

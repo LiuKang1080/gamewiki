@@ -1698,6 +1698,47 @@ Farewell to the Past (Sub Mission)
     - Warrior (big) (dual swords)
     - Mysterious Samurai
 
+==========
+The Two Faces of Hospitality (Main Mission)
+==========
+    - Quest Giver: Hattori Hanzo
+    - Characters:
+        - Akechi Mitsuhide / Tenkai (Cutscenes, NPC)
+        - Sen no Rikyu (Cutscenes)
+        - Mumyo (Cutscenes)
+        - Hattori Hanzo (NPC, Ally)
+        - Honda Tadakatsu (NPC, Ally)
+        - Tokichiro (Cutscenes)
+        - Kashin Koji (Cutscenes)
+    --------------------
+    - Ninja (kusarigama)
+    - Warrior (sword)
+    - Warrior (rifle, sword)
+    - Warrior (big) (axe)
+    - Flying Bolt
+    - Warrior (big) (sword)
+    - Warrior (spear)
+    - Ikeda Motosuke (sword) (first time)
+    - Abbarant Soldier
+    - Skeleton Warrior (big) (axe)
+    - Skeleton Warrior (sword)
+    - Wheelmonk
+    - Rokurokubi (dual swords)
+    - Yoki (sword)
+    - Mitsume Yazura
+    - Warrior (big) (dual swords)
+    - Mori Nagayoshi (spear) (first time)
+    - Ninja (tonfas) (first time)
+    - Ninja (dual swords)
+    - Warrior (big) (torch, axe)
+    - Ninja Dog
+    - Warrior (cannon, sword)
+    - Mujina
+    - Warrior (big) (torch, sword)
+    - Ikeda Tsuneoki (dual swords) (first time)
+    - Nurikabe
+    - Skeleton Warrior (rifle, sword)
+    - Tokichiro (boss) (first time)
 
 
 
@@ -1742,33 +1783,6 @@ Farewell to the Past (Sub Mission)
 
 
 
-    ==========
-    The Two Faces of Hospitality (Main Mission)
-    ==========
-        - Quest Giver: Hattori Hanzo
-        - Characters:
-            - Akechi Mitsuhide / Tenkai (Cutscenes, NPC)
-            - Sen no Rikyu (Cutscenes)
-            - Mumyo (Cutscenes)
-            - Hattori Hanzo (NPC, Ally)
-            - Honda Tadakatsu (NPC, Ally)
-            - Tokichiro (Cutscenes)
-            - Kashin Koji (Cutscenes)
-        --------------------
-        - Ninja
-        - Warrior
-        - Flying Bolt
-        - Abbarant Soldier
-        - Skeleton Warrior
-        - Wheelmonk
-        - Rokurokubi
-        - Yoki
-        - Mitsume Yazura
-        - Mori Nagayoshi (first time)
-        - Ninja Dog
-        - Ikeda Tsuneoki (first time)
-        - Nurikabe
-        - Tokichiro (boss) (first time)
 
     ==========
     The High-Spirited Demon (Main Mission)
