@@ -2981,7 +2981,7 @@ The High-Spirited Demon (Main Mission)
         - Daidara Bocchi
     - Guardian Spirit Unlocked: 
         - Hakutaku
-    - Mission Rewards: 
+    - Mission Rewards:
     First Time:
         - Demon's Maw (sword)
         - Primordial Mud X1
@@ -3001,6 +3001,72 @@ The High-Spirited Demon (Main Mission)
         - Unlocks the Dojo mission: "The One Who Lives in the Shadows" after beating mission.
         - Unlocks the Twilight mission: "The Island of Monsters" after beating mission.
 
+=========
+A Message From the Deceased (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Two Faces of Hospitality".
+    --------------------
+    - Recommended level: 94
+    - Gold: 23,400
+    - Amrita: 29,688
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time:
+        - Onmyo Mage's Locks X1
+        - Tosa Governor's Helmet (rare)
+        - Braided Straw Hat (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Tosa Governor's Cuirass (uncommon)
+        - Tosa Governor's Waistguard (uncommon)
+        - Tosa Governor's Gauntlets (uncommon)
+        - Tosa Governor's Greaves (uncommon)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+Stray Cats (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The High-Spirited Demon".
+    --------------------
+    - Recommended level: 97
+    - Gold: 24,400
+    - Amrita: 33,816
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 5
+    - Number of Sudama: 1
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - Onryoki
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time:
+        - Ninja's Locks X1
+        - Clay Bell of Beckoning X3
+        - Highest-Quality Leather Cord X5
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Clay Bell of Beckoning X1
+        - High-Quality Leather Cord X3
+        - High-Quality Leather Platelet X3
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 
@@ -3043,49 +3109,6 @@ The High-Spirited Demon (Main Mission)
 
 
 
-    =========
-    A Message From the Deceased (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Two Faces of Hospitality".
-        --------------------
-        - Recommended level: 94
-        - Gold: 23,400
-        - Amrita: 29,688
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks (mission reward).
-
-    ==========
-    Stray Cats (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The High-Spirited Demon".
-        --------------------
-        - Recommended level: 97
-        - Gold: 24,400
-        - Amrita: 33,816
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 5
-        - Number of Sudama: 1
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - Onryoki
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Ninja's Locks (mission reward).
 
     ==========
     Calling on the Fire God (Sub Mission)

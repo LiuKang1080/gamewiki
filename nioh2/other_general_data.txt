@@ -56,6 +56,10 @@ Key Items
         - All 3 Wooden Tiles are collected in the Sub Mission: Song of the Yokai.
         - All 3 Wooden Tiles are removed from the player's inventory upon opening the final wooden door requiring the 3 tiles.
 
+    - Jailer's Keys [img complete]:
+        - Obtained in the Side Mission: Stray Cats.
+        - Item is removed from player's inventory after completing the Side Mission: Stray Cats.
+
     - Kagatsuchi's Magatama [img complete]:
         - Complete the missions:
             - A Favor for the Blacksmith (Sub Mission).

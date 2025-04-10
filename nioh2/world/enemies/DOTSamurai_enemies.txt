@@ -1771,6 +1771,46 @@ The High-Spirited Demon (Main Mission)
     - Mezuki (boss)
     - Daidara Bocchi (boss) (first time)
 
+==========
+A Message From the Deceased (Sub Mission)
+==========
+    - Quest Giver: Tenkai
+    - Characters:
+        - Chosokabe Motochika (NPC, Ally)
+    --------------------
+    - Warrior (spear)
+    - Warrior (rifle, sword)
+    - Warrior (conch shell, sword)
+    - Warrior (big) (dual swords)
+    - Warrior (big) (odachi)
+    - Warrior (axe)
+    - Abbarant Soldier
+    - Gaki
+    - Skeleton Warrior (spear)
+    - Skeleton Warrior (cannon, sword)
+    - Yoki (axe)
+    - Warrior (odachi)
+    - Yoki (sword)
+    - Mitsume Yazura
+    - Nure-Onna
+    - Sengoku Hidehisa (odachi) (first time)
+
+==========
+Stray Cats (Sub Mission)
+==========
+    - Quest Giver: Hattori Hanzo
+    - Characters:
+        - Hattori Hanzo (NPC)
+    --------------------
+    - Lesser Umi-Bozu
+    - Nure-Onna
+    - Tesso
+    - Abbarant Soldier
+    - Dweller
+    - Dweller (big)
+    - Waira
+    - Mitsume Yazura
+    - Onryoki (boss)
 
 
 
@@ -1815,38 +1855,6 @@ The High-Spirited Demon (Main Mission)
 
 
 
-    ==========
-    A Message From the Deceased (Sub Mission)
-    ==========
-        - Quest Giver: Tenkai
-        - Characters:
-            - Chosokabe Motochika (NPC, Ally)
-        --------------------
-        - Warrior
-        - Abbarant Soldier
-        - Gaki
-        - Skeleton Warrior
-        - Yoki (axe)
-        - Yoki (sword)
-        - Mitsume Yazura
-        - Nure-Onna
-        - Sengoku Hidehisa (first time)
-
-    ==========
-    Stray Cats (Sub Mission)
-    ==========
-        - Quest Giver: Hattori Hanzo
-        - Characters:
-            - Hattori Hanzo (NPC)
-        --------------------
-        - Lesser Umi-Bozu
-        - Nure-Onna
-        - Tesso
-        - Abbarant Soldier
-        - Waira
-        - Dweller
-        - Mitsume Yazura
-        - Onryoki (boss)
 
     ==========
     Calling on the Fire God (Sub Mission)
