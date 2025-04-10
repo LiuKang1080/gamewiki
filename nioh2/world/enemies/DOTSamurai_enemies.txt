@@ -1740,6 +1740,36 @@ The Two Faces of Hospitality (Main Mission)
     - Skeleton Warrior (rifle, sword)
     - Tokichiro (boss) (first time)
 
+==========
+The High-Spirited Demon (Main Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - Hachisuka Koroku (Cutscenes)
+        - Mumyo (Cutscenes, Ally)
+        - Tokichiro (Cutscenes)
+        - Takenaka Hanbei (Cutscenes)
+        - Miyoshino (Cutscenes)
+    --------------------
+    - Skeleton Warrior (rifle, sword)
+    - Abbarant Soldier
+    - Yoki (sword)
+    - Yoki (axe)
+    - Karasu Tengu
+    - Magatsu Warrior (first time)
+    - Blue Yoki (cannon, sword) (first time)
+    - Skeleton Warrior (big) (axe)
+    - Red Kappa
+    - Kamaitachi (boss)
+    - Biwa Boku-Boku
+    - Blue Yoki (kusarigama)
+    - Hachisuka Koroku (boss)
+    - Skeleton Warrior (sword)
+    - Skeleton Warrior (spear)
+    - Mujina
+    - Blue Yoki (kusarigama)
+    - Mezuki (boss)
+    - Daidara Bocchi (boss) (first time)
 
 
 
@@ -1784,30 +1814,6 @@ The Two Faces of Hospitality (Main Mission)
 
 
 
-    ==========
-    The High-Spirited Demon (Main Mission)
-    ==========
-        - Quest Giver: Nekomata
-        - Characters:
-            - Hachisuka Koroku (Cutscenes)
-            - Mumyo (Cutscenes, Ally)
-            - Tokichiro (Cutscenes)
-            - Takenaka Hanbei (Cutscenes)
-            - Miyoshino (Cutscenes)
-        --------------------
-        - Skeleton Warrior
-        - Abbarant Soldier
-        - Yoki
-        - Kamaitachi (boss)
-        - Karasu Tengu
-        - Red Kappa
-        - Blue Yoki (sword + cannon) (first time)
-        - Biwa Boku-Boku
-        - Magatsu Warrior (first time)
-        - Blue Yoki (kusarigama)
-        - Hachisuka Koroku (boss)
-        - Mezuki (boss)
-        - Daidara Bocchi (boss) (first time)
 
     ==========
     A Message From the Deceased (Sub Mission)

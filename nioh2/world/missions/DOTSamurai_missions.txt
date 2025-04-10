@@ -2363,6 +2363,7 @@ The Chinese Bellflower Dagger (Sub Mission)
     A Strong Bond (Sub Mission)
     ==========
         - Mission Unlock Requirement:
+            - Complete the mission: The High-Spirited Demon.
             - Speak with Takenaka Hanbei in the Interim.
         --------------------
         - Recommended level: 99
@@ -2958,6 +2959,47 @@ The Two Faces of Hospitality (Main Mission)
         - Onmyo Mage's Locks.
         - Ninja's Locks.
 
+==========
+The High-Spirited Demon (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Two Faces of Hospitality".
+    --------------------
+    - Recommended level: 95
+    - Gold: 24,000
+    - Amrita: 32,112
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 6
+    - Number of Sudama: 1
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 3
+    - Bosses: 
+        - Kamaitachi
+        - Hachisuka Koroku
+        - Mezuki
+        - Daidara Bocchi
+    - Guardian Spirit Unlocked: 
+        - Hakutaku
+    - Mission Rewards: 
+    First Time:
+        - Demon's Maw (sword)
+        - Primordial Mud X1
+        - Biwa Pick X1
+        - Spirit Stone Arm X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Oni-Bi Core X1
+        - Biwa Pick X1
+        - Aberrant Spirit Stone X1
+        - Skeletal Warrior's Sacrum X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Onmyo Mage's Locks.
+        - Ninja's Locks.
+        - Unlocks the Side Mission: A Strong Bond after speaking with Hanbei in the Interim.
+        - Unlocks the Dojo mission: "The One Who Lives in the Shadows" after beating mission.
+        - Unlocks the Twilight mission: "The Island of Monsters" after beating mission.
 
 
 
@@ -3000,33 +3042,6 @@ The Two Faces of Hospitality (Main Mission)
 
 
 
-    ==========
-    The High-Spirited Demon (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Two Faces of Hospitality".
-        --------------------
-        - Recommended level: 95
-        - Gold: 24,000
-        - Amrita: 32,112
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 6
-        - Number of Sudama: 1
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 3
-        - Bosses: 
-            - Kamaitachi
-            - Hachisuka Koroku
-            - Mezuki
-            - Daidara Bocchi
-        - Guardian Spirit Unlocked: 
-            - Hakutaku
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks.
-            - Ninja's Locks.
-            - Unlocks the Dojo mission: "The One Who Lives in the Shadows" after beating mission.
-            - Unlocks the Twilight mission: "The Island of Monsters" after beating mission.
 
     =========
     A Message From the Deceased (Sub Mission)
