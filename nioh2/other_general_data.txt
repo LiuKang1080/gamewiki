@@ -10,7 +10,7 @@ Key Items
         - Back Room Key removed from inventory after opening the final door releasing Okuni in the Sub Mission: Song of the Yokai.
 
     - Beaded Hairpin [img complete]:
-        - Obtained after defeating Enenra in the Side Mission: Okuni's Search.
+        - Obtained after defeating Enenra in the Sub Mission: Okuni's Search.
         - Item is removed after completing the mission.
 
     - Chinese Tea Vessel [img complete]:
@@ -45,6 +45,12 @@ Key Items
     - Harakiri Sword [img complete]:
         - Pick up item during the mission: The Village of Cursed Blossoms (Main Mission).
 
+    - Hiragumo Fragment I - IV [imgs complete]:
+        - Fragments I-IV are obtained in the Sub Mission: Scattered Fragments.
+        - All 4 Fragments are removed from inventory after completing the Sub Mission: Scattered Fragments.
+        - The Key Item: Repaired Hiragumo Kettle is given to the player in replacement, after completing the Sub Mission: Scattered
+            Fragments.
+
     - Incendiary Longbow Arrow [img complete]:
         - There are a total of 3 Longbow Arrows in the mission: A Song to Calm the Storm (Main Mission).
 
@@ -57,8 +63,8 @@ Key Items
         - All 3 Wooden Tiles are removed from the player's inventory upon opening the final wooden door requiring the 3 tiles.
 
     - Jailer's Keys [img complete]:
-        - Obtained in the Side Mission: Stray Cats.
-        - Item is removed from player's inventory after completing the Side Mission: Stray Cats.
+        - Obtained in the Sub Mission: Stray Cats.
+        - Item is removed from player's inventory after completing the Sub Mission: Stray Cats.
 
     - Kagatsuchi's Magatama [img complete]:
         - Complete the missions:
@@ -247,5 +253,5 @@ Dream of the Nioh (NG+4) Notes:
     - Maximum gear level: 190 - 200.
     - Maximum gear + level: +120.
 
-[Credits:]
+[Credits for NG+ notes]:
     - Lef

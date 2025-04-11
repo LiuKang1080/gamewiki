@@ -1306,27 +1306,31 @@ The Chinese Bellflower Dagger (Sub Mission)
     --------------------
     - Saito Toshimitsu (boss) (first time)
 
-    ==========
-    A Strong Bond (Sub Mission)
-    ==========
-        - Quest Giver: Hakutaku
-        - Characters: 
-            - Takenaka Hanbei (NPC)
-        --------------------
-        - Rogue
-        - Sohaya Warrior (switchglaive)
-        - Dog
-        - Sohaya Warrior (odachi)
-        - Dweller
-        - Lesser Umi-Bozu
-        - One-Eyed Imp
-        - One-Eyed Oni
-        - Yamanba
-        - Karakasa Umbrella
-        - Koroka
-        - Onyudo (fire)
-        - Ninja
-        - Mujina
+==========
+A Strong Bond (Sub Mission)
+==========
+    - Quest Giver: Hakutaku
+    - Characters: 
+        - Takenaka Hanbei (NPC)
+    --------------------
+    - Rogue (big) (torch, odachi)
+    - Rogue (spear)
+    - Sohaya Warrior (switchglaive)
+    - Dog
+    - Rogue (sword)
+    - Sohaya Warrior (odachi)
+    - Rogue (torch, axe)
+    - Dweller
+    - Lesser Umi-Bozu
+    - One-Eyed Imp
+    - One-Eyed Oni
+    - Yamanba
+    - Karakasa Umbrella
+    - Koroka
+    - Onyudo (fire)
+    - Ninja (dual swords)
+    - Dweller (big)
+    - Mujina (copies Shojumaru (spear), spawns a Dark Realm)
 
 
 ========== ========== ========== ========== ==========
@@ -1812,108 +1816,112 @@ Stray Cats (Sub Mission)
     - Mitsume Yazura
     - Onryoki (boss)
 
+==========
+Calling on the Fire God (Sub Mission)
+==========
+    - Quest Giver: Senji Toyo
+    - Characters:
+        - None
+    --------------------
+    - Tesso
+    - Skeleton Warrior (bow + fire arrow, sword)
+    - Onyudo (fire)
+    - Skeleton Warrior (big) (axe)
+    - Wheelmonk
+    - Ippon-Datara (hammer)
+    - Infernal Oni-Bi
+    - Blue Yoki (kusarigama)
+    - Blue Yoki (cannon, sword)
+    - Mitsume Yazura
+    - Koroka
 
+==========
+Scattered Fragments (Sub Mission)
+==========
+    - Quest Giver: Sen no Rikyu
+    - Characters:
+        - None
+    --------------------
+    - Spider (medium)
+    - Infernal Oni-Bi
+    - Tesso
+    - Mitsume Yazura
+    - Yamanba
+    - Spider (big)
+    - Thunderstorm Oni-Bi
+    - Ippon-Datara
+    - Maelstrom Oni-Bi
+    - Biwa Boku-Boku
+    - Abbarant Soldier
+    - Koroka
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    Calling on the Fire God (Sub Mission)
-    ==========
-        - Quest Giver: Senji Toyo
-        - Characters:
-            - None
-        --------------------
-        - Tesso
-        - Skeleton Warrior
-        - Onyudo (fire)
-        - Wheelmonk
-        - Ippon-Datara (hammer)
-        - Infernal Oni-Bi
-        - Blue Yoki (kusarigama)
-        - Blue Yoki (sword + cannon)
-        - Koroka
-        - Mitsume Yazura
-
-    ==========
-    Scattered Fragments (Sub Mission)
-    ==========
-        - Quest Giver: Sen no Rikyu
-        - Characters:
-            - None
-        --------------------
-        - Spider
-        - Infernal Oni-Bi
-        - Tesso
-        - Mitsume Yazura
-        - Yamanba
-        - Thunderstorm Oni-Bi
-        - Ippon-Datara
-        - Maelstrom Oni-Bi
-        - Biwa Boku-Boku
-        - Abbarant Soldier
-        - Koroka
-
-    ==========
-    A Prayer in the Moonlight (Sub Mission)
-    ==========
-        - Quest Giver: Nekomata
-        - Characters:
-            - Yamanaka Shikanosuke (Ally)
-        --------------------
-        - Yamanaka Shikanosuke (first time)
-        - Rokurokubi
-        - Abbarant Soldier
-        - Nure-Onna
-        - Gaki
-        - Lesser Umi-Bozu
-        - Skeleton Warrior
-        - Infernal Oni-Bi
-        - Onyudo (fire)
+==========
+A Prayer in the Moonlight (Sub Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - Yamanaka Shikanosuke (Ally)
+    --------------------
+    - Yamanaka Shikanosuke (sword) (first time)
+    - Rokurokubi (sword)
+    - Abbarant Soldier
+    - Nure-Onna
+    - Gaki
+    - Lesser Umi-Bozu
+    - Skeleton Warrior (cannon, sword)
+    - Skeleton Warrior (big) (axe)
+    - Infernal Oni-Bi
+    - Maelstrom Oni-Bi
+    - Onyudo (fire)
 
 
 ========== ========== ========== ========== ==========
 Dream Region (Region 6)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     ==========
     The Mausoleum of Evil (Main Mission)
     ==========

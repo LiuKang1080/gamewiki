@@ -18,7 +18,7 @@ TEMPLATE ()
     - Guardian Spirit Unlocked: 
         - 
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - 
     ---------- ---------- ----------
     Subsequent Completes:
@@ -87,7 +87,7 @@ The Way of the Warrior: Novice (Dojo Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Samurai's Locks x1
         - Wooden Sword (rare)
     ---------- ---------- ----------
@@ -115,7 +115,7 @@ The Way of the Ninja: Novice (Dojo Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Ninja's Locks x1
         - Shinobi Hood
         - Shinobi Robes
@@ -146,7 +146,7 @@ The Way of Onmyo: Novice (Dojo Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Onmyo Mage's Locks x1
         - Fire Amulet x1
         - Water Amulet x1
@@ -179,7 +179,7 @@ The Way of the Warrior: Adept (Dojo Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Samurai's Locks X1
         - Prayer Beads (uncommon)
         - Book of Reincarnation X1
@@ -211,7 +211,7 @@ The Way of the Ninja: Adept (Dojo Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Ninja's Locks X1
         - Writing Set (uncommon)
         - Shinobi Box X1
@@ -241,7 +241,7 @@ The Way of the Onmyo: Adept (Dojo Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Onmyo Mage's Locks X1
         - Divination Board (uncommon)
         - Sacred Brush X1
@@ -271,7 +271,7 @@ The Way of the Warrior: Veteran (Dojo Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Samurai's Locks X1
         - Master Swordsman's Robes (rare)
         - Master Swordsman's Hakama (rare)
@@ -303,7 +303,7 @@ The Way of the Ninja: Veteran (Dojo Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Ninja's Locks X1
         - Flying Kato's Robes (rare)
         - Flying Kato's Waistguard (rare)
@@ -336,7 +336,7 @@ The Way of the Onmyo: Veteran (Dojo Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Onmyo Mage's Locks X1
         - Divination Board (accessory) (rare)
         - Sacred Brush X2 (rare)
@@ -661,7 +661,7 @@ The Violet Cherry Blossoms
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Quality Umbracite x1
         - Sacred Arrow x4
         - Highest Quality Leather Platelet x2
@@ -696,7 +696,7 @@ Traces of the Raging Blaze
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Quality Umbracite x1
         - Highest Quality Ingot x2
         - Highest Quality Tamahagane x2
@@ -731,7 +731,7 @@ The Blood Tainted Samurai
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Quality Umbracite x1
         - Small Spirit Stone x3
         - Karasu Tengu Feather X1
@@ -765,7 +765,7 @@ Blood on the Wind
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Quality Umbracite x1
         - Sickle Blade Fragments X1
         - Highest-Quality Wood X2
@@ -800,7 +800,7 @@ The Cursed Castle Ruins
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Quality Umbracite X1
         - Kamaitachi's Front Teeth X1
         - Burnt Wick X1
@@ -836,7 +836,7 @@ The Defiled Sanctuary
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Quality Umbracite X1
         - Summoner's Candle X1
         - Highest-Quality Wood X5
@@ -870,7 +870,7 @@ Mountain of the Dark Lord
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Quality Umbracite X1
         - Wheel of Ice and Fire X1
         - Waira Claw X2
@@ -1002,7 +1002,7 @@ The Village of Cursed Blossoms (Main Mission)
     - Guardian Spirit Unlocked: 
         - Masaru
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Longbow (uncommon)
         - Sacred Arrow x4
         - High-Quality Leather Platelet x3
@@ -1037,7 +1037,7 @@ The Forest Veiled in Darkness (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Small Spirit Stone x2
         - Yokai Incense x1
         - Mountain Bandit Hatchets (rare)
@@ -1071,7 +1071,7 @@ The Beast Born of Smoke and Flames (Main Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Highest Quality Tamahagane x3
         - Highest Quality Ingot x3
         - Highest Quality Iron Platelet x3
@@ -1111,7 +1111,7 @@ A Voice in the Twilight (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Clay Bell of Beckoning x1
         - Summoner's Candle x1
         - Bandit Axe (rare)
@@ -1146,7 +1146,7 @@ Dark Omens (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Sacred Ash x1
         - Small Spirit Stone x3
         - Genin's Kusarigama (rare)
@@ -1182,7 +1182,7 @@ The Viper's Sanctum (Main Mission)
     - Guardian Spirit Unlocked: 
         - Shirohami
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Shinto Priest's Hunting Garb (rare)
         - Shinto Priest's Hakama (rare)
         - Tanegashima Matchlock (rare)
@@ -1221,7 +1221,7 @@ A Favor for the Blacksmith (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Kobizen Odachi (rare)
         - Bronze Hammer (rare)
         - Officer's Spear (rare)
@@ -1256,7 +1256,7 @@ The Search (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Kodama Bowl (rare)
         - Possessed Kodama Bowl x1
     ---------- ---------- ----------
@@ -1289,7 +1289,7 @@ The Greedy Hunter (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Gyosha Hand Axe (rare)
         - Seven Scalp Switchglaive (rare)
         - Sohaya Garb Faceplate (uncommon)
@@ -1327,7 +1327,7 @@ The Hidden Monsters of Okehazama (Main Mission)
     - Guardian Spirit Unlocked: 
         - Rokugezo
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Samurai's Locks x1
         - Master Archer's Bow (rare)
         - Master Archer's Cuirass (rare)
@@ -1363,7 +1363,7 @@ Imagawa Diehard (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Master Archer's Hat (rare)
         - Wild Boar Crest Helmet (rare)
         - Sessai's Switchglaive (rare)
@@ -1397,7 +1397,7 @@ Hidetatsu's Dying Wish (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Transient Blade (rare)
         - Pit Viper's Robes (rare)
         - Pit Viper's Hakama (rare)
@@ -1432,7 +1432,7 @@ An Error in Calculation (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Warrior's Cross Spear (rare)
         - Abacus (exotic)
         - High-Quality Leather Platelet X3
@@ -1466,7 +1466,7 @@ The Mysterious One Night Castle (Main Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Hand Cannon (rare)
         - Explosive Rounds X3
         - High-Quality Wood X3
@@ -1505,7 +1505,7 @@ The Sunomata Yokai Hunt (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Custom Kusarigama (rare)
         - Japanese Scissors (rare)
         - Red Spider Lily X1
@@ -1539,7 +1539,7 @@ A Hot-blodded Howl (Sub Mission)
     - Guardian Spirit Unlocked: 
         - Okuri-Inu
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Captain's Spear (rare)
         - High-Quality Tamahagane X3
         - Whetstone X2
@@ -1573,7 +1573,7 @@ The Fire God's Magatama (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Swordsmith's Hammer (rare)
         - Kiku Ichimonji (sword) (rare)
         - Seki Kaneyoshi Dual Tachi (dual swords) (rare)
@@ -1609,7 +1609,7 @@ The Hollow Fortress (Main Mission)
     - Guardian Spirit Unlocked: 
         - Double Guardian Spirits. Unlocks: Makami / Ame-no-Mitori / Kagewani (only 1 will be given).
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Genryu's Helmet (rare)
         - Genryu's Cuirass (rare)
         - Genryu's Waistguard (rare)
@@ -1646,7 +1646,7 @@ An End to Seclusion (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Tobikura Kusarigama (rare)
         - Sacred Arrow X4
         - Roaring Gun Ammunition X3
@@ -1680,7 +1680,7 @@ The Shiftling's Wise Judgement (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Double-headed Snake Tonfa (rare)
         - Borehole Bow (rare)
         - Sakai Rifle (rare)
@@ -1714,7 +1714,7 @@ The Viper and the Butterfly (Sub Mission)
     - Guardian Spirit Unlocked: 
         - Usura-Hicho
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Sasayuki Switchglaive (Water) (rare)
         - Principal Governor's Cuirass (rare)
         - Principal Governor's Waistguard (rare)
@@ -1753,7 +1753,7 @@ A Way Out (Main Mission)
     - Guardian Spirit Unlocked: 
         - Yaonami-Hime
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Sohaya Mask (rare)
         - Sohaya Cuirass (rare)
         - Tenmoku (tea utensil) (rare)
@@ -1790,7 +1790,7 @@ Learning A Lesson (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Jikkyu Mitsutada (sword) (rare)
         - Sacred Water X5
         - Spirit Stone X3
@@ -1825,7 +1825,7 @@ The Shrine of Oaths (Sub Mission)
     - Guardian Spirit Unlocked: 
         - Makami / Ame-no-Mitori / Kagewani (only 1 will be given).
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Petrified Eye X1
         - Poison Omamori (accessory) (rare)
         - Prayer Beads (accessory) (rare)
@@ -1858,7 +1858,7 @@ Immovable (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Extinction Switchglaive (rare)
         - Small Spirit Stone X6
         - Summoner's Candle X1
@@ -1893,7 +1893,7 @@ A Formal Match (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Gozutenno's Axe (rare)
         - Obsidian Helmet (rare)
         - Obsidian Cuirass (rare)
@@ -1927,7 +1927,7 @@ Corpses and Ice (Main Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Taro Tachi (Water) (odachi) (rare)
         - Water Omamori (accessory) (rare)
         - Highest-Quality Leather Platelet X3
@@ -1962,7 +1962,7 @@ Lingering Snow and Crimson Tracks (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Haguro Ninja Hatchets (rare)
         - Governor's Helmet (rare)
         - Governor's Cuirass (rare)
@@ -1996,7 +1996,7 @@ The Tiger Approaches (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Samurai's Locks X1
         - Shinobi Cuirass (rare)
         - Shinobi Waistguard (rare)
@@ -2030,7 +2030,7 @@ The Brother's Blades (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Taro Tachi (odachi) (water) (exotic)
         - Jiro Tachi (odachi) (rare)
         - Large Spirit Stone X2
@@ -2066,7 +2066,7 @@ A Shadow's Duty (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Ninja's Locks X1
         - Smithing Text: Shinobi Box
         - Greater Good Helmet (rare)
@@ -2103,7 +2103,7 @@ The Fallen Star (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Suwa Myojin Helmet (rare)
         - Tatenashi Cuirass (rare)
         - Smithing Text: Yokai Water Pot
@@ -2138,7 +2138,7 @@ Horns on Head, Dragonfly in Hand (Sub Mission)
     - Guardian Spirit Unlocked: 
         - Shin-Roku
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Tombokiri (spear) (lightning) (rare)
         - Warrior of the East Helmet (rare)
         - Warrior of the East Cuirass (rare)
@@ -2171,7 +2171,7 @@ Bird In A Cage (Main Mission)
     - Guardian Spirit Unlocked: 
         - Hiyokucho
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Samurai's Locks X1
         - Kohoku Master's Helmet (rare)
         - Kohoku Master's Cuirass (rare)
@@ -2207,7 +2207,7 @@ The Point of No Return (Sub Mission)
     - Guardian Spirit Unlocked: 
         - Makami / Ame-no-Mitori / Kagewani (only 1 will be given).
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Hand Mirror (accessory) (rare)
         - Summoner's Candle X1
         - Book of Reincarnation X1
@@ -2241,7 +2241,7 @@ The Golden Nation (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Wisdom Sutra Sword & Plane Cutter (dual swords) (rare)
         - Swallowtail Helmet (rare)
         - Swallowtail Cuirass (rare)
@@ -2275,7 +2275,7 @@ The Demon King's Blade (Sub Mission)
     - Guardian Spirit Unlocked: 
         - Tengen Kujaku
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Vice-Minister's Cuirass (rare)
         - Vice-Minister's Waistguard (rare)
         - Vice-Minister's Gauntlets (rare)
@@ -2310,7 +2310,7 @@ The Child's Prodigy's Invitation (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Wisdom Sutra & Plane Cutter (dual swords) (rare)
         - Hino Rifle (rare)
         - Swallowtail Greaves (rare)
@@ -2344,7 +2344,7 @@ The Chinese Bellflower Dagger (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Onmyo Mage's Locks X1
         - Divination Board (accessory) (rare)
         - Sacred Brush X1
@@ -2359,28 +2359,41 @@ The Chinese Bellflower Dagger (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-    ==========
-    A Strong Bond (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: The High-Spirited Demon.
-            - Speak with Takenaka Hanbei in the Interim.
-        --------------------
-        - Recommended level: 99
-        - Gold: 50,400
-        - Amrita: 37,576
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 1 (0 required)
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - Mizuchi
-        - Notable Items In Mission / Mission Rewards:
-            - None
+==========
+A Strong Bond (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: The High-Spirited Demon.
+        - Speak with Takenaka Hanbei in the Interim.
+    --------------------
+    - Recommended level: 99
+    - Gold: 50,400
+    - Amrita: 37,576
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - Mizuchi
+    - Mission Rewards: 
+    First Time: 
+        - GUARDIAN SPIRIT "Mizuchi" [Whole text is Exotic color, Guardian Spirit is in all caps]
+        - Heshikiri Hasebe (sword) (exotic)
+        - Legendary Strategist's Garb (exotic)
+        - Legendary Strategist's Hakama (exotic)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Bowl Helmet (rare)
+        - Legendary Strategist's Shoes (rare)
+        - Mujina's Scarf X1
+        - High-Quality Leather Platelet X3
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 ========== ========== ========== ========== ==========
@@ -2407,7 +2420,7 @@ Pervading Waters (Main Mission)
     - Guardian Spirit Unlocked: 
         - Hyobishin
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Ravenwing Rifle (rare)
         - Yatagarasu Cuirass (rare)
         - Yatagarasu Headband (rare)
@@ -2446,7 +2459,7 @@ The Missing Gun (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Roaring Gun Ammunition X5
         - Tactician's Helmet (rare)
         - Tactician's Cuirass (rare)
@@ -2481,7 +2494,7 @@ The Refined Man of the Underworld (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Karamono Hyotan (tea utensil) (rare)
         - Summoner's Candle X1
         - Yokai Water Pot X3
@@ -2514,7 +2527,7 @@ Song of the Yokai (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Dancing Blade (sword) (rare)
         - Yokai Incense X1
         - Comb (accessory) (rare)
@@ -2549,7 +2562,7 @@ The Frenzied Blaze (Main Mission)
     - Guardian Spirit Unlocked: 
         - Nine Tails
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Infernal Nail X1
         - Fire Omamori (accessory) (rare)
         - Burning Oil Jar X3
@@ -2585,7 +2598,7 @@ The Burning Sky (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Kamui (odachi) (fire) (rare)
         - Radiant Flame (hatchets) (fire) (rare)
         - Twin Dragon Tonfa (fire) (rare)
@@ -2620,7 +2633,7 @@ Abduction (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Baby Stone Fragment X1
         - Omamori (accessory) (rare)
         - Prayer Beads (accessory) (rare)
@@ -2654,7 +2667,7 @@ The Warrior (Sub Mission)
     - Guardian Spirit Unlocked: 
         - Atlas Bear
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Conqueror's Cuirass (rare)
         - Conqueror's Gauntlets (rare)
         - Conqueror's Waistguard (rare)
@@ -2689,7 +2702,7 @@ The Sun Sets on Mount Tenno (Main Mission)
     - Guardian Spirit Unlocked: 
         - Genbu
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Onmyo Mage's Locks X1
         - Ryomen Sukuna's Sword (rare)
         - Ryomen Sukuna's Axe (rare)
@@ -2727,7 +2740,7 @@ The Aberrant Mage (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Onmyo Mage's Locks X1
         - Smithing Text: Sacred Ash
         - Onmyo Hunting Garb (chest piece) (exotic)
@@ -2763,7 +2776,7 @@ The Third Word (Sub Mission)
     - Guardian Spirit Unlocked: 
         - Yatagarasu
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Highest-Quality Leather Platelet X3
         - Highest-Quality Leather Cord X3
         - Highest-Quality Lacquer X3
@@ -2829,7 +2842,7 @@ Ruin Draws Near (Main Mission)
     - Guardian Spirit Unlocked: 
         - Inosasao
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Samurai's Locks X1
         - Urn Splitter Hatchets (rare)
         - Oni Shibata's Cuirass (rare)
@@ -2876,7 +2889,7 @@ Okuni's Search (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Fan (accessory) (rare)
         - Glowing Lock of Wet Hair X3
         - Smithing Text: Yokai Incense
@@ -2909,7 +2922,7 @@ Farewell to the Past (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Akechi Chikakage (sword) (rare)
         - Hyuga Director's Helmet (rare)
         - Hyuga Director's Cuirass (rare)
@@ -2943,7 +2956,7 @@ The Two Faces of Hospitality (Main Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
-    First Time:
+    First Time: 
         - Ogo & Nagamei Masamune (dual swords) (rare)
         - Golden Gourd Plated Headband
         - Golden Gourd Cuirass
@@ -2982,7 +2995,7 @@ The High-Spirited Demon (Main Mission)
     - Guardian Spirit Unlocked: 
         - Hakutaku
     - Mission Rewards:
-    First Time:
+    First Time: 
         - Demon's Maw (sword)
         - Primordial Mud X1
         - Biwa Pick X1
@@ -3021,7 +3034,7 @@ A Message From the Deceased (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards:
-    First Time:
+    First Time: 
         - Onmyo Mage's Locks X1
         - Tosa Governor's Helmet (rare)
         - Braided Straw Hat (rare)
@@ -3055,7 +3068,7 @@ Stray Cats (Sub Mission)
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards:
-    First Time:
+    First Time: 
         - Ninja's Locks X1
         - Clay Bell of Beckoning X3
         - Highest-Quality Leather Cord X5
@@ -3068,121 +3081,157 @@ Stray Cats (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
+==========
+Calling on the Fire God (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The High-Spirited Demon".
+    --------------------
+    - Recommended level: 98
+    - Gold: 24,800
+    - Amrita: 35,616
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Ame-no-Mahitotsu's Axe (fire) (rare)
+        - Seventh Sword Tonfa (rare)
+        - Echoing Thunder (lightning) (rare)
+        - Raijin's Claw (lightning) (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Highest-Quality Tamahagane X2
+        - Highest-Quality Ingot X2
+        - Highest-Quality Iron Platelet X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Kagatsuchi Magatama (Mission Reward - Increases the average rarity of uncommon+ forged items by 1%).
 
+==========
+Scattered Fragments (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The High-Spirited Demon".
+        - Get at least 10 Tea Utensils Appraised.
+    --------------------
+    - Recommended level: 99
+    - Gold: 25,600
+    - Amrita: 39,696
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Kamuro (tea utensil) (rare)
+        - Zen Manual X1
+        - Herbal Remedy X1
+        - Highest-Quality Lacquer X4
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Highest-Quality Wood X2
+        - Highest-Quality Lacquer X3
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    Calling on the Fire God (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The High-Spirited Demon".
-        --------------------
-        - Recommended level: 98
-        - Gold: 24,800
-        - Amrita: 35,616
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Kagatsuchi Magatama (Mission Reward - Increases the average rarity of uncommon+ forged items by 1%).
-
-    ==========
-    Scattered Fragments (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The High-Spirited Demon".
-            - Get at least 10 Tea Utensils Appraised.
-        --------------------
-        - Recommended level: 99
-        - Gold: 25,600
-        - Amrita: 39,696
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Zen Manual (mission reward).
-
-    ==========
-    A Prayer in the Moonlight (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Ruin Draws Near".
-            - Complete the mission: "Scattered Fragments".
-            - Receive Yamanaka Shikanosuke's Assistance in the mission "Scattered Fragments".
-        --------------------
-        - Recommended level: 91
-        - Gold: 21,800
-        - Amrita: 23,928
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
+==========
+A Prayer in the Moonlight (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Ruin Draws Near".
+        - Complete the mission: "Scattered Fragments".
+        - Receive Yamanaka Shikanosuke's Assistance in the mission "Scattered Fragments".
+    --------------------
+    - Recommended level: 91
+    - Gold: 21,800
+    - Amrita: 23,928
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Sekishu Kazusada (odachi) (rare)
+        - Moonprayer Cuirass (rare)
+        - Moonprayer Waistguard (rare)
+        - Moonprayer Gauntlets (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Moonprayer Helmet (uncommon)
+        - Moonprayer Greaves (uncommon)
+        - Sekishu Kazusada (odachi) (rare)
+        - Righteous Jasper X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 ========== ========== ========== ========== ==========
 Dream Region (Region 6)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     ==========
     The Mausoleum of Evil (Main Mission)
     ==========
