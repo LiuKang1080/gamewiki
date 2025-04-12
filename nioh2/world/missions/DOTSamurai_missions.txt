@@ -3248,15 +3248,16 @@ The Roaming Artisan (Sub Mission)
         - None
     - Mission Rewards:
     First Time: 
-        - 
+        - Basket Blade & Boar Cutter (dual swords) (exotic)
+        - Metalworking Chisel X3
+        - Smithing Text: Basket Blade & Boar Cutter
+        - Whetstone X2
     ---------- ---------- ----------
     Subsequent Completes:
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - Smithing Text: Basket Blade & Boar Cutter (mission reward).
-        - Unlocks the Remodel feature in the Blacksmith.
-        - x3 Metalworking Chisel.
+        - Unlocks the Remodel feature at the Blacksmith.
 
 
 
