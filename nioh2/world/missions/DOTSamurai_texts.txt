@@ -1,9 +1,9 @@
 Missions that unlock Smithing Texts for Weapons, Armor, and Items:
 
-    ==========
-    TEMPLATE ()
-    ==========
-        - 
+==========
+TEMPLATE ()
+==========
+    - 
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -12,1254 +12,1254 @@ Base Game Missions:
 ========== ========== ========== ========== ==========
 Awakening Region (Region 1)
 ========== ========== ========== ========== ==========
-    ==========
-    The Village of Cursed Blossoms (Main Mission)
-    ==========
+==========
+The Village of Cursed Blossoms (Main Mission)
+==========
+    - None
+
+==========
+The Beast Born of Smoke and Flames (Main Mission)
+==========
+    Sword:
+    --------------------
+        - Mino Uchigatana
+        - Bizen Tachi
+        - Bizen Uchigatana
+        - Yamato Taichi
+
+    Dual Swords:
+    --------------------
+        - Mino Dual Uchigatana
+        - Mino Dual Tachi
+        - Soshu Dual Uchigatana
+        - Soshu Dual Tachi
+
+    Spear:
+    --------------------
+        - Spear
+        - Legion Spear
+        - Sickle Spear
+        - Footsoldier's Spear
+
+    Axe:
+    --------------------
+        - Palisade Breaker
+        - Wooden Hammer
+        - Black Steel Axe
+        - Oak Hammer
+
+    Kusarigama:
+    --------------------
+        - Spy's Kusarigama
+        - Black Bamboo Kusarigama
+        - Billhook Kusarigama
+
+    Odachi:
+    --------------------
+        - Yamato Odachi
+        - Baizen Odachi
+        - Yamashiro Odachi
+
+    Tonfa:
+    --------------------
+        - Rosewood Tonfa
+        - Iron Tonfa
+        - Ebony Tonfa
+
+    Hatchets:
+    --------------------
+        - Brigand's Hatchets
+        - Shock Troop Hand Axe
+        - Mountain Bandit Hatchets
+
+    Switchglaive:
+    --------------------
+        - Iron Switchglaive
+        - Hunter's Switchglaive
+        - Vermillion Switchglaive
+
+    Splitstaff:
+    --------------------
+        - Genin's Splitstaff
+        - Itinerant Monk's Splitstaff
+        - Hunter's Splitstaff
+
+    Fists:
+    --------------------
+        - Spy's Fists
+        - Fledgling Ninja Fists
+        - Togakure Clawed Fists
+
+    Bow:
+    --------------------
+        - Longbow
+
+    Rifle:
+    --------------------
         - None
 
-    ==========
-    The Beast Born of Smoke and Flames (Main Mission)
-    ==========
-        Sword:
-        --------------------
-            - Mino Uchigatana
-            - Bizen Tachi
-            - Bizen Uchigatana
-            - Yamato Taichi
+    Hand Cannon:
+    --------------------
+        - None
 
-        Dual Swords:
-        --------------------
-            - Mino Dual Uchigatana
-            - Mino Dual Tachi
-            - Soshu Dual Uchigatana
-            - Soshu Dual Tachi
+    Head Protection:
+    --------------------
+        - Irregular Troop's Hat
+        - Theif's Plated Headband
+        - Scout Faceplate
+        - Shinobi Hood
+        - Lone Wolf's Hood
+        - Footsoldier's Hat
+        - Night Raider Helmet
+        - Ronin's Faceplate
+        - Heirloom Helmet
+        - Rouge's Helmet
+        - Yoriki Helmet
+        - Night Shade Mask
 
-        Spear:
-        --------------------
-            - Spear
-            - Legion Spear
-            - Sickle Spear
-            - Footsoldier's Spear
+    Torso Protection:
+    --------------------
+        - Irregular Troop's Cuirass
+        - Theif's Cuirass
+        - Scout Cuirass
+        - Shinobi Robes
+        - Lone Wolf's Cuirass
+        - Footsoldier's Cuirass
+        - Night Raider Cuirass
+        - Ronin's Cuirass
+        - Heirloom Cuirass
+        - Rouge's Cuirass
+        - Yoriki Cuirass
 
-        Axe:
-        --------------------
-            - Palisade Breaker
-            - Wooden Hammer
-            - Black Steel Axe
-            - Oak Hammer
+    Arm Protection:
+    --------------------
+        - Irregular Troop's Gauntlets
+        - Thief's Gauntlets
+        - Scout Gauntlets
+        - Shinobi Bracers
+        - Lone Wolf's Gauntlets
+        - Footsoldier's Gauntlets
+        - Night Raider Gauntlets
+        - Ronin's Gauntlets
+        - Heirloom Gauntlets
+        - Rouge's Gauntlets
+        - Yoriki Gauntlets
 
-        Kusarigama:
-        --------------------
-            - Spy's Kusarigama
-            - Black Bamboo Kusarigama
-            - Billhook Kusarigama
+    Leg Protection:
+    --------------------
+        - Irregular Troop's Waistguard
+        - Theif's Waistguard
+        - Scout Waistguard
+        - Shinobi Hakama
+        - Lone Wolf's Waistguard
+        - Footsoldier's Waistguard
+        - Night Raider Waistguard
+        - Ronin's Waistguard
+        - Heirloom Waistguard
+        - Rouge's Waistguard
+        - Yoriki Waistguard
 
-        Odachi:
-        --------------------
-            - Yamato Odachi
-            - Baizen Odachi
-            - Yamashiro Odachi
+    Foot Protection:
+    --------------------
+        - Irregular Troop's Greaves
+        - Theif's Greaves
+        - Scout Greaves
+        - Shinobi Gaiters
+        - Lone Wolf's Greaves
+        - Footsoldier's Greaves
+        - Night Raider Greaves
+        - Ronin's Greaves
+        - Heirloom Greaves
+        - Rouge's Greaves
+        - Yoriki Greaves
 
-        Tonfa:
-        --------------------
-            - Rosewood Tonfa
-            - Iron Tonfa
-            - Ebony Tonfa
+    Tools:
+    --------------------
+        - Daion-Jin's Sake
+        - Clay Bell of Beckoning
+        - Arrowproof Amulet
+        - Sacred Arrow
+        - Roaring Gun Ammunition
+        - Gunpowder Bomb
+        - Shrapnel Bomb
+        - Fire Amulet
+        - Righteous Jasper
+        - Divine Branch
 
-        Hatchets:
-        --------------------
-            - Brigand's Hatchets
-            - Shock Troop Hand Axe
-            - Mountain Bandit Hatchets
+==========
+The Viper's Sanctum (Main Mission)
+==========
+    Sword:
+    --------------------
+        - Yamato Uchigatana
+        - Senjuin Tachi
 
-        Switchglaive:
-        --------------------
-            - Iron Switchglaive
-            - Hunter's Switchglaive
-            - Vermillion Switchglaive
+    Dual Swords:
+    --------------------
+        - Seki Dual Uchigatana
 
-        Splitstaff:
-        --------------------
-            - Genin's Splitstaff
-            - Itinerant Monk's Splitstaff
-            - Hunter's Splitstaff
+    Spear:
+    --------------------
+        - Cross Spear
 
-        Fists:
-        --------------------
-            - Spy's Fists
-            - Fledgling Ninja Fists
-            - Togakure Clawed Fists
+    Axe:
+    --------------------
+        - Bandit Axe
 
-        Bow:
-        --------------------
-            - Longbow
+    Kusarigama:
+    --------------------
+        - Genin's Kusarigama
 
-        Rifle:
-        --------------------
-            - None
+    Odachi:
+    --------------------
+        - Rai Odachi
 
-        Hand Cannon:
-        --------------------
-            - None
+    Tonfa:
+    --------------------
+        - Apprentice's Tonfa
 
-        Head Protection:
-        --------------------
-            - Irregular Troop's Hat
-            - Theif's Plated Headband
-            - Scout Faceplate
-            - Shinobi Hood
-            - Lone Wolf's Hood
-            - Footsoldier's Hat
-            - Night Raider Helmet
-            - Ronin's Faceplate
-            - Heirloom Helmet
-            - Rouge's Helmet
-            - Yoriki Helmet
-            - Night Shade Mask
+    Hatchets:
+    --------------------
+        - Togakushi Ninja Hatchets
 
-        Torso Protection:
-        --------------------
-            - Irregular Troop's Cuirass
-            - Theif's Cuirass
-            - Scout Cuirass
-            - Shinobi Robes
-            - Lone Wolf's Cuirass
-            - Footsoldier's Cuirass
-            - Night Raider Cuirass
-            - Ronin's Cuirass
-            - Heirloom Cuirass
-            - Rouge's Cuirass
-            - Yoriki Cuirass
+    Bow:
+    --------------------
+        - Wisteria Longbow
 
-        Arm Protection:
-        --------------------
-            - Irregular Troop's Gauntlets
-            - Thief's Gauntlets
-            - Scout Gauntlets
-            - Shinobi Bracers
-            - Lone Wolf's Gauntlets
-            - Footsoldier's Gauntlets
-            - Night Raider Gauntlets
-            - Ronin's Gauntlets
-            - Heirloom Gauntlets
-            - Rouge's Gauntlets
-            - Yoriki Gauntlets
+    Rifle:
+    --------------------
+        - Tanegashima Matchlock
 
-        Leg Protection:
-        --------------------
-            - Irregular Troop's Waistguard
-            - Theif's Waistguard
-            - Scout Waistguard
-            - Shinobi Hakama
-            - Lone Wolf's Waistguard
-            - Footsoldier's Waistguard
-            - Night Raider Waistguard
-            - Ronin's Waistguard
-            - Heirloom Waistguard
-            - Rouge's Waistguard
-            - Yoriki Waistguard
+    Head Protection:
+    --------------------
+        - Fuma Ninja Plated Headband
+        - Brawler's Helmet
+        - Mino Veteran's Helmet
 
-        Foot Protection:
-        --------------------
-            - Irregular Troop's Greaves
-            - Theif's Greaves
-            - Scout Greaves
-            - Shinobi Gaiters
-            - Lone Wolf's Greaves
-            - Footsoldier's Greaves
-            - Night Raider Greaves
-            - Ronin's Greaves
-            - Heirloom Greaves
-            - Rouge's Greaves
-            - Yoriki Greaves
+    Torso Protection:
+    --------------------
+        - Fuma Ninja Robe
+        - Brawler's Cuirass
+        - Mino Veteran's Cuirass
 
-        Tools:
-        --------------------
-            - Daion-Jin's Sake
-            - Clay Bell of Beckoning
-            - Arrowproof Amulet
-            - Sacred Arrow
-            - Roaring Gun Ammunition
-            - Gunpowder Bomb
-            - Shrapnel Bomb
-            - Fire Amulet
-            - Righteous Jasper
-            - Divine Branch
+    Arm Protection:
+    --------------------
+        - Fuma Ninja Gauntlets
+        - Brawler's Gauntlets
+        - Mino Veteran's Gauntlets
 
-    ==========
-    The Viper's Sanctum (Main Mission)
-    ==========
-        Sword:
-        --------------------
-            - Yamato Uchigatana
-            - Senjuin Tachi
+    Leg Protection:
+    --------------------
+        - Fuma Ninja Hakama
+        - Brawler's Waistguard
+        - Mino Veteran's Waistguard
+    
+    Foot Protection:
+    --------------------
+        - Fuma Ninja Greaves
+        - Brawler's Greaves
+        - Mino Veteran's Greaves
 
-        Dual Swords:
-        --------------------
-            - Seki Dual Uchigatana
-
-        Spear:
-        --------------------
-            - Cross Spear
-
-        Axe:
-        --------------------
-            - Bandit Axe
-
-        Kusarigama:
-        --------------------
-            - Genin's Kusarigama
-
-        Odachi:
-        --------------------
-            - Rai Odachi
-
-        Tonfa:
-        --------------------
-            - Apprentice's Tonfa
-
-        Hatchets:
-        --------------------
-            - Togakushi Ninja Hatchets
-
-        Bow:
-        --------------------
-            - Wisteria Longbow
-
-        Rifle:
-        --------------------
-            - Tanegashima Matchlock
-
-        Head Protection:
-        --------------------
-            - Fuma Ninja Plated Headband
-            - Brawler's Helmet
-            - Mino Veteran's Helmet
-
-        Torso Protection:
-        --------------------
-            - Fuma Ninja Robe
-            - Brawler's Cuirass
-            - Mino Veteran's Cuirass
-
-        Arm Protection:
-        --------------------
-            - Fuma Ninja Gauntlets
-            - Brawler's Gauntlets
-            - Mino Veteran's Gauntlets
-
-        Leg Protection:
-        --------------------
-            - Fuma Ninja Hakama
-            - Brawler's Waistguard
-            - Mino Veteran's Waistguard
-        
-        Foot Protection:
-        --------------------
-            - Fuma Ninja Greaves
-            - Brawler's Greaves
-            - Mino Veteran's Greaves
-
-        Tools:
-        --------------------
-            - Water Amulet
+    Tools:
+    --------------------
+        - Water Amulet
 
 
 ========== ========== ========== ========== ==========
 Soaring Region (Region 2)
 ========== ========== ========== ========== ==========
-    ==========
-    The Hidden Monsters of Okehazama (Main Mission)
-    ==========
-        Sword:
-        --------------------
-            - Senjuin Uchigatana
-            - Bizen Osafune
-        
-        Dual Swords:
-        --------------------
-            - Seki Dual Tachi
-        
-        Spear:
-        --------------------
-            - Officer's Spear
-            - Squire's Cross Spear
+==========
+The Hidden Monsters of Okehazama (Main Mission)
+==========
+    Sword:
+    --------------------
+        - Senjuin Uchigatana
+        - Bizen Osafune
+    
+    Dual Swords:
+    --------------------
+        - Seki Dual Tachi
+    
+    Spear:
+    --------------------
+        - Officer's Spear
+        - Squire's Cross Spear
 
-        Axe:
-        --------------------
-            - Bronze Hammer
-            - Pickaxe
+    Axe:
+    --------------------
+        - Bronze Hammer
+        - Pickaxe
 
-        Kusarigama:
-        --------------------
-            - Naked Steel Kusarigama
+    Kusarigama:
+    --------------------
+        - Naked Steel Kusarigama
 
-        Odachi:
-        --------------------
-            - Kobizen Odachi
+    Odachi:
+    --------------------
+        - Kobizen Odachi
 
-        Tonfa:
-        --------------------
-            - Retainer's Tonfa
+    Tonfa:
+    --------------------
+        - Retainer's Tonfa
 
-        Hatchets:
-        --------------------
-            - Gyosha Hand Axe
+    Hatchets:
+    --------------------
+        - Gyosha Hand Axe
 
-        Switchglaive:
-        --------------------
-            - Martial Artist's Switchglaive
+    Switchglaive:
+    --------------------
+        - Martial Artist's Switchglaive
 
-        Splitstaff:
-        --------------------
-            - Warrior Monk's Splitstaff
+    Splitstaff:
+    --------------------
+        - Warrior Monk's Splitstaff
 
-        Fists:
-        --------------------
-            - Shugendo Hermit Fists
+    Fists:
+    --------------------
+        - Shugendo Hermit Fists
 
-        Head Protection:
-        --------------------
-            - Archer's Hat
-            - Mounted Archer Helmet
-            - Courtier's Helmet
+    Head Protection:
+    --------------------
+        - Archer's Hat
+        - Mounted Archer Helmet
+        - Courtier's Helmet
 
-        Torso Protection:
-        --------------------
-            - Archer's Robe
-            - Mounted Archer Cuirass
-            - Courtier's Cuirass
+    Torso Protection:
+    --------------------
+        - Archer's Robe
+        - Mounted Archer Cuirass
+        - Courtier's Cuirass
 
-        Arm Protection:
-        --------------------
-            - Archer's Gauntlets
-            - Mounted Archer Gauntlets
-            - Courtier's Gauntlets
+    Arm Protection:
+    --------------------
+        - Archer's Gauntlets
+        - Mounted Archer Gauntlets
+        - Courtier's Gauntlets
 
-        Leg Protection:
-        --------------------
-            - Archer's Hakama
-            - Mounted Archer Waistguard
-            - Courtier's Waistguard
+    Leg Protection:
+    --------------------
+        - Archer's Hakama
+        - Mounted Archer Waistguard
+        - Courtier's Waistguard
 
-        Foot Protection:
-        --------------------
-            - Archer's Straw Sandals
-            - Mounted Archer Greaves
-            - Courtier's Greaves
+    Foot Protection:
+    --------------------
+        - Archer's Straw Sandals
+        - Mounted Archer Greaves
+        - Courtier's Greaves
 
-        Tools:
-        --------------------
-            - Hyottoko Mask
-            - Tengu's Fan
-            - Lightning Amulet
-            - Travel Amulet
+    Tools:
+    --------------------
+        - Hyottoko Mask
+        - Tengu's Fan
+        - Lightning Amulet
+        - Travel Amulet
 
-    ==========
-    The Mysterious One Night Castle (Main Mission)
-    ==========
-        Sword:
-        --------------------
-            - Bizen Ichimonji
-            - Taima Kuniyuki
+==========
+The Mysterious One Night Castle (Main Mission)
+==========
+    Sword:
+    --------------------
+        - Bizen Ichimonji
+        - Taima Kuniyuki
 
-        Dual Swords:
-        --------------------
-            - Seki Kanenori Dual Uchigatana
+    Dual Swords:
+    --------------------
+        - Seki Kanenori Dual Uchigatana
 
-        Spear:
-        --------------------
-            - Warrior's Cross Spear
+    Spear:
+    --------------------
+        - Warrior's Cross Spear
 
-        Axe:
-        --------------------
-            - Helmsplitter Axe
+    Axe:
+    --------------------
+        - Helmsplitter Axe
 
-        Kusarigama:
-        --------------------
-            - Haguro Kusarigama
+    Kusarigama:
+    --------------------
+        - Haguro Kusarigama
 
-        Odachi:
-        --------------------
-            - Sukesada Odachi
+    Odachi:
+    --------------------
+        - Sukesada Odachi
 
-        Tonfa:
-        --------------------
-            - Ninja's Tonfa
+    Tonfa:
+    --------------------
+        - Ninja's Tonfa
 
-        Hatchets:
-        --------------------
-            - Ninja's Hatchets
+    Hatchets:
+    --------------------
+        - Ninja's Hatchets
 
-        Switchglaive:
-        --------------------
-            - Seven Scalp Switchglaive
+    Switchglaive:
+    --------------------
+        - Seven Scalp Switchglaive
 
-        Splitstaff:
-        --------------------
-            - Zen Splitstaff
+    Splitstaff:
+    --------------------
+        - Zen Splitstaff
 
-        Fists:
-        --------------------
-            - Nokizaru Clawed Fists
+    Fists:
+    --------------------
+        - Nokizaru Clawed Fists
 
-        Rifle:
-        --------------------
-            - Kunitomo Rifle
+    Rifle:
+    --------------------
+        - Kunitomo Rifle
 
-        Hand Cannon:
-        --------------------
-            - Hand Cannon
+    Hand Cannon:
+    --------------------
+        - Hand Cannon
 
-        Head Protection:
-        --------------------
-            - Ferryman's Hood
-            - Nanban Helmet
-            - Warlord's Helmet
-            - Black Goose Helmet
-            - Eboshi Helmet
+    Head Protection:
+    --------------------
+        - Ferryman's Hood
+        - Nanban Helmet
+        - Warlord's Helmet
+        - Black Goose Helmet
+        - Eboshi Helmet
 
-        Torso Protection:
-        --------------------
-            - Ferryman's Robes
-            - Nanban Cuirass
-            - Warlord's Cuirass
+    Torso Protection:
+    --------------------
+        - Ferryman's Robes
+        - Nanban Cuirass
+        - Warlord's Cuirass
 
-        Arm Protection:
-        --------------------
-            - Ferryman's Bracers
-            - Nanban Gauntlets
-            - Warlord's Gauntlets
+    Arm Protection:
+    --------------------
+        - Ferryman's Bracers
+        - Nanban Gauntlets
+        - Warlord's Gauntlets
 
-        Let Protection:
-        --------------------
-            - Ferryman's Hakama
-            - Nanban Waistguard
-            - Warlord's Waistguard
+    Let Protection:
+    --------------------
+        - Ferryman's Hakama
+        - Nanban Waistguard
+        - Warlord's Waistguard
 
-        Foot Protection:
-        --------------------
-            - Ferryman's Greaves
-            - Nanban Greaves
-            - Warlord's Greaves
+    Foot Protection:
+    --------------------
+        - Ferryman's Greaves
+        - Nanban Greaves
+        - Warlord's Greaves
 
-        Tools:
-        --------------------
-            - Uchiko Powder
-            - Sacred Water
-            - Explosive Rounds
+    Tools:
+    --------------------
+        - Uchiko Powder
+        - Sacred Water
+        - Explosive Rounds
 
-    ==========
-    The Hollow Fortress (Main Mission)
-    ==========
-        Sword:
-        --------------------
-            - Kiku Ichimonji
+==========
+The Hollow Fortress (Main Mission)
+==========
+    Sword:
+    --------------------
+        - Kiku Ichimonji
 
-        Dual Swords:
-        --------------------
-            - Seki Kaneyoshi Dual Tachi
+    Dual Swords:
+    --------------------
+        - Seki Kaneyoshi Dual Tachi
 
-        Axe:
-        --------------------
-            - Heavyweight Axe
+    Axe:
+    --------------------
+        - Heavyweight Axe
 
-        Kusarigama:
-        --------------------
-            - Crescent Moon Kusarigama
-            - Custom Kusarigama
+    Kusarigama:
+    --------------------
+        - Crescent Moon Kusarigama
+        - Custom Kusarigama
 
-        Odachi:
-        --------------------
-            - Takahira Odachi
+    Odachi:
+    --------------------
+        - Takahira Odachi
 
-        Tonfa:
-        --------------------
-            - Lord's Tonfa
+    Tonfa:
+    --------------------
+        - Lord's Tonfa
 
-        Hatchets:
-        --------------------
-            - Warrior Monk's Hatchets
+    Hatchets:
+    --------------------
+        - Warrior Monk's Hatchets
 
-        Splitstaff:
-        --------------------
-            - Chunin's Splitstaff
+    Splitstaff:
+    --------------------
+        - Chunin's Splitstaff
 
-        Fists:
-        --------------------
-            - Ninja Commander Fists
+    Fists:
+    --------------------
+        - Ninja Commander Fists
 
-        Head Protection:
-        --------------------
-            - Yamabushi Headgear
-            - Exorcist's Hat
-            - Golden Shachi Helmet
+    Head Protection:
+    --------------------
+        - Yamabushi Headgear
+        - Exorcist's Hat
+        - Golden Shachi Helmet
 
-        Torso Protection:
-        --------------------
-            - Yamabushi Robes
-            - Exorcist's Cuirass
+    Torso Protection:
+    --------------------
+        - Yamabushi Robes
+        - Exorcist's Cuirass
 
-        Arm Protection:
-        --------------------
-            - Yamabushi Bracers
-            - Exorcist's Gauntlets
+    Arm Protection:
+    --------------------
+        - Yamabushi Bracers
+        - Exorcist's Gauntlets
 
-        Leg Protection:
-        --------------------
-            - Yamabushi Hakama
-            - Exorcist's Waistguard
+    Leg Protection:
+    --------------------
+        - Yamabushi Hakama
+        - Exorcist's Waistguard
 
-        Foot Protection:
-        --------------------
-            - Yamabushi Sandals
-            - Exorcist's Greaves
+    Foot Protection:
+    --------------------
+        - Yamabushi Sandals
+        - Exorcist's Greaves
 
 
 ========== ========== ========== ========== ==========
 Shadow Region (Region 3)
 ========== ========== ========== ========== ==========
-    ==========
-    A Way Out (Main Mission)
-    ==========
-        Sword:
-        --------------------
-            - Hosho Sadayoshi
-            - Osafune Kanemitsu
+==========
+A Way Out (Main Mission)
+==========
+    Sword:
+    --------------------
+        - Hosho Sadayoshi
+        - Osafune Kanemitsu
 
-        Dual Swords:
-        --------------------
-            - Rai Kunitsugu Dual Tachi
+    Dual Swords:
+    --------------------
+        - Rai Kunitsugu Dual Tachi
 
-        Spear:
-        --------------------
-            - Vassal's Cross Spear
-            - Captain's Spear
+    Spear:
+    --------------------
+        - Vassal's Cross Spear
+        - Captain's Spear
 
-        Axe:
-        --------------------
-            - Swordsmith's Hammer
+    Axe:
+    --------------------
+        - Swordsmith's Hammer
 
-        Kusarigama:
-        --------------------
-            - Hachiya Kusarigama
+    Kusarigama:
+    --------------------
+        - Hachiya Kusarigama
 
-        Odachi:
-        --------------------
-            - Rai Kuniyuki Odachi
+    Odachi:
+    --------------------
+        - Rai Kuniyuki Odachi
 
-        Hatchets:
-        --------------------
-            - Hero's Hatchets
+    Hatchets:
+    --------------------
+        - Hero's Hatchets
 
-        Switchglaive:
-        --------------------
-            - Sessai's Switchglaive
-            - Terminus Switchglaive
+    Switchglaive:
+    --------------------
+        - Sessai's Switchglaive
+        - Terminus Switchglaive
 
-        Splitstaff:
-        --------------------
-            - Martial Artist Splitstaff
+    Splitstaff:
+    --------------------
+        - Martial Artist Splitstaff
 
-        Fists:
-        --------------------
-            - Martial Artist Fists
+    Fists:
+    --------------------
+        - Martial Artist Fists
 
-        Hand Cannon:
-        --------------------
-            - Thronecrusher Cannon
+    Hand Cannon:
+    --------------------
+        - Thronecrusher Cannon
 
-        Head Protection:
-        --------------------
-            - Principal Governor's Faceplate
-            - Fan-Crested Helmet
-            - Elephant's Trunk Helmet
+    Head Protection:
+    --------------------
+        - Principal Governor's Faceplate
+        - Fan-Crested Helmet
+        - Elephant's Trunk Helmet
 
-        Torso Protection:
-        --------------------
-            - Principal Governor's Cuirass
+    Torso Protection:
+    --------------------
+        - Principal Governor's Cuirass
 
-        Arm Protection:
-        --------------------
-            - Principal Governor's Gauntlets
+    Arm Protection:
+    --------------------
+        - Principal Governor's Gauntlets
 
-        Leg Protection:
-        --------------------
-            - Principal Governor's Waistguard
+    Leg Protection:
+    --------------------
+        - Principal Governor's Waistguard
 
-        Foot Protection:
-        --------------------
-            - Principal Governor's Greaves
+    Foot Protection:
+    --------------------
+        - Principal Governor's Greaves
 
-        Tools:
-        --------------------
-            - Whetstone
-            - Fleeting Guardian Amulet
-            - Amulet of Camaraderie
+    Tools:
+    --------------------
+        - Whetstone
+        - Fleeting Guardian Amulet
+        - Amulet of Camaraderie
 
-    ==========
-    Immoveable (Sub Mission)
-    ==========
-        Head Protection:
-        --------------------
-            - Sohaya Garb Faceplate
+==========
+Immoveable (Sub Mission)
+==========
+    Head Protection:
+    --------------------
+        - Sohaya Garb Faceplate
 
-        Torso Protection:
-        --------------------
-            - Sohaya Garb Shawl
+    Torso Protection:
+    --------------------
+        - Sohaya Garb Shawl
 
-        Arm Protection:
-        --------------------
-            - Sohaya Garb Bracers
+    Arm Protection:
+    --------------------
+        - Sohaya Garb Bracers
 
-        Leg Protection:
-        --------------------
-            - Sohaya Garb Hakama
+    Leg Protection:
+    --------------------
+        - Sohaya Garb Hakama
 
-        Foot Protection:
-        --------------------
-            - Sohaya Garb Gaiters
+    Foot Protection:
+    --------------------
+        - Sohaya Garb Gaiters
 
-    ==========
-    Corpses and Ice (Main Mission)
-    ==========
-        Sword:
-        --------------------        
-            - Kobizen Tomonari
+==========
+Corpses and Ice (Main Mission)
+==========
+    Sword:
+    --------------------        
+        - Kobizen Tomonari
 
-        Dual Swords:
-        --------------------
-            - Izumi-no-Kami Dual Katana
+    Dual Swords:
+    --------------------
+        - Izumi-no-Kami Dual Katana
 
-        Spear:
-        --------------------
-            - Greatspear
+    Spear:
+    --------------------
+        - Greatspear
 
-        Axe:
-        --------------------
-            - Spearbreaker Hammer
+    Axe:
+    --------------------
+        - Spearbreaker Hammer
 
-        Kusarigama:
-        --------------------
-            - Hooked Kusarigama
-            - Chunin's Kusarigama
+    Kusarigama:
+    --------------------
+        - Hooked Kusarigama
+        - Chunin's Kusarigama
 
-        Odachi:
-        --------------------
-            - Jakirimaru
+    Odachi:
+    --------------------
+        - Jakirimaru
 
-        Tonfa:
-        --------------------
-            - Martial Artist's Tonfa
+    Tonfa:
+    --------------------
+        - Martial Artist's Tonfa
 
-        Hatchets:
-        --------------------
-            - Shugendo Hermit Hatchets
+    Hatchets:
+    --------------------
+        - Shugendo Hermit Hatchets
 
-        Splitstaff:
-        --------------------
-            - Heroic Monk's Splitstaff
+    Splitstaff:
+    --------------------
+        - Heroic Monk's Splitstaff
 
-        Fists:
-        --------------------
-            - Ninja Master Fists
+    Fists:
+    --------------------
+        - Ninja Master Fists
 
-        Bow:
-        --------------------
-            - Borehole Bow
+    Bow:
+    --------------------
+        - Borehole Bow
 
-        Rifle:
-        --------------------
-            - Sakai Rifle
+    Rifle:
+    --------------------
+        - Sakai Rifle
 
-        Head Protection:
-        --------------------
-            - Onmyo Hunting Hat
-            - Mikawa Warrior's Helmet
+    Head Protection:
+    --------------------
+        - Onmyo Hunting Hat
+        - Mikawa Warrior's Helmet
 
-        Torso Protection:
-        --------------------
-            - Onmyo Hunting Garb
-            - Mikawa Warrior's Cuirass
+    Torso Protection:
+    --------------------
+        - Onmyo Hunting Garb
+        - Mikawa Warrior's Cuirass
 
-        Arm Protection:
-        --------------------
-            - Onmyo Hunting Bracers
-            - Mikawa Warrior's Gauntlets
+    Arm Protection:
+    --------------------
+        - Onmyo Hunting Bracers
+        - Mikawa Warrior's Gauntlets
 
-        Leg Protection:
-        --------------------
-            - Onmyo Hunting Hakama
-            - Mikawa Warrior's Waistguard
+    Leg Protection:
+    --------------------
+        - Onmyo Hunting Hakama
+        - Mikawa Warrior's Waistguard
 
-        Foot Protection:
-        --------------------
-            - Onmyo Hunting Shoes
-            - Mikawa Warrior's Greaves
+    Foot Protection:
+    --------------------
+        - Onmyo Hunting Shoes
+        - Mikawa Warrior's Greaves
 
-    ==========
-    The Fallen Star (Sub Mission)
-    ==========
-        Tools:
-        --------------------
-            - Yokai Water Pot
+==========
+The Fallen Star (Sub Mission)
+==========
+    Tools:
+    --------------------
+        - Yokai Water Pot
 
-    ==========
-    Bird In A Cage (Main Mission)
-    ==========
-        Sword:
-        --------------------
-            - Mantra Sword
-        
-        Dual Swords:
-        --------------------
-            - Hasebe Kunishige Dual Katana
+==========
+Bird In A Cage (Main Mission)
+==========
+    Sword:
+    --------------------
+        - Mantra Sword
+    
+    Dual Swords:
+    --------------------
+        - Hasebe Kunishige Dual Katana
 
-        Spear:
-        --------------------
-            - Bullhead Cross Spear
-            - Leaf Tip Spear
+    Spear:
+    --------------------
+        - Bullhead Cross Spear
+        - Leaf Tip Spear
 
-        Axe:
-        --------------------
-            - Warrior Monk's Hammer
+    Axe:
+    --------------------
+        - Warrior Monk's Hammer
 
-        Kusarigama:
-        --------------------
-            - Nokizaru Kusarigama
+    Kusarigama:
+    --------------------
+        - Nokizaru Kusarigama
 
-        Odachi:
-        --------------------
-            - Kimibanzai Tomonari
+    Odachi:
+    --------------------
+        - Kimibanzai Tomonari
 
-        Tonfa:
-        --------------------
-            - Royal Tonfa
+    Tonfa:
+    --------------------
+        - Royal Tonfa
 
-        Hatchets:
-        --------------------
-            - Wind Demon Hatchets
+    Hatchets:
+    --------------------
+        - Wind Demon Hatchets
 
-        Switchglaive:
-        --------------------
-            - Extinction Switchglaive
+    Switchglaive:
+    --------------------
+        - Extinction Switchglaive
 
-        Splitstaff:
-        --------------------
-            - Seven Scalp Splitstaff
+    Splitstaff:
+    --------------------
+        - Seven Scalp Splitstaff
 
-        Fists:
-        --------------------
-            - Hachiya Clawed Fists
+    Fists:
+    --------------------
+        - Hachiya Clawed Fists
 
-        Rifle:
-        --------------------
-            - Hino Rifle
+    Rifle:
+    --------------------
+        - Hino Rifle
 
-        Hand Cannon:
-        --------------------
-            - Bedrock Blaster
+    Hand Cannon:
+    --------------------
+        - Bedrock Blaster
 
-        Head Protection:
-        --------------------
-            - Shinobi Faceplate
-            - Governor's Helmet
-            - Usurper's Helmet
+    Head Protection:
+    --------------------
+        - Shinobi Faceplate
+        - Governor's Helmet
+        - Usurper's Helmet
 
-        Torso Protection:
-        --------------------
-            - Shinobi Cuirass
-            - Governor's Cuirass
+    Torso Protection:
+    --------------------
+        - Shinobi Cuirass
+        - Governor's Cuirass
 
-        Arm Protection:
-        --------------------
-            - Shinobi Gauntlets
-            - Governor's Gauntlets
+    Arm Protection:
+    --------------------
+        - Shinobi Gauntlets
+        - Governor's Gauntlets
 
-        Leg Protection:
-        --------------------
-            - Shinobi Waistguard
-            - Governor's Waistguard
+    Leg Protection:
+    --------------------
+        - Shinobi Waistguard
+        - Governor's Waistguard
 
-        Foot Protection:
-        --------------------
-            - Shinobi Greaves
-            - Governor's Greaves
+    Foot Protection:
+    --------------------
+        - Shinobi Greaves
+        - Governor's Greaves
 
-        Tools:
-        --------------------
-            - Mud Jar
+    Tools:
+    --------------------
+        - Mud Jar
 
 
 ========== ========== ========== ========== ==========
 Dawn Region (Region 4)
 ========== ========== ========== ========== ==========
-    ==========
-    Pervading Waters (Main Mission)
-    ==========
-        Dual Swords:
-        --------------------
-            - Soshu Sadamune Dual Katana
+==========
+Pervading Waters (Main Mission)
+==========
+    Dual Swords:
+    --------------------
+        - Soshu Sadamune Dual Katana
 
-        Axe:
-        --------------------
-            - Brute's Axe
-            - Pulverizing Hammer
+    Axe:
+    --------------------
+        - Brute's Axe
+        - Pulverizing Hammer
 
-        Kusarigama:
-        --------------------
-            - Swordsman's Kusarigama
+    Kusarigama:
+    --------------------
+        - Swordsman's Kusarigama
 
-        Tonfa:
-        --------------------
-            - Quaking Tonfa
+    Tonfa:
+    --------------------
+        - Quaking Tonfa
 
-        Hatchets:
-        --------------------
-            - Haguro Ninja Hatchets
+    Hatchets:
+    --------------------
+        - Haguro Ninja Hatchets
 
-        Switchglaive:
-        --------------------
-            - Evil-Crusher Switchglaive
+    Switchglaive:
+    --------------------
+        - Evil-Crusher Switchglaive
 
-        Splitstaff:
-        --------------------
-            - Elite Warrior's Splitstaff
+    Splitstaff:
+    --------------------
+        - Elite Warrior's Splitstaff
 
-        Fists:
-        --------------------
-            - Master's Fists
+    Fists:
+    --------------------
+        - Master's Fists
 
-        Bow:
-        --------------------
-            - Chinzei Hachiro's Bow
+    Bow:
+    --------------------
+        - Chinzei Hachiro's Bow
 
-        Head Protection:
-        --------------------
-            - Saika Clan Hat
-            - Imperial Monk's Hood
-            - Mountain Ridge Helmet
-            - Tower Helmet
-            - Warrior Monk's Hood
+    Head Protection:
+    --------------------
+        - Saika Clan Hat
+        - Imperial Monk's Hood
+        - Mountain Ridge Helmet
+        - Tower Helmet
+        - Warrior Monk's Hood
 
-        Torso Protection:
-        --------------------
-            - Saika Clan Cuirass
-            - Imperial Monk's Cuirass
+    Torso Protection:
+    --------------------
+        - Saika Clan Cuirass
+        - Imperial Monk's Cuirass
 
-        Arm Protection:
-        --------------------
-            - Saika Clan Gauntlets
-            - Imperial Monk's Gauntlets
+    Arm Protection:
+    --------------------
+        - Saika Clan Gauntlets
+        - Imperial Monk's Gauntlets
 
-        Leg Protection:
-        --------------------
-            - Saika Clan Waistguard
-            - Imperial Monk's Waistguard
+    Leg Protection:
+    --------------------
+        - Saika Clan Waistguard
+        - Imperial Monk's Waistguard
 
-        Foot Protection:
-        --------------------
-            - Saika Clan Greaves
-            - Imperial Monk's Greaves
+    Foot Protection:
+    --------------------
+        - Saika Clan Greaves
+        - Imperial Monk's Greaves
 
-        Tools:
-        --------------------
-            - Sticky Pot
-            - Inspiriting Gem
+    Tools:
+    --------------------
+        - Sticky Pot
+        - Inspiriting Gem
 
-    ==========
-    The Frenzied Blaze (Main Mission)
-    ==========
-        Sword:
-        --------------------
-            - Blossomed Blade
-            
-        Dual Swords:
-        --------------------
-            - Magoroku Kanemoto Dual Katana
+==========
+The Frenzied Blaze (Main Mission)
+==========
+    Sword:
+    --------------------
+        - Blossomed Blade
+        
+    Dual Swords:
+    --------------------
+        - Magoroku Kanemoto Dual Katana
 
-        Spear:
-        --------------------
-            - Stone-Splitter Cross Spear
+    Spear:
+    --------------------
+        - Stone-Splitter Cross Spear
 
-        Axe:
-        --------------------
-            - Armorcrusher Axe
+    Axe:
+    --------------------
+        - Armorcrusher Axe
 
-        Kusarigama:
-        --------------------
-            - Togakushi Kusarigama
+    Kusarigama:
+    --------------------
+        - Togakushi Kusarigama
 
-        Odachi:
-        --------------------
-            - Usami Nagamitsu
+    Odachi:
+    --------------------
+        - Usami Nagamitsu
 
-        Tonfa:
-        --------------------
-            - Obliterating Tonfa
+    Tonfa:
+    --------------------
+        - Obliterating Tonfa
 
-        Hatchets:
-        --------------------
-            - Martial Artist's Hatchets
+    Hatchets:
+    --------------------
+        - Martial Artist's Hatchets
 
-        Switchglaive:
-        --------------------
-            - Suzaku's Beak
+    Switchglaive:
+    --------------------
+        - Suzaku's Beak
 
-        Splitstaff:
-        --------------------
-            - Jonin's Splitstaff
+    Splitstaff:
+    --------------------
+        - Jonin's Splitstaff
 
-        Fists:
-        --------------------
-            - Fuma Clawed Fists
+    Fists:
+    --------------------
+        - Fuma Clawed Fists
 
-        Hand Cannon:
-        --------------------
-            - Crimson Hand Cannon
+    Hand Cannon:
+    --------------------
+        - Crimson Hand Cannon
 
-        Head Protection:
-        --------------------
-            - Firestarter Hood
-            - Tactician's Helmet
-            - Four Great Commanders Helmet
-            - Butterfly Helmet
+    Head Protection:
+    --------------------
+        - Firestarter Hood
+        - Tactician's Helmet
+        - Four Great Commanders Helmet
+        - Butterfly Helmet
 
-        Torso Protection:
-        --------------------
-            - Firestarter Cuirass
-            - Tactician's Cuirass
-            - Four Great Commanders Cuirass
+    Torso Protection:
+    --------------------
+        - Firestarter Cuirass
+        - Tactician's Cuirass
+        - Four Great Commanders Cuirass
 
-        Arm Protection:
-        --------------------
-            - Firestarter Gauntlets
-            - Tactician's Gauntlets
-            - Four Great Commanders Gauntlets
+    Arm Protection:
+    --------------------
+        - Firestarter Gauntlets
+        - Tactician's Gauntlets
+        - Four Great Commanders Gauntlets
 
-        Leg Protection:
-        --------------------
-            - Firestarter Waistguard
-            - Tactician's Waistguard
-            - Four Great Commanders Waistguard
+    Leg Protection:
+    --------------------
+        - Firestarter Waistguard
+        - Tactician's Waistguard
+        - Four Great Commanders Waistguard
 
-        Foot Protection:
-        --------------------
-            - Firestarter Greaves
-            - Tactician's Greaves
-            - Four Great Commanders Greaves
+    Foot Protection:
+    --------------------
+        - Firestarter Greaves
+        - Tactician's Greaves
+        - Four Great Commanders Greaves
 
-        Tools:
-        --------------------
-            - Burning Oil Jar
+    Tools:
+    --------------------
+        - Burning Oil Jar
 
-    ==========
-    The Sun Sets on Mount Tenno (Main Mission)
-    ==========
-        Dual Swords:
-        --------------------
-            - Soshu Masamune Dual Katana
+==========
+The Sun Sets on Mount Tenno (Main Mission)
+==========
+    Dual Swords:
+    --------------------
+        - Soshu Masamune Dual Katana
 
-        Spear:
-        --------------------
-            - Lacquered Spear
-            - Hozoin Cross Spear
+    Spear:
+    --------------------
+        - Lacquered Spear
+        - Hozoin Cross Spear
 
-        Axe:
-        --------------------
-            - Evil-Crusher Hammer
+    Axe:
+    --------------------
+        - Evil-Crusher Hammer
 
-        Kusarigama:
-        --------------------
-            - Nightcrow Kusarigama
+    Kusarigama:
+    --------------------
+        - Nightcrow Kusarigama
 
-        Switchglaive:
-        --------------------
-            - Aberrant Switchglaive
+    Switchglaive:
+    --------------------
+        - Aberrant Switchglaive
 
-        Splitstaff:
-        --------------------
-            - Head Ninja's Splitstaff
+    Splitstaff:
+    --------------------
+        - Head Ninja's Splitstaff
 
-        Fists:
-        --------------------
-            - Chief's Fists
+    Fists:
+    --------------------
+        - Chief's Fists
 
-        Bow:
-        --------------------
-            - Yoichi's Bow
+    Bow:
+    --------------------
+        - Yoichi's Bow
 
-        Head Protection:
-        --------------------
-            - Horse Guard's Helmet
-            - Platemail Helmet
-            - Water Buffalo Horn Helmet
-            - Monk's Staff Helmet
+    Head Protection:
+    --------------------
+        - Horse Guard's Helmet
+        - Platemail Helmet
+        - Water Buffalo Horn Helmet
+        - Monk's Staff Helmet
 
-        Torso Protection:
-        --------------------
-            - Horse Guard's Cuirass
-            - Platemail Cuirass
+    Torso Protection:
+    --------------------
+        - Horse Guard's Cuirass
+        - Platemail Cuirass
 
-        Arm Protection:
-        --------------------
-            - Horse Guard's Gauntlets
-            - Platemail Gauntlets
+    Arm Protection:
+    --------------------
+        - Horse Guard's Gauntlets
+        - Platemail Gauntlets
 
-        Leg Protection:
-        --------------------
-            - Horse Guard's Waistguard
-            - Platemail Waistguard
+    Leg Protection:
+    --------------------
+        - Horse Guard's Waistguard
+        - Platemail Waistguard
 
-        Foot Protection:
-        --------------------
-            - Horse Guard's Greaves
-            - Platemail Greaves
+    Foot Protection:
+    --------------------
+        - Horse Guard's Greaves
+        - Platemail Greaves
 
-        Tools:
-        --------------------
-            - Sacred Brush
+    Tools:
+    --------------------
+        - Sacred Brush
 
 
 ========== ========== ========== ========== ==========
 Twilight Region (Region 5)
 ========== ========== ========== ========== ==========
-    ==========
-    Ruin Draws Near (Main Mission)
-    ==========
-        Swords:
-        --------------------
-            - Tengu Slayer
-            - Atagi Sadamune
+==========
+Ruin Draws Near (Main Mission)
+==========
+    Swords:
+    --------------------
+        - Tengu Slayer
+        - Atagi Sadamune
 
-        Dual Swords:
-        --------------------
-            - Magoroku Kanemoto Dual Katana
-            - Soshu Masamune Dual Katana
+    Dual Swords:
+    --------------------
+        - Magoroku Kanemoto Dual Katana
+        - Soshu Masamune Dual Katana
 
-        Spear:
-        --------------------
-            - Stone-Splitter Cross Spear
-            - Crescent Cross Spear
+    Spear:
+    --------------------
+        - Stone-Splitter Cross Spear
+        - Crescent Cross Spear
 
-        Axe:
-        --------------------
-            - Bloodlust Axe
-            - Mononobe Axe
+    Axe:
+    --------------------
+        - Bloodlust Axe
+        - Mononobe Axe
 
-        Kusarigama:
-        --------------------
-            - Fuma Kusarigama
+    Kusarigama:
+    --------------------
+        - Fuma Kusarigama
 
-        Odachi:
-        --------------------
-            - Mirrorblade
+    Odachi:
+    --------------------
+        - Mirrorblade
 
-        Switchglaive:
-        --------------------
-            - Aberrant Switchglaive
-            - Night Heron's Switchglaive
+    Switchglaive:
+    --------------------
+        - Aberrant Switchglaive
+        - Night Heron's Switchglaive
 
-        Splitstaff:
-        --------------------
-            - Head Ninja's Splitstaff
+    Splitstaff:
+    --------------------
+        - Head Ninja's Splitstaff
 
-        Fists:
-        --------------------
-            - Chief's Fists
+    Fists:
+    --------------------
+        - Chief's Fists
 
-        Bow:
-        --------------------
-            - Yoichi's Bow
+    Bow:
+    --------------------
+        - Yoichi's Bow
 
-        Rifle:
-        --------------------
-            - Negoro Rifle
+    Rifle:
+    --------------------
+        - Negoro Rifle
 
-        Hand Cannon:
-        --------------------
-            - Crimson Hand Cannon
-            - Yoryu Cannon
+    Hand Cannon:
+    --------------------
+        - Crimson Hand Cannon
+        - Yoryu Cannon
 
-        Head Protection:
-        --------------------
-            - Japanese Crown Helmet
-            - Chinese Crown Helmet
+    Head Protection:
+    --------------------
+        - Japanese Crown Helmet
+        - Chinese Crown Helmet
 
-    ==========
-    The Two Faces of Hospitality (Main Mission)
-    ==========
-        Dual Swords:
-        --------------------
-            - Go-no-Yoshihiro Twin Swords
-        
-        Spear:
-        --------------------
-            - Potsticker Spear
+==========
+The Two Faces of Hospitality (Main Mission)
+==========
+    Dual Swords:
+    --------------------
+        - Go-no-Yoshihiro Twin Swords
+    
+    Spear:
+    --------------------
+        - Potsticker Spear
 
-        Kusarigama:
-        --------------------
-            - Jonin's Kusarigama
+    Kusarigama:
+    --------------------
+        - Jonin's Kusarigama
 
-        Odachi:
-        --------------------
-            - Sunderer
+    Odachi:
+    --------------------
+        - Sunderer
 
-        Head Protection:
-        --------------------
-            - Tigerskin Helmet
-            - Love-Crested Helmet
-            - Bowl Helmet
+    Head Protection:
+    --------------------
+        - Tigerskin Helmet
+        - Love-Crested Helmet
+        - Bowl Helmet
 
-        Torso Protection:
-        --------------------
-            - Tigerskin Cuirass
+    Torso Protection:
+    --------------------
+        - Tigerskin Cuirass
 
-        Arm Protection:
-        --------------------
-            - Tigerskin Gauntlets
+    Arm Protection:
+    --------------------
+        - Tigerskin Gauntlets
 
-        Leg Protection:
-        --------------------
-            - Tigerskin Waistguard
+    Leg Protection:
+    --------------------
+        - Tigerskin Waistguard
 
-        Foot Protection:
-        --------------------
-            - Tigerskin Greaves
+    Foot Protection:
+    --------------------
+        - Tigerskin Greaves
 
-    ==========
-    The High-Spirited Demon (Main Mission)
-    ==========
-        Spear:
-        --------------------
-            - Birdflight Cross Spear
+==========
+The High-Spirited Demon (Main Mission)
+==========
+    Spear:
+    --------------------
+        - Birdflight Cross Spear
 
-        Kusarigama:
-        --------------------
-            - Rasetsu Kusarigama
+    Kusarigama:
+    --------------------
+        - Rasetsu Kusarigama
 
-        Hand Cannon:
-        --------------------
-            - Dragon's Roar
+    Hand Cannon:
+    --------------------
+        - Dragon's Roar
 
-        Head Protection
-        --------------------
-            - Hat Helmet
-            - Bear's Head Helmet
+    Head Protection
+    --------------------
+        - Hat Helmet
+        - Bear's Head Helmet
 
-        Tools:
-        --------------------
-            - Saisetsu-Shin Sake
+    Tools:
+    --------------------
+        - Saisetsu-Shin Sake
 
 
 ========== ========== ========== ========== ==========
 Dream Region (Region 6)
 ========== ========== ========== ========== ==========
-    ==========
-    The Mausoleum of Evil (Main Mission)
-    ==========
-        Kusarigama:
-        --------------------
-            - Yasha's Kusarigama
+==========
+The Mausoleum of Evil (Main Mission)
+==========
+    Kusarigama:
+    --------------------
+        - Yasha's Kusarigama
 
-        Rifle:
-        --------------------
-            - Inadome Matchlock
+    Rifle:
+    --------------------
+        - Inadome Matchlock
 
-        Head Protection:
-        --------------------
-            - Samurai General's Helmet
-            - Flashfire Helmet
+    Head Protection:
+    --------------------
+        - Samurai General's Helmet
+        - Flashfire Helmet
 
-        Torso Protection:
-        --------------------
-            - Samurai General's Cuirass
+    Torso Protection:
+    --------------------
+        - Samurai General's Cuirass
 
-        Arm Protection:
-        --------------------
-            - Samurai General's Gauntlets
+    Arm Protection:
+    --------------------
+        - Samurai General's Gauntlets
 
-        Leg Protection:
-        --------------------
-            - Samurai General's Waistguard
+    Leg Protection:
+    --------------------
+        - Samurai General's Waistguard
 
-        Foot Protection:
-        --------------------
-            - Samurai General's Greaves
+    Foot Protection:
+    --------------------
+        - Samurai General's Greaves
 
-    ==========
-    The Golden Castle (Main Mission)
-    ==========
-        Hand Cannon:
-        --------------------
-            - Lightning Cannon
+==========
+The Golden Castle (Main Mission)
+==========
+    Hand Cannon:
+    --------------------
+        - Lightning Cannon
 
-        Head Protection:
-        --------------------
-            - Veteran's Helmet
-            - Rabbit Eared Helemt
-            - Hairy Caterpillar Helmet
+    Head Protection:
+    --------------------
+        - Veteran's Helmet
+        - Rabbit Eared Helemt
+        - Hairy Caterpillar Helmet
 
-        Torso Protection:
-        --------------------
-            - Veteran's Cuirass
+    Torso Protection:
+    --------------------
+        - Veteran's Cuirass
 
-        Arm Protection:
-        --------------------
-            - Veteran's Gauntlets
+    Arm Protection:
+    --------------------
+        - Veteran's Gauntlets
 
-        Leg Protection:
-        --------------------
-            - Veteran's Waistguard
+    Leg Protection:
+    --------------------
+        - Veteran's Waistguard
 
-        Foot Protection:
-        --------------------
-            - Veteran's Greaves
+    Foot Protection:
+    --------------------
+        - Veteran's Greaves
 
-    ==========
-    Cherry Blossom Viewing Daigo (Main Mission)
-    ==========
-        None
+==========
+Cherry Blossom Viewing Daigo (Main Mission)
+==========
+    None
 
-    ==========
-    Sealed Fate (Main Mission)
-    ==========
-        None
+==========
+Sealed Fate (Main Mission)
+==========
+    None
 
 
 ========== ========== ========== ========== ==========
 Afterglow Region (Region 7)
 ========== ========== ========== ========== ==========
-    ==========
-    The Blue-Eyed Samurai (Main Mission)
-    ==========
-        Head Protection:
-        --------------------
-            - Moon Charm Helemt
-            - Takezo's Headband
+==========
+The Blue-Eyed Samurai (Main Mission)
+==========
+    Head Protection:
+    --------------------
+        - Moon Charm Helemt
+        - Takezo's Headband
 
-    ==========
-    In The Eye of the Beholder (Main Mission)
-    ==========
-        Head Protection:
-        --------------------
-            - Dragon Head Helmet
+==========
+In The Eye of the Beholder (Main Mission)
+==========
+    Head Protection:
+    --------------------
+        - Dragon Head Helmet
 
-    ==========
-    Winds of Ruin (Sub Mission)
-    ==========
-        Rifle:
-        --------------------
-            - Tatsuke Matchlock
+==========
+Winds of Ruin (Sub Mission)
+==========
+    Rifle:
+    --------------------
+        - Tatsuke Matchlock
 
-        Cannon:
-        --------------------
-            - Tatsuke Cannon
+    Cannon:
+    --------------------
+        - Tatsuke Cannon
 
-    ==========
-    Calamity's Pulse (Sub Mission)
-    ==========
-        Tools:
-        --------------------
-            - Herbal Remedy
-            - Glue
+==========
+Calamity's Pulse (Sub Mission)
+==========
+    Tools:
+    --------------------
+        - Herbal Remedy
+        - Glue

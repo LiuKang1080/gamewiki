@@ -3190,6 +3190,73 @@ A Prayer in the Moonlight (Sub Mission)
 ========== ========== ========== ========== ==========
 Dream Region (Region 6)
 ========== ========== ========== ========== ==========
+==========
+The Mausoleum of Evil (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The High-Spirited Demon".
+    --------------------
+    - Recommended level: 100
+    - Gold: 25,800
+    - Amrita: 40,816
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 9
+    - Number of Sudama: 3
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 2
+    - Bosses: 
+        - Shuten Doji
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Dojikiri Yasutsuna (sword) (rare)
+        - Genmei Onmyo Mage's Hat (rare)
+        - Two Leaves (accessory) (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Shuten Doji's Red Hair X1
+        - Saisetsu-Shin'a Sake X1
+        - Ochoko Cup X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Ninja's Locks.
+        - Onmyo Mage's Locks.
+        - Unlocks the "Interim" after beating mission.
+        - Unlocks "The Nine Symbols" in the Dojo after beating mission.
+        - Unlocks the Twilight Mission: The Wings of the Phoenix.
+
+==========
+The Roaming Artisan (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Mausoleum of Evil".
+    --------------------
+    - Recommended level: 103
+    - Gold: 26,600
+    - Amrita: 45,576
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Smithing Text: Basket Blade & Boar Cutter (mission reward).
+        - Unlocks the Remodel feature in the Blacksmith.
+        - x3 Metalworking Chisel.
 
 
 
@@ -3232,54 +3299,8 @@ Dream Region (Region 6)
 
 
 
-    ==========
-    The Mausoleum of Evil (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The High-Spirited Demon".
-        --------------------
-        - Recommended level: 100
-        - Gold: 25,800
-        - Amrita: 40,816
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 9
-        - Number of Sudama: 3
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 2
-        - Bosses: 
-            - Shuten Doji
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Ninja's Locks.
-            - Onmyo Mage's Locks.
-            - Unlocks "The Nine Symbols" in the Dojo after beating mission.
-            - Unlocks the "Interim" after beating mission.
 
-    ==========
-    The Roaming Artisan (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Mausoleum of Evil".
-        --------------------
-        - Recommended level: 103
-        - Gold: 26,600
-        - Amrita: 45,576
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Smithing Text: Basket Blade & Boar Cutter (mission reward).
-            - Unlocks the Remodel feature in the Blacksmith.
-            - x3 Metalworking Chisel.
+
 
     ==========
     Mataza of the Spear (Sub Mission)

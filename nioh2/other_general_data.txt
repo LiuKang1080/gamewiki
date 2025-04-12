@@ -26,6 +26,10 @@ Key Items
     - Divine Branch Fragment [img complete]:
         - Obtained at the beginning of the game before entering the 1st mission: The Village of Cursed Blossoms (Main Mission).
 
+    - Dragon God Jewel [img complete]:
+        - There are a total of 3 Dragon God Jewels in the Main Mission: The Mausoleum of Evil.
+        - Single Dragon Jewel is removed from inventory when using the Dragon Statue.
+
     - Foreign Necklace [img complete]:
         - Complete the mission: A Formal Match (Sub Mission).
 
@@ -94,6 +98,9 @@ Key Items
 
     - Repaired Hiragumo Kettle [img complete]:
         - Complete the mission: Scattered Fragments (Sub Mission).
+        - This item is removed from the inventory after speaking to Matsunaga Hisahide in the Interim after completing the Main
+            Mission: The Mausoleum of Evil.
+        - In exchange for the Repaired Hiragumo Kettle Matsunaga Hisahide will give the player a Tea Utensil (exotic rarity).
 
     - Rusty Key [img complete]:
         - Obtained in the Sub Mission: The Burning Sky.

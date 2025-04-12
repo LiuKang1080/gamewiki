@@ -1878,6 +1878,45 @@ A Prayer in the Moonlight (Sub Mission)
 ========== ========== ========== ========== ==========
 Dream Region (Region 6)
 ========== ========== ========== ========== ==========
+==========
+The Mausoleum of Evil (Main Mission)
+==========
+    - Quest Giver: Miyoshino
+    - Characters:
+        - Mumyo (NPC)
+        - Tokichiro (Cutscenes)
+    --------------------
+    - Dweller
+    - Abbarant Soldier
+    - Ubume
+    - Dweller (big)
+    - One-Eyed Oni (Snowclops)
+    - Karasu Tengu
+    - Nure-Onna
+    - Lesser Umi-Bozu
+    - Kappa
+    - Namahage
+    - Nurikabe
+    - Shuten Doji (boss) (first time)
+
+==========
+The Roaming Artisan (Sub Mission)
+==========
+    - Quest Giver: Senji Toyo
+    - Characters:
+        - Muramasa (NPC)
+    --------------------
+    - Abbarant Soldier
+    - Spider
+    - Gaki
+    - Yamanba
+    - Koroka
+    - Waira
+    - Skeleton Warrior
+    - Wheelmonk
+    - Nurikabe
+    - Nure-Onna
+    - Ippon-Datara
 
 
 
@@ -1922,43 +1961,6 @@ Dream Region (Region 6)
 
 
 
-    ==========
-    The Mausoleum of Evil (Main Mission)
-    ==========
-        - Quest Giver: Miyoshino
-        - Characters:
-            - Mumyo (NPC)
-            - Tokichiro (Cutscenes)
-        --------------------
-        - Dweller
-        - Abbarant Soldier
-        - Ubume
-        - One-Eyed Oni (Snowclops)
-        - Nure-Onna
-        - Karasu Tengu
-        - Lesser Umi-Bozu
-        - Namahage
-        - Nurikabe
-        - Shuten Doji (boss) (first time)
-
-    ==========
-    The Roaming Artisan (Sub Mission)
-    ==========
-        - Quest Giver: Senji Toyo
-        - Characters:
-            - Muramasa (NPC)
-        --------------------
-        - Abbarant Soldier
-        - Spider
-        - Gaki
-        - Yamanba
-        - Koroka
-        - Waira
-        - Skeleton Warrior
-        - Wheelmonk
-        - Nurikabe
-        - Nure-Onna
-        - Ippon-Datara
 
     ==========
     Mataza of the Spear (Sub Mission)
