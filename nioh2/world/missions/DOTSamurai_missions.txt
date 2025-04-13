@@ -907,27 +907,38 @@ Mountain of the Dark Lord
         - Notable Items In Mission / Mission Rewards:
             - Quality Umbracite x1 (mission reward).
 
-    ==========
-    Wings of the Phoenix
-    ==========
-        - Mission Unlock Requirement:
-            - The Mausoleum of Evil (Dream Region | Region 6).
-        --------------------
-        - Recommended level: 113
-        - Gold: 89,400
-        - Amrita: 194,328
-        - Shrine: Yes
-        - Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 1 (0 required)
-        - Number of Dark Realms: 2 (0 required)
-        - Bosses: 
-            - Shuten Doji
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Quality Umbracite x1 (mission reward).
+==========
+Wings of the Phoenix
+==========
+    - Mission Unlock Requirement:
+        - The Mausoleum of Evil (Dream Region | Region 6).
+    --------------------
+    - Recommended level: 113
+    - Gold: 89,400 / 29,800
+    - Amrita: 194,328 / 64,776
+    - Shrine: Yes
+    - Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 2 (0 required)
+    - Bosses: 
+        - Shuten Doji
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Quality Umbracite X1
+        - Shuten Doji's Gourd (accessory) (rare)
+        - Shuten Doji's Club (axe) (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Highest-Quality Leather Platelet X3
+        - Highest-Quality Leather Cord X3
+        - Spirit Stone Arm X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
     ==========
     Darkness Brewing
@@ -3254,11 +3265,46 @@ The Roaming Artisan (Sub Mission)
         - Whetstone X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - High-Quality Tamahagane X3
+        - High-Quality Iron Platelet X3
+        - High-Quality Ingot X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - Unlocks the Remodel feature at the Blacksmith.
 
+==========
+Mataza of the Spear (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Mausoleum of Evil".
+    --------------------
+    - Recommended level: 104
+    - Gold: 27,000
+    - Amrita: 47,976
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Maeda Toshiie
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Mataza's Long Spear (rare)
+        - Mataza's Cuirass (rare)
+        - Mataza's Waistguard (rare)
+        - Toshiie's Abacus (accessory) (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Mataza's Gauntlets (uncommon)
+        - Mataza's Helmet (uncommon)
+        - Mataza's Greaves (uncommon)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 
@@ -3303,27 +3349,6 @@ The Roaming Artisan (Sub Mission)
 
 
 
-    ==========
-    Mataza of the Spear (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Mausoleum of Evil".
-        --------------------
-        - Recommended level: 104
-        - Gold: 27,000
-        - Amrita: 47,976
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Maeda Toshiie
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
 
     ==========
     The Golden Castle (Main Mission)

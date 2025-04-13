@@ -102,6 +102,10 @@ Key Items
             Mission: The Mausoleum of Evil.
         - In exchange for the Repaired Hiragumo Kettle Matsunaga Hisahide will give the player a Tea Utensil (exotic rarity).
 
+    - Runis Key [img complete]:
+        - Obtained in the Sub Mission: The Roaming Artisan.
+        - Item is removed from inventory after completing the mission: The Roaming Artisan.
+
     - Rusty Key [img complete]:
         - Obtained in the Sub Mission: The Burning Sky.
         - Obtained in the Sub Mission: The Aberrant Mage.

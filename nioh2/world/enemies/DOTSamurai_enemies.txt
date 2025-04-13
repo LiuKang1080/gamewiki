@@ -398,24 +398,26 @@ Mountain of the Dark Lord (The Sun Sets on Mount Tenno | Dawn Region (Region 4))
         - Mujina
         - Tatarimokke (boss)
 
-    ==========
-    Wings of the Phoenix (The Mausoleum of Evil | Dream Region (Region 6))
-    ==========
-        - Flying Bolt
-        - Red Kappa
-        - Spider
-        - Gaki
-        - Ubume
-        - Tesso
-        - Yamanba
-        - Mitsume Yazura
-        - Biwa Boku-Boku
-        - Infernal Oni-Bi
-        - Onyudo (lightning)
-        - Mujina
-        - Nurikabe
-        - Kappa
-        - Shuten Doji (boss)
+==========
+Wings of the Phoenix (The Mausoleum of Evil | Dream Region (Region 6))
+==========
+    - Flying Bolt
+    - Red Kappa
+    - Spider (medium)
+    - Ubume
+    - Gaki
+    - Tesso
+    - Gaki (big)
+    - Yamanba
+    - Mitsume Yazura
+    - Spider (big)
+    - Onyudo (lightning)
+    - Biwa Boku-Boku
+    - Infernal Oni-Bi
+    - Mujina
+    - Nurikabe
+    - Kappa
+    - Shuten Doji (boss)
 
     ==========
     Darkness Brewing (Shadows Creep In Kurama | The Tengu's Disciple (DLC 1))
@@ -1907,16 +1909,31 @@ The Roaming Artisan (Sub Mission)
         - Muramasa (NPC)
     --------------------
     - Abbarant Soldier
-    - Spider
-    - Gaki
+    - Spider (medium)
     - Yamanba
-    - Koroka
     - Waira
-    - Skeleton Warrior
+    - Gaki
+    - Koroka
+    - Skeleton Warrior (cannon, sword)
     - Wheelmonk
+    - Skeleton Warrior (big) (axe)
+    - Skeleton Warrior (spear)
     - Nurikabe
     - Nure-Onna
-    - Ippon-Datara
+    - Infernal Oni-Bi
+    - Onyudo (fire)
+    - Spider (big)
+    - Skeleton Warrior (bow + fire arrow, sword)
+    - Ippon-Datara (odachi)
+
+==========
+Mataza of the Spear (Sub Mission)
+==========
+    - Quest Giver: Maeda Toshiie
+    - Characters:
+        - None
+    --------------------
+    - Maeda Toshiie (boss)
 
 
 
@@ -1961,15 +1978,6 @@ The Roaming Artisan (Sub Mission)
 
 
 
-
-    ==========
-    Mataza of the Spear (Sub Mission)
-    ==========
-        - Quest Giver: Maeda Toshiie
-        - Characters:
-            - None
-        --------------------
-        - Maeda Toshiie (boss)
 
     ==========
     The Golden Castle (Main Mission)
