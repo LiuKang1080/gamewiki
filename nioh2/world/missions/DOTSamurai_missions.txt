@@ -1618,7 +1618,7 @@ The Hollow Fortress (Main Mission)
         - Onryoki
         - Saito Yoshitatsu
     - Guardian Spirit Unlocked: 
-        - Double Guardian Spirits. Unlocks: Makami / Ame-no-Mitori / Kagewani (only 1 will be given).
+        - Unlocks the use of Double Guardian Spirits.
     - Mission Rewards: 
     First Time: 
         - Genryu's Helmet (rare)

@@ -1410,6 +1410,11 @@ video {
   color: rgb(250 204 21 / var(--tw-text-opacity));
 }
 
+.hover\:text-sky-400:hover {
+  --tw-text-opacity: 1;
+  color: rgb(56 189 248 / var(--tw-text-opacity));
+}
+
 .group:hover .group-hover\:bg-light-red {
   --tw-bg-opacity: 1;
   background-color: rgb(95 24 35 / var(--tw-bg-opacity));
