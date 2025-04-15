@@ -477,6 +477,7 @@ The Village of Cursed Blossoms (Main Mission)
     - Rogue (big) (axe) (first time)
     - Outlaw (sword) (first time)
     - Yoki (sword) (first time)
+    - Outlaw (torch, bow + fire arrow, sword) (first time)
     - Mezuki (boss) (first time)
 
 ==========

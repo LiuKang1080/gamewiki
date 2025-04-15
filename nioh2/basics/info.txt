@@ -1,16 +1,16 @@
 - Lvl 1 character has 5 in all stats.
 - Weapons give +1 to a specific attribute:
-    - Sword: Heart +1
-    - Dual Swords: Skill +1
-    - Spear: Constitution +1
-    - Axe: Stamina +1
-    - Kusarigama: Dexterity +1
-    - Odachi: Strength +1
-    - Tonfa: Courage +1
-    - Hatchets: Skill +1
-    - Switchglaive: Magic +1
-    - Splitstaff: Magic +1
-    - Fists: Strength +1
+    - [img complete] Sword: Heart +1
+    - [img complete] Dual Swords: Skill +1
+    - [img complete] Spear: Constitution +1
+    - [img complete] Axe: Stamina +1
+    - [img complete] Kusarigama: Dexterity +1
+    - [img complete] Odachi: Strength +1
+    - [img complete] Tonfa: Courage +1
+    - [img complete] Hatchets: Skill +1
+    - [img complete] Switchglaive: Magic +1
+    - [img complete] Splitstaff: Magic +1
+    - [img complete] Fists: Strength +1
 
     - It is recommended to choose Splitstaff and the Fists.
     - All other weapons can be obtained from the Boons section at the Shrine (Nioh 2 Complete Edition / The Nioh Collection).
