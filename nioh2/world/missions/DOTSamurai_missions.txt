@@ -1049,6 +1049,7 @@ The Forest Veiled in Darkness (Sub Mission)
         - None
     - Mission Rewards: 
     First Time: 
+        - Gesture: DON'T WORRY [Whole text is Exotic color. The Gestures' name is in call caps]
         - Small Spirit Stone x2
         - Yokai Incense x1
         - Mountain Bandit Hatchets (rare)

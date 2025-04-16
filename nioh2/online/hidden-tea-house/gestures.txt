@@ -1,0 +1,58 @@
+========== ========== ========== ========== ==========
+General Info
+========== ========== ========== ========== ==========
+    - [Tech] Gesture Icons are 82 x 82 pixels or 83 x 83 pixels.
+
+    - There are a total of 76 gesture in the game.
+    - Gestures are account bound, and the player does not need to collect the same gestures multiple times.
+    - The player starts with 21 gestures upon creating a new character for the first time.
+    - There are X gestures in the Hidden Tea House.
+    - There are X gestures obtained from missions.
+
+
+========== ========== ========== ========== ==========
+Default Gestures
+========== ========== ========== ========== ==========
+- These gestures are automatically unlocked at the beginning of the game.
+Friendly Gestures:
+    - [img complete] Nice!
+    - [img complete] Bow
+    - [img complete] At Your Service
+    - [img complete] High Five
+    - [img complete] Leave It To Me
+    - [img complete] I Got This
+
+Neutral Gestures:
+    - [img complete] Confused
+    - [img complete] Whistle
+    - [img complete] This Way!
+    - [img complete] Time Out
+    - [img complete] Disappointed
+    - [img complete] There, There
+    - [img complete] Cower
+    - [img complete] Point Up
+    - [img complete] Point Ahead
+    - [img complete] Point Down
+
+Hostile Gestures:
+    - [img complete] Backflip
+    - [img complete] Bring It On!
+    - [img complete] Taunt
+    - [img complete] Nioh "AH" Pose
+    - [img complete] Nioh "UN" Pose
+
+
+========== ========== ========== ========== ==========
+Purchasable Gestures at Hidden Tea House
+========== ========== ========== ========== ==========
+    - 
+
+
+========== ========== ========== ========== ==========
+Gestures Obtained From Missions
+========== ========== ========== ========== ==========
+    - 
+
+
+
+
