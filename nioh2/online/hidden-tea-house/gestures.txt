@@ -45,14 +45,25 @@ Hostile Gestures:
 ========== ========== ========== ========== ==========
 Purchasable Gestures at Hidden Tea House
 ========== ========== ========== ========== ==========
+Friendly Gestures:
+    - 
+
+Neutral Gestures:
+    - 
+
+Hostile Gestures:
     - 
 
 
 ========== ========== ========== ========== ==========
 Gestures Obtained From Missions
 ========== ========== ========== ========== ==========
+Friendly Gestures:
+    - Don't Worry: Forest Veiled in Darkness
+
+Neutral Gestures:
     - 
 
-
-
+Hostile Gestures:
+    - 
 

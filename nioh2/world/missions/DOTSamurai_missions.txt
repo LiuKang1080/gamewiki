@@ -1049,7 +1049,7 @@ The Forest Veiled in Darkness (Sub Mission)
         - None
     - Mission Rewards: 
     First Time: 
-        - Gesture: DON'T WORRY [Whole text is Exotic color. The Gestures' name is in call caps]
+        - Gesture: DON'T WORRY [Whole text is Exotic color. The Gesture's name is in call caps]
         - Small Spirit Stone x2
         - Yokai Incense x1
         - Mountain Bandit Hatchets (rare)
@@ -1062,6 +1062,36 @@ The Forest Veiled in Darkness (Sub Mission)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - Unlocks the Manage Soul Core option at the Shrine after beating mission.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Beast Born of Smoke and Flames (Main Mission)
