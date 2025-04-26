@@ -1,7 +1,7 @@
 ========== ========== ========== ========== ==========
 General Info
 ========== ========== ========== ========== ==========
-    - [Tech] Gesture Icons are 82 x 82 pixels or 83 x 83 pixels.
+    - [Tech] Gesture Icons are 83 x 83 pixels [need to place the icon in the middle row, and then extract the image].
 
     - There are a total of 76 gesture in the game.
     - Gestures are account bound, and the player does not need to collect the same gestures multiple times.
@@ -59,7 +59,9 @@ Hostile Gestures:
 Gestures Obtained From Missions
 ========== ========== ========== ========== ==========
 Friendly Gestures:
-    - Don't Worry: Forest Veiled in Darkness
+    - [img complete] Don't Worry: Forest Veiled in Darkness (mission reward)
+    - [img complete] Overjoyed: The Beast Born of Smoke and Flames (successfully interact with your first Mujina)
+    - [img complete] Prostrate: The Beast Born of Smoke and Flames (mission reward)
 
 Neutral Gestures:
     - 

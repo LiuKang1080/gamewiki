@@ -1063,36 +1063,6 @@ The Forest Veiled in Darkness (Sub Mission)
     Notable Items During / Post Mission:
         - Unlocks the Manage Soul Core option at the Shrine after beating mission.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Beast Born of Smoke and Flames (Main Mission)
 ==========
@@ -1114,6 +1084,7 @@ The Beast Born of Smoke and Flames (Main Mission)
         - None
     - Mission Rewards: 
     First Time: 
+        - Gesture: PROSTRATE
         - Highest Quality Tamahagane x3
         - Highest Quality Ingot x3
         - Highest Quality Iron Platelet x3
@@ -1132,6 +1103,36 @@ The Beast Born of Smoke and Flames (Main Mission)
         - Unlocks Ungyo Titles after beating mission.
         - Unlocks the Blacksmith option at the Starting Point after beating mission.
         - Unlocks the Dojo mission: "The Way of the Warrior: Novice" after beating mission.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 A Voice in the Twilight (Sub Mission)
