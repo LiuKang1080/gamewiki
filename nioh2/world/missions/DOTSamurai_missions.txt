@@ -688,7 +688,7 @@ Traces of the Raging Blaze
     - Shrine: Yes
     - Expedition: Yes
     - Number of Kodama: 0
-    - Number of Sudama: 2
+    - Number of Sudama: 3
     - Number of Hot Springs: 0
     - Number of Dark Realms: 2 (0 required)
     - Bosses: 
@@ -1284,36 +1284,6 @@ The Search (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Greedy Hunter (Sub Mission)
 ==========
@@ -1352,6 +1322,36 @@ The Greedy Hunter (Sub Mission)
 ========== ========== ========== ========== ========== ========== ==========
 Soaring Region (Region 2)
 ========== ========== ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==========
 The Hidden Monsters of Okehazama (Main Mission)
 ==========
