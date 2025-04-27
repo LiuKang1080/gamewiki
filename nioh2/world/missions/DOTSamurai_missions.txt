@@ -1322,36 +1322,6 @@ The Greedy Hunter (Sub Mission)
 ========== ========== ========== ========== ========== ========== ==========
 Soaring Region (Region 2)
 ========== ========== ========== ========== ========== ========== ==========
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Hidden Monsters of Okehazama (Main Mission)
 ==========
@@ -1387,6 +1357,36 @@ The Hidden Monsters of Okehazama (Main Mission)
     Notable Items During / Post Mission:
         - Ninja's Locks.
         - Onmyo Mage's Locks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Imagawa Diehard (Sub Mission)
