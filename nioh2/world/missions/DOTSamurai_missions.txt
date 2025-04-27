@@ -1104,36 +1104,6 @@ The Beast Born of Smoke and Flames (Main Mission)
         - Unlocks the Blacksmith option at the Starting Point after beating mission.
         - Unlocks the Dojo mission: "The Way of the Warrior: Novice" after beating mission.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 A Voice in the Twilight (Sub Mission)
 ==========
@@ -1300,8 +1270,10 @@ The Search (Sub Mission)
         - None
     - Mission Rewards: 
     First Time: 
-        - Kodama Bowl (rare)
+        - Gesture: SUDAMA DANCE
+        - Kodama Bowl (head gear) (rare)
         - Possessed Kodama Bowl x1
+        - Smithing Text: Possessed Kodama Bowl
     ---------- ---------- ----------
     Subsequent Completes:
         - Quality Leather Cord x3
@@ -1310,7 +1282,37 @@ The Search (Sub Mission)
         - Signpost Amulet x2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - Smithing Text: Possessed Kodama Bowl.
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Greedy Hunter (Sub Mission)

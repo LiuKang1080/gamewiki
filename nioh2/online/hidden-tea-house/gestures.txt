@@ -62,7 +62,7 @@ Friendly Gestures:
     - [img complete] Don't Worry: Forest Veiled in Darkness (mission reward)
     - [img complete] Overjoyed: The Beast Born of Smoke and Flames (successfully interact with your first Mujina)
     - [img complete] Prostrate: The Beast Born of Smoke and Flames (mission reward)
-
+    - Sudama Dance: The Search (mission reward)
 Neutral Gestures:
     - 
 
