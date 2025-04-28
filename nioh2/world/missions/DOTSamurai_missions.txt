@@ -180,8 +180,9 @@ The Way of the Warrior: Adept (Dojo Mission)
         - None
     - Mission Rewards: 
     First Time: 
+        - Gesture: NIOH STANCE (RESOLUTE)
         - Samurai's Locks X1
-        - Prayer Beads (uncommon)
+        - Prayer Beads (accessory) (uncommon)
         - Book of Reincarnation X1
     ---------- ---------- ----------
     Subsequent Completes:
@@ -212,6 +213,7 @@ The Way of the Ninja: Adept (Dojo Mission)
         - None
     - Mission Rewards: 
     First Time: 
+        - Gesture: BE QUIET
         - Ninja's Locks X1
         - Writing Set (uncommon)
         - Shinobi Box X1
@@ -242,6 +244,7 @@ The Way of the Onmyo: Adept (Dojo Mission)
         - None
     - Mission Rewards: 
     First Time: 
+        - Gesture: PURIFICATION
         - Onmyo Mage's Locks X1
         - Divination Board (uncommon)
         - Sacred Brush X1
@@ -1393,46 +1396,6 @@ Imagawa Diehard (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Hidetatsu's Dying Wish (Sub Mission)
 ==========
@@ -1490,7 +1453,7 @@ An Error in Calculation (Sub Mission)
     - Mission Rewards: 
     First Time: 
         - Warrior's Cross Spear (rare)
-        - Abacus (exotic)
+        - Abacus (accessory) (exotic)
         - High-Quality Leather Platelet X3
         - High-Quality Leather Cord X3
     ---------- ---------- ----------
@@ -1540,6 +1503,46 @@ The Mysterious One Night Castle (Main Mission)
         - Unlocks the Dojo mission: "The Way of the Warrior: Adept" after beating level.
         - Unlocks the Dojo mission: "The Way of the Ninja: Adept" after beating level.
         - Unlocks the Dojo mission: "The Way of the Onmyo: Adept" after beating level.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Sunomata Yokai Hunt (Sub Mission)

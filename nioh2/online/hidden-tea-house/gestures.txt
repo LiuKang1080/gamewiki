@@ -64,9 +64,11 @@ Friendly Gestures:
     - [img complete] Prostrate: The Beast Born of Smoke and Flames (mission reward)
 
 Neutral Gestures:
-    - 
+    - [img complete] Be Quiet: The Way of Ninja: Adept (mission reward)
+    - [img complete] Purification: The Way of Onmyo: Adept (mission reward)
 
 Hostile Gestures:
     - [img complete] Sudama Dance: The Search (mission reward)
     - [img complete] Shoo: Imagawa Diehard (mission reward)
+    - [img complete] Nioh Stance (Resolute): The Way of the Warrior: Adept (mission reward)
 
