@@ -1504,46 +1504,6 @@ The Mysterious One Night Castle (Main Mission)
         - Unlocks the Dojo mission: "The Way of the Ninja: Adept" after beating level.
         - Unlocks the Dojo mission: "The Way of the Onmyo: Adept" after beating level.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Sunomata Yokai Hunt (Sub Mission)
 ==========
@@ -1565,8 +1525,9 @@ The Sunomata Yokai Hunt (Sub Mission)
         - None
     - Mission Rewards: 
     First Time: 
+        - Gesture: KAPPA DANCE
         - Custom Kusarigama (rare)
-        - Japanese Scissors (rare)
+        - Japanese Scissors (accessory) (rare)
         - Red Spider Lily X1
     ---------- ---------- ----------
     Subsequent Completes:
@@ -1577,6 +1538,46 @@ The Sunomata Yokai Hunt (Sub Mission)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 A Hot-blodded Howl (Sub Mission)
