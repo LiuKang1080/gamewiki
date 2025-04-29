@@ -1539,46 +1539,6 @@ The Sunomata Yokai Hunt (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 A Hot-blodded Howl (Sub Mission)
 ==========
@@ -1600,6 +1560,7 @@ A Hot-blodded Howl (Sub Mission)
         - Okuri-Inu
     - Mission Rewards: 
     First Time: 
+        - Gesture: SORRY!
         - Captain's Spear (rare)
         - High-Quality Tamahagane X3
         - Whetstone X2
@@ -1684,7 +1645,7 @@ The Hollow Fortress (Main Mission)
     Notable Items During / Post Mission:
         - Ninja's Locks.
         - Onmyo Mage's Locks.
-        - Unlocks 2nd Guardian Spirit (complete mission).
+        - Unlocks 2nd Guardian Spirit after completing the mission.
 
 ==========
 An End to Seclusion (Sub Mission)
@@ -1707,6 +1668,7 @@ An End to Seclusion (Sub Mission)
         - None
     - Mission Rewards: 
     First Time: 
+        - Gesture: CURTSY
         - Tobikura Kusarigama (rare)
         - Sacred Arrow X4
         - Roaring Gun Ammunition X3
@@ -1718,6 +1680,46 @@ An End to Seclusion (Sub Mission)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Shiftling's Wise Judgement (Sub Mission)

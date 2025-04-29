@@ -13,6 +13,10 @@ Key Items
         - Obtained after defeating Enenra in the Sub Mission: Okuni's Search.
         - Item is removed after completing the mission.
 
+    - Castle Gate Key [img complete]:
+        - Key item obtained in the Main Mission: The Hollow Fortress.
+        - Item is removed from the inventory upon completing the mission.
+
     - Chinese Tea Vessel [img complete]:
         - Item drops after defeating Mezuki in the Sub Mission: The Refined Man of the Underworld.
         - Item is given away at the end of the Sub Mission: The Refined Man of the Underworld.
@@ -113,7 +117,7 @@ Key Items
         - Obtained in the Main Mission: The High-Spirited Demon.
         - Item is removed from inventory upon completing the above missions.
 
-    - Saigyo's Poems 1 - III [img complete]:
+    - Saigyo's Poems I - III [img complete]:
         - Obtained in the following missions:
             - A Song to Calm the Storm.
             - Eternal Rivals.

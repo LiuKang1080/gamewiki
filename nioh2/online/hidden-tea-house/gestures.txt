@@ -63,6 +63,8 @@ Friendly Gestures:
     - [img complete] Overjoyed: The Beast Born of Smoke and Flames (successfully interact with your first Mujina)
     - [img complete] Prostrate: The Beast Born of Smoke and Flames (mission reward)
     - [img complete] Kappa Dance: The Sunomata Yokai Hunt (mission reward)
+    - [img complete] Sorry!: A Hot-blodded Howl (mission reward)
+    - [img complete] Curtsy: An End to Seclusion (mission reward)
 
 Neutral Gestures:
     - [img complete] Be Quiet: The Way of Ninja: Adept (mission reward)
@@ -72,4 +74,3 @@ Hostile Gestures:
     - [img complete] Sudama Dance: The Search (mission reward)
     - [img complete] Shoo: Imagawa Diehard (mission reward)
     - [img complete] Nioh Stance (Resolute): The Way of the Warrior: Adept (mission reward)
-
