@@ -1752,46 +1752,6 @@ The Viper and the Butterfly (Sub Mission)
         - None
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ========== ========== ========== ========== ========== ========== ==========
 Shadow Region (Region 3)
 ========== ========== ========== ========== ========== ========== ==========
@@ -1816,6 +1776,7 @@ A Way Out (Main Mission)
         - Yaonami-Hime
     - Mission Rewards: 
     First Time: 
+        - Gesture: RELAX
         - Sohaya Mask (rare)
         - Sohaya Cuirass (rare)
         - Tenmoku (tea utensil) (rare)
@@ -1831,6 +1792,46 @@ A Way Out (Main Mission)
         - Ninja's Locks.
         - Increases Astral Wisdom.
         - Unlocks the Hidden Tea House.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Learning A Lesson (Sub Mission)
