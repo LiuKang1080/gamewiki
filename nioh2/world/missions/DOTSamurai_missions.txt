@@ -1793,46 +1793,6 @@ A Way Out (Main Mission)
         - Increases Astral Wisdom.
         - Unlocks the Hidden Tea House.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Learning A Lesson (Sub Mission)
 ==========
@@ -1887,6 +1847,7 @@ The Shrine of Oaths (Sub Mission)
         - None
     - Guardian Spirit Unlocked: 
         - Makami / Ame-no-Mitori / Kagewani (only 1 will be given).
+            The order is Feral --> Phantom --> Brute.
     - Mission Rewards: 
     First Time: 
         - Petrified Eye X1
@@ -1900,6 +1861,46 @@ The Shrine of Oaths (Sub Mission)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - Onmyo Mage's Locks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Immovable (Sub Mission)

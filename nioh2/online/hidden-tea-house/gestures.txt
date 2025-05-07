@@ -69,6 +69,7 @@ Friendly Gestures:
 Neutral Gestures:
     - [img complete] Be Quiet: The Way of Ninja: Adept (mission reward)
     - [img complete] Purification: The Way of Onmyo: Adept (mission reward)
+    - [img complete] Relax: A Way Out (mission reward)
 
 Hostile Gestures:
     - [img complete] Sudama Dance: The Search (mission reward)

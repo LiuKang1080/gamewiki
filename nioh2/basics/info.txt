@@ -28,14 +28,3 @@
         - Test 2: Phantom is chosen 1st --> Completing The Shrine of Oaths gives: Brute --> The Point of No Return gives: Feral.
         - Test 3: Feral is chosen 1st --> Completing The Shrine of Oaths gives: Phantom --> The Point of No Return gives: Brute.
     [Credits: Gutsy]
-
-    - Current test: Phantom is chosen first.
-
-
-
-
-
-
-
-
-
