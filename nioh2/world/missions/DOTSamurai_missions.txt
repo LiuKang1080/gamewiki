@@ -1932,46 +1932,6 @@ A Formal Match (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Corpses and Ice (Main Mission)
 ==========
@@ -2110,6 +2070,46 @@ The Brother's Blades (Sub Mission)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 A Shadow's Duty (Sub Mission)
