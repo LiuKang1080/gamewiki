@@ -1862,46 +1862,6 @@ The Shrine of Oaths (Sub Mission)
     Notable Items During / Post Mission:
         - Onmyo Mage's Locks.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Immovable (Sub Mission)
 ==========
@@ -1958,6 +1918,7 @@ A Formal Match (Sub Mission)
         - None
     - Mission Rewards: 
     First Time: 
+        - Gesture: THREATEN
         - Gozutenno's Axe (rare)
         - Obsidian Helmet (rare)
         - Obsidian Cuirass (rare)
@@ -1970,6 +1931,46 @@ A Formal Match (Sub Mission)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Corpses and Ice (Main Mission)
@@ -1992,6 +1993,7 @@ Corpses and Ice (Main Mission)
         - None
     - Mission Rewards: 
     First Time: 
+        - Gesture: FIRE!
         - Taro Tachi (Water) (odachi) (rare)
         - Water Omamori (accessory) (rare)
         - Highest-Quality Leather Platelet X3
