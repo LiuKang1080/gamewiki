@@ -1209,7 +1209,7 @@ Bird In A Cage (Main Mission)
     - Quest Giver: Tokichiro
     - Characters: 
         - Ryunojo the Dung Lover (NPC)
-            - 1st Reward (5 Dung Balls): Lumicite Shard
+            - 1st Reward (5 Dung Balls): Lumicite Shard / Gesture: THANKS
             - 2nd Reward (10 Dung Balls): Lumicite Crystal
             - 3rd Reward (15 Dung Balls): Horned Turban Helmet
             - 4th Reward (20 Dung Balls): Coiled Snake Helmet

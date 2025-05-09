@@ -2071,46 +2071,6 @@ The Brother's Blades (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 A Shadow's Duty (Sub Mission)
 ==========
@@ -2170,6 +2130,7 @@ The Fallen Star (Sub Mission)
         - None
     - Mission Rewards: 
     First Time: 
+        - Gesture: NICELY DONE
         - Suwa Myojin Helmet (rare)
         - Tatenashi Cuirass (rare)
         - Smithing Text: Yokai Water Pot
@@ -2205,6 +2166,7 @@ Horns on Head, Dragonfly in Hand (Sub Mission)
         - Shin-Roku
     - Mission Rewards: 
     First Time: 
+        - Gesture: PRAY
         - Tombokiri (spear) (lightning) (rare)
         - Warrior of the East Helmet (rare)
         - Warrior of the East Cuirass (rare)
@@ -2272,8 +2234,10 @@ The Point of No Return (Sub Mission)
         - Saito Yoshitatsu
     - Guardian Spirit Unlocked: 
         - Makami / Ame-no-Mitori / Kagewani (only 1 will be given).
+            The order is Feral --> Phantom --> Brute.
     - Mission Rewards: 
     First Time: 
+        - Gesture: DECLARING ONE'S NAME
         - Hand Mirror (accessory) (rare)
         - Summoner's Candle X1
         - Book of Reincarnation X1
@@ -2286,6 +2250,46 @@ The Point of No Return (Sub Mission)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Golden Nation (Sub Mission)
@@ -2311,7 +2315,7 @@ The Golden Nation (Sub Mission)
         - Wisdom Sutra Sword & Plane Cutter (dual swords) (rare)
         - Swallowtail Helmet (rare)
         - Swallowtail Cuirass (rare)
-        - Karamono Katatsuki
+        - Karamono Katatsuki (tea utensil)???
     ---------- ---------- ----------
     Subsequent Completes:
         - Swallowtail Waistguard (uncommon)

@@ -6,7 +6,7 @@ General Info
     - There are a total of 76 gesture in the game.
     - Gestures are account bound, and the player does not need to collect the same gestures multiple times.
     - The player starts with 21 gestures upon creating a new character for the first time.
-    - There are X gestures in the Hidden Tea House.
+    - There are 17 gestures in the Hidden Tea House.
     - There are X gestures obtained from missions.
 
 
@@ -58,26 +58,32 @@ Hostile Gestures:
 ========== ========== ========== ========== ==========
 Gestures Obtained From Missions
 ========== ========== ========== ========== ==========
+========== ========== ==========
+Dream of the Samurai (NG)
+========== ========== ==========
 Friendly Gestures:
-    - [img complete] Don't Worry: Forest Veiled in Darkness (mission reward)
-    - [img complete] Overjoyed: The Beast Born of Smoke and Flames (successfully interact with your first Mujina)
-    - [img complete] Prostrate: The Beast Born of Smoke and Flames (mission reward)
-    - [img complete] Kappa Dance: The Sunomata Yokai Hunt (mission reward)
-    - [img complete] Sorry!: A Hot-blodded Howl (mission reward)
-    - [img complete] Curtsy: An End to Seclusion (mission reward)
+    - [img complete] Don't Worry: Forest Veiled in Darkness (mission reward).
+    - [img complete] Overjoyed: The Beast Born of Smoke and Flames (successfully interact with your first Mujina).
+    - [img complete] Prostrate: The Beast Born of Smoke and Flames (mission reward).
+    - [img complete] Kappa Dance: The Sunomata Yokai Hunt (mission reward).
+    - [img complete] Sorry!: A Hot-blodded Howl (mission reward).
+    - [img complete] Curtsy: An End to Seclusion (mission reward).
+    - [img complete] Nicely Done: The Fallen Star (mission reward).
+    - [img complete] Pray: Horns on Head, Dragonfly in Hand (mission reward).
+    - [img complete] Thanks: Give Ryunojo the Dung Lover 5 total Dung Balls.
 
 Neutral Gestures:
-    - [img complete] Be Quiet: The Way of Ninja: Adept (mission reward)
-    - [img complete] Purification: The Way of Onmyo: Adept (mission reward)
-    - [img complete] Relax: A Way Out (mission reward)
+    - [img complete] Be Quiet: The Way of Ninja: Adept (mission reward).
+    - [img complete] Purification: The Way of Onmyo: Adept (mission reward).
+    - [img complete] Relax: A Way Out (mission reward).
 
 Hostile Gestures:
-    - [img complete] Sudama Dance: The Search (mission reward)
-    - [img complete] Shoo: Imagawa Diehard (mission reward)
-    - [img complete] Nioh Stance (Resolute): The Way of the Warrior: Adept (mission reward)
-    - [img complete] Threaten: A Formal Match (mission reward)
-    - [img complete] Fire!: Corpses and Ice (mission reward)
-
+    - [img complete] Sudama Dance: The Search (mission reward).
+    - [img complete] Shoo: Imagawa Diehard (mission reward).
+    - [img complete] Nioh Stance (Resolute): The Way of the Warrior: Adept (mission reward).
+    - [img complete] Threaten: A Formal Match (mission reward).
+    - [img complete] Fire!: Corpses and Ice (mission reward).
+    - [img complete] Declaring One's Name: The Point of No Return (mission reward).
 
 
 
