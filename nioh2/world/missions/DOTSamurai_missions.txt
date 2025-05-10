@@ -2251,46 +2251,6 @@ The Point of No Return (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Golden Nation (Sub Mission)
 ==========
@@ -2315,7 +2275,7 @@ The Golden Nation (Sub Mission)
         - Wisdom Sutra Sword & Plane Cutter (dual swords) (rare)
         - Swallowtail Helmet (rare)
         - Swallowtail Cuirass (rare)
-        - Karamono Katatsuki (tea utensil)???
+        - Karamono Katatsuki (tea utensil) (rare)
     ---------- ---------- ----------
     Subsequent Completes:
         - Swallowtail Waistguard (uncommon)
@@ -2346,6 +2306,7 @@ The Demon King's Blade (Sub Mission)
         - Tengen Kujaku
     - Mission Rewards: 
     First Time: 
+        - Gesture: FAN DANCE
         - Vice-Minister's Cuirass (rare)
         - Vice-Minister's Waistguard (rare)
         - Vice-Minister's Gauntlets (rare)
@@ -2358,6 +2319,46 @@ The Demon King's Blade (Sub Mission)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - Increases Astral Wisdom.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Child's Prodigy's Invitation (Sub Mission)
