@@ -71,6 +71,9 @@ Friendly Gestures:
     - [img complete] Nicely Done: The Fallen Star (mission reward).
     - [img complete] Pray: Horns on Head, Dragonfly in Hand (mission reward).
     - [img complete] Thanks: Give Ryunojo the Dung Lover 5 total Dung Balls.
+    - [img complete] Warrior's Oath: The Way of the Warrior: Veteran (mission reward).
+    - [img complete] Shrine Prayer: The Way of the Onmyo: Veteran (mission reward).
+    - [img complete] Tea Time: The Refined Man of the Underworld (mission reward).
 
 Neutral Gestures:
     - [img complete] Be Quiet: The Way of Ninja: Adept (mission reward).
@@ -85,6 +88,7 @@ Hostile Gestures:
     - [img complete] Threaten: A Formal Match (mission reward).
     - [img complete] Fire!: Corpses and Ice (mission reward).
     - [img complete] Declaring One's Name: The Point of No Return (mission reward).
+    - [img complete] Lounge: The Way of the Ninja: Veteran (mission reward).
 
 
 

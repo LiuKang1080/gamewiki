@@ -24,7 +24,7 @@
         the right will be given to you. (read and move to the right).
     - The next opportunity to get one of these spirits is The Shrine of Oaths. The final opportunity to get the final 3rd spirit is 
         The Point of No Return.
-        - Test 1: Brute is chosen 1st --> Completing The Shrine of Oaths gives: Feral --> The Point of No Return gives: Phantom.
-        - Test 2: Phantom is chosen 1st --> Completing The Shrine of Oaths gives: Brute --> The Point of No Return gives: Feral.
-        - Test 3: Feral is chosen 1st --> Completing The Shrine of Oaths gives: Phantom --> The Point of No Return gives: Brute.
+        - Test 1: Brute is chosen 1st --> Completing The Shrine of Oaths gives: Feral --> The Point of No Return gives: Phantom [true].
+        - Test 2: Phantom is chosen 1st --> Completing The Shrine of Oaths gives: Brute --> The Point of No Return gives: Feral [true].
+        - Test 3: Feral is chosen 1st --> Completing The Shrine of Oaths gives: Phantom --> The Point of No Return gives: Brute [true].
     [Credits: Gutsy]

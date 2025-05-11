@@ -275,6 +275,7 @@ The Way of the Warrior: Veteran (Dojo Mission)
         - None
     - Mission Rewards: 
     First Time: 
+        - Gesture: WARRIOR'S OATH
         - Samurai's Locks X1
         - Master Swordsman's Robes (rare)
         - Master Swordsman's Hakama (rare)
@@ -307,6 +308,7 @@ The Way of the Ninja: Veteran (Dojo Mission)
         - None
     - Mission Rewards: 
     First Time: 
+        - Gesture: LOUNGE
         - Ninja's Locks X1
         - Flying Kato's Robes (rare)
         - Flying Kato's Waistguard (rare)
@@ -340,6 +342,7 @@ The Way of the Onmyo: Veteran (Dojo Mission)
         - None
     - Mission Rewards: 
     First Time: 
+        - Gesture: SHRINE PRAYER
         - Onmyo Mage's Locks X1
         - Divination Board (accessory) (rare)
         - Sacred Brush X2 (rare)
@@ -2320,46 +2323,6 @@ The Demon King's Blade (Sub Mission)
     Notable Items During / Post Mission:
         - Increases Astral Wisdom.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Child's Prodigy's Invitation (Sub Mission)
 ==========
@@ -2566,6 +2529,7 @@ The Refined Man of the Underworld (Sub Mission)
         - None
     - Mission Rewards: 
     First Time: 
+        - Gesture: TEA TIME
         - Karamono Hyotan (tea utensil) (rare)
         - Summoner's Candle X1
         - Yokai Water Pot X3
@@ -2683,6 +2647,46 @@ The Burning Sky (Sub Mission)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - Kagatsuchi Magatama (Mission Reward - Increases the average rarity of uncommon+ forged items by 1%).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Abduction (Sub Mission)

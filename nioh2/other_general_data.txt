@@ -37,6 +37,10 @@ Key Items
     - Foreign Necklace [img complete]:
         - Complete the mission: A Formal Match (Sub Mission).
 
+    - Founder's Hall Gate Key [img complete]:
+        - Key item obtained after defeating Saika Magoichi in the Main Mission Pervading Waters.
+        - Key item is removed from inventory after completing mission.
+
     - Grand Master's Brush I - IV [img complete]:
         - There are 4 Grand Master's Brushes spread across the mission: Words of Respite. All 4 key items are given away to
             Kukai at the end of the mission.
@@ -67,6 +71,9 @@ Key Items
         - Key item is removed upon completing the mission.
 
     - I-Ro-Ha Wooden Tiles [img complete]:
+        - Wood Tile: Ro - Obtained from a Nure-Onna.
+        - Wood Tile Ha - Obtained from a Yamanba.
+        - Wood Tile: I - Obtained from a Flying Bolt.
         - All 3 Wooden Tiles are collected in the Sub Mission: Song of the Yokai.
         - All 3 Wooden Tiles are removed from the player's inventory upon opening the final wooden door requiring the 3 tiles.
 
