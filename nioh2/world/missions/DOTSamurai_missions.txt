@@ -2648,46 +2648,6 @@ The Burning Sky (Sub Mission)
     Notable Items During / Post Mission:
         - Kagatsuchi Magatama (Mission Reward - Increases the average rarity of uncommon+ forged items by 1%).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Abduction (Sub Mission)
 ==========
@@ -2895,6 +2855,46 @@ The Third Word (Sub Mission)
 Twilight Region (Region 5)
 ========== ========== ========== ========== ==========
     - Guardian Spirit "Nekomata" unlocks upon entering the region.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Ruin Draws Near (Main Mission)
