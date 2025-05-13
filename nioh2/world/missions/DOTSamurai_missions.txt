@@ -2856,46 +2856,6 @@ Twilight Region (Region 5)
 ========== ========== ========== ========== ==========
     - Guardian Spirit "Nekomata" unlocks upon entering the region.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Ruin Draws Near (Main Mission)
 ==========
@@ -2908,7 +2868,7 @@ Ruin Draws Near (Main Mission)
     - Shrine: Yes
     - Torii Gate Expedition: Yes
     - Number of Kodama: 7
-    - Number of Sudama: 2
+    - Number of Sudama: 3
     - Number of Hot Springs: 1
     - Number of Dark Realms: 4
     - Bosses: 
@@ -2965,6 +2925,7 @@ Okuni's Search (Sub Mission)
         - None
     - Mission Rewards: 
     First Time: 
+        - Gesture: KABUKI POSE
         - Fan (accessory) (rare)
         - Glowing Lock of Wet Hair X3
         - Smithing Text: Yokai Incense
@@ -2976,6 +2937,46 @@ Okuni's Search (Sub Mission)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Farewell to the Past (Sub Mission)
