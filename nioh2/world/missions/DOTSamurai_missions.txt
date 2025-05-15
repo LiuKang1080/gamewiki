@@ -2938,46 +2938,6 @@ Okuni's Search (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Farewell to the Past (Sub Mission)
 ==========
@@ -3086,9 +3046,49 @@ The High-Spirited Demon (Main Mission)
     Notable Items During / Post Mission:
         - Onmyo Mage's Locks.
         - Ninja's Locks.
-        - Unlocks the Side Mission: A Strong Bond after speaking with Hanbei in the Interim.
+        - Unlocks the Side Mission: A Strong Bond (Shadow Region | Region 3) after speaking with Hanbei in the Interim.
         - Unlocks the Dojo mission: "The One Who Lives in the Shadows" after beating mission.
         - Unlocks the Twilight mission: "The Island of Monsters" after beating mission.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 =========
 A Message From the Deceased (Sub Mission)
