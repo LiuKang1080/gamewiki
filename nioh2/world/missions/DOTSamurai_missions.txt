@@ -3050,46 +3050,6 @@ The High-Spirited Demon (Main Mission)
         - Unlocks the Dojo mission: "The One Who Lives in the Shadows" after beating mission.
         - Unlocks the Twilight mission: "The Island of Monsters" after beating mission.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 =========
 A Message From the Deceased (Sub Mission)
 ==========
@@ -3111,6 +3071,7 @@ A Message From the Deceased (Sub Mission)
         - None
     - Mission Rewards:
     First Time: 
+        - Gesture: ROAR
         - Onmyo Mage's Locks X1
         - Tosa Governor's Helmet (rare)
         - Braided Straw Hat (rare)
@@ -3145,6 +3106,7 @@ Stray Cats (Sub Mission)
         - None
     - Mission Rewards:
     First Time: 
+        - Gesture: PLAY DEAD
         - Ninja's Locks X1
         - Clay Bell of Beckoning X3
         - Highest-Quality Leather Cord X5
@@ -3190,6 +3152,46 @@ Calling on the Fire God (Sub Mission)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - Kagatsuchi Magatama (Mission Reward - Increases the average rarity of uncommon+ forged items by 1%).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Scattered Fragments (Sub Mission)

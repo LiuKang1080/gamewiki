@@ -74,6 +74,7 @@ Friendly Gestures:
     - [img complete] Warrior's Oath: The Way of the Warrior: Veteran (mission reward).
     - [img complete] Shrine Prayer: The Way of the Onmyo: Veteran (mission reward).
     - [img complete] Tea Time: The Refined Man of the Underworld (mission reward).
+    - [img complete] Roar: A Message From the Deceased (mission reward).
 
 Neutral Gestures:
     - [img complete] Be Quiet: The Way of Ninja: Adept (mission reward).
@@ -81,6 +82,7 @@ Neutral Gestures:
     - [img complete] Relax: A Way Out (mission reward).
     - [img complete] Fan Dance: The Demon King's Blade (mission reward).
     - [img complete] Kabuki Pose: Okuni's Search (mission reward).
+    - [img complete] Play Dead: Stray Cats (mission reward).
 
 Hostile Gestures:
     - [img complete] Sudama Dance: The Search (mission reward).
