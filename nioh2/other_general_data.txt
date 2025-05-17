@@ -7,7 +7,8 @@ Key Items
 
     - Back Room Key [img complete]:
         - Key found after defeating Ubume in the gauntlet section at the end of the Sub Mission: Song of the Yokai.
-        - Back Room Key removed from inventory after opening the final door releasing Okuni in the Sub Mission: Song of the Yokai.
+        - Back Room Key removed from inventory after opening the final door releasing Okuni in the Sub Mission: Song of the 
+            Yokai.
 
     - Beaded Hairpin [img complete]:
         - Obtained after defeating Enenra in the Sub Mission: Okuni's Search.
@@ -60,8 +61,8 @@ Key Items
     - Hiragumo Fragment I - IV [imgs complete]:
         - Fragments I-IV are obtained in the Sub Mission: Scattered Fragments.
         - All 4 Fragments are removed from inventory after completing the Sub Mission: Scattered Fragments.
-        - The Key Item: Repaired Hiragumo Kettle is given to the player in replacement, after completing the Sub Mission: Scattered
-            Fragments.
+        - The Key Item: Repaired Hiragumo Kettle is given to the player in replacement, after completing the Sub Mission: 
+            Scattered Fragments.
 
     - Incendiary Longbow Arrow [img complete]:
         - There are a total of 3 Longbow Arrows in the mission: A Song to Calm the Storm (Main Mission).
@@ -108,7 +109,8 @@ Key Items
         - This item is removed at the end of the mission.
 
     - Repaired Hiragumo Kettle [img complete]:
-        - Complete the mission: Scattered Fragments (Sub Mission).
+        - Complete the mission: Scattered Fragments (Sub Mission). The player must collect all 4 Hiragumo Fragments in the level.
+            The Repaired Hiragumo Kettle will be given to the player after completing the mission.
         - This item is removed from the inventory after speaking to Matsunaga Hisahide in the Interim after completing the Main
             Mission: The Mausoleum of Evil.
         - In exchange for the Repaired Hiragumo Kettle Matsunaga Hisahide will give the player a Tea Utensil (exotic rarity).

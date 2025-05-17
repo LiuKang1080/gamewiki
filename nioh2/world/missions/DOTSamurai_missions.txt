@@ -3153,46 +3153,6 @@ Calling on the Fire God (Sub Mission)
     Notable Items During / Post Mission:
         - Kagatsuchi Magatama (Mission Reward - Increases the average rarity of uncommon+ forged items by 1%).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Scattered Fragments (Sub Mission)
 ==========
@@ -3268,6 +3228,46 @@ A Prayer in the Moonlight (Sub Mission)
 ========== ========== ========== ========== ==========
 Dream Region (Region 6)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==========
 The Mausoleum of Evil (Main Mission)
 ==========
