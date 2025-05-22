@@ -3265,46 +3265,6 @@ The Mausoleum of Evil (Main Mission)
         - Unlocks "The Nine Symbols" in the Dojo after beating mission.
         - Unlocks the Twilight Mission: The Wings of the Phoenix.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Roaming Artisan (Sub Mission)
 ==========
@@ -3372,6 +3332,46 @@ Mataza of the Spear (Sub Mission)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
