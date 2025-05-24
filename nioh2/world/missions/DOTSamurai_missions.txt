@@ -1105,6 +1105,7 @@ The Beast Born of Smoke and Flames (Main Mission)
         - Ninja's Locks.
         - Onmyo Mage's Locks.
         - Gain Samurai Skill point in level.
+        - Gain Shiftling point in level.
         - Unlocks Agyo Titles after beating mission.
         - Unlocks Ungyo Titles after beating mission.
         - Unlocks the Blacksmith option at the Starting Point after beating mission.
