@@ -92,6 +92,8 @@ Hostile Gestures:
     - [img complete] Fire!: Corpses and Ice (mission reward).
     - [img complete] Declaring One's Name: The Point of No Return (mission reward).
     - [img complete] Lounge: The Way of the Ninja: Veteran (mission reward).
+    - [img complete] Warm Up: The Bravest of the Brave (mission reward).
+
 
 
 

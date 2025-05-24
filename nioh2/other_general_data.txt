@@ -79,8 +79,10 @@ Key Items
         - All 3 Wooden Tiles are removed from the player's inventory upon opening the final wooden door requiring the 3 tiles.
 
     - Jailer's Keys [img complete]:
-        - Obtained in the Sub Mission: Stray Cats.
-        - Item is removed from player's inventory after completing the Sub Mission: Stray Cats.
+        - Obtained in the following Sub Missions: 
+            - Stray Cats.
+            - The Bravest of the Brave.
+        - Item is removed from player's inventory after completing the above Sub Missions.
 
     - Kagatsuchi's Magatama [img complete]:
         - Complete the missions:

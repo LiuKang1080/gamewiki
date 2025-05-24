@@ -1936,6 +1936,66 @@ Mataza of the Spear (Sub Mission)
     --------------------
     - Maeda Toshiie (boss)
 
+==========
+The Golden Castle (Main Mission)
+==========    
+    - Quest Giver: Mumyo
+    - Characters:
+        - Mumyo (Cutscenes, NPC)
+        - Sen no Rikyu (Cutscenes)
+        - Tokichiro (Cutscenes)
+    --------------------
+    - Warrior (spear)
+    - Warrior (sword)
+    - Warrior (big) (dual swords)
+    - Yoki (axe)
+    - Warrior (axe)
+    - Warrior (big) (odachi)
+    - Ninja Dog
+    - Warrior (rifle)
+    - Warrior (big) (sword)
+    - Rokurokubi (spear)
+    - Enenra (boss)
+    - Ubume
+    - Gaki
+    - Abbarant Soldier
+    - Yoki (sword)
+    - Blue Yoki (kusarigama)
+    - Koroka
+    - Nurikabe
+    - Blue Yoki (dual swords)
+    - Gozuki (boss)
+    - Mezuki (boss)
+    - Yatsu-no-Kami (boss)
+    - Kasha (boss)
+    - Magatsu Warrior
+    - Mujina
+    - Lady Osakabe (boss) (first time)
+
+==========
+The Bravest of the Brave (Sub Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters:
+        - Maeda Keiji (NPC, Ally)
+    --------------------
+    - Infernal Oni-Bi
+    - Thunderstorm Oni-Bi
+    - Mitsume Yazura
+    - Skeleton Warrior (spear)
+    - Abbarant Soldier
+    - One-Eyed Oni
+    - One-Eyed Imp
+    - Blue Yoki (kusarigama)
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Dweller
+    - Gaki
+    - Waira
+    - Yamanba
+    - Yoki (sword)
+    - Enki
+    - Karasu Tengu
+    - Maeda Keiji (boss) (first time)
 
 
 
@@ -1976,62 +2036,6 @@ Mataza of the Spear (Sub Mission)
 
 
 
-
-
-
-
-    ==========
-    The Golden Castle (Main Mission)
-    ==========    
-        - Quest Giver: Mumyo
-        - Characters:
-            - Mumyo (Cutscenes, NPC)
-            - Sen no Rikyu (Cutscenes)
-            - Tokichiro (Cutscenes)
-        --------------------
-        - Warrior
-        - Ninja Dog
-        - Yoki (axe)
-        - Rokurokubi
-        - Enenra (boss)
-        - Gaki
-        - Abbarant Soldier
-        - Ubume
-        - Blue Yoki (kusarigama)
-        - Yoki (sword)
-        - Koroka
-        - Nurikabe
-        - Blue Yoki (dual swords)
-        - Gozuki (boss)
-        - Mezuki (boss)
-        - Yatsu-no-Kami (boss)
-        - Kasha (boss)
-        - Magatsu Warrior
-        - Lady Osakabe (boss) (first time)
-
-    ==========
-    The Bravest of the Brave (Sub Mission)
-    ==========
-        - Quest Giver: Mumyo
-        - Characters:
-            - Maeda Keiji (NPC, Ally)
-        --------------------
-        - Infernal Oni-Bi
-        - Thunderstorm Oni-Bi
-        - Mitsume Yazura
-        - Skeleton Warrior
-        - Abbarant Soldier
-        - One-Eyed Imp
-        - One-Eyed Oni
-        - Blue Yoki (kusarigama)
-        - Dweller
-        - Gaki
-        - Waira
-        - Yamanba
-        - Yoki (sword)
-        - Enki
-        - Karasu Tengu
-        - Maeda Keiji (boss) (first time)
 
     ==========
     The Dream's End (Sub Mission)

@@ -3333,7 +3333,80 @@ Mataza of the Spear (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
+==========
+The Golden Castle (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Mausoleum of Evil".
+    --------------------
+    - Recommended level: 105
+    - Gold: 27,200
+    - Amrita: 49,176
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 8
+    - Number of Sudama: 2
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 3
+    - Bosses: 
+        - Enenra
+        - Gozuki
+        - Mezuki
+        - Yatsu-no-Kami
+        - Kasha
+        - Lady Osakabe
+    - Guardian Spirit Unlocked: 
+        - Isanagami (enter mission)
+    - Mission Rewards:
+    First Time: 
+        - Broken Demon Tile X2
+        - Spirit Stone Arm X3
+        - Demon's Horn X4
+        - Lumicite Crystal X5
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Demon's Horn X2
+        - Slender Vertebra X2
+        - Lumicite Crystal X2
+        - Broken Demon Tile X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Ninja's Locks.
+        - Onmyo Mage's Locks.
 
+==========
+The Bravest of the Brave (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Golden Castle".
+    --------------------
+    - Recommended level: 103
+    - Gold: 26,200
+    - Amrita: 43,176
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - Maeda Keiji
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Gesture: WARM UP
+        - Vermillion Spear (rare)
+        - Eccentric's Helmet (rare)
+        - Eccentric Cuirass (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Eccentric's Waistguard (uncommon)
+        - Eccentric's Gauntlets (uncommon)
+        - Eccentric's Greaves (rare)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 
@@ -3375,97 +3448,6 @@ Mataza of the Spear (Sub Mission)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    The Golden Castle (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Mausoleum of Evil".
-        --------------------
-        - Recommended level: 105
-        - Gold: 27,200
-        - Amrita: 49,176
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 8
-        - Number of Sudama: 2
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 3
-        - Bosses: 
-            - Enenra
-            - Gozuki
-            - Mezuki
-            - Yatsu-no-Kami
-            - Kasha
-            - Lady Osakabe
-        - Guardian Spirit Unlocked: 
-            - Isanagami (enter mission)
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks.
-            - Ninja's Locks.
-
-    ==========
-    The Bravest of the Brave (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Golden Castle".
-        --------------------
-        - Recommended level: 103
-        - Gold: 26,200
-        - Amrita: 43,176
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 1 (0 required)
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - Maeda Keiji
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
 
     ==========
     The Dream's End (Sub Mission)
