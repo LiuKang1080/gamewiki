@@ -1430,11 +1430,6 @@ video {
   color: rgb(2 132 199 / var(--tw-text-opacity));
 }
 
-.group:hover .group-hover\:text-yellow-100 {
-  --tw-text-opacity: 1;
-  color: rgb(254 249 195 / var(--tw-text-opacity));
-}
-
 .group:hover .group-hover\:text-yellow-400 {
   --tw-text-opacity: 1;
   color: rgb(250 204 21 / var(--tw-text-opacity));

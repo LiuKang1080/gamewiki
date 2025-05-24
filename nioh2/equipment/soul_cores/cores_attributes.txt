@@ -141,7 +141,7 @@ No Conflict Stats
     - [DONE] Enemy Sensor
     - Treasure Sensor
     - Amrita Sensor
-    - Kodama Sensor
+    - [DONE] Kodama Sensor
     - [DONE] Sentience Charge
     - [DONE] Damage Taken vs. Yokai
     - [DONE] Auto-Grave Recovery
