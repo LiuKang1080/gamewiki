@@ -3408,6 +3408,37 @@ The Bravest of the Brave (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
+==========
+The Dream's End (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Golden Castle"
+    --------------------
+    - Recommended level: 108
+    - Gold: 27,600
+    - Amrita: 51,576
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - Kasha
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Zenki and Goki (hatchets) (rare)
+        - Thunder God Kusarigama (lightning) (rare)
+        - Sarutobi's Gunsticks (tonfas) (rare)
+        - Herbal Remedy X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Fan (accessory) (uncommon)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 
@@ -3449,27 +3480,7 @@ The Bravest of the Brave (Sub Mission)
 
 
 
-    ==========
-    The Dream's End (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Golden Castle"
-        --------------------
-        - Recommended level: 108
-        - Gold: 27,600
-        - Amrita: 51,576
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 1 (0 required)
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - Kasha
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
+        
 
     ==========
     Cherry Blossom Viewing Daigo (Main Mission)

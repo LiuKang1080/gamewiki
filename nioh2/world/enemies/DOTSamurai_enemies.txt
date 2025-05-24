@@ -1997,6 +1997,26 @@ The Bravest of the Brave (Sub Mission)
     - Karasu Tengu
     - Maeda Keiji (boss) (first time)
 
+==========
+The Dream's End (Sub Mission)
+==========
+    - Quest Giver: Okuni
+    - Characters:
+        - Okuni (NPC, Ally)
+    --------------------
+    - Blue Yoki (kusarigama)
+    - Blue Yoki (dual swords)
+    - Yoki (sword)
+    - Yoki (axe)
+    - Wheelmonk
+    - Onyudo (fire)
+    - Blue Yoki (cannon, sword)
+    - Ubume
+    - Flying Bolt
+    - Koroka
+    - Mitsume Yazura
+    - Magatsu Warrior
+    - Kasha (boss)
 
 
 
@@ -2037,26 +2057,6 @@ The Bravest of the Brave (Sub Mission)
 
 
 
-    ==========
-    The Dream's End (Sub Mission)
-    ==========
-        - Quest Giver: Okuni
-        - Characters:
-            - Okuni (NPC, Ally)
-        --------------------
-        - Blue Yoki (kusarigama)
-        - Blue Yoki (dual swords)
-        - Yoki (sword)
-        - Yoki (axe)
-        - Wheelmonk
-        - Onyudo (fire)
-        - Blue Yoki (sword + cannon)
-        - Ubume
-        - Flying Bolt
-        - Koroka
-        - Mitsume Yazura
-        - Magatsu Warrior
-        - Kasha (boss)
 
     ==========
     Cherry Blossom Viewing Daigo (Main Mission)
@@ -2083,8 +2083,8 @@ The Bravest of the Brave (Sub Mission)
         - Mujina
         - Wakisaka Yasuharu (Seven Spears #6) (first time)
         - Kato Kiyomasa (Seven Spears #7) (first time)
-        - Tokichiro (dream) (first time)
-        - Kashin Koji (first time)
+        - Tokichiro (dream) (boss) (first time)
+        - Kashin Koji (boss) (first time)
 
     ==========
     Restoring Harmony (Sub Mission)
