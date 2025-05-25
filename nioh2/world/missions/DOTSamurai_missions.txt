@@ -3441,7 +3441,40 @@ The Dream's End (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
+==========
+Cherry Blossom Viewing Daigo (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Golden Castle"
+    --------------------
+    - Recommended level: 112
+    - Gold: 28,600
+    - Amrita: 57,576
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 8
+    - Number of Sudama: 1
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 1
+    - Bosses: 
+        - Gozuki
+        - Tokichiro (dream)
+        - Kashin Koji
+    - Guardian Spirit Unlocked: 
+        - Yumehami
+    - Mission Rewards:
+    First Time: 
+        - Ichigo Hitofuri & Oyako Toshiro (dual swords) (rare)
+        - Child of the Sun's Helmet (rare)
+        - Child of the Sun's Cuirass (rare)
+        - Child of the Sun's Waistguard (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Onmyo Mage's Locks.
+        - Ninja's Locks.
 
 
 
@@ -3483,30 +3516,7 @@ The Dream's End (Sub Mission)
 
         
 
-    ==========
-    Cherry Blossom Viewing Daigo (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Golden Castle"
-        --------------------
-        - Recommended level: 112
-        - Gold: 28,600
-        - Amrita: 57,576
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 8
-        - Number of Sudama: 1
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 1
-        - Bosses: 
-            - Gozuki
-            - Tokichiro (dream)
-            - Kashin Koji
-        - Guardian Spirit Unlocked: 
-            - Yumehami
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks.
-            - Ninja's Locks.
+
 
     ==========
     Restoring Harmony (Sub Mission)
