@@ -381,22 +381,29 @@ Mountain of the Dark Lord (The Sun Sets on Mount Tenno | Dawn Region (Region 4))
     - Onyudo (lightning)
     - Ryomen Sukuna (boss)
 
-    ==========
-    The Island of Monsters (Twilight Region (Region 5))
-    ==========
-        - Blue Yoki (dual swords)
-        - Gaki
-        - Skeleton Warrior
-        - Enki
-        - Blue Yoki (kusarigama)
-        - Namahage
-        - Rokurokubi
-        - Kappa
-        - Karasu Tengu
-        - Waira
-        - Nure-Onna
-        - Mujina
-        - Tatarimokke (boss)
+==========
+The Island of Monsters (Twilight Region (Region 5))
+==========
+    - Blue Yoki (dual swords)
+    - Gaki
+    - Skeleton Warrior (big) (axe)
+    - Enki
+    - Blue Yoki (kusarigama)
+    - Namahage (bloodstained blade)
+    - Rokurokubi (sword)
+    - Rokurokubi (dual swords)
+    - Skeleton Warrior (cannon, sword)
+    - Karasu Tengu
+    - Biwa Boku-Boku
+    - Infernal Oni-Bi
+    - Maelstrom Oni-Bi
+    - Thunderstorm Oni-Bi
+    - Nure-Onna
+    - Kappa
+    - Waira
+    - Skeleton Warrior (rifle, sword)
+    - Mujina
+    - Tatarimokke (boss)
 
 ==========
 Wings of the Phoenix (The Mausoleum of Evil | Dream Region (Region 6))

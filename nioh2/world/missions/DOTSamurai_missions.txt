@@ -891,27 +891,40 @@ Mountain of the Dark Lord
     Notable Items During / Post Mission:
         - None
 
-    ==========
-    The Island of Monsters
-    ==========
-        - Mission Unlock Requirement:
-            - The High Spirited Demon (Twilight Region | Region 5).
-        --------------------
-        - Recommended level: 102
-        - Gold: 80,400
-        - Amrita: 140,328
-        - Shrine: Yes
-        - Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 2
-        - Number of Hot Springs: 1 (0 required)
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - Tatarimokke
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Quality Umbracite x1 (mission reward).
+==========
+The Island of Monsters
+==========
+    - Mission Unlock Requirement:
+        - The High Spirited Demon (Twilight Region | Region 5).
+    --------------------
+    - Recommended level: 102
+    - Gold: 80,400 / 26,800
+    - Amrita: 140,328 / 46,776
+    - Shrine: Yes
+    - Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 2
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - Tatarimokke
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Quality Umbracite X1
+        - Summoner's Candle X1
+        - Highest-Quality Tamahagane X3
+        - Divine Branch X4
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - High-Quality Tamahagane X3
+        - Highest-Quality Lacquer X3
+        - Righteous Jasper X2
+        - Divine Branch X3
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 ==========
 Wings of the Phoenix
