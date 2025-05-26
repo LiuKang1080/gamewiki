@@ -2034,24 +2034,31 @@ Cherry Blossom Viewing Daigo (Main Mission)
         - Okuni (Cutscenes, NPC)
         - Mumyo (Cutscenes, NPC, Ally)
     --------------------
-    - Warrior
-    - Katagiri Katsumoto (Seven Spears #1) (first time)
+    - Warrior (big) (torch, spear)
+    - Warrior (rifle, sword)
+    - Warrior (spear)
+    - Warrior (torch, spear)
+    - Katagiri Katsumoto (Seven Spears #1) (spear) (first time)
+    - Warrior (big) (spear)
     - Lesser Umi-Bozu
     - Magatsu Warrior
-    - Fukushima Masanori (Seven Spears #2) (first time)
+    - Warrior (torch, sword)
+    - Fukushima Masanori (Seven Spears #2) (spear) (first time)
     - Abbarant Soldier
-    - Skeleton Warrior
-    - Rokurokubi
+    - Skeleton Warrior (rifle, sword)
+    - Rokurokubi (torch, sword)
     - Gozuki (boss)
+    - Kato Yoshiaki (Seven Spears #3) (dual swords) (first time)
+    - Kasuya Takenori (Seven Spears #4) (spear) (first time)
     - Enki
-    - Kato Yoshiaki (Seven Spears #3) (first time)
-    - Kasuya Takenori (Seven Spears #4) (first time)
-    - Hirano Nagayasu (Seven Spears #5) (first time)
+    - Rokurokubi (sword)
+    - Hirano Nagayasu (Seven Spears #5) (spear) (first time)
+    - Wakisaka Yasuharu (Seven Spears #6) (spear) (first time)
     - Mujina
-    - Wakisaka Yasuharu (Seven Spears #6) (first time)
-    - Kato Kiyomasa (Seven Spears #7) (first time)
+    - Kato Kiyomasa (Seven Spears #7) (spear) (first time)
     - Tokichiro (dream) (boss) (first time)
     - Kashin Koji (boss) (first time)
+    
 
 
 

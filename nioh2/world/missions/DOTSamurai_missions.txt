@@ -3483,7 +3483,9 @@ Cherry Blossom Viewing Daigo (Main Mission)
         - Child of the Sun's Waistguard (rare)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Child of the Sun's Gauntlets (uncommon)
+        - Child of the Sun's Greaves (uncommon)
+        - Highest-Quality Wood X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - Onmyo Mage's Locks.

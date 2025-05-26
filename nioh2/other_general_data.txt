@@ -134,6 +134,10 @@ Key Items
             - Eternal Rivals.
             - Shadows Creep in Kurama.
 
+    - Sanbo-In Key [img complete]:
+        - Obtained in the Main Mission: Cherry Blossom Viewing Daigo.
+        - Item is removed from inventory after completing the mission.
+
     - Spirit Stone Hairpin [img complete]:
         - Obtained at the end of the mission "The Dream's End" after defeating Kasha.
         - The player has the option to give this item to Okuni at the end of the mission.
