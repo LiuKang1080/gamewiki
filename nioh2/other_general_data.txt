@@ -24,6 +24,7 @@ Key Items
 
     - Cherry Blossom Chapbook [img complete]:
         - Complete the mission: The Scented Letter (Sub Mission).
+        - Item is removed from player's inventory upon completing mission.
 
     - Commendation From Katsuie [img complete]:
         - Ally and help Shibata Katsuie in the mission: The Shiftling's Wise Judgement (Sub Mission).
@@ -54,6 +55,7 @@ Key Items
 
     - Handmade Doll [img complete]:
         - Defeat Ryomen Sukuna in the mission: Restoring Harmony (Sub Mission).
+        - Item is removed from player's inventory after completing mission.
 
     - Harakiri Sword [img complete]:
         - Pick up item during the mission: The Village of Cursed Blossoms (Main Mission).
@@ -114,8 +116,8 @@ Key Items
         - Complete the mission: Scattered Fragments (Sub Mission). The player must collect all 4 Hiragumo Fragments in the level.
             The Repaired Hiragumo Kettle will be given to the player after completing the mission.
         - This item is removed from the inventory after speaking to Matsunaga Hisahide in the Interim after completing the Main
-            Mission: The Mausoleum of Evil.
-        - In exchange for the Repaired Hiragumo Kettle Matsunaga Hisahide will give the player a Tea Utensil (exotic rarity).
+            Mission: The Mausoleum of Evil. In exchange for the Repaired Hiragumo Kettle, Matsunaga Hisahide will give the player
+            a Tea Utensil (exotic rarity).
 
     - Runis Key [img complete]:
         - Obtained in the Sub Mission: The Roaming Artisan.
@@ -226,6 +228,8 @@ Dream of the Samurai (NG) Notes:
 
     - Maximum gear level: 150 - 160.
     - Maximum gear + level: +10.
+    - Player can attain lvl 20 in all attributes upon reaching lvl 118.
+    - Player can attain lvl 30 in all attributes upon reaching lvl .
 
 ========== ========== ==========
 Dream of the Strong (NG+1) Notes:

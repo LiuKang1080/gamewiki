@@ -2058,139 +2058,141 @@ Cherry Blossom Viewing Daigo (Main Mission)
     - Kato Kiyomasa (Seven Spears #7) (spear) (first time)
     - Tokichiro (dream) (boss) (first time)
     - Kashin Koji (boss) (first time)
-    
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    Restoring Harmony (Sub Mission)
-    ==========
-        - Quest Giver: Saito Toshimitsu
-        - Characters:
-            - None
-        --------------------
-        - Ryomen Sukuna (boss)
-
-    ==========
-    Japanese Heart, Yokai Smarts (Sub Mission)
-    ==========
-        - Quest Giver: Hachisuka Koroku
-        - Characters:
-            - None
-        --------------------
-        - Hachisuka Koroku (boss)
-
-    ==========
-    Restless Spirits (Sub Mission)
-    ==========
-        - Quest Giver: Shibata Katsuie
-        - Characters:
-            - None
-        --------------------
-        - Skeleton Warrior
-        - Enki
-        - Thunderstorm Oni-Bi
-        - One-Eyed Oni
-        - Tesso
-        - Rokurokubi
-        - Ubume
-        - Dweller
-        - Wheelmonk
-        - Waira
-        - Oni Shibata Katsuie (boss)
-
-    ==========
-    The Scented Letter (Sub Mission)
-    ==========
-        - Quest Giver: Takenaka Hanbei
-        - Characters:
-            - None
-        --------------------
-        - Ubume
-        - Abbarant Soldier
-        - Nure-Onna
-        - Maelstrom Oni-Bi
-        - Flying Bolt
-        - Dweller
-        - Skeleton Warrior
-        - Koroka
-        - Tesso
-        - Karasu Tengu
-        - Enki
-        - Yoki (axe)
-        - Blue Yoki (dual swords)
-
-    ==========
-    Yaksha Returns (Sub Mission)
-    ==========
-        - Quest Giver: Azai Nagamasa
-        - Characters:
-            - None
-        --------------------
-        - Azai Nagamasa (boss)
-
-    ==========
-    Sealed Fate (Main Mission)
-    ==========
-        - Quest Giver: Mumyo
-        - Characters:
-            - Mumyo (Cutscenes)
-            - William (Cutscenes)
-        --------------------
+==========
+Restoring Harmony (Sub Mission)
+==========
+    - Quest Giver: Saito Toshimitsu
+    - Characters:
         - None
+    --------------------
+    - Ryomen Sukuna (boss)
+
+==========
+Japanese Heart, Yokai Smarts (Sub Mission)
+==========
+    - Quest Giver: Hachisuka Koroku
+    - Characters:
+        - None
+    --------------------
+    - Hachisuka Koroku (boss)
+
+==========
+Restless Spirits (Sub Mission)
+==========
+    - Quest Giver: Shibata Katsuie
+    - Characters:
+        - None
+    --------------------
+    - Skeleton Warrior (spear)
+    - Enki
+    - Thunderstorm Oni-Bi
+    - One-Eyed Oni
+    - Tesso
+    - Rokurokubi (sword)
+    - Rokurokubi (fire arrow + bow, sword) (first time)
+    - Ubume
+    - Dweller
+    - Wheelmonk
+    - Waira
+    - Skeleton Warrior (cannon, sword)
+    - Rokurokubi (spear)
+    - Oni Shibata Katsuie (boss)
+
+==========
+The Scented Letter (Sub Mission)
+==========
+    - Quest Giver: Takenaka Hanbei
+    - Characters:
+        - None
+    --------------------
+    - Ubume
+    - Abbarant Soldier
+    - Nure-Onna
+    - Maelstrom Oni-Bi
+    - Flying Bolt
+    - Dweller
+    - Skeleton Warrior (rifle, sword)
+    - Dweller (big)
+    - Koroka
+    - Tesso
+    - Karasu Tengu
+    - Gaki
+    - Enki
+    - Yoki (axe)
+    - Blue Yoki (dual swords)
+
+==========
+Yaksha Returns (Sub Mission)
+==========
+    - Quest Giver: Azai Nagamasa
+    - Characters:
+        - None
+    --------------------
+    - Azai Nagamasa (boss)
+
+==========
+Sealed Fate (Main Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters:
+        - Mumyo (Cutscenes)
+        - William (Cutscenes)
+    --------------------
+    - None
 
 
 ========== ========== ========== ========== ==========
 Afterglow Region (Region 7)
 ========== ========== ========== ========== ==========
-    ==========
-    The Blue-Eyed Samurai (Main Mission)
-    ==========
-        - Quest Giver: Protagonist
-        - Characters:
-            - William (Cutscenes)
-            - Kashin Koji (Cutscenes)
-            - Mumyo (Cutscenes)
-        --------------------
-        - William (boss) (first time)
+==========
+The Blue-Eyed Samurai (Main Mission)
+==========
+    - Quest Giver: Protagonist
+    - Characters:
+        - William (Cutscenes)
+        - Kashin Koji (Cutscenes)
+        - Mumyo (Cutscenes)
+    --------------------
+    - William (boss) (first time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     In The Eye of the Beholder (Main Mission)

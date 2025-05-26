@@ -15,44 +15,58 @@ Default Gestures
 ========== ========== ========== ========== ==========
 - These gestures are automatically unlocked at the beginning of the game.
 Friendly Gestures:
-    - [img complete] Nice!
-    - [img complete] Bow
-    - [img complete] At Your Service
-    - [img complete] High Five
-    - [img complete] Leave It To Me
-    - [img complete] I Got This
+    - [img complete] NICE!
+    - [img complete] BOW
+    - [img complete] AT YOUR SERVICE
+    - [img complete] HIGH FIVE
+    - [img complete] LEAVE IT TO ME
+    - [img complete] I GOT THIS
 
 Neutral Gestures:
-    - [img complete] Confused
-    - [img complete] Whistle
-    - [img complete] This Way!
-    - [img complete] Time Out
-    - [img complete] Disappointed
-    - [img complete] There, There
-    - [img complete] Cower
-    - [img complete] Point Up
-    - [img complete] Point Ahead
-    - [img complete] Point Down
+    - [img complete] CONFUSED
+    - [img complete] WHISTLE
+    - [img complete] THIS WAY!
+    - [img complete] TIME OUT
+    - [img complete] DISAPPOINTED
+    - [img complete] THERE, THERE
+    - [img complete] COWER
+    - [img complete] POINT UP
+    - [img complete] POINT AHEAD
+    - [img complete] POINT DOWN
 
 Hostile Gestures:
-    - [img complete] Backflip
-    - [img complete] Bring It On!
-    - [img complete] Taunt
-    - [img complete] Nioh "AH" Pose
-    - [img complete] Nioh "UN" Pose
+    - [img complete] BACKFLIP
+    - [img complete] BRING IT ON!
+    - [img complete] TAUNT
+    - [img complete] NIOH "AH" POSE
+    - [img complete] NIOH "UN" POSE
 
 
 ========== ========== ========== ========== ==========
 Purchasable Gestures at Hidden Tea House
 ========== ========== ========== ========== ==========
 Friendly Gestures:
-    - 
+    - [img complete] CLAP (1,500 Glory)
+    - Kodama Dance (3,000 Glory)
+    - I Come In Peace (3,000 Glory)
+    - Kuroda Dance (4,500 Glory)
+    - Box Step (3,000 Glory)
+    - Skip (3,000 Glory)
 
 Neutral Gestures:
-    - 
+    - Oh No! (2,000 Glory)
+    - Why? (2,000 Glory)
+    - Bye! (1,500 Glory)
+    - Harakiri (5,000 Glory)
+    - Sit Cross Legged (2,500 Glory)
+    - Dojo Greeting (2,500 Glory)
+    - Hide (3,500 Glory)
+    - Sob (3,500 Glory)
 
 Hostile Gestures:
-    - 
+    - Stifle A Laugh (2,500 Glory)
+    - Chest Slap (2,500 Glory)
+    - Straight Punch (3,500 Glory)
 
 
 ========== ========== ========== ========== ==========
@@ -62,37 +76,39 @@ Gestures Obtained From Missions
 Dream of the Samurai (NG)
 ========== ========== ==========
 Friendly Gestures:
-    - [img complete] Don't Worry: Forest Veiled in Darkness (mission reward).
-    - [img complete] Overjoyed: The Beast Born of Smoke and Flames (successfully interact with your first Mujina).
-    - [img complete] Prostrate: The Beast Born of Smoke and Flames (mission reward).
-    - [img complete] Kappa Dance: The Sunomata Yokai Hunt (mission reward).
-    - [img complete] Sorry!: A Hot-blodded Howl (mission reward).
-    - [img complete] Curtsy: An End to Seclusion (mission reward).
-    - [img complete] Nicely Done: The Fallen Star (mission reward).
-    - [img complete] Pray: Horns on Head, Dragonfly in Hand (mission reward).
-    - [img complete] Thanks: Give Ryunojo the Dung Lover 5 total Dung Balls.
-    - [img complete] Warrior's Oath: The Way of the Warrior: Veteran (mission reward).
-    - [img complete] Shrine Prayer: The Way of the Onmyo: Veteran (mission reward).
-    - [img complete] Tea Time: The Refined Man of the Underworld (mission reward).
-    - [img complete] Roar: A Message From the Deceased (mission reward).
+    - [img complete] DON'T WORRY: Forest Veiled in Darkness (mission reward).
+    - [img complete] OVERJOYED: The Beast Born of Smoke and Flames (successfully interact with your first Mujina).
+    - [img complete] PROSTRATE: The Beast Born of Smoke and Flames (mission reward).
+    - [img complete] KAPPA DANCE: The Sunomata Yokai Hunt (mission reward).
+    - [img complete] SORRY!: A Hot-blodded Howl (mission reward).
+    - [img complete] CURTSY: An End to Seclusion (mission reward).
+    - [img complete] NICELY DONE: The Fallen Star (mission reward).
+    - [img complete] PRAY: Horns on Head, Dragonfly in Hand (mission reward).
+    - [img complete] THANKS: Give Ryunojo the Dung Lover 5 total Dung Balls.
+    - [img complete] WARRIOR'S OATH: The Way of the Warrior: Veteran (mission reward).
+    - [img complete] SHRINE PRAYER: The Way of the Onmyo: Veteran (mission reward).
+    - [img complete] TEA TIME: The Refined Man of the Underworld (mission reward).
+    - [img complete] ROAR: A Message From the Deceased (mission reward).
 
 Neutral Gestures:
-    - [img complete] Be Quiet: The Way of Ninja: Adept (mission reward).
-    - [img complete] Purification: The Way of Onmyo: Adept (mission reward).
-    - [img complete] Relax: A Way Out (mission reward).
-    - [img complete] Fan Dance: The Demon King's Blade (mission reward).
-    - [img complete] Kabuki Pose: Okuni's Search (mission reward).
-    - [img complete] Play Dead: Stray Cats (mission reward).
+    - [img complete] BE QUIET: The Way of Ninja: Adept (mission reward).
+    - [img complete] PURIFICATION: The Way of Onmyo: Adept (mission reward).
+    - [img complete] RELAX: A Way Out (mission reward).
+    - [img complete] FAN DANCE: The Demon King's Blade (mission reward).
+    - [img complete] KABUKI POSE: Okuni's Search (mission reward).
+    - [img complete] PLAY DEAD: Stray Cats (mission reward).
 
 Hostile Gestures:
-    - [img complete] Sudama Dance: The Search (mission reward).
-    - [img complete] Shoo: Imagawa Diehard (mission reward).
-    - [img complete] Nioh Stance (Resolute): The Way of the Warrior: Adept (mission reward).
-    - [img complete] Threaten: A Formal Match (mission reward).
-    - [img complete] Fire!: Corpses and Ice (mission reward).
-    - [img complete] Declaring One's Name: The Point of No Return (mission reward).
-    - [img complete] Lounge: The Way of the Ninja: Veteran (mission reward).
-    - [img complete] Warm Up: The Bravest of the Brave (mission reward).
+    - [img complete] SUDAMA DANCE: The Search (mission reward).
+    - [img complete] SHOO: Imagawa Diehard (mission reward).
+    - [img complete] NIOH STANCE (RESOLUTE): The Way of the Warrior: Adept (mission reward).
+    - [img complete] THREATEN: A Formal Match (mission reward).
+    - [img complete] FIRE!: Corpses and Ice (mission reward).
+    - [img complete] DECLARING ONE'S NAME: The Point of No Return (mission reward).
+    - [img complete] LOUNGE: The Way of the Ninja: Veteran (mission reward).
+    - [img complete] WARM UP: The Bravest of the Brave (mission reward).
+    - [img complete] HOW'S THAT?: Japanese Heart, Yokai Smarts (mission reward).
+    - [img complete] THAT'S NOT GOOD: The Blue-Eyed Samurai (mission reward).
 
 
 

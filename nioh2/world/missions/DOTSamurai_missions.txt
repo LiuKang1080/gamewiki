@@ -3491,212 +3491,296 @@ Cherry Blossom Viewing Daigo (Main Mission)
         - Onmyo Mage's Locks.
         - Ninja's Locks.
 
+==========
+Restoring Harmony (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Mausoleum of Evil"
+        - Speak with Saito Toshimitsu in the Interim
+    --------------------
+    - Recommended level: 110
+    - Gold: 28,200
+    - Amrita: 55,176
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Ryomen Sukuna
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Onmyo Mage's Locks X1
+        - Great Kanemitsu (odachi) (rare)
+        - Onmyo Warrior's Cuirass (rare)
+        - Onmyo Warrior's Waistguard (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Onmyo Warrior's Gauntlets (uncommon)
+        - Onmyo Warrior's Greaves (uncommon)
+        - Fire Amulet X2
+        - Water Amulet X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
+==========
+Japanese Heart, Yokai Smarts (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Mausoleum of Evil"
+        - Speak with Hachisuka Koroku in the Interim
+    --------------------
+    - Recommended level: 110
+    - Gold: 28,600
+    - Amrita: 57,576
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Hachisuka Koroku
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Gesture: HOW'S THAT?
+        - Kawanami Kusarigama (rare)
+        - Kawanami Clan Vest (chest) (rare)
+        - Kawanami Clan Waistguard (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Kawanami Clan Plated Headband (uncommon)
+        - Kawanami Clan Gauntlets (uncommon)
+        - Kawanami Clan Greaves (uncommon)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
+==========
+Restless Spirits (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Mausoleum of Evil"
+        - Speak with Shibata Katsuie in the Interim
+    --------------------
+    - Recommended level: 111
+    - Gold: 29,000
+    - Amrita: 59,976
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Oni Shibata Katsuie
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Urn Splitter Hatchets (rare)
+        - Oni Shibata's Waistguard (rare)
+        - Oni Shibata's Gauntlets (rare)
+        - Oni Shibata's Greaves (rare) 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Oni Shibata's Helmet (rare)
+        - Oni Shibata's Cuirass (rare)
+        - Highest-Quality Iron Platelet X3
+        - Highest-Quality Ingot X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
+==========
+The Scented Letter (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Cherry Blossom Viewing In Daigo"
+        - Speak with Azai Nagamasa in the Interim
+        - Speak with Azai Nagamasa Followed by Takenaka Hanbei in the Interim
+    --------------------
+    - Recommended level: 112
+    - Gold: 29,000
+    - Amrita: 59,976
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Imakomei's Helmet (rare)
+        - Imakomei's Cuirass (rare)
+        - Summoner's Candle X1
+        - Herbal Remedy X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Imakomei's Waistguard (rare)
+        - Imakomei's Gauntlets (rare)
+        - Imakomei's Greaves (rare)
+        - Highest-Quality Wood X3
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
+==========
+Yaksha Returns (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Mausoleum of Evil"
+        - Earn the valuable item: "Cherry Blossom Chapbook"
+        - Speak with Azai Nagamasa in the Interim
+    --------------------
+    - Recommended level: 112
+    - Gold: 29,400
+    - Amrita: 62,376
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Azai Nagamasa
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Azai Ichimonji (sword) (rare)
+        - Kohoku Master's Waistguard (rare)
+        - Kohoku Master's Gauntlets (rare)
+        - Kohoku Master's Greaves (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Kohoku Master's Cuirass (rare)
+        - Kohoku Master's Waistguard (rare)
+        - Kohoku Master's Helmet (rare)
+        - Azai Ichimonji (sword) (rare)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-    ==========
-    Restoring Harmony (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Mausoleum of Evil"
-            - Speak with Saito Toshimitsu in the Interim
-        --------------------
-        - Recommended level: 110
-        - Gold: 28,200
-        - Amrita: 55,176
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Ryomen Sukuna
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks (mission reward).
-
-    ==========
-    Japanese Heart, Yokai Smarts (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Mausoleum of Evil"
-            - Speak with Hachisuka Koroku in the Interim
-        --------------------
-        - Recommended level: 110
-        - Gold: 28,600
-        - Amrita: 57,576
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Hachisuka Koroku
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-    ==========
-    Restless Spirits (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Mausoleum of Evil"
-            - Speak with Shibata Katsuie in the Interim
-        --------------------
-        - Recommended level: 111
-        - Gold: 29,000
-        - Amrita: 59,976
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Oni Shibata Katsuie
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-    ==========
-    The Scented Letter (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Cherry Blossom Viewing In Daigo"
-            - Speak with Azai Nagamasa in the Interim
-            - Speak with Azai Nagamasa Followed by Takenaka Hanbei in the Interim
-        --------------------
-        - Recommended level: 112
-        - Gold: 29,000
-        - Amrita: 59,976
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-    ==========
-    Yaksha Returns (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Mausoleum of Evil"
-            - Earn the valuable item: "Cherry Blossom Chapbook"
-            - Speak with Azai Nagamasa in the Interim
-        --------------------
-        - Recommended level: 112
-        - Gold: 29,400
-        - Amrita: 62,376
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Azai Nagamasa
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-    ==========
-    Sealed Fate (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Cherry Blossom Viewing Daigo"
-        --------------------
-        - Recommended level: 113
-        - Gold: 0
-        - Amrita: 0
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
+==========
+Sealed Fate (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Cherry Blossom Viewing Daigo"
+    --------------------
+    - Recommended level: 113
+    - Gold: 0
+    - Amrita: 0
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - None
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - None
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 ========== ========== ========== ========== ==========
 Afterglow Region (Region 7)
 ========== ========== ========== ========== ==========
-    ==========
-    The Blue-Eyed Samurai (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Sealed Fate"
-        --------------------
-        - Recommended level: 113
-        - Gold: 30,400
-        - Amrita: 68,376
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - William
-        - Guardian Spirit Unlocked: 
-            - Saoirse
-        - Notable Items In Mission / Mission Rewards:
-            - None
+==========
+The Blue-Eyed Samurai (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Sealed Fate"
+    --------------------
+    - Recommended level: 113
+    - Gold: 30,400
+    - Amrita: 68,376
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - William
+    - Guardian Spirit Unlocked: 
+        - Saoirse
+    - Mission Rewards:
+    First Time: 
+        - Gesture: THAT'S NOT GOOD
+        - Youngblood Cuirass (rare)
+        - Youngblood Waistguard (rare)
+        - Youngblood Gauntlets (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Youngblood Greaves (rare)
+        - Highest-Quality Ingot X2
+        - Highest-Quality Iron Platelet X3
+        - Highest-Quality Tamahagane X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     ==========
     In The Eye of the Beholder (Main Mission)
