@@ -3740,6 +3740,112 @@ The Blue-Eyed Samurai (Main Mission)
     Notable Items During / Post Mission:
         - None
 
+==========
+In The Eye of the Beholder (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Blue-Eyed Samurai"
+    --------------------
+    - Recommended level: 114
+    - Gold: 31,200
+    - Amrita: 73,176
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 3
+    - Bosses: 
+        - Gozuki
+        - Mezuki
+        - Otakemaru
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Book of Reincarnation X1
+        - Zen Manual X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Lumicite Crystal X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Ninja's Locks.
+        - Onmyo Mage's Locks.
+        - X1 of each weapon type in Divine rarity (After defeating Otakemaru).
+        - Unlocks the "Builds" feature in the HUT after beating mission.
+        - Allows the ability to apply Level Sync to all missions on Dream of the Samurai (NG) difficulty. 
+        - Unlocks the Dream of the Strong (NG+) difficulty.
+        - Unlocks the Stone of Penance feature.
+
+==========
+Dawn of Hope (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Blue-Eyed Samurai"
+    --------------------
+    - Recommended level: 117
+    - Gold: 31,600
+    - Amrita: 75,576
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Onryoki
+    - Guardian Spirit Unlocked: 
+        - Gyokuto
+    - Mission Rewards:
+    First Time: 
+        - Gesture: PAY RESPECTS
+        - Samurai's Locks X1
+        - Shoulder Strap
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Glue X1
+        - Highest-Quality Leather Platelet X2
+        - Highest-Quality Leather Cord X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Trustworthy (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "In The Eye of the Beholder"
+    --------------------
+    - Recommended level: 118
+    - Gold: 120,000
+    - Amrita: 80,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Hattori Hanzo
+        - Honda Tadakatsu
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Samurai's Locks X1
+        - Tombokiri (spear) (lightning) (divine)
+        - Hanzo The Demon's Spear (divine)
+        - Highest-Quality Tamahagane X5
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Random Sword (divine or below)
+        - Warrior of the East Helmet (rare)
+        - Tombokiri (spear) (lightning) (rare)
+        - Saisetsu-Shin's Sake X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 
@@ -3781,77 +3887,6 @@ The Blue-Eyed Samurai (Main Mission)
 
 
 
-
-    ==========
-    In The Eye of the Beholder (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Blue-Eyed Samurai"
-        --------------------
-        - Recommended level: 114
-        - Gold: 31,200
-        - Amrita: 73,176
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 3
-        - Bosses: 
-            - Gozuki
-            - Mezuki
-            - Otakemaru
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Ninja's Locks.
-            - Onmyo Mage's Locks.
-            - X1 of each weapon type in Divine rarity (After defeating Otakemaru).
-
-    ==========
-    Dawn of Hope (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Blue-Eyed Samurai"
-        --------------------
-        - Recommended level: 117
-        - Gold: 31,600
-        - Amrita: 75,576
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Onryoki
-        - Guardian Spirit Unlocked: 
-            - Gyokuto
-        - Notable Items In Mission / Mission Rewards:
-            - Samurai's Locks (mission reward).
-
-    ==========
-    The Trustworthy (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "In The Eye of the Beholder"
-        --------------------
-        - Recommended level: 118
-        - Gold: 120,000
-        - Amrita: 80,776
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Hattori Hanzo
-            - Honda Tadakatsu
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Samurai's Locks (mission reward).
 
     ==========
     Winds of Ruin (Sub Mission)

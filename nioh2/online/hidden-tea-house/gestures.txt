@@ -47,10 +47,10 @@ Purchasable Gestures at Hidden Tea House
 ========== ========== ========== ========== ==========
 Friendly Gestures:
     - [img complete] CLAP (1,500 Glory)
-    - Kodama Dance (3,000 Glory)
-    - I Come In Peace (3,000 Glory)
-    - Kuroda Dance (4,500 Glory)
-    - Box Step (3,000 Glory)
+    - [img complete] Kodama Dance (3,000 Glory)
+    - [img complete] I Come In Peace (3,000 Glory)
+    - [img complete] Kuroda Dance (4,500 Glory)
+    - [img complete] Box Step (3,000 Glory)
     - Skip (3,000 Glory)
 
 Neutral Gestures:
@@ -89,6 +89,7 @@ Friendly Gestures:
     - [img complete] SHRINE PRAYER: The Way of the Onmyo: Veteran (mission reward).
     - [img complete] TEA TIME: The Refined Man of the Underworld (mission reward).
     - [img complete] ROAR: A Message From the Deceased (mission reward).
+    - [img complete] PAY RESPECTS: Dawn of Hope (mission reward).
 
 Neutral Gestures:
     - [img complete] BE QUIET: The Way of Ninja: Adept (mission reward).

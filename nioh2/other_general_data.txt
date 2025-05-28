@@ -18,6 +18,10 @@ Key Items
         - Key item obtained in the Main Mission: The Hollow Fortress.
         - Item is removed from the inventory upon completing the mission.
 
+    - Chapel Key [img complete]:
+        - Obtained in the Sub Mission: Dawn of Hope.
+        - Item is removed from inventory upon completing the mission.
+
     - Chinese Tea Vessel [img complete]:
         - Item drops after defeating Mezuki in the Sub Mission: The Refined Man of the Underworld.
         - Item is given away at the end of the Sub Mission: The Refined Man of the Underworld.
@@ -217,7 +221,7 @@ Dream of the Samurai (NG) Notes:
     - Palace of the Damned | number of Fire Altars: 5.
 
     - Spirit Stone rarity drops depending on difficulty:
-    Spirit Stones that drop on Dream of the Samurai (NG):
+    - Spirit Stones that drop on Dream of the Samurai (NG):
         - Small Spirit Stone [new]
         - Spirit Stone [new]
         - Large Spirit Stone [new]
@@ -242,6 +246,9 @@ Dream of the Strong (NG+1) Notes:
     - Maximum gear level: 160 - 170.
     - Maximum gear + level: +10.
 
+    - Spirit Stones that drop on Dream of the Strong (NG+):
+        - 
+
 ========== ========== ==========
 Dream of the Demon (NG+2) Notes:
 ========== ========== ==========
@@ -260,6 +267,9 @@ Dream of the Demon (NG+2) Notes:
     - Maximum gear level: 170 - 180.
     - Maximum gear + level: +20.
 
+    - Spirit Stones that drop on Dream of the Demon (NG+2):
+        - 
+
 ========== ========== ==========
 Dream of the Wise (NG+3) Notes:
 ========== ========== ==========
@@ -277,6 +287,9 @@ Dream of the Wise (NG+3) Notes:
     - Maximum gear level: 180 - 190.
     - Maximum gear + level: +30.
 
+    - Spirit Stones that drop on Dream of the Wise (NG+3):
+        - 
+
 ========== ========== ==========
 Dream of the Nioh (NG+4) Notes:
 ========== ========== ==========
@@ -286,6 +299,9 @@ Dream of the Nioh (NG+4) Notes:
     - Obtain the Smithing Text: Mumyo's Mask upon completing all Main and Sub missions on Dream of the Nioh.
     - Maximum gear level: 190 - 200.
     - Maximum gear + level: +120.
+
+    - Spirit Stones that drop on Dream of the Nioh (NG+4):
+        - 
 
 [Credits for NG+ notes]:
     - Lef

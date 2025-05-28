@@ -1781,7 +1781,6 @@ The High-Spirited Demon (Main Mission)
     - Skeleton Warrior (sword)
     - Skeleton Warrior (spear)
     - Mujina
-    - Blue Yoki (kusarigama)
     - Mezuki (boss)
     - Daidara Bocchi (boss) (first time)
 
@@ -2156,6 +2155,62 @@ The Blue-Eyed Samurai (Main Mission)
     --------------------
     - William (boss) (first time)
 
+==========
+In The Eye of the Beholder (Main Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters:
+        - Mumyo (Ally)
+        - William (Ally)
+        - Maria (Cutscenes)
+        - Kashin Koji (Cutscenes)
+        - Tokichiro (Cutscenes)
+    --------------------
+    - Yoki (cannon, sword) (first time)
+    - Yoki (sword)
+    - Yoki (axe)
+    - Magatsu Warrior
+    - Abbarant Soldier
+    - Yoki (kusarigama) (first time)
+    - Gozuki (boss)
+    - Mezuki (boss)
+    - Tesso
+    - Ubume
+    - Kappa
+    - Otakemaru (boss) (first time)
+
+==========
+Dawn of Hope (Sub Mission)
+==========
+    - Quest Giver: Hattori Hanzo
+    - Characters:
+        - William (Ally)
+    --------------------
+    - Abbarant Soldier
+    - Magatsu Warrior
+    - Skeleton Warrior (big) (axe)
+    - Yoki (axe)
+    - Yoki (sword)
+    - Ninja (sword)
+    - Yoki (dual swords) (first time)
+    - Yoki (kusarigama)
+    - Enki
+    - Skeleton Warrior (spear)
+    - Tesso
+    - Yoki (cannon, sword)
+    - One-Eyed Oni
+    - Karasu Tengu
+    - Onryoki (boss)
+
+==========
+The Trustworthy (Sub Mission)
+==========
+    - Quest Giver: Matsunaga Hisahide
+    - Characters:
+        - Mumyo (Ally)
+    --------------------
+    - Hattori Hanzo (boss) (first time)
+    - Honda Tadakatsu (boss)
 
 
 
@@ -2194,60 +2249,7 @@ The Blue-Eyed Samurai (Main Mission)
 
 
 
-    ==========
-    In The Eye of the Beholder (Main Mission)
-    ==========
-        - Quest Giver: Mumyo
-        - Characters:
-            - Mumyo (Ally)
-            - William (Ally)
-            - Maria (Cutscenes)
-            - Kashin Koji (Cutscenes)
-            - Tokichiro (Cutscenes)
-        --------------------
-        - Yoki (sword + cannon)
-        - Yoki (sword)
-        - Yoki (axe)
-        - Yoki (kusarigama)
-        - Abbarant Soldier
-        - Magatsu Warrior
-        - Gozuki (boss)
-        - Mezuki (boss)
-        - Tesso
-        - Ubume
-        - Kappa
-        - Otakemaru (boss) (first time)
 
-    ==========
-    Dawn of Hope (Sub Mission)
-    ==========
-        - Quest Giver: Hattori Hanzo
-        - Characters:
-            - William (Ally)
-        --------------------
-        - Abbarant Soldier
-        - Skeleton Warrior
-        - Yoki (axe)
-        - Yoki (sword)
-        - Ninja
-        - Tesso
-        - Yoki (sword + cannon)
-        - Enki
-        - Yoki (kusarigama)
-        - Yoki (dual swords)
-        - Karasu Tengu
-        - One-Eyed Oni
-        - Onryoki (boss)
-
-    ==========
-    The Trustworthy (Sub Mission)
-    ==========
-        - Quest Giver: Matsunaga Hisahide
-        - Characters:
-            - Mumyo (Ally)
-        --------------------
-        - Hattori Hanzo (boss) (first time)
-        - Honda Tadakatsu (boss)
 
     ==========
     Winds of Ruin (Sub Mission)
