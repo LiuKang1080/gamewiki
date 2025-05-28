@@ -2212,6 +2212,20 @@ The Trustworthy (Sub Mission)
     - Hattori Hanzo (boss) (first time)
     - Honda Tadakatsu (boss)
 
+==========
+Winds of Ruin (Sub Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters:
+        - None
+    --------------------
+    - Tsukahara Bokuden (boss) (first time)
+    - Sakata Kintoki (boss) (first time)
+    - Shisenin Kosen (boss) (first time)
+    - Kato Danzo (boss) (first time)
+    - Ashikaga Yoshiteru (boss) (first time)
+    - Hattori Hanzo (boss)
+    - Mumyo (boss) (first time)
 
 
 
@@ -2251,20 +2265,6 @@ The Trustworthy (Sub Mission)
 
 
 
-    ==========
-    Winds of Ruin (Sub Mission)
-    ==========
-        - Quest Giver: Mumyo
-        - Characters:
-            - None
-        --------------------
-        - Tsukahara Bokuden (boss) (first time)
-        - Sakata Kintoki (boss) (first time)
-        - Shisenin Kosen (boss) (first time)
-        - Kato Danzo (boss) (first time)
-        - Ashikaga Yoshiteru (boss) (first time)
-        - Hattori Hanzo (boss)
-        - Mumyo (boss) (first time)
 
     ==========
     Wave of Terror (Sub Mission)

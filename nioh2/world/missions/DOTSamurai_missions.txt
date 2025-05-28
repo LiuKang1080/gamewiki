@@ -3847,6 +3847,45 @@ The Trustworthy (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
+==========
+Winds of Ruin (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Blue-Eyed Samurai"
+    --------------------
+    - Recommended level: 119
+    - Gold: 61,200
+    - Amrita: 69,576
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Tsukahara Bokuden
+        - Sakata Kintoki
+        - Shisenin Kosen
+        - Kato Danzo
+        - Ashikaga Yoshiteru
+        - Hattori Hanzo
+        - Mumyo
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Samurai's Locks X1
+        - Black Lotus (switchglaive) (rare)
+        - Highest-Quality Lacquer X5
+        - Whetstone X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Black Lotus (switchglaive) (rare)
+        - Highest-Quality Leather Platelet X2
+        - Highest-Quality Leather Cord X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 
@@ -3888,33 +3927,6 @@ The Trustworthy (Sub Mission)
 
 
 
-    ==========
-    Winds of Ruin (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Blue-Eyed Samurai"
-        --------------------
-        - Recommended level: 119
-        - Gold: 61,200
-        - Amrita: 69,576
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Tsukahara Bokuden
-            - Sakata Kintoki
-            - Shisenin Kosen
-            - Kato Danzo
-            - Ashikaga Yoshiteru
-            - Hattori Hanzo
-            - Mumyo
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Samurai's Locks (mission reward).
 
     ==========
     Wave of Terror (Sub Mission)

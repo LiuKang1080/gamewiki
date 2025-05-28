@@ -51,7 +51,7 @@ Friendly Gestures:
     - [img complete] I Come In Peace (3,000 Glory)
     - [img complete] Kuroda Dance (4,500 Glory)
     - [img complete] Box Step (3,000 Glory)
-    - Skip (3,000 Glory)
+    - [img complete] Skip (3,000 Glory)
 
 Neutral Gestures:
     - Oh No! (2,000 Glory)
