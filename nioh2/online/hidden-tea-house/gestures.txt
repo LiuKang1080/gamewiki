@@ -64,7 +64,7 @@ Neutral Gestures:
     - Sob (3,500 Glory)
 
 Hostile Gestures:
-    - Stifle A Laugh (2,500 Glory)
+    - [img complete] Stifle A Laugh (2,500 Glory)
     - Chest Slap (2,500 Glory)
     - Straight Punch (3,500 Glory)
 

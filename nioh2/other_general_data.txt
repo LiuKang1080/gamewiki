@@ -170,9 +170,9 @@ Key Items
 Proficiency 
 ========== ========== ==========
     - Max level for Dream of the Samurai and Dream of the Strong:
-        - Weapons: LVL 30
-        - Ninjutsu and Onmyo: LVL 50
-        - Shiftling: LVL 70
+        - Weapons: LVL 30 (500,000 proficiency)
+        - Ninjutsu and Onmyo: LVL 50 (3,000,000 proficiency)
+        - Shiftling: LVL 70 (12,000,000 soul fragments)
 
     ========== ========== ==========
     Test the other difficulties
@@ -232,6 +232,7 @@ Dream of the Samurai (NG) Notes:
 
     - Maximum gear level: 150 - 160.
     - Maximum gear + level: +10.
+    - Maximum Soul Core level: 150.
     - Player can attain lvl 20 in all attributes upon reaching lvl 118.
     - Player can attain lvl 30 in all attributes upon reaching lvl .
 
@@ -245,6 +246,7 @@ Dream of the Strong (NG+1) Notes:
     - Obtain the Smithing Text: Kodama Bowl upon completing all Main and Sub missions on Dream of the Strong.
     - Maximum gear level: 160 - 170.
     - Maximum gear + level: +10.
+    - Maximum Soul Core level: 
 
     - Spirit Stones that drop on Dream of the Strong (NG+):
         - 
@@ -266,6 +268,7 @@ Dream of the Demon (NG+2) Notes:
     - Obtain the Smiting Text: Scampuss Hat upon completing all Main and Sub missions on Dream of the Demon.
     - Maximum gear level: 170 - 180.
     - Maximum gear + level: +20.
+    - Maximum Soul Core level: 
 
     - Spirit Stones that drop on Dream of the Demon (NG+2):
         - 
@@ -286,6 +289,7 @@ Dream of the Wise (NG+3) Notes:
     - Obtain the Smithing text: Sudama Skull upon completing all Main and Sub missions on Dream of the Wise.
     - Maximum gear level: 180 - 190.
     - Maximum gear + level: +30.
+    - Maximum Soul Core level: 
 
     - Spirit Stones that drop on Dream of the Wise (NG+3):
         - 
@@ -299,6 +303,7 @@ Dream of the Nioh (NG+4) Notes:
     - Obtain the Smithing Text: Mumyo's Mask upon completing all Main and Sub missions on Dream of the Nioh.
     - Maximum gear level: 190 - 200.
     - Maximum gear + level: +120.
+    - Maximum Soul Core level: 
 
     - Spirit Stones that drop on Dream of the Nioh (NG+4):
         - 

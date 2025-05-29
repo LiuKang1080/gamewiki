@@ -1,0 +1,14 @@
+- Samurai's Locks:
+    - A lock of hair from a Samurai who fell in battle, it is used to obtain 1 Samurai skill point.
+
+- Swordsman's Locks:
+    - A lock of hair from a Master Swordsman who fell in battle. It is used to obtain 1 Sword skill point.
+
+- Dual Swordsman's Locks:
+    - A lock of hair from a Master Dual Swordsman who fell in battle. It is used to obtain 1 Dual Sword skill point.
+
+- Ninja's Locks:
+    - A lock of hair from a Ninja who fell in battle. It is used to obtain 1 Ninja skill point.
+
+- Onmyo Mage's Locks:
+    - A lock of hair from a Onmyo Mage who fell in battle. It is used to obtain 1 Onmyo skill point.

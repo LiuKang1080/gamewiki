@@ -356,49 +356,68 @@ The Way of the Onmyo: Veteran (Dojo Mission)
     Notable Items During / Post Mission:
         - None
 
-    ==========
-    Opening of the Mind's Eye (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Ruin Draws Near".
-            - Required Sword Proficiency: 120,000.
-        --------------------
-        - Recommended level: 100
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Shisenin Kosen
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Swordsman's Locks.
-            - Unlocks the Mystic Arts for the Sword.
+==========
+Opening of the Mind's Eye (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Ruin Draws Near".
+        - Required Sword Proficiency: 120,000.
+    --------------------
+    - Recommended level: 100
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Shisenin Kosen
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Swordsman's Locks X2
+        - Water God Slayer (sword) (rare)
+        - Whetstone X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Whetstone X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Unlocks the Mystic Arts for the Sword.
 
-    ==========
-    Master of the Dual Blades (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Ruin Draws Near".
-            - Required Dual Swords Proficiency: 120,000.
-        --------------------
-        - Recommended level: 100
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Ashikaga Yoshiteru
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Dual Swordsman's Locks.
-            - Unlocks the Mystic Arts for the Dual Swords.
+==========
+Master of the Dual Blades (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Ruin Draws Near".
+        - Required Dual Swords Proficiency: 120,000.
+    --------------------
+    - Recommended level: 100
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Ashikaga Yoshiteru
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Dual Swordsman's Locks X2
+        - Bamboo Cutter & Bone Feaster (dual swords) (rare)
+        - Master Swordsman's Cuirass (rare)
+        - Master Swordsman's Waistguard (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Master Swordsman's Crown (uncommon)
+        - Master Swordsman's Gauntlets (uncommon)
+        - Master Swordsman's Greaves (uncommon)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Unlocks the Mystic Arts for the Dual Swords.
 
     ==========
     Hanzo the Demon (Dojo Mission)
@@ -2840,29 +2859,42 @@ The Third Word (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-    ==========
-    Master of the Three Evils (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Sun Sets on Mount Tenno".
-            - Complete the mission: "The Refined Man of the Underworld".
-            - Complete the mission: "Master of the Dual Blades" (Unlocked after completing the Main Mission: Ruin Draws Near (Twilight Region | Region 5)).
-        --------------------
-        - Recommended level: 80
-        - Gold: 17,800
-        - Amrita: 13,952
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Matsunaga Hisahide
-        - Guardian Spirit Unlocked: 
-            - Itokuri
-        - Notable Items In Mission / Mission Rewards:
-            - Smithing Text: Summoner's Candle (mission reward).
+==========
+Master of the Three Evils (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Sun Sets on Mount Tenno".
+        - Complete the mission: "The Refined Man of the Underworld".
+        - Complete the mission: "Master of the Dual Blades" (Unlocked after completing the Main Mission: Ruin Draws Near (Twilight Region | Region 5)).
+    --------------------
+    - Recommended level: 80
+    - Gold: 17,800
+    - Amrita: 13,952
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Matsunaga Hisahide
+    - Guardian Spirit Unlocked: 
+        - Itokuri
+    - Mission Rewards: 
+    First Time: 
+        - Fudo Kuniyuki & Yagen Toshiro (dual swords) (fire) (rare)
+        - Malefactor's Helmet (rare)
+        - Malefactor's Cuirass (rare)
+        - Smithing Text: Summoner's Candle
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Malefactor's Greaves (rare)
+        - Malefactor's Gauntlets (rare)
+        - Malefactor's Waistguard (rare)
+        - Shrapnel Bomb X3
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None        
 
 
 ========== ========== ========== ========== ==========
@@ -3887,99 +3919,123 @@ Winds of Ruin (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
+==========
+Wave of Terror (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "In The Eye of the Beholder"
+    --------------------
+    - Recommended level: 119
+    - Gold: 64,800
+    - Amrita: 95,373
+    - Shrine: No
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Gozuki
+        - Ryomen Sukuna
+        - Oni Shibata Katsuie
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Quality Umbracite X1
+        - Ryomen Sukuna's Bow (divine)
+        - Highest-Quality Tamahagane X1
+        - Demon's Horn X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Ryomen Sukuna's Axe (exotic)
+        - Demon's Horn X1
+        - Highest-Quality Iron Platelet X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    Wave of Terror (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "In The Eye of the Beholder"
-        --------------------
-        - Recommended level: 119
-        - Gold: 64,800
-        - Amrita: 95,373
-        - Shrine: No
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Gozuki
-            - Ryomen Sukuna
-            - Oni Shibata Katsuie
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-    ==========
-    Calamity's Pulse (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "In The Eye of the Beholder"
-        --------------------
-        - Recommended level: 120
-        - Gold: 65,600
-        - Amrita: 99,873
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Yatsu-no-Kami
-            - Shuten Doji
-            - Otakemaru
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - X1 Quality Umbracite.
+==========
+Calamity's Pulse (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "In The Eye of the Beholder"
+    --------------------
+    - Recommended level: 120
+    - Gold: 65,600
+    - Amrita: 99,873
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Yatsu-no-Kami
+        - Shuten Doji
+        - Otakemaru
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Quality Umbracite X1
+        - Sanmyo Blade Fragment X1
+        - Random Chest Equipment (divine)
+        - Shuten Doji's Red Hair X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Glue X1
+        - Highest-Quality Wood X2
+        - Highest-Quality Lacquer X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 ========== ========== ========== ========== ==========
 The Tengu's Disciple (DLC 1)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     ==========
     A Song to Calm the Storm (Main Mission)
     ==========

@@ -102,14 +102,14 @@ The Way of the Onmyo: Veteran (Dojo Mission)
     - One-Eyed Imp
     - Ubume
 
-    ==========
-    Opening of the Mind's Eye (Dojo Mission)
-    ==========
-        - Quest Giver: Shisenin Kosen
-        - Characters:
-            - None
-        --------------------
-        - Shisenin Kosen (boss)
+==========
+Opening of the Mind's Eye (Dojo Mission)
+==========
+    - Quest Giver: Shisenin Kosen
+    - Characters:
+        - None
+    --------------------
+    - Shisenin Kosen (boss)
 
     ==========
     Hanzo the Demon (Dojo Mission)
@@ -120,14 +120,14 @@ The Way of the Onmyo: Veteran (Dojo Mission)
         --------------------
         - Hattori Hanzo (boss)
 
-    ==========
-    Master of the Dual Blades (Dojo Mission)
-    ==========
-        - Quest Giver: Ashikaga Yoshiteru
-        - Characters:
-            - None
-        --------------------
-        - Ashikaga Yoshiteru (boss)
+==========
+Master of the Dual Blades (Dojo Mission)
+==========
+    - Quest Giver: Ashikaga Yoshiteru
+    - Characters:
+        - None
+    --------------------
+    - Ashikaga Yoshiteru (boss)
 
     ==========
     The Unmoving Mountain (Dojo Mission)
@@ -1635,14 +1635,14 @@ The Third Word (Sub Mission)
     --------------------
     - Saika Magoichi (boss)
 
-    ==========
-    Master of the Three Evils (Sub Mission)
-    ==========
-        - Quest Giver: Matsunaga Hisahide
-        - Characters: 
-            - None
-        --------------------
-        - Matsunaga Hisahide (boss) (first time)
+==========
+Master of the Three Evils (Sub Mission)
+==========
+    - Quest Giver: Matsunaga Hisahide
+    - Characters: 
+        - None
+    --------------------
+    - Matsunaga Hisahide (boss) (first time)
 
 
 ========== ========== ========== ========== ==========
@@ -2227,81 +2227,83 @@ Winds of Ruin (Sub Mission)
     - Hattori Hanzo (boss)
     - Mumyo (boss) (first time)
 
+==========
+Wave of Terror (Sub Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - None
+    --------------------
+    - Gaki
+    - Yoki (axe)
+    - Yoki (sword)
+    - Maelstrom Oni-Bi
+    - Infernal Oni-Bi
+    - One-Eyed Oni
+    - Gaki (big)
+    - Gozuki (boss)
+    ---------- checkpoint
+    - Enki
+    - Yamanba
+    - Namahage (bloodstained blade)
+    - Blue Yoki (dual swords)
+    - Ryomen Sukuna (boss)
+    - Oni Shibata Katsuie (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    Wave of Terror (Sub Mission)
-    ==========
-        - Quest Giver: Nekomata
-        - Characters:
-            - None
-        --------------------
-        - Gaki
-        - Yoki (axe)
-        - Yoki (sword)
-        - Maelstrom Oni-Bi
-        - Infernal Oni-Bi
-        - One-Eyed Oni
-        - Gozuki (boss)
-        - Enki
-        - Yamanba
-        - Namahage
-        - Blue Yoki (dual swords)
-        - Ryomen Sukuna (boss)
-        - Oni Shibata Katsuie (boss)
-
-    ==========
-    Calamity's Pulse (Sub Mission)
-    ==========
-        - Quest Giver: Tenkai (Akechi Mitsuhide)
-        - Characters:
-            - None
-        --------------------
-        - Yatsu-no-Kami (boss)
-        - Shuten Doji (boss)
-        - Otakemaru (boss)
+==========
+Calamity's Pulse (Sub Mission)
+==========
+    - Quest Giver: Tenkai (Akechi Mitsuhide)
+    - Characters:
+        - None
+    --------------------
+    - Yatsu-no-Kami (boss)
+    - Shuten Doji (boss)
+    - Otakemaru (boss)
 
 
 ========== ========== ========== ========== ==========
 The Tengu's Disciple (DLC 1)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     ==========
     A Song to Calm the Storm (Main Mission)
     ==========
