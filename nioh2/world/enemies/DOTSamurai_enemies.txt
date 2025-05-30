@@ -2265,6 +2265,39 @@ Calamity's Pulse (Sub Mission)
 ========== ========== ========== ========== ==========
 The Tengu's Disciple (DLC 1)
 ========== ========== ========== ========== ==========
+==========
+A Song to Calm the Storm (Main Mission)
+==========
+    - Quest Giver: Hakutaku
+    - Characters:
+        - Nasu no Yoichi (NPC)
+        - Benkei (Ally)
+    --------------------
+    - Warrior (axe)
+    - Warrior (big) (sword)
+    - Warrior (torch, spear)
+    - Warrior (big) (fire arrow + bow, sword)
+    - Warrior (big) (odachi)
+    - Kiryoki (first time)
+    - Gaki
+    - Lesser Umi-Bozu
+    - Warrior (torch, axe)
+    - Sohaya Warrior (splitstaff) (first time)
+    - Warrior (big) (torch, sword)
+    - Bakegani (first time)
+    - Abbarant Soldier
+    - Nure-Onna
+    - Ubume
+    - Rokurokubi (spear)
+    - Kappa
+    - Bakegani (big) (first time)
+    - Warrior (big) (torch, odachi)
+    - Benkei (boss) (first time)
+    - Skeleton Warrior (spear)
+    - Mujina
+    - Nurikabe
+    - Sohaya Warrior (torch, splitstaff)
+    - Uminyudo (boss) (first time)
 
 
 
@@ -2304,29 +2337,6 @@ The Tengu's Disciple (DLC 1)
 
 
 
-    ==========
-    A Song to Calm the Storm (Main Mission)
-    ==========
-        - Quest Giver: Hakutaku
-        - Characters:
-            - Nasu no Yoichi (NPC)
-            - Benkei (Ally)
-        --------------------
-        - Warrior
-        - Kiryoki (first time)
-        - Gaki
-        - Lesser Umi-Bozu
-        - Sohaya Warrior (splitstaff)
-        - Bakegani (first time)
-        - Abbarant Soldier
-        - Nure-Onna
-        - Kappa
-        - Ubume
-        - Rokurokubi
-        - Benkei (boss) (first time)
-        - Skeleton Warrior
-        - Mujina
-        - Uminyudo (boss) (first time)
 
     ==========
     Shadows Creep in Kurama (Sub Mission)

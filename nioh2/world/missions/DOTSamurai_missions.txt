@@ -3995,6 +3995,42 @@ Calamity's Pulse (Sub Mission)
 ========== ========== ========== ========== ==========
 The Tengu's Disciple (DLC 1)
 ========== ========== ========== ========== ==========
+==========
+A Song to Calm the Storm (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "In The Eye of the Beholder"
+    --------------------
+    - Recommended level: 120
+    - Gold: 32,600
+    - Amrita: 86,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 10
+    - Number of Sudama: 2
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 2 (0 required)
+    - Bosses: 
+        - Benkei
+        - Uminyudo
+    - Guardian Spirit Unlocked: 
+        - Kurama Tengu
+    - Mission Rewards:
+    First Time: 
+        - Random Splitstaff (divine)
+        - Benkei's Hood (exotic)
+        - Benkei's Cuirass (exotic)
+        - Transparent Blade X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Benkei's Gauntlets (exotic)
+        - Benkei's Greaves (exotic)
+        - Random Heavy Armor Piece (divine or below)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Onmyo Mage's Locks.
+        - Ninja's Locks.
+        - Saigyo's Poem I (item pickup in mission).
 
 
 
@@ -4036,30 +4072,6 @@ The Tengu's Disciple (DLC 1)
 
 
 
-    ==========
-    A Song to Calm the Storm (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "In The Eye of the Beholder"
-        --------------------
-        - Recommended level: 120
-        - Gold: 32,600
-        - Amrita: 86,776
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 10
-        - Number of Sudama: 2
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 2 (0 required)
-        - Bosses: 
-            - Benkei
-            - Uminyudo
-        - Guardian Spirit Unlocked: 
-            - Kurama Tengu
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks.
-            - Ninja's Locks.
-            - Saigyo's Poem I (item pickup in mission).
 
     ==========
     Shadows Creep In Kurama (Sub Mission)

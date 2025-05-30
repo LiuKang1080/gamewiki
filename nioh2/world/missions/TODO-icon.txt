@@ -1,3 +1,2 @@
 Need to get weapon icons for missions rewards:
-    - Switchglaive
     - Fists
