@@ -4032,6 +4032,105 @@ A Song to Calm the Storm (Main Mission)
         - Ninja's Locks.
         - Saigyo's Poem I (item pickup in mission).
 
+==========
+Shadows Creep In Kurama (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "A Song to Calm the Storm"
+    --------------------
+    - Recommended level: 121
+    - Gold: 33,000
+    - Amrita: 90,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 6
+    - Number of Sudama: 2 (1 big Sudama)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - Nue
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Gesture: PLAY FLUTE
+        - Flashfire Splitstaff (fire) (divine)
+        - Tengu Mask (exotic)
+        - Tengu's Fan X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Random Splitstaff (exotic)
+        - Highest-Quality Wood X3
+        - Highest-Quality Tamahagane X3
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Saigyo's Poem III (item pickup in mission).
+
+==========
+The Lost Sword (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "A Song to Calm the Storm"
+    --------------------
+    - Recommended level: 122
+    - Gold: 33,400
+    - Amrita: 94,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - Taira no Kagekiyo
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Fan-Piercing Bow (divine)
+        - Blessed Sleeve Hat (exotic)
+        - Blessed Sleeve Cuirass (exotic)
+        - Blessed Sleeve Waistguard (exotic)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Yoichi's Bow (exotic)
+        - Blessed Sleeve Gauntlets (exotic)
+        - Blessed Sleeve Greaves (exotic)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Loyal Retainer (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "A Song to Calm the Storm"
+    --------------------
+    - Recommended level: 123
+    - Gold: 80,000
+    - Amrita: 98,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Random Splitstaff (divine)
+        - Glue X1
+        - Lumicite Crystal X2
+        - Herbal Remedy X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 
@@ -4073,71 +4172,7 @@ A Song to Calm the Storm (Main Mission)
 
 
 
-    ==========
-    Shadows Creep In Kurama (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "A Song to Calm the Storm"
-        --------------------
-        - Recommended level: 121
-        - Gold: 33,000
-        - Amrita: 90,776
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 6
-        - Number of Sudama: 2 (1 big Sudama)
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - Nue
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Saigyo's Poem III (item pickup in mission).
 
-    ==========
-    The Lost Sword (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "A Song to Calm the Storm"
-        --------------------
-        - Recommended level: 122
-        - Gold: 33,400
-        - Amrita: 94,776
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - Taira no Kagekiyo
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-    ==========
-    The Loyal Retainer (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "A Song to Calm the Storm"
-        --------------------
-        - Recommended level: 123
-        - Gold: 80,000
-        - Amrita: 98,776
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
 
     ==========
     Eternal Rivals (Main Mission)

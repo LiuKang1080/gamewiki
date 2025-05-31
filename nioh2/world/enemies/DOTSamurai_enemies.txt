@@ -2299,6 +2299,84 @@ A Song to Calm the Storm (Main Mission)
     - Sohaya Warrior (torch, splitstaff)
     - Uminyudo (boss) (first time)
 
+==========
+Shadows Creep in Kurama (Sub Mission)
+==========
+    - Quest Giver: Minamoto no Yoshitsune
+    - Characters:
+        - None
+    --------------------
+    - Revenant (kusarigama)
+    - Gaki
+    - Kiryoki
+    - Bakegani (big)
+    - Karakasa Umbrella
+    - Skeleton Warrior (sword)
+    - Revenant (spear)
+    - Yamanba
+    - Nure-Onna
+    - Spider (small)
+    - Spider (medium)
+    - Koroka
+    - Karasu Tengu
+    - One-Eyed Imp
+    - Namahage (bloodstained blade)
+    - Yoki (sword)
+    - Tesso
+    - Skeleton Warrior (spear)
+    - Revenant (splitstaff)
+    - Bakegani
+    - Revenant (sword)
+    - Nurikabe
+    - Yoki (axe)
+    - Nue (boss) (first time)
+
+==========
+The Lost Sword (Sub Mission)
+==========
+    - Quest Giver: Minamoto no Yoshitsune
+    - Characters:
+        - Nasu no Yoichi (NPC)
+    --------------------
+    - Abbarant Soldier
+    - Bakegani (big)
+    - Gaki
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Namahage (bloodstained blade)
+    - Namahage (bloodstained cleavers)
+    - Rokurokubi (spear)
+    - One-Eyed Oni (snowclops)
+    - Kappa
+    - Kiryoki
+    - Lesser Umi-Bozu
+    - Bakegani
+    - Red Kappa
+    - Warrior (big) (torch, fire arrow + bow, sword)
+    - Sohaya Warrior (splitstaff)
+    - Warrior (big) (fire arrow, sword)
+    - Warrior (big) (sword)
+    - Taira no Kagekiyo (boss) (first time)
+
+==========
+The Loyal Retainer (Sub Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - Kajiwara Kagetoki (Ally)
+    --------------------
+    - Red Kappa
+    
+    - Wheelmonk
+    - Abbarant Soldier
+    - Gaki
+    - Bakegani
+    - Magatsu Warrior
+    - Rokurokubi
+    - Skeleton Warrior
+    - Yoki (axe)
+    - Dweller
+    - Mitsume Yazura
+    - Kiryoki
 
 
 
@@ -2338,76 +2416,7 @@ A Song to Calm the Storm (Main Mission)
 
 
 
-    ==========
-    Shadows Creep in Kurama (Sub Mission)
-    ==========
-        - Quest Giver: Minamoto no Yoshitsune
-        - Characters:
-            - None
-        --------------------
-        - Revenant (kusarigama)
-        - Gaki
-        - Kiryoki
-        - Bakegani
-        - Revenant (spear)
-        - Yamanba
-        - Nure-Onna
-        - Karakasa Umbrella
-        - Skeleton Warrior
-        - Karasu Tengu
-        - Koroka
-        - Spider
-        - One-Eyed Imp
-        - Namahage
-        - Yoki (sword)
-        - Tesso
-        - Revenant (splitstaff)
-        - Revenant (sword)
-        - Nurikabe
-        - Yoki (axe)
-        - Nue (boss) (first time)
 
-    ==========
-    The Lost Sword (Sub Mission)
-    ==========
-        - Quest Giver: Minamoto no Yoshitsune
-        - Characters:
-            - Nasu no Yoichi (NPC)
-        --------------------
-        - Abbarant Soldier
-        - Bakegani
-        - Gaki
-        - Namahage
-        - Rokurokubi
-        - Kappa
-        - One-Eyed Oni
-        - Skeleton Warrior
-        - Kiryoki
-        - Lesser Umi-Bozu
-        - Red Kappa
-        - Warrior
-        - Sohaya Warrior (splitstaff)
-        - Taira no Kagekiyo (boss) (first time)
-
-    ==========
-    The Loyal Retainer (Sub Mission)
-    ==========
-        - Quest Giver: Nekomata
-        - Characters:
-            - Kajiwara Kagetoki (Ally)
-        --------------------
-        - Red Kappa
-        - Wheelmonk
-        - Abbarant Soldier
-        - Gaki
-        - Bakegani
-        - Magatsu Warrior
-        - Rokurokubi
-        - Skeleton Warrior
-        - Yoki (axe)
-        - Dweller
-        - Mitsume Yazura
-        - Kiryoki
 
     ==========
     Eternal Rivals (Main Mission)

@@ -65,8 +65,8 @@ Neutral Gestures:
 
 Hostile Gestures:
     - [img complete] Stifle A Laugh (2,500 Glory)
-    - Chest Slap (2,500 Glory)
-    - Straight Punch (3,500 Glory)
+    - [img complete] Chest Slap (2,500 Glory)
+    - [img complete] Straight Punch (3,500 Glory)
 
 
 ========== ========== ========== ========== ==========
@@ -90,6 +90,7 @@ Friendly Gestures:
     - [img complete] TEA TIME: The Refined Man of the Underworld (mission reward).
     - [img complete] ROAR: A Message From the Deceased (mission reward).
     - [img complete] PAY RESPECTS: Dawn of Hope (mission reward).
+    - [img complete] PLAY FLUTE: Shadows Creep in Kurama (mission reward).
 
 Neutral Gestures:
     - [img complete] BE QUIET: The Way of Ninja: Adept (mission reward).
