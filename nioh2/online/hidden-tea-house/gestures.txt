@@ -14,7 +14,8 @@ General Info
 Default Gestures
 ========== ========== ========== ========== ==========
 - These gestures are automatically unlocked at the beginning of the game.
-Friendly Gestures:
+TOTAL: 21
+Friendly Gestures: (6)
     - [img complete] NICE!
     - [img complete] BOW
     - [img complete] AT YOUR SERVICE
@@ -22,7 +23,7 @@ Friendly Gestures:
     - [img complete] LEAVE IT TO ME
     - [img complete] I GOT THIS
 
-Neutral Gestures:
+Neutral Gestures: (10)
     - [img complete] CONFUSED
     - [img complete] WHISTLE
     - [img complete] THIS WAY!
@@ -34,7 +35,7 @@ Neutral Gestures:
     - [img complete] POINT AHEAD
     - [img complete] POINT DOWN
 
-Hostile Gestures:
+Hostile Gestures: (5)
     - [img complete] BACKFLIP
     - [img complete] BRING IT ON!
     - [img complete] TAUNT
@@ -45,7 +46,8 @@ Hostile Gestures:
 ========== ========== ========== ========== ==========
 Purchasable Gestures at Hidden Tea House
 ========== ========== ========== ========== ==========
-Friendly Gestures:
+TOTAL: 17
+Friendly Gestures: (6)
     - [img complete] CLAP (1,500 Glory)
     - [img complete] Kodama Dance (3,000 Glory)
     - [img complete] I Come In Peace (3,000 Glory)
@@ -53,8 +55,8 @@ Friendly Gestures:
     - [img complete] Box Step (3,000 Glory)
     - [img complete] Skip (3,000 Glory)
 
-Neutral Gestures:
-    - Oh No! (2,000 Glory)
+Neutral Gestures: (8)
+    - [img complete] Oh No! (2,000 Glory)
     - Why? (2,000 Glory)
     - Bye! (1,500 Glory)
     - Harakiri (5,000 Glory)
@@ -63,7 +65,7 @@ Neutral Gestures:
     - Hide (3,500 Glory)
     - Sob (3,500 Glory)
 
-Hostile Gestures:
+Hostile Gestures: (3)
     - [img complete] Stifle A Laugh (2,500 Glory)
     - [img complete] Chest Slap (2,500 Glory)
     - [img complete] Straight Punch (3,500 Glory)
@@ -75,7 +77,8 @@ Gestures Obtained From Missions
 ========== ========== ==========
 Dream of the Samurai (NG)
 ========== ========== ==========
-Friendly Gestures:
+TOTAL: 31
+Friendly Gestures: (15)
     - [img complete] DON'T WORRY: Forest Veiled in Darkness (mission reward).
     - [img complete] OVERJOYED: The Beast Born of Smoke and Flames (successfully interact with your first Mujina).
     - [img complete] PROSTRATE: The Beast Born of Smoke and Flames (mission reward).
@@ -92,7 +95,7 @@ Friendly Gestures:
     - [img complete] PAY RESPECTS: Dawn of Hope (mission reward).
     - [img complete] PLAY FLUTE: Shadows Creep in Kurama (mission reward).
 
-Neutral Gestures:
+Neutral Gestures: (6)
     - [img complete] BE QUIET: The Way of Ninja: Adept (mission reward).
     - [img complete] PURIFICATION: The Way of Onmyo: Adept (mission reward).
     - [img complete] RELAX: A Way Out (mission reward).
@@ -100,7 +103,7 @@ Neutral Gestures:
     - [img complete] KABUKI POSE: Okuni's Search (mission reward).
     - [img complete] PLAY DEAD: Stray Cats (mission reward).
 
-Hostile Gestures:
+Hostile Gestures: (10)
     - [img complete] SUDAMA DANCE: The Search (mission reward).
     - [img complete] SHOO: Imagawa Diehard (mission reward).
     - [img complete] NIOH STANCE (RESOLUTE): The Way of the Warrior: Adept (mission reward).

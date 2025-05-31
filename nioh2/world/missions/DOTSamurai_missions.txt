@@ -1382,7 +1382,7 @@ The Hidden Monsters of Okehazama (Main Mission)
         - Rokugezo
     - Mission Rewards: 
     First Time: 
-        - Samurai's Locks x1
+        - Samurai's Locks x1 [Whole text is Exotic color.]
         - Master Archer's Bow (rare)
         - Master Archer's Cuirass (rare)
         - Master Archer's Waistguard (rare)
@@ -4127,11 +4127,45 @@ The Loyal Retainer (Sub Mission)
         - Herbal Remedy X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Random Splitstaff (exotic)
+        - Daion-Jin's Sake X2
+        - Ochoko Cup X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None
 
+==========
+Eternal Rivals (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "A Song to Calm the Storm"
+    --------------------
+    - Recommended level: 124
+    - Gold: 34,000
+    - Amrita: 100,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 9
+    - Number of Sudama: 1
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - Mezuki
+        - Minamoto no Yoshitsune
+    - Guardian Spirit Unlocked: 
+        - Ho
+    - Mission Rewards:
+    First Time: 
+        - Samurai's Locks X1
+        - Semiore Flute (accessory) (divine)
+        - Seto Taisho Soul Core [Full text is white color]
+        - Summoner's Candle X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Saigyo's Poem II (item pickup in mission).
 
 
 
@@ -4174,30 +4208,7 @@ The Loyal Retainer (Sub Mission)
 
 
 
-    ==========
-    Eternal Rivals (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "A Song to Calm the Storm"
-        --------------------
-        - Recommended level: 124
-        - Gold: 34,000
-        - Amrita: 100,776
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 9
-        - Number of Sudama: 1
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - Mezuki
-            - Minamoto no Yoshitsune
-        - Guardian Spirit Unlocked: 
-            - Ho
-        - Notable Items In Mission / Mission Rewards:
-            - Saigyo's Poem II (item pickup in mission).
-            - Samurai's Locks (mission reward).
-            - Seto Taisho Soul Core (mission reward).
+
 
     ==========
     An Encounter Among the Blossoms (Sub Mission)
