@@ -70,6 +70,10 @@ Key Items
         - The Key Item: Repaired Hiragumo Kettle is given to the player in replacement, after completing the Sub Mission: 
             Scattered Fragments.
 
+    - Hot Spring Chamber Key [img complete]:
+        - Obtained in the main mission: Eternal Rivals.
+        - Item is removed from inventory upon completing the mission.
+
     - Incendiary Longbow Arrow [img complete]:
         - There are a total of 3 Longbow Arrows in the mission: A Song to Calm the Storm (Main Mission).
 
@@ -220,6 +224,12 @@ Dream of the Samurai (NG) Notes:
 
     - Palace of the Damned | number of Fire Altars: 5.
 
+    - Maximum gear level: 150 - 160.
+    - Maximum gear + level: +10.
+    - Maximum Soul Core level: 150.
+    - Player can attain lvl 20 in all attributes upon reaching lvl 118.
+    - Player can attain lvl 30 in all attributes upon reaching lvl .
+
     - Spirit Stone rarity drops depending on difficulty:
     - Spirit Stones that drop on Dream of the Samurai (NG):
         - Small Spirit Stone [new]
@@ -229,12 +239,6 @@ Dream of the Samurai (NG) Notes:
         - Lumicite Shard [new]
         - Lumicite Crystal [new]
         - Embercite Crystal [new] (mission reward: The Revelry Ends) (DLC 2 and onward on Dream of the Samurai difficulty)
-
-    - Maximum gear level: 150 - 160.
-    - Maximum gear + level: +10.
-    - Maximum Soul Core level: 150.
-    - Player can attain lvl 20 in all attributes upon reaching lvl 118.
-    - Player can attain lvl 30 in all attributes upon reaching lvl .
 
 ========== ========== ==========
 Dream of the Strong (NG+1) Notes:

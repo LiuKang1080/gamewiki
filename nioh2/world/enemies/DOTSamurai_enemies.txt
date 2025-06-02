@@ -2391,23 +2391,56 @@ Eternal Rivals (Main Mission)
         - Benkei (Cutscenes)
     --------------------
     - Warrior (sword)
+    - Warrior (spear)
+    - Warrior (fire arrow + bow, sword)
     - Sohaya Warrior (splitstaff)
+    - Warrior (torch, spear)
     - Dweller
-    - Rokurokubi
+    - Warrior (torch, sword)
+    - Rokurokubi (sword)
     - Abbarant Soldier
     - Nuppeppo (first time)
     - Ippon-Datara (odachi)
-    - Rokurokubi
     - Magatsu Warrior
+    - Nurikabe
     - Kiryoki
-    - Bakegani
+    - Bakegani (big)
     - The Sohaya (splitstaff) (first time)
     - Yoki (sword)
+    - Bakegani
+    - Namahage (bloodstained cleavers)
+    - Kappa
     - Karasu Tengu
     - Mujina
     - Mezuki (boss)
     - Minamoto no Yoshitsune (boss) (first time)
 
+==========
+An Encounter Among the Blossoms (Sub Mission)
+==========
+    - Quest Giver: Hakutaku
+    - Characters:
+        - Saigyo the Wandering Monk (NPC)
+    --------------------
+    - One-Eyed Imp
+    - Karakasa Umbrella
+    - Ubume
+    - Lesser Umi-Bozu
+    - Kiryoki
+    - Gaki
+    - Thunderstorm Oni-Bi
+    - Maelstrom Oni-Bi
+    - Infernal Oni-Bi
+    - Tesso
+    - Abbarant Soldier
+    - Nuppeppo
+    - Karasu Tengu
+    - Red Kappa
+    - Toxic Slime
+    - Bakegani
+    - Onyudo (lightning)
+    - Bakegani (big)
+    - Mitsume Yazura
 
 
 
@@ -2448,31 +2481,7 @@ Eternal Rivals (Main Mission)
 
 
 
-    ==========
-    An Encounter Among the Blossoms (Sub Mission)
-    ==========
-        - Quest Giver: Hakutaku
-        - Characters:
-            - Saigyo the Wandering Monk
-        --------------------
-        - One-Eyed Imp
-        - Karakasa Umbrella
-        - Ubume
-        - Lesser Umi-Bozu
-        - Kiryoki
-        - Gaki
-        - Thunderstorm Oni-Bi
-        - Maelstrom Oni-Bi
-        - Infernal Oni-Bi
-        - Tesso
-        - Abbarant Soldier
-        - Nuppeppo
-        - Karasu Tengu
-        - Red Kappa
-        - Toxic Slime
-        - Bakegani
-        - Onyudo (lightning)
-        - Mitsume Yazura
+
 
     ==========
     The Tale of the Taira (Sub Mission)

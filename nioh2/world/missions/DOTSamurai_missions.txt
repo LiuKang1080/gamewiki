@@ -4162,10 +4162,47 @@ Eternal Rivals (Main Mission)
         - Summoner's Candle X1
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Dragon Whistle (accessory) (exotic)
+        - Highest-Quality Ingot X3
+        - Highest-Quality Leather Cord X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - Saigyo's Poem II (item pickup in mission).
+        - Unlocks the Twilight Mission: Darkness Brewing.
+
+==========
+An Encounter Among the Blossoms (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Eternal Rivals"
+    --------------------
+    - Recommended level: 125
+    - Gold: 34,600
+    - Amrita: 106,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Gesture: RECITE POEM
+        - Vajra Splitstaff (lightning) (divine)
+        - Prayer Beads (accessory) (exotic)
+        - Bakegani Pincers X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Glue X1
+        - Bakegani Pincers X1
+        - Lumicite Crystal X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 
@@ -4209,28 +4246,6 @@ Eternal Rivals (Main Mission)
 
 
 
-
-    ==========
-    An Encounter Among the Blossoms (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Eternal Rivals"
-        --------------------
-        - Recommended level: 125
-        - Gold: 34,600
-        - Amrita: 106,776
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
 
     ==========
     The Tale of the Taira (Sub Mission)
