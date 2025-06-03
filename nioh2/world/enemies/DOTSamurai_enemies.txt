@@ -2442,111 +2442,114 @@ An Encounter Among the Blossoms (Sub Mission)
     - Bakegani (big)
     - Mitsume Yazura
 
+==========
+The Tale of the Taira (Sub Mission)
+==========
+    - Quest Giver: Hakutaku
+    - Characters:
+        - None
+    --------------------
+    - Revenant (axe)
+    - Skeleton Warrior (spear)
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Revenant (switchglaive)
+    - Abbarant Soldier
+    - Revenant (odachi)
+    - Lesser Umi-Bozu
+    - Taira no Kagekiyo (boss) (dual swords) (first time)
+    - Bakegani
+    - Biwa Boku-Boku
+    - Thunderstorm Oni-Bi
+    - Infernal Oni-Bi
+    - Maelstrom Oni-Bi
 
+==========
+Prisoners of the Stones (Sub Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - Mysterious Samurai / Date Tomomune (NPC, Ally)
+    --------------------
+    - Warrior (fire arrow + bow, sword)
+    - Warrior (big) (spear)
+    - Warrior (conch shell, sword)
+    - Warrior (axe)
+    - Warrior (big) (dual swords)
+    - Lesser Umi-Bozu
+    - Gaki (big)
+    - Skeleton Warrior (big) (axe)
+    - Abbarant Soldier
+    - Namahage (bloodstained blade)
+    - Koroka
+    - Wheelmonk
+    - Tesso
+    - Bakegani (big)
+    - Bakegani
+    - Waira
+    - Enki
+    - Ippon-Datara (hammer)
+    - Nuppeppo
 
+==========
+Soul of the Warrior Monk (Sub Mission)
+==========
+    - Quest Giver: Hakutaku
+    - Characters:
+        - None
+    --------------------
+    - Benkei (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    The Tale of the Taira (Sub Mission)
-    ==========
-        - Quest Giver: Hakutaku
-        - Characters:
-            - None
-        --------------------
-        - Revenant (axe)
-        - Skeleton Warrior
-        - Revenant (switchglaive)
-        - Abbarant Soldier
-        - Revenant (odachi)
-        - Lesser Umi-Bozu
-        - Taira no Kagekiyo (boss) (first time)
-        - Bakegani
-        - Biwa Boku-Boku
-        - Thunderstorm Oni-Bi
-        - Infernal Oni-Bi
-        - Maelstrom Oni-Bi
-
-    ==========
-    Prisoners of the Stones (Sub Mission)
-    ==========
-        - Quest Giver: Nekomata
-        - Characters:
-            - Mysterious Samurai / Date Tomomune (NPC, Ally)
-        --------------------
-        - Warrior
-        - Lesser Umi-Bozu
-        - Gaki
-        - Skeleton Warrior
-        - Abbarant Soldier
-        - Namahage
-        - Koroka
-        - Wheelmonk
-        - Tesso
-        - Bakegani
-        - Waira
-        - Enki
-        - Ippon-Datara
-        - Nuppeppo
-
-    ==========
-    Soul of the Warrior Monk (Sub Mission)
-    ==========
-        - Quest Giver: Hakutaku
-        - Characters:
-            - None
-        --------------------
-        - Benkei (boss)
-
-    ==========
-    Bond of the Blade (Sub Mission)
-    ==========
-        - Quest Giver: Minamoto no Yoshitsune
-        - Characters:
-            - None
-        --------------------
-        - Minamoto no Yoshitsune (boss)
+==========
+Bond of the Blade (Sub Mission)
+==========
+    - Quest Giver: Minamoto no Yoshitsune
+    - Characters:
+        - None
+    --------------------
+    - Minamoto no Yoshitsune (boss)
 
 
 ========== ========== ========== ========== ==========
 Darkness In The Capital (DLC 2)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     ==========
     Suzune in the Flames (Main Mission)
     ==========

@@ -49,26 +49,26 @@ Purchasable Gestures at Hidden Tea House
 TOTAL: 17
 Friendly Gestures: (6)
     - [img complete] CLAP (1,500 Glory)
-    - [img complete] Kodama Dance (3,000 Glory)
-    - [img complete] I Come In Peace (3,000 Glory)
-    - [img complete] Kuroda Dance (4,500 Glory)
-    - [img complete] Box Step (3,000 Glory)
-    - [img complete] Skip (3,000 Glory)
+    - [img complete] KODAMA DANCE (3,000 Glory)
+    - [img complete] I COME IN PEACE (3,000 Glory)
+    - [img complete] KURODA DANCE (4,500 Glory)
+    - [img complete] BOX STEP (3,000 Glory)
+    - [img complete] SKIP (3,000 Glory)
 
 Neutral Gestures: (8)
-    - [img complete] Oh No! (2,000 Glory)
-    - Why? (2,000 Glory)
-    - Bye! (1,500 Glory)
-    - Harakiri (5,000 Glory)
-    - Sit Cross Legged (2,500 Glory)
-    - Dojo Greeting (2,500 Glory)
-    - Hide (3,500 Glory)
-    - Sob (3,500 Glory)
+    - [img complete] OH NO! (2,000 Glory)
+    - [img complete] WHY? (2,000 Glory)
+    - [img complete] BYE! (1,500 Glory)
+    - HARAKIRI (5,000 Glory)
+    - SIT CROSS LEGGED (2,500 Glory)
+    - DOJO GREETING (2,500 Glory)
+    - HIDE (3,500 Glory)
+    - SOB (3,500 Glory)
 
 Hostile Gestures: (3)
-    - [img complete] Stifle A Laugh (2,500 Glory)
-    - [img complete] Chest Slap (2,500 Glory)
-    - [img complete] Straight Punch (3,500 Glory)
+    - [img complete] STIFLE A LAUGH (2,500 Glory)
+    - [img complete] CHEST SLAP (2,500 Glory)
+    - [img complete] STRAIGHT PUNCH (3,500 Glory)
 
 
 ========== ========== ========== ========== ==========
@@ -77,7 +77,7 @@ Gestures Obtained From Missions
 ========== ========== ==========
 Dream of the Samurai (NG)
 ========== ========== ==========
-TOTAL: 32
+TOTAL: 33
 Friendly Gestures: (15)
     - [img complete] DON'T WORRY: Forest Veiled in Darkness (mission reward).
     - [img complete] OVERJOYED: The Beast Born of Smoke and Flames (successfully interact with your first Mujina).
@@ -104,7 +104,7 @@ Neutral Gestures: (7)
     - [img complete] PLAY DEAD: Stray Cats (mission reward).
     - [img complete] RECITE POEM: An Encounter Among the Blossoms (mission reward).
 
-Hostile Gestures: (10)
+Hostile Gestures: (11)
     - [img complete] SUDAMA DANCE: The Search (mission reward).
     - [img complete] SHOO: Imagawa Diehard (mission reward).
     - [img complete] NIOH STANCE (RESOLUTE): The Way of the Warrior: Adept (mission reward).
@@ -115,7 +115,5 @@ Hostile Gestures: (10)
     - [img complete] WARM UP: The Bravest of the Brave (mission reward).
     - [img complete] HOW'S THAT?: Japanese Heart, Yokai Smarts (mission reward).
     - [img complete] THAT'S NOT GOOD: The Blue-Eyed Samurai (mission reward).
-
-
-
+    - [img complete] ROCK-THROWING POSE: Soul of the Warrior Monk (mission reward).
 

@@ -4204,144 +4204,191 @@ An Encounter Among the Blossoms (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
+==========
+The Tale of the Taira (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Eternal Rivals"
+    --------------------
+    - Recommended level: 126
+    - Gold: 35,200
+    - Amrita: 112,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Taira no Kagekiyo
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Chi-Azamaru (dual swords) (divine)
+        - Random Splitstaff (divine)
+        - Taira no Kagekiyo's Helmet (exotic)
+        - Taira no Kagekiyo's Cuirass (exotic)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Taira no Kagekiyo's Waistguard (exotic)
+        - Taira no Kagekiyo's Gauntlets (exotic)
+        - Taira no Kagekiyo's Greaves (exotic)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
+==========
+Prisoners of the Stones (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Eternal Rivals"
+    --------------------
+    - Recommended level: 127
+    - Gold: 35,800
+    - Amrita: 118,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - Blue Dragon
+    - Mission Rewards:
+    First Time: 
+        - Samurai's Locks X1
+        - Tempest Splitstaff (water) (divine)
+        - Nuppeppo Liver X2
+        - Lumicite Crystal X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Random Splitstaff (exotic)
+        - Random Medium Armor (divine or below)
+        - Dried Nuppeppo Meat X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
+==========
+Soul of the Warrior Monk (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Eternal Rivals"
+        - Speak With Benkei in the Interim
+    --------------------
+    - Recommended level: 128
+    - Gold: 36,200
+    - Amrita: 122,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Benkei
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Gesture: ROCK-THROWING POSE
+        - Benkei's Axe (divine)
+        - Stone's Bane (switchglaive) (divine)
+        - Benkei's Splitstaff (divine)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Benkei's Hood (exotic)
+        - Benkei's Cuirass (exotic)
+        - Benkei's Waistguard (exotic)
+        - Benkei's Greaves (exotic)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    The Tale of the Taira (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Eternal Rivals"
-        --------------------
-        - Recommended level: 126
-        - Gold: 35,200
-        - Amrita: 112,776
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Taira no Kagekiyo
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-    ==========
-    Prisoners of the Stones (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Eternal Rivals"
-        --------------------
-        - Recommended level: 127
-        - Gold: 35,800
-        - Amrita: 118,776
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 1
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - Blue Dragon
-        - Notable Items In Mission / Mission Rewards:
-            - Samurai's Locks (mission reward).
-
-    ==========
-    Soul of the Warrior Monk (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Eternal Rivals"
-            - Speak With Benkei in the Interim
-        --------------------
-        - Recommended level: 128
-        - Gold: 36,200
-        - Amrita: 122,776
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Benkei
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-    ==========
-    Bond of the Blade (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Eternal Rivals"
-            - Complete the mission: "Soul of the Warrior Monk"
-            - Speak With Minamoto no Yoshitsune in the Interim
-        --------------------
-        - Recommended level: 129
-        - Gold: 36,800
-        - Amrita: 128,776
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Minamoto no Yoshitsune
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
+==========
+Bond of the Blade (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Eternal Rivals"
+        - Complete the mission: "Soul of the Warrior Monk"
+        - Speak With Minamoto no Yoshitsune in the Interim
+    --------------------
+    - Recommended level: 129
+    - Gold: 36,800
+    - Amrita: 128,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Minamoto no Yoshitsune
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Usumidori (sword) (divine)
+        - Yoshitsune's Helmet (exotic)
+        - Yoshitsune's Cuirass (exotic)
+        - Yoshitsune's Waistguard (exotic)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Yoshitsune's Gauntlets (exotic)
+        - Yoshitsune's Greaves (exotic)
+        - Highest-Quality Leather Platelet X3
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 ========== ========== ========== ========== ==========
 Darkness In The Capital (DLC 2)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     ==========
     Suzune in the Flames (Main Mission)
     ==========
