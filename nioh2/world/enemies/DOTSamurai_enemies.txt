@@ -426,23 +426,25 @@ Wings of the Phoenix (The Mausoleum of Evil | Dream Region (Region 6))
     - Kappa
     - Shuten Doji (boss)
 
-    ==========
-    Darkness Brewing (Shadows Creep In Kurama | The Tengu's Disciple (DLC 1))
-    ==========
-        - Bakegani
-        - Flying Bolt
-        - Revenant (kusarigama)
-        - Abbarant Soldier
-        - Nuppeppo
-        - Tesso
-        - Gaki
-        - Biwa Boku-Boku
-        - Kiryoki
-        - Ippon-Datara (odachi)
-        - Thunderstorm Oni-Bi
-        - Onyudo (lightning)
-        - Nurikabe
-        - Nue (boss)
+==========
+Darkness Brewing (Shadows Creep In Kurama | The Tengu's Disciple (DLC 1))
+==========
+    - Bakegani
+    - Flying Bolt
+    - Bakegani (big)
+    - Revenant (kusarigama)
+    - Abbarant Soldier
+    - Nuppeppo
+    - Tesso
+    - Gaki
+    - Biwa Boku-Boku
+    - Kiryoki
+    - Ippon-Datara (odachi)
+    - Mujina
+    - Thunderstorm Oni-Bi
+    - Onyudo (lightning)
+    - Nurikabe
+    - Nue (boss)
 
     ==========
     The Mystery of Rashomon (The Blighted Gate | Darkness In The Capital (DLC 2))
