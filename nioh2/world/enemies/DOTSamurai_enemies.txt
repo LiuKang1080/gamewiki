@@ -2570,6 +2570,67 @@ The Blighted Gate (Main Mission)
     - Tsuchigumo Ninja (fire arrow + bow, sword) (first time)
     - Tsuchigumo (boss) (first time)
 
+==========
+The Buddha's Palm (Sub Mission)
+==========
+    - Quest Giver: Minamoto no Yorimitsu
+    - Characters:
+        - Usui Sadamitsu (NPC)
+    --------------------
+    - Rogue (sword)
+    - Rogue (big) (torch, sword)
+    - Rogue (axe)
+    - Tsuchigumo Ninja (tonfas)
+    - One-Eyed Imp
+    - Oboroguruma
+    - Abbarant Soldier
+    - Gaki
+    - Tsuchigumo Ninja (dual swords) (first time)
+    - Tesso
+    - Sohaya Warrior (switchglaive)
+    - Rogue (fire arrow + bow, sword)
+    - Sohaya Warrior (torch, odachi)
+    - Rogue (torch, axe)
+    - Onyudo (lightning)
+    - Onmyo Mage
+    - Dweller
+    - Yasha
+    - Dweller (big)
+    - Blue Yoki (dual swords)
+    - One-Eyed Oni
+    - Revenant
+    - Biwa Boku-Boku
+    - Infernal Oni-Bi
+    - Giant Toad (boss) (first time)
+
+==========
+Insatiable Bloodlust (Sub Mission)
+==========
+    - Quest Giver: ??? Minamoto no Yorimitsu ???
+    - Characters:
+        - Minamoto no Yorimitsu (NPC, Ally)
+        - Watanabe no Tsuna (Ally)
+    --------------------
+    - Tesso
+    - Oboroguruma
+    - Nuppeppo
+    - Gaki
+    - Dweller (big)
+    - Yamanba
+    - Kiryoki
+    - Dweller
+    - Spider (small)
+    - Rokurokubi (sword)
+    - Infernal Fox Spirit (big)
+    - Tsuchigumo Ninja (sword)
+    - Tsuchigumo Ninja (dual swords)
+    - Rokurokubi (spear)
+    - Wheelmonk
+    - Tsuchigumo Ninja (fire arrow + bow, sword)
+    - Flying Bolt
+    - Spider (medium)
+    - Yasha
+
 
 
 
@@ -2609,58 +2670,7 @@ The Blighted Gate (Main Mission)
 
 
     ==========
-    The Buddha's Palm (Sub Mission)
-    ==========
-        - Quest Giver: Minamoto no Yorimitsu
-        - Characters:
-            - Usui Sadamitsu (NPC)
-        --------------------
-        - Warrior
-        - Rogue
-        - Tsuchigumo Ninja (tonfas)
-        - One-Eyed Imp
-        - Oboroguruma
-        - Abbarant Soldier
-        - Gaki
-        - Tsuchigumo Ninja (dual swords) (first time)
-        - Tesso
-        - Sohaya Warrior (switchglaive)
-        - Sohaya Warrior (odachi)
-        - Onyudo (lightning)
-        - Onmyo Mage
-        - Dweller
-        - Yasha
-        - Blue Yoki (dual swords)
-        - Revenant
-        - One-Eyed Oni
-        - Biwa Boku-Boku
-        - Giant Toad (boss) (first time)
-
-    ==========
-    Insatiable Bloodlust (Sub Mission)
-    ==========
-        - Quest Giver: ??? Minamoto no Yorimitsu ???
-        - Characters:
-            - Minamoto no Yorimitsu (NPC, Ally)
-            - Watanabe no Tsuna (Ally)
-        --------------------
-        - Tesso
-        - Oboroguruma
-        - Nuppeppo
-        - Gaki
-        - Yamanba
-        - Kiryoki
-        - Rokurokubi
-        - Spider
-        - Dweller
-        - Tsuchigumo Ninja (dual swords)
-        - Infernal Fox Spirit
-        - Wheelmonk
-        - Flying Bolt
-        - Yasha
-
-    ==========
-    Palace of the Damned (Sub Mission)
+    Palace of the Damned (Main Mission)
     ==========
         - Quest Giver: Abe no Seimei
         - Characters:
