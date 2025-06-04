@@ -2514,6 +2514,61 @@ Bond of the Blade (Sub Mission)
 ========== ========== ========== ========== ==========
 Darkness In The Capital (DLC 2)
 ========== ========== ========== ========== ==========
+==========
+Suzune in the Flames (Main Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - Minamoto no Yorimitsu (Cutscenes)
+        - Sakata Kintoki (Cutscenes)
+    --------------------
+    - Wheelmonk
+    - Abbarant Soldier
+    - Rokurokubi (dual swords)
+    - Yamanba
+    - Gaki
+    - Skeleton Warrior (spear)
+    - Flying Bolt
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Oboroguruma (first time)
+    - Infernal Oni-Bi
+    - Skeleton Warrior (sword)
+    - One-Eyed Imp
+    - Kiryoki
+    - Minamoto no Yorimitsu (boss) (first time)
+
+==========
+The Blighted Gate (Main Mission)
+==========
+    - Quest Giver: Hakutaku
+    - Characters:
+        - Minamoto no Yorimitsu (Cutscenes)
+        - Sakata Kintoki (Cutscenes)
+        - Ashiya Doman (Cutscenes)
+        - Abe no Seimei (Cutscenes)
+    --------------------
+    - Skeleton Warrior (sowrd)
+    - Koroka
+    - Tesso
+    - Gaki
+    - Skeleton Warrior (spear)
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Yasha (first time)
+    - Infernal Fox Spirit (first time)
+    - Tsuchigumo Ninja (claws) (first time)
+    - Infernal Fox Spirit (big) (first time)
+    - Tsuchigumo Ninja (tonfas) (first time)
+    - Nuppeppo
+    - Tsuchigumo Ninja (sword) (first time)
+    - Mujina
+    - Gaki (big)
+    - Kappa
+    - Oboroguruma
+    - Spider (medium)
+    - Spider (small)
+    - Nurikabe
+    - Tsuchigumo Ninja (fire arrow + bow, sword) (first time)
+    - Tsuchigumo (boss) (first time)
 
 
 
@@ -2552,52 +2607,6 @@ Darkness In The Capital (DLC 2)
 
 
 
-    ==========
-    Suzune in the Flames (Main Mission)
-    ==========
-        - Quest Giver: Nekomata
-        - Characters:
-            - Minamoto no Yorimitsu (Cutscenes)
-            - Sakata Kintoki (Cutscenes)
-        --------------------
-        - Wheelmonk
-        - Abbarant Soldier
-        - Rokurokubi
-        - Yamanba
-        - Skeleton Warrior
-        - Gaki
-        - Flying Bolt
-        - Oboroguruma (first time)
-        - One-Eyed Imp
-        - Kiryoki
-        - Minamoto no Yorimitsu (boss) (first time)
-
-    ==========
-    The Blighted Gate (Main Mission)
-    ==========
-        - Quest Giver: Hakutaku
-        - Characters:
-            - Minamoto no Yorimitsu (Cutscenes)
-            - Sakata Kintoki (Cutscenes)
-            - Ashiya Doman (Cutscenes)
-            - Abe no Seimei (Cutscenes)
-        --------------------
-        - Skeleton Warrior
-        - Koroka
-        - Tesso
-        - Gaki
-        - Yasha (first time)
-        - Infernal Fox Spirit (first time)
-        - Tsuchigumo Ninja (claws) (first time)
-        - Tsuchigumo Ninja (tonfas) (first time)
-        - Nuppeppo
-        - Kappa
-        - Tsuchigumo Ninja (sword) (first time)
-        - Oboroguruma
-        - Spider
-        - Mujina
-        - Nurikabe
-        - Tsuchigumo (boss) (first time)
 
     ==========
     The Buddha's Palm (Sub Mission)

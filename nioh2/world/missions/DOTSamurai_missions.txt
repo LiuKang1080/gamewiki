@@ -4361,6 +4361,75 @@ Bond of the Blade (Sub Mission)
 ========== ========== ========== ========== ==========
 Darkness In The Capital (DLC 2)
 ========== ========== ========== ========== ==========
+==========
+Suzune in the Flames (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "In The Eye of the Beholder"
+    --------------------
+    - Recommended level: 130
+    - Gold: 26,550
+    - Amrita: 86,082
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 2
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 2 (0 required)
+    - Bosses: 
+        - Minamoto no Yorimitsu
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Samurai's Locks X1
+        - Random Fists (divine)
+        - Demon Slayer Helmet (exotic)
+        - Demon Slayer Cuirass (exotic)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Demon Slayer Gauntlets (exotic)
+        - Demon Slayer Waistguard (exotic)
+        - Demon Slayer Greaves (exotic)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Blighted Gate (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Suzune in the Flames"
+    --------------------
+    - Recommended level: 131
+    - Gold: 35,600
+    - Amrita: 116,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 9
+    - Number of Sudama: 2
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 3 (0 required)
+    - Bosses: 
+        - Tsuchigumo
+    - Guardian Spirit Unlocked: 
+        - Kuzunoha The Fox
+    - Mission Rewards:
+    First Time: 
+        - Frost Blossom Clawed Fists (water) (divine)
+        - Large Tsuchigumo Claw X1
+        - Tsuchigumo Faceguard (exotic)
+        - Tsuchigumo Robes (chest piece) (exotic)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Tsuchigumo Gauntlets (exotic)
+        - Tsuchigumo Hakama (chest piece) (exotic)
+        - Tsuchigumo Greaves (exotic)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Onmyo Mage's Locks.
+        - Ninja's Locks.
+        - Unlocks the Twilight Mission: The Mystery of Rashomon.
 
 
 
@@ -4402,50 +4471,6 @@ Darkness In The Capital (DLC 2)
 
 
 
-    ==========
-    Suzune in the Flames (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "In The Eye of the Beholder"
-        --------------------
-        - Recommended level: 130
-        - Gold: 26,550
-        - Amrita: 86,082
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 2
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 2 (0 required)
-        - Bosses: 
-            - Minamoto no Yorimitsu
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Samurai's Locks (mission reward).
-
-    ==========
-    The Blighted Gate (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Suzune in the Flames"
-        --------------------
-        - Recommended level: 131
-        - Gold: 35,600
-        - Amrita: 116,776
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 9
-        - Number of Sudama: 2
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 3 (0 required)
-        - Bosses: 
-            - Tsuchigumo
-        - Guardian Spirit Unlocked: 
-            - Kuzunoha The Fox
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks.
-            - Ninja's Locks.
 
     ==========
     The Buddha's Palm (Sub Mission)
