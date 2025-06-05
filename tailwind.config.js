@@ -12,13 +12,6 @@ module.exports = {
 		// Index:
 		"./nioh2/*.{html,js}",
 		"./nioh2/**/*.{html,js}",
-
-
-		/* ========== ========== ==========
-		Wo Long: Fallen Dynasty
-		========== ========== ========== */
-		"./wolong/*.{html,js}",
-		"./wolong/**/*.{html,js}",
 	],
 
 	theme: {
@@ -93,15 +86,6 @@ module.exports = {
                 Buff Text Color: [BUFF BLUE]
                 ========== */
                 'buff-text-color': '#409af1',
-
-
-				/* ========== ========== ==========
-				Wo Long:
-				========== ========== ========== */
-				'light-peach': '#eee3d6',
-				'medium-peach': '#c2955a',
-				'dark-peach': '#9d7a46',
-				'boss-skill': '#dc710d',
 			},
 
 			/* ========== ========== ========== ========== ==========
@@ -112,9 +96,6 @@ module.exports = {
 				asul: "'Asul', sans-serif;",
 				noto: "'Noto Serif JP', serif;",
 
-				// Wo Long font:
-				bellefair: "'Bellefair', serif;",
-				
 				// General Table font:
 				tinos: "'Tinos', serif;"
 			},
