@@ -108,9 +108,10 @@ module.exports = {
 			Font Family
 			========== ========== ========== ========== ========== */ 
 			fontFamily: {
-				// Nioh 2 font:
+				// Nioh 2 font: TailWindCSS syntax: font-asul
 				asul: "'Asul', sans-serif;",
-				
+				noto: "'Noto Serif JP', serif;",
+
 				// Wo Long font:
 				bellefair: "'Bellefair', serif;",
 				

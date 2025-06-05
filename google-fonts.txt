@@ -1,0 +1,18 @@
+<!-- ========== ========== ==========
+Google Fonts (Asul) - Nioh 2
+========== ========== ========== -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Asul&display=swap" rel="stylesheet">
+
+TailWindCSS Syntax: font-asul
+
+
+<!-- ========== ========== ==========
+Google Fonts (Noto Serif) - Nioh 3
+========== ========== ========== -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP&display=swap" rel="stylesheet">
+
+TailWindCSS Syntax: font-noto
