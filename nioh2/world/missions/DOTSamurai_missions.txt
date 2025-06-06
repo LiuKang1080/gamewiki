@@ -1036,6 +1036,14 @@ Darkness Brewing
         - Notable Items In Mission / Mission Rewards:
             - Quality Umbracite x1 (mission reward).
 
+    ==========
+    The Mystery of Rashomon
+    ==========
+        - Mission Unlock Requirement:
+            - A Distant Dream (The First Samurai | DLC 3).
+            - In Search of the Elixir (The First Samurai | DLC 3).
+        --------------------
+
 
 ========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
@@ -4499,6 +4507,151 @@ Insatiable Bloodlust (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
+==========
+Palace of the Damned (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Blighted Gate"
+    --------------------
+    - Recommended level: 134
+    - Gold: 37,000
+    - Amrita: 130,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 8
+    - Number of Sudama: 2 (1 big Sudama)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 2 (0 required)
+    - Bosses: 
+        - White Tiger
+        - Nue
+        - Ashiya Doman
+        - Lightning Gods of Yomi
+    - Guardian Spirit Unlocked: 
+        - Oh
+        - Ho-Oh
+    - Mission Rewards:
+    First Time: 
+        - Thunderous Fists (lightning) (divine)
+        - Soul Core Box (accessory) (divine)
+        - Sacred Brush X3
+        - Summoner's Candle X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - White Tiger Fur X1
+        - Highest-Quality Iron Platelet X3
+        - Highest-Quality Tamahagane X3
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Ninja's Locks.
+        - Onmyo Mage's Locks.
+
+==========
+Boundless Chaos (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Palace of the Damned"
+    --------------------
+    - Recommended level: 135
+    - Gold: 37,400
+    - Amrita: 134,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Marksman's Bow (divine)
+        - Random Fists (divine)
+        - Scion of Tamura's Helmet (exotic)
+        - Scion of Tamura's Cuirass (exotic)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Scion of Tamura's Gauntlets (exotic)
+        - Scion of Tamura's Waistguard (exotic)
+        - Scion of Tamura's Greaves (exotic)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Sweet Scent of Plums (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Palace of the Damned"
+        - Complete the mission: "Boundless Chaos"
+    --------------------
+    - Recommended level: 136
+    - Gold: 37,800
+    - Amrita: 138,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Samurai's Locks X1
+        - Hazy Moon Flute (accessory) (divine)
+        - Samurai Noble's Cap (head piece) (exotic)
+        - Samurai Noble's Robes (chest piece) (exotic)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Glue X1
+        - Samurai Noble's Gauntlets (exotic)
+        - Samurai Noble's Hakama (legs piece) (exotic)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Demon Slayers (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Palace of the Damned"
+        - Complete the mission: "The Sweet Scent of Plums"
+    --------------------
+    - Recommended level: 137
+    - Gold: 38,200
+    - Amrita: 142,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - Watanabe no Tsuna
+        - Urabe no Suetake
+        - Fujiwara no Yasumasa
+        - Usui Sadamitsu
+        - Sakata Kintoki
+        - Minamoto no Yorimitsu
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Gesture: KUJI-KIRI
+        - Demon Cutter (sword) (divine)
+        - Stone Splitter (odachi) (divine)
+        - Bishamon Spear (divine)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 
@@ -4540,105 +4693,6 @@ Insatiable Bloodlust (Sub Mission)
 
 
 
-    ==========
-    Palace of the Damned (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Blighted Gate"
-        --------------------
-        - Recommended level: 134
-        - Gold: 37,000
-        - Amrita: 130,776
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 8
-        - Number of Sudama: 2 (1 big Sudama)
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 2 (0 required)
-        - Bosses: 
-            - White Tiger
-            - Nue
-            - Ashiya Doman
-            - Lightning Gods of Yomi
-        - Guardian Spirit Unlocked: 
-            - Oh
-            - Ho-Oh
-        - Notable Items In Mission / Mission Rewards:
-            - Ninja's Locks.
-            - Onmyo Mage's Locks.
-
-    ==========
-    Boundless Chaos (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Palace of the Damned"
-        --------------------
-        - Recommended level: 135
-        - Gold: 37,400
-        - Amrita: 134,776
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-    ==========
-    The Sweet Scent of Plums (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Palace of the Damned"
-            - Complete the mission: "Boundless Chaos"
-        --------------------
-        - Recommended level: 136
-        - Gold: 37,800
-        - Amrita: 138,776
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Samurai's Locks (mission reward).
-
-    ==========
-    The Demon Slayers (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Palace of the Damned"
-            - Complete the mission: "The Sweet Scent of Plums"
-        --------------------
-        - Recommended level: 137
-        - Gold: 38,200
-        - Amrita: 142,776
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - Watanabe no Tsuna
-            - Urabe no Suetake
-            - Fujiwara no Yasumasa
-            - Usui Sadamitsu
-            - Sakata Kintoki
-            - Minamoto no Yorimitsu
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
 
     ==========
     A Storm in the Underworld (Sub Mission)

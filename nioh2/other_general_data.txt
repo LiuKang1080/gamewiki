@@ -61,6 +61,11 @@ Key Items
         - Defeat Ryomen Sukuna in the mission: Restoring Harmony (Sub Mission).
         - Item is removed from player's inventory after completing mission.
 
+    - Hand-Picked Plum Blossoms [img complete]:
+        - Item obtained in the mission: The Sweet Scent of Plums.
+        - The player gives this key item to Fujiwara no Yasumasa at the end of the mission, and is removed from the players
+            inventory.
+
     - Harakiri Sword [img complete]:
         - Pick up item during the mission: The Village of Cursed Blossoms (Main Mission).
 

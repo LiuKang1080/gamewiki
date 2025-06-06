@@ -2631,6 +2631,95 @@ Insatiable Bloodlust (Sub Mission)
     - Spider (medium)
     - Yasha
 
+==========
+Palace of the Damned (Main Mission)
+==========
+    - Quest Giver: Abe no Seimei
+    - Characters:
+        - Minamoto no Yorimitsu (NPC)
+        - Abe no Seimei (NPC)
+        - Ashiya Doman (Cutscenes)
+        - Abe no Seimei (Cutscenes, Ally)
+        - Minamoto no Yorimitsu (Cutscenes, Ally)
+    --------------------
+    - Bakegani (big)
+    - Onmyo Mage
+    - Toxic Slime
+    - Oboroguruma
+    - Abbarant Soldier
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Flying Bolt
+    - Yasha
+    - Hellish Hag (first time)
+    - Mujina
+    - Infernal Fox Spirit
+    - Infernal Fox Spirit (big)
+    - Kappa
+    - Nurikabe
+    - Thunderstorm Fox Spirit (first time)
+    - White Tiger (boss) (first time)
+    - Underworld Soldier (first time)
+    - Kiryoki
+    - Nue (boss)
+    - Ashiya Doman (boss) (first time)
+    - Lightning Gods of Yomi (boss) (first time)
+
+==========
+Boundless Chaos (Sub Mission)
+==========
+    - Quest Giver: Abe no Seimei
+    - Characters:
+        - Urabe no Suetake (Ally)
+    --------------------
+    - Dweller
+    - Hellish Hag
+    - Gaki
+    - Underworld Soldier
+    - Oboroguruma
+    - Dweller (big)
+    - Kiryoki
+    - Onyudo (fire)
+    - Yoki (sword)
+    - Nuppeppo
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Skeleton Warrior (sword)
+    - One-Eyed Imp
+    - Ubume
+    - Infernal Oni-Bi
+    - Wheelmonk
+
+==========
+The Sweet Scent of Plums (Sub Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - Fujiwara no Yasumasa (NPC, Ally)
+    --------------------
+    - Sohaya Warrior (hatchets)
+    - Warrior (spear)
+    - Warrior (odachi)
+    - Tsuchigumo Ninja (fists)
+    - Onmyo Mage
+    - Tsuchigumo Ninja (fire arrow + bow, sword)
+    - Infernal Fox Spirit
+    - Maelstrom Oni-Bi
+    - Underworld Soldier
+    - Yasha
+    - Hellish Hag
+    - One-Eyed Imp
+    - Infernal Fox Spirit (big)
+    - Skeleton Warrior (spear)
+    - Abbarant Soldier
+    - Ubume
+    - Karakasa Umbrella
+    - Kiryoki
+    - Bakegani
+    - Biwa Boku-Boku
+    - Skeleton Warrior (sword)
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Thunderstorm Fox Spirit
+    - Thunderstorm Fox Spirit (big)
+    - Oboroguruma
 
 
 
@@ -2669,83 +2758,6 @@ Insatiable Bloodlust (Sub Mission)
 
 
 
-    ==========
-    Palace of the Damned (Main Mission)
-    ==========
-        - Quest Giver: Abe no Seimei
-        - Characters:
-            - Minamoto no Yorimitsu (NPC)
-            - Abe no Seimei (NPC)
-            - Ashiya Doman (Cutscenes)
-            - Abe no Seimei (Cutscenes, Ally)
-            - Minamoto no Yorimitsu (Cutscenes, Ally)
-        --------------------
-        - Bakegani
-        - Onmyo Mage
-        - Toxic Slime
-        - Oboroguruma
-        - Abbarant Soldier
-        - Skeleton Warrior
-        - Flying Bolt
-        - Yasha
-        - Hellish Hag (first time)
-        - Infernal Fox Spirit
-        - Kiryoki
-        - Thunderstorm Fox Spirit (first time)
-        - Nurikabe
-        - White Tiger (boss) (first time)
-        - Underworld Soldier (first time)
-        - Nue (boss)
-        - Ashiya Doman (boss) (first time)
-        - Lightning Gods of Yomi (boss) (first time)
-
-    ==========
-    Boundless Chaos (Sub Mission)
-    ==========
-        - Quest Giver: Abe no Seimei
-        - Characters:
-            - Urabe no Suetake (Ally)
-        --------------------
-        - Dweller
-        - Hellish Hag
-        - Gaki
-        - Underworld Soldier
-        - Oboroguruma
-        - Kiryoki
-        - Onyudo (fire)
-        - Yoki (sword)
-        - Nuppeppo
-        - Skeleton Warrior
-        - One-Eyed Imp
-        - Ubume
-        - Infernal Oni-Bi
-        - Wheelmonk
-
-    ==========
-    The Sweet Scent of Plums (Sub Mission)
-    ==========
-        - Quest Giver: Nekomata
-        - Characters:
-            - Fujiwara no Yasumasa (NPC, Ally)
-        --------------------
-        - Sohaya Warrior (hatchets)
-        - Warrior
-        - Tsuchigumo Warrior (fists)
-        - Onmyo Mage
-        - Tsuchigumo Warrior (sword)
-        - Infernal Fox Spirit
-        - Maelstrom Oni-Bi
-        - Underworld Soldier
-        - Yasha
-        - Hellish Hag
-        - One-Eyed Imp
-        - Skeleton Warrior
-        - Abbarant Soldier
-        - Ubume
-        - Karakasa Umbrella
-        - Kiryoki
-        - Bakegani
-        - Oboroguruma
 
     ==========
     The Demon Slayers (Sub Mission)
