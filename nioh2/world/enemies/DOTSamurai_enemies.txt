@@ -2721,98 +2721,108 @@ The Sweet Scent of Plums (Sub Mission)
     - Thunderstorm Fox Spirit (big)
     - Oboroguruma
 
+==========
+The Demon Slayers (Sub Mission)
+==========
+    - Quest Giver: Sakata Kintoki
+    - Characters:
+        - None
+    --------------------
+    - Warrior (big) (odachi)
+    - Warrior (sword)
+    - Warrior (big) (axe)
+    - Sohaya Warrior (splitstaff)
+    - Warrior (spear)
+    - Warrior (fire arrow + bow, sword)
+    - Watanabe no Tsuna (boss) (fists) (first time)
+    - Sohaya Warrior (fists)
+    - Urabe no Suetake (boss) (fire arrow + bow, spear) (first time)
+    - Rokurokubi (spear)
+    - Skeleton Warrior (spear)
+    - Skeleton Warrior (sword)
+    - Onmyo Mage
+    - Warrior (big) (sword)
+    - Fujiwara no Yasumasa (boss) (fire arrow + bow, sword) (first time)
+    - Sohaya Warrior (hatchets)
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Usui Sadamitsu (boss) (switchglaive) (first time)
+    - Sakata Kintoki (boss) (hatchets) (first time)
+    - Minamoto no Yorimitsu (boss)
 
+==========
+A Storm in the Underworld (Sub Mission)
+==========
+    - Quest Giver: Abe no Seimei
+    - Characters:
+        - Taira no Korehira (NPC, Ally)
+    --------------------
+    - Hellish Hag
+    - Bakegani
+    - Underworld Soldier
+    - Ashiya Doman (boss)
+    - Lightning Gods of Yomi (boss)
 
+==========
+The Revelry Ends (Sub Mission)
+==========
+    - Quest Giver: Minamoto no Yorimitsu
+    - Characters:
+        - Minamoto no Yorimitsu (Ally)
+    --------------------
+    - Shuten Doji (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    The Demon Slayers (Sub Mission)
-    ==========
-        - Quest Giver: Sakata Kintoki
-        - Characters:
-            - None
-        --------------------
-        - Warrior
-        - Sohaya Warrior (splitstaff)
-        - Watanabe no Tsuna (boss) (first time)
-        - Sohaya Warrior (fists)
-        - Urabe no Suetake (boss) (first time)
-        - Rokurokubi
-        - Skeleton Warrior
-        - Fujiwara no Yasumasa (boss) (first time)
-        - Usui Sadamitsu (boss) (first time)
-        - Sakata Kintoki (boss) (first time)
-        - Minamoto no Yorimitsu (boss)
-
-    ==========
-    A Storm in the Underworld (Sub Mission)
-    ==========
-        - Quest Giver: Abe no Seimei
-        - Characters:
-            - Taira no Korehira (NPC, Ally)
-        --------------------
-        - Hellish Hag
-        - Bakegani
-        - Underworld Soldier
-        - Ashiya Doman (boss)
-        - Lightning Gods of Yomi (boss)
-
-    ==========
-    The Revelry Ends (Sub Mission)
-    ==========
-        - Quest Giver: Minamoto no Yorimitsu
-        - Characters:
-            - Minamoto no Yorimitsu (Ally)
-        --------------------
-        - Shuten Doji (boss)
-
-    ==========
-    The Dragon Clan (Sub Mission)
-    ==========
-        - Quest Giver: Nekomata
-        - Characters:
-            - None
-        --------------------
-        - Ren Hayabusa (boss) (first time)
+==========
+The Dragon Clan (Sub Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - None
+    --------------------
+    - Ren Hayabusa (boss) (first time)
 
 
 ========== ========== ========== ========== ==========
 The First Samurai (DLC 3)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     ==========
     Dawn of the Demon (Main Mission)
     ==========

@@ -4648,127 +4648,163 @@ The Demon Slayers (Sub Mission)
         - Bishamon Spear (divine)
     ---------- ---------- ----------
     Subsequent Completes:
+        - Whetstone X1
+        - Wave Cutter Hatchets (water) (exotic)
+        - Righteous Jasper X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+A Storm in the Underworld (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Palace of the Damned"
+        - Speak with Abe no Seimei in the Interim
+    --------------------
+    - Recommended level: 138
+    - Gold: 85,000
+    - Amrita: 152,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Ashiya Doman
+        - Lightning Gods of Yomi
+    - Guardian Spirit Unlocked: 
+        - Janomecho
+    - Mission Rewards:
+    First Time: 
+        - Onmyo Mage's Locks X1
+        - Random Fists (divine)
+        - Divine Robe Scrap X1
+        - Sacred Brush X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Random Fists (exotic)
+        - Highest-Quality Leather Cord X3
+        - Highest-Quality Platelet X3
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Revelry Ends (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Palace of the Damned"
+        - Complete the mission: "A Storm in the Underworld"
+        - Speak with Minamoto no Yorimitsu in the Interim
+        - Complete the mission: "The Demon Slayers"
+    --------------------
+    - Recommended level: 139
+    - Gold: 38,600
+    - Amrita: 146,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Shuten Doji
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Bloodsucker & Spider Cutter (dual swords) (divine)
+        - Raging Fire Clawed Fists (fire) (divine)
+        - Shuten Doji Mask (exotic)
+        - Embercite Crystal X3
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Random Fists (exotic)
+        - Random Accessory (divine or below)
+        - Highest-Quality Lacquer X3
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Dragon Clan (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Palace of the Damned"
+    --------------------
+    - Recommended level: 140
+    - Gold: 39,800
+    - Amrita: 158,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Ren Hayabusa
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Gesture: FOLD ARMS
+        - Ninja's Locks X1
+        - Falcon Claws (divine)
+        - Dragon Sword (divine)
+    ---------- ---------- ----------
+    Subsequent Completes:
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    A Storm in the Underworld (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Palace of the Damned"
-            - Speak with Abe no Seimei in the Interim
-        --------------------
-        - Recommended level: 138
-        - Gold: 85,000
-        - Amrita: 152,776
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Ashiya Doman
-            - Lightning Gods of Yomi
-        - Guardian Spirit Unlocked: 
-            - Janomecho
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks (mission reward).
-
-    ==========
-    The Revelry Ends (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Palace of the Damned"
-            - Complete the mission: "A Storm in the Underworld"
-            - Speak with Minamoto no Yorimitsu in the Interim
-            - Complete the mission: "The Demon Slayers"
-        --------------------
-        - Recommended level: 139
-        - Gold: 38,600
-        - Amrita: 146,776
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Shuten Doji
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-    ==========
-    The Dragon Clan (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Palace of the Damned"
-        --------------------
-        - Recommended level: 140
-        - Gold: 39,800
-        - Amrita: 158,776
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Ren Hayabusa
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Ninja's Locks (mission reward).
-
-
 ========== ========== ========== ========== ==========
 The First Samurai (DLC 3)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     ==========
     Dawn of the Demon (Main Mission)
     ==========
