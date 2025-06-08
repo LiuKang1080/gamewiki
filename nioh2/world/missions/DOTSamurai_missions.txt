@@ -1014,27 +1014,37 @@ Darkness Brewing
     Notable Items During / Post Mission:
         - None
 
-    ==========
-    The Mystery of Rashomon
-    ==========
-        - Mission Unlock Requirement:
-            - The Blighted Gate (Darkness In The Capital | DLC 2).
-        --------------------
-        - Recommended level: 141
-        - Gold: 121,200
-        - Amrita: 494,328
-        - Shrine: Yes
-        - Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 1
-        - Number of Hot Springs: 1 (0 required)
-        - Number of Dark Realms: 3 (0 required)
-        - Bosses: 
-            - Tsuchigumo
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Quality Umbracite x1 (mission reward).
+==========
+The Mystery of Rashomon
+==========
+    - Mission Unlock Requirement:
+        - The Blighted Gate (Darkness In The Capital | DLC 2).
+    --------------------
+    - Recommended level: 141
+    - Gold: 121,200
+    - Amrita: 494,328
+    - Shrine: Yes
+    - Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 3 (0 required)
+    - Bosses: 
+        - Tsuchigumo
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Quality Umbracite X1
+        - Random Fists (exotic)
+        - Large Tsuchigumo Claw X1
+        - Summoner's Candle X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
     ==========
     The Mystery of Rashomon

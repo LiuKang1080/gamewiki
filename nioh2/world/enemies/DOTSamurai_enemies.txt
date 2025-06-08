@@ -446,23 +446,24 @@ Darkness Brewing (Shadows Creep In Kurama | The Tengu's Disciple (DLC 1))
     - Nurikabe
     - Nue (boss)
 
-    ==========
-    The Mystery of Rashomon (The Blighted Gate | Darkness In The Capital (DLC 2))
-    ==========
-        - Abbarant Soldier
-        - Oboroguruma
-        - Kappa
-        - Spider
-        - Dweller
-        - Ubume
-        - Wheelmonk
-        - Skeleton Warrior
-        - Mujina
-        - Karasu Tengu
-        - Yasha
-        - Kiryoki
-        - Biwa Boku-Boku
-        - Tsuchigumo (boss)
+==========
+The Mystery of Rashomon (The Blighted Gate | Darkness In The Capital (DLC 2))
+==========
+    - Abbarant Soldier
+    
+    - Oboroguruma
+    - Kappa
+    - Spider
+    - Dweller
+    - Ubume
+    - Wheelmonk
+    - Skeleton Warrior
+    - Mujina
+    - Karasu Tengu
+    - Yasha
+    - Kiryoki
+    - Biwa Boku-Boku
+    - Tsuchigumo (boss)
 
 
 ========== ========== ========== ========== ========== ========== ==========
