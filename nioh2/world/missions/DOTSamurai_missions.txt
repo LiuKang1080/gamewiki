@@ -1021,12 +1021,12 @@ The Mystery of Rashomon
         - The Blighted Gate (Darkness In The Capital | DLC 2).
     --------------------
     - Recommended level: 141
-    - Gold: 121,200
-    - Amrita: 494,328
+    - Gold: 121,200 / 40,400
+    - Amrita: 494,328 / 164,776
     - Shrine: Yes
     - Expedition: Yes
     - Number of Kodama: 0
-    - Number of Sudama: 1
+    - Number of Sudama: 2
     - Number of Hot Springs: 1 (0 required)
     - Number of Dark Realms: 3 (0 required)
     - Bosses: 
@@ -1041,13 +1041,16 @@ The Mystery of Rashomon
         - Summoner's Candle X1
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Large Tsuchigumo Claw X1
+        - Highest-Quality Wood X3
+        - Highest-Quality Ingot X3
+        - Divine Branch X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None
 
     ==========
-    The Mystery of Rashomon
+    
     ==========
         - Mission Unlock Requirement:
             - A Distant Dream (The First Samurai | DLC 3).
@@ -4765,7 +4768,10 @@ The Dragon Clan (Sub Mission)
         - Dragon Sword (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Hayabusa Plated Headband (exotic)
+        - Hayabusa Battle Robes (exotic)
+        - Hayabusa Battle Gauntlets (exotic)
+        - Hayabusa Battle Hakama (leg piece) (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None

@@ -450,18 +450,21 @@ Darkness Brewing (Shadows Creep In Kurama | The Tengu's Disciple (DLC 1))
 The Mystery of Rashomon (The Blighted Gate | Darkness In The Capital (DLC 2))
 ==========
     - Abbarant Soldier
-    
     - Oboroguruma
+    - Spider (medium)
     - Kappa
-    - Spider
     - Dweller
     - Ubume
     - Wheelmonk
-    - Skeleton Warrior
-    - Mujina
+    - Skeleton Warrior (sword)
     - Karasu Tengu
+    - Dweller (big)
     - Yasha
     - Kiryoki
+    - Spider (small)
+    - Spider (big)
+    - Nurikabe
+    - Mujina
     - Biwa Boku-Boku
     - Tsuchigumo (boss)
 

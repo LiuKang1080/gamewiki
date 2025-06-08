@@ -77,7 +77,7 @@ Gestures Obtained From Missions
 ========== ========== ==========
 Dream of the Samurai (NG)
 ========== ========== ==========
-TOTAL: 35
+TOTAL: 36
 Friendly Gestures: (16)
     - [img complete] DON'T WORRY: Forest Veiled in Darkness (mission reward).
     - [img complete] OVERJOYED: The Beast Born of Smoke and Flames (successfully interact with your first Mujina).
@@ -106,7 +106,7 @@ Neutral Gestures: (8)
     - [img complete] RECITE POEM: An Encounter Among the Blossoms (mission reward).
     - [img complete] KUJI-KIRI: The Demon Slayers (mission reward).
 
-Hostile Gestures: (11)
+Hostile Gestures: (12)
     - [img complete] SUDAMA DANCE: The Search (mission reward).
     - [img complete] SHOO: Imagawa Diehard (mission reward).
     - [img complete] NIOH STANCE (RESOLUTE): The Way of the Warrior: Adept (mission reward).
@@ -118,4 +118,4 @@ Hostile Gestures: (11)
     - [img complete] HOW'S THAT?: Japanese Heart, Yokai Smarts (mission reward).
     - [img complete] THAT'S NOT GOOD: The Blue-Eyed Samurai (mission reward).
     - [img complete] ROCK-THROWING POSE: Soul of the Warrior Monk (mission reward).
-
+    - [img complete] FOLD ARMS: The Dragon Clan (mission reward).
