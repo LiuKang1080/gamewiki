@@ -12,6 +12,13 @@ module.exports = {
 		// Index:
 		"./nioh2/*.{html,js}",
 		"./nioh2/**/*.{html,js}",
+
+		/* ========== ========== ==========
+		Nioh 3
+		========== ========== ========== */
+		// Index:
+		"./nioh3/*.{html,js}",
+		"./nioh3/**/*.{html,js}",
 	],
 
 	theme: {
