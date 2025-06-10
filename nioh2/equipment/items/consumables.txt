@@ -77,7 +77,7 @@ Consumables
     Driftwood with a fine scent with has come from another land.
 
 - Sacred Ash (rare):
-    It cleanses and neutralizes any abnormal statuses or effects.
+    It cleanses and neutralizes any abnormal statuses or effects. (Removes all debuffs, except the Dark Realm debuff)
     ----------
     Ash from wood burned by monks on a sacred altar.
 
