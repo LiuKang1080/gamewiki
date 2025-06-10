@@ -93,6 +93,11 @@ module.exports = {
                 Buff Text Color: [BUFF BLUE]
                 ========== */
                 'buff-text-color': '#409af1',
+
+				/* ==========
+                Item Text Red: [RED]
+                ========== */
+				'item-red-color': '#f96161',
 			},
 
 			/* ========== ========== ========== ========== ==========
@@ -101,6 +106,8 @@ module.exports = {
 			fontFamily: {
 				// Nioh 2 font: TailWindCSS syntax: font-asul
 				asul: "'Asul', sans-serif;",
+
+				// Nioh 3 font: TailWindCSS syntax: font-noto
 				noto: "'Noto Serif JP', serif;",
 
 				// General Table font:

@@ -1,0 +1,95 @@
+========== ========== ========== ========== ==========
+Hair Locks (all are Exotic rarity)
+========== ========== ========== ========== ==========
+- Samurai's Locks:
+    A lock of hair from a samurai who fell in battle, it is used to obtained 1 samurai skill point
+    ----------
+    Since ancient times the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
+    who keep it on their person.
+
+- Swordsman's Locks:
+    A lock of hair from a master swordsmans who fell in battle. It is used to obtained 1 sword skill point.
+    ----------
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
+    who keep it on their person.
+
+- Dual Swordsman's Locks:
+    A lock of hair from a master swordsmans who fell in battle. It is used to obtained 1 dual sword skill point.
+    ----------
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
+    who keep it on their person.
+
+- Ninja's Locks:
+    A lock of hair from a ninja who fell in battle. It is used to obtained 1 Ninja skill point.
+    ----------
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
+    who keep it on their person.
+
+- Onmyo Mage's Locks:
+    A lock of hair from an Onmyo Mage who fell in battle. It is used to obtained 1 Onmyo skill point.
+    ----------
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
+    who keep it on their person.
+
+
+========== ========== ========== ========== ==========
+Consumables
+========== ========== ========== ========== ==========
+- Herbal Remedy (exotic):
+    Fully restores your health.
+    ----------
+    Secret medicine meade by the legendary talented doctor, Dosan Manase.
+
+- Summoner's Candle (exotic):
+    A special candle that summons Guardian Spirits and Amrita from graves.
+    ----------
+    This rare item is made of natural wax extracted from fruits that bloom only once every eight years.
+
+- Book of Reincarnation (exotic):
+    When used, you will re-acquire all Amrita used up until that point. [red text] However, this will reset your level. (This 
+    item cannot be used during a mission.)
+    ----------
+    This text details the secrets of life, death, and rebirth.
+
+- Zen Manual (exotic):
+    You can use this item to gain back all prestige points previously invested in titles. [red text] All prestige titles you've 
+    acquired up until now will be reset. It cannot be used during a mission.
+    ----------
+    A Zen Manual of study containing philosophical passages and problems called koan. Meditating upon them is said to grant
+    greater insight into the self.
+
+- Harakiri Sword (exotic):
+    Use this item to commit harakiri. [red text] (You will lose all Amrita and return to the nearest Shrine.)
+    ----------
+    The short sword used in the ritual suicide of a famous general. Harakiri, also known as seppuku, was a ritual suicide by
+    disembowelment to atone for carelessness or to show regret for one's actions. The person commiting harakiri retained their
+    honor by showing the determination to accept the ultimate responsibility and punishment for their transgressions.
+
+- Divine Branch Fragment (exotic):
+    Using this ite consumes all of your Amrita, but allows you to quit a mission and return to the starting point. (In certain
+    missions and the tutorial, using it will not cost you Amrita.)
+    ----------
+    A splinter of a sacred tree used as a holy vessel in religious rituals.
+
+- Fragrant Wood (rare):
+    Prized as material for incense, it can be used to deodorize bad smells. (used to remove the Stench status effect.)
+    ----------
+    Driftwood with a fine scent with has come from another land.
+
+- Sacred Ash (rare):
+    It cleanses and neutralizes any abnormal statuses or effects.
+    ----------
+    Ash from wood burned by monks on a sacred altar.
+
+
+
+
+
+
+
+
+
+
+
+
+
