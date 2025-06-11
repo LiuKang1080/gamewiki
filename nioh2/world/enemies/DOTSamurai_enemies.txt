@@ -2330,7 +2330,7 @@ Shadows Creep in Kurama (Sub Mission)
     - Yoki (sword)
     - Tesso
     - Skeleton Warrior (spear)
-    - Revenant (splitstaff)
+    - Revenant (splitstaff) (first time)
     - Bakegani
     - Revenant (sword)
     - Nurikabe
@@ -2551,7 +2551,7 @@ The Blighted Gate (Main Mission)
         - Ashiya Doman (Cutscenes)
         - Abe no Seimei (Cutscenes)
     --------------------
-    - Skeleton Warrior (sowrd)
+    - Skeleton Warrior (sword)
     - Koroka
     - Tesso
     - Gaki
@@ -2788,162 +2788,114 @@ The Dragon Clan (Sub Mission)
 ========== ========== ========== ========== ==========
 The First Samurai (DLC 3)
 ========== ========== ========== ========== ==========
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    Dawn of the Demon (Main Mission)
-    ==========
-        - Quest Giver: Protagonist
-        - Characters:
-            - Ancient Otakemaru (Cutscenes)
-            - Suzuka (Cutscenes, Ally)
-        --------------------
-        - Outlaw
-        - Revenant
-        - Skeleton Warrior
-        - Hellish Hag
-        - Gaki
-        - Nuppeppo
-        - Ninja Dog
-        - Underworld Soldier
-        - Konaki-Jiji (first time)
-        - Enki
-        - Mujina
-        - Ancient Otakemaru (boss) (first time)        
-        - Nure-Onna
-        - Bakegani
-        - Abbarant Soldier
-        - Nurikabe
-        - Lesser Umi-Bozu
-        - Karasu Tengu
-        - Lightning Fox Spirit
-        - Itsumade (first time)
-        - Waira
-        - Tate Eboshi (boss) (first time)
-
-    ==========
-    In Search of the Elixir (Sub Mission)
-    ==========
-        - Quest Giver: Suzuka
-        - Characters:
-            - Izumo no Hirosada (NPC)
-        --------------------
-        - Outlaw
-        - Sohaya Warrior (fists)
-        - Warrior (splitstaff)
-        - Sohaya Warrior (odachi)
-        - Tsuchigumo Ninja (kusarigama)
-        - Ninja Dog
-        - Rokurokubi
-        - Konaki-Jiji
-        - Dweller
-        - Bakegani
-        - Waira
-        - Nurikabe
-        - Onyudo (water)
-        - Abbarant Soldier
-        - Skeleton Warrior
-        - Gaki
-        - Tesso
-        - Toxic Slime
-        - Yatsu-no-Kami (boss)
-
-    ==========
-    Words of Respite (Sub Mission)
-    ==========
-        - Quest Giver: Suzuka
-        - Characters:
-            - Kukai (NPC)
-        --------------------
-        - Warrior (spear)
-        - Warrior (sword)
-        - Warrior (bow)
-        - Warrior (axe)
-        - Rokurokubi
-        - Namahage
-        - Abbarant Soldier
-        - Kiryoki
-        - Dweller
-        - Spider
-        - Gaki
-        - Nuppeppo
-        - Oboroguruma
-        - Harinobo (first time)
-        - Itsumade
-        - Hellish Hag
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    ==========
-    A Distant Dream (Main Mission) - lvl 142
-    ==========
-        - Quest Giver: 
-        - Characters:
-            - 
-        --------------------
-
-
-
-
+==========
+Dawn of the Demon (Main Mission)
+==========
+    - Quest Giver: Protagonist
+    - Characters:
+        - Ancient Otakemaru (Cutscenes)
+        - Suzuka (Cutscenes, Ally)
+    --------------------
+    - Outlaw (sword)
+    - Outlaw (torch, axe)
+    - Revenant (sword)
+    - Outlaw (axe)
+    - Skeleton Warrior (sword)
+    - Revenant (hatchets)
+    - Hellish Hag
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Gaki
+    - Nuppeppo
+    - Ninja Dog
+    - Underworld Soldier
+    - Outlaw (torch, sword)
+    - Enki
+    - Konaki-Jiji (first time)
+    - Revenant (fists) (first time)
+    - Mujina
+    - Ancient Otakemaru (boss) (first time)        
+    - Nure-Onna
+    - Bakegani
+    - Abbarant Soldier
+    - Lesser Umi-Bozu
+    - Karasu Tengu
+    - Thunderstorm Fox Spirit
+    - Nurikabe
+    - Skeleton Warrior (spear)
+    - Itsumade (first time)
+    - Waira
+    - Tate Eboshi (boss) (first time)
+
+==========
+In Search of the Elixir (Sub Mission)
+==========
+    - Quest Giver: Suzuka
+    - Characters:
+        - Izumo no Hirosada (NPC)
+    --------------------
+    - Outlaw (splitstaff) (first time)
+    - Outlaw (fire arrow + bow) (sword)
+    - Warrior (splitstaff)
+    - Sohaya Warrior (fists)
+    - Sohaya Warrior (odachi)
+    - Tsuchigumo Ninja (kusarigama)
+    - Ninja Dog
+    - Rokurokubi (sword)
+    - Konaki-Jiji
+    - Kappa
+    - Dweller
+    - Waira
+    - Bakegani
+    - Nurikabe
+    - Onyudo (water)
+    - Abbarant Soldier
+    - Skeleton Warrior (big) (axe)
+    - Skeleton Warrior (spear)
+    - Skeleton Warrior (sword)
+    - Gaki
+    - Gaki (big)
+    - Tesso
+    - Dweller (big)
+    - Toxic Slime
+    - Revenant (fists)
+    - Revenant (splitstaff)
+    - Yatsu-no-Kami (boss)
+
+==========
+Words of Respite (Sub Mission)
+==========
+    - Quest Giver: Suzuka
+    - Characters:
+        - Kukai (NPC)
+    --------------------
+    - Warrior (spear)
+    - Warrior (sword)
+    - Warrior (torch, sword)
+    - Warrior (fire arrow + bow, sword)
+    - Warrior (big) (torch, axe)
+    - Warrior (big) (axe)
+    - Rokurokubi (torch, sword)
+    - Abbarant Soldier
+    - Namahage (bloodstained cleavers)
+    - Kiryoki
+    - Spider (small)
+    - Gaki
+    - Dweller (big)
+    - Nuppeppo
+    - Oboroguruma
+    - Harinobo (first time)
+    - Itsumade
+    - Hellish Hag
+    - Magatsu Warrior
+
+==========
+A Distant Dream (Main Mission)
+==========
+    - Quest Giver: Suzuka
+    - Characters:
+        - 
+    --------------------
+    - 
 
 
 

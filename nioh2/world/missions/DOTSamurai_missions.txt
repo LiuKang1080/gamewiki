@@ -4780,143 +4780,141 @@ The Dragon Clan (Sub Mission)
 ========== ========== ========== ========== ==========
 The First Samurai (DLC 3)
 ========== ========== ========== ========== ==========
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    Dawn of the Demon (Main Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "In The Eye of the Beholder"
-        --------------------
-        - Recommended level: 138
-        - Gold: 38,400
-        - Amrita: 144,776
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 10
-        - Number of Sudama: 2
-        - Number of Hot Springs: 1
-        - Number of Dark Realms: 2 (0 required)
-        - Bosses: 
-            - Ancient Otakemaru
-            - Tate Eboshi
-        - Guardian Spirit Unlocked: 
-            - Sohaya
-        - Notable Items In Mission / Mission Rewards:
-            - Ninja's Locks.
-            - Onmyo Mage's Locks.
-
-    ==========
-    In Search of the Elixir (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Dawn of the Demon"
-        --------------------
-        - Recommended level: 139
-        - Gold: 39,000
-        - Amrita: 150,776
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 6
-        - Number of Sudama: 1
-        - Number of Hot Springs: 2 
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - Yatsu-no-Kami
-        - Guardian Spirit Unlocked: 
-            - Amabie
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-    ==========
-    Words of Respite (Sub Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Dawn of the Demon"
-        --------------------
-        - Recommended level: 140
-        - Gold: 39,400
-        - Amrita: 154,776
-        - Shrine: Yes
-        - Torii Gate Expedition: Yes
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0 
-        - Number of Dark Realms: 1 (0 required)
-        - Bosses: 
-            - None
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - None
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ==========
-    A Distant Dream (Main Mission) - lvl 142
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Dawn of the Demon"
-        --------------------
-
-
-
+==========
+Dawn of the Demon (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "In The Eye of the Beholder"
+    --------------------
+    - Recommended level: 138
+    - Gold: 38,400
+    - Amrita: 144,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 10
+    - Number of Sudama: 2
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 2 (0 required)
+    - Bosses: 
+        - Ancient Otakemaru
+        - Tate Eboshi
+    - Guardian Spirit Unlocked: 
+        - Sohaya
+    - Mission Rewards:
+    First Time: 
+        - Black Lacquer Long Sword (odachi) (exotic)
+        - Legendary Shogun's Helmet (divine)
+        - Legendary Shogun's Cuirass (divine)
+        - Legendary Shogun's Waistguard (divine)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Seer's Bow (exotic)
+        - Legendary Shogun's Gauntlets (exotic)
+        - Legendary Shogun's Greaves (exotic)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Ninja's Locks.
+        - Onmyo Mage's Locks.
+
+==========
+In Search of the Elixir (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Dawn of the Demon"
+    --------------------
+    - Recommended level: 139
+    - Gold: 39,000
+    - Amrita: 150,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 6
+    - Number of Sudama: 1
+    - Number of Hot Springs: 2 
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - Yatsu-no-Kami
+    - Guardian Spirit Unlocked: 
+        - Amabie
+    - Mission Rewards:
+    First Time: 
+        - Suzuka's Plated Headband (divine)
+        - Suzuka's Cuirass (exotic)
+        - Suzuka's Waistguard (exotic)
+        - Herbal Remedy X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Suzuka's Cuirass (exotic)
+        - Suzuka's Gauntlets (exotic)
+        - Suzuka's Greaves (exotic)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+Words of Respite (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Dawn of the Demon"
+    --------------------
+    - Recommended level: 140
+    - Gold: 39,400
+    - Amrita: 154,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0 
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards:
+    First Time: 
+        - Gesture: ZEN GREETING
+        - Random Splitstaff (divine)
+        - Random Accessory (divine)
+        - Konaki-Jiji Hair X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Random Melee Weapon (divine or below)
+        - Random Armor (divine or below)
+        - Highest-Quality Wood X3
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+A Distant Dream (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Dawn of the Demon"
+    --------------------
+    - Recommended level: 142
+    - Gold: 39,800
+    - Amrita: 119,082
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 9
+    - Number of Sudama: 
+    - Number of Hot Springs: 2
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards:
+    First Time: 
+        - Kenmyoren (sword) (lightning) (divine)
+        - Daitoren & Shotoren (dual swords) (divine)
+        - Nightmare Tusk X1
+        - Book of Reincarnation X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 
