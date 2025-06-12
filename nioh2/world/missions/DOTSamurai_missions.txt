@@ -4896,13 +4896,13 @@ A Distant Dream (Main Mission)
     - Shrine: Yes
     - Torii Gate Expedition: Yes
     - Number of Kodama: 9
-    - Number of Sudama: 
+    - Number of Sudama: 3
     - Number of Hot Springs: 2
-    - Number of Dark Realms: 
+    - Number of Dark Realms: 4 (0 required)
     - Bosses: 
-        - 
+        - Nightmare Bringer
     - Guardian Spirit Unlocked: 
-        - 
+        - Baku
     - Mission Rewards:
     First Time: 
         - Kenmyoren (sword) (lightning) (divine)
@@ -4911,10 +4911,14 @@ A Distant Dream (Main Mission)
         - Book of Reincarnation X1
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Kenmyoren (lightning) (exotic)
+        - Daitoren & Shotoren (dual swords) (exotic)
+        - Nightmare Tusk X1
+        - Highest-Quality Lacquer X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - Unlocks the Twilight Mission: The Cradle of the Demon.
+        - Unlocks the Twilight Mission: The Bewitching Tower.
 
 
 

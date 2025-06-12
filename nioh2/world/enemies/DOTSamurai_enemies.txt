@@ -2893,9 +2893,42 @@ A Distant Dream (Main Mission)
 ==========
     - Quest Giver: Suzuka
     - Characters:
-        - 
+        - Mujina (Ally)
+        - Ancient Otakemaru (Cutscenes)
+        - Suzuka (Cutscenes)
+        - Kashin Koji (Cutscenes)
     --------------------
-    - 
+    - Yoki (axe)
+    - Underworld Soldier
+    - Gaki
+    - Bakegani (big)
+    - Dweller
+    - Bakegani
+    - Waira
+    - Kinki (first time)
+    - Skeleton Warrior (sword)
+    - Skeleton Warrior (spear)
+    - Nurikabe
+    - Harinobo
+    - Kiryoki
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Red Kappa (big)
+    - Red Kappa
+    - Nuppeppo
+    - Ippon-Datara (hammer)
+    - Biwa Boku-Boku
+    - Konaki-Jiji
+    - Skeleton Warrior (big) (axe)
+    - Hellish hag
+    - Fuki (first time)
+    - Gaki (big)
+    - Dweller (big)
+    - Ongyoki (first time)
+    - Mujina
+    - Suiki (first time)
+    - Nure-Onna
+    - Itsumade
+    - Nightmare Bringer (first time)
 
 
 

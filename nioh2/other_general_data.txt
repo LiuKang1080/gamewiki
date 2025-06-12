@@ -1,6 +1,14 @@
 ========== ========== ==========
 Key Items
 ========== ========== ==========
+    - Agyo Key Piece
+        - Key item obtained in the mission: A Distant Dream (main mission).
+        - Item is combined with the Ungyo Key Piece to form the Aun Key.
+
+    - Aun Key [img complete]:
+        - Item is formed when the player obtains both the Agyo Key Piece, and the Ungyo Key Piece.
+        - Item is removed from the player's inventory upon completing the mission: A Distant Dream (main mission).
+
     - Ame-no-Murakumo Tsurugi [img complete]:
         - Key item obtained from a chest in the mission: The Lost Sword (Main Mission).
         - This item is given away to Minamoto no Yoshitsune upon completing this mission.
@@ -121,6 +129,10 @@ Key Items
         - Key item obtained towards the end of the mission: The Sweet Scent of Plums.
         - Item can be given to Fujiwara no Yasumasa at the end of the mission.
 
+    - Prison Key [img complete]:
+        - Key item obtained in the mission A Distant Dream (main mission).
+        - Item is removed from the inventory upon completing the mission.
+
     - Purifying Arrow [img complete]:
         - Key item obtained during the mission: Boundless Chaos.
         - This item is removed at the end of the mission.
@@ -163,6 +175,10 @@ Key Items
     - Umebachi Abacus [img complete]:
         - Obtained at the end of the mission "An Error in Calculation" in a Treasure Chest.
         - This item is given away to Maeda Toshiie upon completing this mission.
+
+    Ungyo Key Piece [img complete]:
+        - Obtained in the mission: A Distant Dream (main mission), after defeating Ongyoki.
+        - Item is combined with the Ungyo Key Piece to form the Aun Key.
 
     - Village Cemetery Key [img complete]:
         - Key item obtained at the beginning of the mission: The Village of Cursed Blossoms.
