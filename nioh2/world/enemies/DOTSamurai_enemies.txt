@@ -2930,6 +2930,119 @@ A Distant Dream (Main Mission)
     - Itsumade
     - Nightmare Bringer (first time)
 
+==========
+The Alluring Ancient (Sub Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - None
+    --------------------
+    - Ancient Nyotengu (boss) (first time)
+
+==========
+Battle at the Temple (Sub Mission)
+==========
+    - Quest Giver: Suzuka
+    - Characters:
+        - Kukai (NPC)
+    --------------------
+    - Nuppeppo
+    - Abbarant Soldier
+    - Spider (medium)
+    - Karakasa Umbrella
+    - Konaki-Jiji
+    - Kiryoki
+    - Spider (big)
+    - Spider (small)
+    - Yamanba
+    - Rokurokubi (sword)
+    - Maelstrom Fox Spirit (big) (first time)
+    - Yoki (axe)
+    - Ongyoki
+    - Fuki
+    - Enenra (boss)
+    - Tate Eboshi (boss)
+
+==========
+Against All Comers (Sub Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - None
+    --------------------
+    - Outlaw (sword)
+    - Outlaw (hatchets) (first time)
+    - Rogue (dual swords)
+    - The Sohaya (switchglaive) (first time)
+    - Rogue (big) (odachi)
+    - Enki
+    - Ippon-Datara (hammer)
+    - Nure-Onna
+    - Toxic Slime
+    - Gozuki (boss)
+    - Mezuki (boss)
+    ---------- checkpoint
+    - Ninja (fire arrow + bow, sword)
+    - Ninja (dual swords)
+    - Yamanba
+    - Skeleton Warrior (rifle, sword)
+    - Waira
+    - Koroka
+    - Maelstrom Oni-Bi
+    - Thunderstorm Oni-Bi
+    - Saito Yoshitatsu (boss)
+    ---------- checkpoint
+    - Gaki
+    - One-Eyed Imp
+    - Ubume
+    - Mitsume Yazura
+    - Magara Takamoto (odachi) (boss)
+    - Magara Naosumi (odachi) (boss) (first time)
+    - Magara Naotaka (boss)
+    ---------- checkpoint
+    - Onmyo Mage
+    - Saika Clan (kusarigama)
+    - Shimotsuma Rairen (spear)
+    - Revenant (odachi)
+    - Muni (kusarigama)
+    - Hotaru (dual swords)
+    - Kosuzume (kusarigama)
+    - Obsidian Samurai (boss)
+    - Oda Nobunaga (boss)
+    ---------- checkpoint
+    - Red Kappa
+    - Abbarant Soldier
+    - Lesser Umi-Bozu
+    - Wheelmonk
+    - Saito Toshimitsu (boss)
+    - Ryomen Sukuna (boss)
+    ---------- checkpoint
+    - Sohaya Warrior (splitstaff)
+    - Warrior (spear)
+    - Kiryoki
+    - Bakegani
+    - Bakegani (big)
+    - Nuppeppo
+    - Benkei (boss)
+    ---------- checkpoint
+    - Tsuchigumo Ninja (fists)
+    - Maelstrom Fox Spirit
+    - Yasha
+    - Underworld Soldier
+    - Hellish Hag
+    - Lightning Gods of Yomi (boss)
+    ---------- checkpoint
+    - Harinobo
+    - Konaki-Jiji
+    - Itsumade
+    - Kinki
+    - Ongyoki
+    - Suiki
+    - Fuki
+    ---------- checkpoint
+    - Ancient Otakemaru (boss)
+    - Otakemaru (boss)
+    - William (boss)
 
 
 
@@ -2937,3 +3050,68 @@ A Distant Dream (Main Mission)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==========
+A Spirit's Return (Sub Mission)
+==========
+    - Quest Giver: 
+    - Characters:
+        - 
+    --------------------
+    - 
+
+==========
+A Familiar Glow (Sub Mission)
+==========
+    - Quest Giver: 
+    - Characters:
+        - 
+    --------------------
+    - 
+
+==========
+Rivals Return (Sub Mission)
+==========
+    - Quest Giver: 
+    - Characters:
+        - 
+    --------------------
+    - 
+
+==========
+Undying Light (Sub Mission)
+==========
+    - Quest Giver: 
+    - Characters:
+        - 
+    --------------------
+    - 
