@@ -1049,13 +1049,41 @@ The Mystery of Rashomon
     Notable Items During / Post Mission:
         - None
 
-    ==========
-    
-    ==========
-        - Mission Unlock Requirement:
-            - A Distant Dream (The First Samurai | DLC 3).
-            - In Search of the Elixir (The First Samurai | DLC 3).
-        --------------------
+==========
+The Bewitching Tower
+==========
+    - Mission Unlock Requirement:
+        - In Search of the Elixir (The First Samurai | DLC 3).
+        - A Distant Dream (The First Samurai | DLC 3).
+    --------------------
+    - Recommended level: 155
+    - Gold: 134,400 / 44,800
+    - Amrita: 626,328 / 208,776
+    - Shrine: Yes
+    - Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 2 (0 required)
+    - Number of Dark Realms: 2 (0 required)
+    - Bosses: 
+        - Yatsu-no-Kami
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Quality Umbracite X1
+        - Random Weapon (divine)
+        - Ghastly Bird Tail Feathers X1
+        - Divine Branch X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Ghastly Bird Tail Feathers X1
+        - Highest-Quality Leather Cord X3
+        - Highest-Quality Leather Platelet X3
+        - Summoner's Candle X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 ========== ========== ========== ========== ========== ========== ==========

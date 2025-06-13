@@ -468,6 +468,37 @@ The Mystery of Rashomon (The Blighted Gate | Darkness In The Capital (DLC 2))
     - Biwa Boku-Boku
     - Tsuchigumo (boss)
 
+==========
+The Bewitching Tower (In Search of the Elixir | The First Samurai (DLC 3))
+==========
+    - Abbarant Soldier
+    - Gaki
+    - Nure-Onna
+    - Maelstrom Fox Spirit (big)
+    - Skeleton Warrior (sword)
+    - Bakegani (big)
+    - Karasu Tengu
+    - Kiryoki
+    - Konaki-Jiji
+    - Thunderstorm Fox Spirit
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Red Kappa
+    - Bakegani
+    - Yoki (sword)
+    - Mitsume Yazura
+    - Skeleton Warrior (spear)
+    - Skeleton Warrior (big) (axe)
+    - Hellish Hag
+    - Gaki (big)
+    - Mujina
+    - Infernal Oni-Bi
+    - Dweller
+    - Yoki (axe)
+    - Infernal Fox Spirit
+    - Toxic Slime
+    - Itsumade
+    - Yatsu-no-Kami (boss)
+
 
 ========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
