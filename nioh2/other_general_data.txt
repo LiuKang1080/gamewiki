@@ -2,7 +2,7 @@
 Key Items
 ========== ========== ==========
     - Agyo Key Piece
-        - Key item obtained in the mission: A Distant Dream (main mission).
+        - Key item obtained in the mission: A Distant Dream (main mission), after defeating Suiki.
         - Item is combined with the Ungyo Key Piece to form the Aun Key.
 
     - Aun Key [img complete]:
@@ -176,9 +176,9 @@ Key Items
         - Obtained at the end of the mission "An Error in Calculation" in a Treasure Chest.
         - This item is given away to Maeda Toshiie upon completing this mission.
 
-    Ungyo Key Piece [img complete]:
+    - Ungyo Key Piece [img complete]:
         - Obtained in the mission: A Distant Dream (main mission), after defeating Ongyoki.
-        - Item is combined with the Ungyo Key Piece to form the Aun Key.
+        - Item is combined with the Agyo Key Piece to form the Aun Key.
 
     - Village Cemetery Key [img complete]:
         - Key item obtained at the beginning of the mission: The Village of Cursed Blossoms.
