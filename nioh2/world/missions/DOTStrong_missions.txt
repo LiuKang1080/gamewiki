@@ -66,9 +66,9 @@ The Village of Cursed Blossoms (Main Mission)
     - Shrine: Yes
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
-    - Number of Sudama: 
+    - Number of Sudama: 0
     - Number of Hot Springs: 0
-    - Number of Dark Realms: 
+    - Number of Dark Realms: 2 (0 required)
     - Bosses: 
         - Gozuki
         - Mezuki
@@ -82,10 +82,13 @@ The Village of Cursed Blossoms (Main Mission)
         - Lone Wolf's Waistguard (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Blood-Encrusted Sawtooth X1
+        - Warped Jawbone X1
+        - Quality Leather Platelet X3
+        - Quality Leather Cord X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 
 
