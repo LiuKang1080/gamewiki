@@ -77,7 +77,7 @@ Gestures Obtained From Missions
 ========== ========== ==========
 Dream of the Samurai (NG)
 ========== ========== ==========
-TOTAL: 43
+TOTAL: 45
 Friendly Gestures: (17)
     - [img complete] DON'T WORRY: Forest Veiled in Darkness (mission reward).
     - [img complete] OVERJOYED: The Beast Born of Smoke and Flames (successfully interact with your first Mujina).
@@ -97,7 +97,7 @@ Friendly Gestures: (17)
     - [img complete] PLAY DRUM: The Buddha's Palm (mission reward).
     - [img complete] ZEN GREETING: Words of Respite (mission reward).
 
-Neutral Gestures: (10)
+Neutral Gestures: (12)
     - [img complete] BE QUIET: The Way of Ninja: Adept (mission reward).
     - [img complete] PURIFICATION: The Way of Onmyo: Adept (mission reward).
     - [img complete] RELAX: A Way Out (mission reward).
