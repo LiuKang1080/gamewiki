@@ -419,247 +419,354 @@ Master of the Dual Blades (Dojo Mission)
     Notable Items During / Post Mission:
         - Unlocks the Mystic Arts for the Dual Swords.
 
-    ==========
-    Hanzo the Demon (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Ruin Draws Near".
-            - Required Spear Proficiency: 120,000.
-        --------------------
-        - Recommended level: 100
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Hattori Hanzo
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Spearman's Locks.
-            - Unlocks the Mystic Arts for the Spear.
+==========
+Hanzo the Demon (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Ruin Draws Near".
+        - Required Spear Proficiency: 120,000.
+    --------------------
+    - Recommended level: 100
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Hattori Hanzo
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Spearman's Locks X2
+        - Hanzo The Demon's Spear (rare)
+        - Iga Jonin Gauntlets (rare)
+        - Iga Jonin Headband (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Iga Jonin Cuirass (uncommon)
+        - Iga Jonin Waistguard (uncommon)
+        - Iga Jonin Greaves (uncommon)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Unlocks the Mystic Arts for the Spear.
 
-    ==========
-    The Unmoving Mountain (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Ruin Draws Near".
-            - Required Axe Proficiency: 120,000.
-        --------------------
-        - Recommended level: 100
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Sakata Kintoki
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Axeman's Locks.
-            - Unlocks the Mystic Arts for the Axe.
+==========
+The Unmoving Mountain (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Ruin Draws Near".
+        - Required Axe Proficiency: 120,000.
+    --------------------
+    - Recommended level: 100
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Sakata Kintoki
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Gesture: SUMO MOVE
+        - Axeman's Locks X2
+        - Kintaro's Axe (lightning) (rare)
+        - Kintaro's Cuirass (uncommon)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Kintaro's Headband (uncommon)
+        - Kintaro's Waistguard (uncommon)
+        - Kintaro's Gauntlets (uncommon)
+        - Kintaro's Greaves (uncommon)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Unlocks the Mystic Arts for the Axe.
 
-    ==========
-    The Chain That Splits the Sky (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Ruin Draws Near".
-            - Required Kusarigama Proficiency: 120,000.
-        --------------------
-        - Recommended level: 100
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Shisenin Kosen
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Kusarigama Wielder's Locks.
-            - Unlocks the Mystic Arts for the Kusarigama.
+==========
+The Chain That Splits the Sky (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Ruin Draws Near".
+        - Required Kusarigama Proficiency: 120,000.
+    --------------------
+    - Recommended level: 100
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Shisenin Kosen
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Gesture: REST
+        - Kusarigama Wielder's Locks X2
+        - Shishido Kusarigama (rare)
+        - Whetstone X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Whetstone X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Unlocks the Mystic Arts for the Kusarigama.
 
-    ==========
-    The Tengu's Blade (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Ruin Draws Near".
-            - Required Odachi Proficiency: 120,000.
-        --------------------
-        - Recommended level: 100
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Shisenin Kosen
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Odachi Wielder's Locks.
-            - Unlocks the Mystic Arts for the Odachi.
+==========
+The Tengu's Blade (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Ruin Draws Near".
+        - Required Odachi Proficiency: 120,000.
+    --------------------
+    - Recommended level: 100
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Shisenin Kosen
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Odachi Wielder's Locks X2
+        - Sunderer (odachi) (rare)
+        - Whetstone X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Whetstone X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Unlocks the Mystic Arts for the Odachi.
 
-    ==========
-    Like Lightning (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Ruin Draws Near".
-            - Required Tonfa Proficiency: 120,000.
-        --------------------
-        - Recommended level: 100
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Hattori Hanzo
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Tonfa Wielder's Locks.
-            - Unlocks the Mystic Arts for the Tonfas.
+==========
+Like Lightning (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Ruin Draws Near".
+        - Required Tonfa Proficiency: 120,000.
+    --------------------
+    - Recommended level: 100
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Hattori Hanzo
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Gesture: SHURIKEN STARS
+        - Tonfa Wielder's Locks X2
+        - Yin-Yang Tonfa (water) (rare)
+        - Shinobi Box X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Shinobi Box X1
+        - Yin-Yang Tonfa (water) (rare)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Unlocks the Mystic Arts for the Tonfas.
 
-    ==========
-    The Unstoppable Whirlwind (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Ruin Draws Near".
-            - Required Hatchets Proficiency: 120,000.
-        --------------------
-        - Recommended level: 100
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Sakata Kintoki
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Hatchet Wielder's Locks.
-            - Unlocks the Mystic Arts for the Hatchets.
+==========
+The Unstoppable Whirlwind (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Ruin Draws Near".
+        - Required Hatchets Proficiency: 120,000.
+    --------------------
+    - Recommended level: 100
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Sakata Kintoki
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Gesture: SUMO VICTORY
+        - Hatchet Wielder's Locks X2
+        - Iceberg (hatchets) (water) (rare)
+        - Whetstone X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Whetstone X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Unlocks the Mystic Arts for the Hatchets.
 
-    ==========
-    Sharp Eyes (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Ruin Draws Near".
-            - Required Switchglaive Proficiency: 120,000.
-        --------------------
-        - Recommended level: 100
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Mumyo
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Switchglaive Wielder's Locks.
-            - Unlocks the Mystic Arts for the Switchglaive.
+==========
+Sharp Eyes (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Ruin Draws Near".
+        - Required Switchglaive Proficiency: 120,000.
+    --------------------
+    - Recommended level: 100
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Mumyo
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Switchglaive Wielder's Locks X2
+        - Black Lotus (switchglaive) (rare)
+        - Whetstone X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Whetstone X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Unlocks the Mystic Arts for the Switchglaive.
 
-    ==========
-    Breaking Free (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Ruin Draws Near".
-            - Required Splitstaff Proficiency: 120,000.
-        --------------------
-        - Recommended level: 100
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Hattori Hanzo
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Splitstaff Wielder's Locks.
-            - Unlocks the Mystic Arts for the Splitstaff.
+==========
+Breaking Free (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Ruin Draws Near".
+        - Required Splitstaff Proficiency: 120,000.
+    --------------------
+    - Recommended level: 100
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Hattori Hanzo
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Splitstaff Wielder's Locks X2
+        - Evil-Crusher Splitstaff (rare)
+        - Shinobi Box X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Shinobi Box X1
+        - Evil-Crusher Splitstaff (rare)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Unlocks the Mystic Arts for the Splitstaff.
 
-    ==========
-    Strike Like a Yokai (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "Ruin Draws Near".
-            - Required Fists Proficiency: 120,000.
-        --------------------
-        - Recommended level: 100
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Kato Danzo
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Fist Wielder's Locks.
-            - Unlocks the Mystic Arts for the Fists.
+==========
+Strike Like a Yokai (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "Ruin Draws Near".
+        - Required Fists Proficiency: 120,000.
+    --------------------
+    - Recommended level: 100
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Kato Danzo
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Fist Wielder's Locks X2
+        - White Lotus Fists (rare)
+        - Shinobi Box X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Shinobi Box X1
+        - White Lotus Fists (rare)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Unlocks the Mystic Arts for the Fists.
 
-    ==========
-    The One Who Lives in the Shadows (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The High-Spirited Demon".
-            - Required Fists Proficiency: 200,000.
-        --------------------
-        - Recommended level: 100
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Hattori Hanzo
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Ninja's Locks.
-            - Unlocks the Mystic Arts for Ninjutsu.
+==========
+The One Who Lives in the Shadows (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The High-Spirited Demon".
+        - Required Fists Proficiency: 200,000.
+    --------------------
+    - Recommended level: 100
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Hattori Hanzo
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Gesture: NINJA POSE
+        - Ninja's Locks X2
+        - Iga Jonin Cuirass (rare)
+        - Iga Jonin Waistguard (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Iga Jonin Greaves (uncommon)
+        - Iga Jonin Headband (uncommon)
+        - Iga Jonin Gauntlets (uncommon)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Unlocks the Mystic Arts for Ninjutsu.
 
-    ==========
-    The Nine Symbols (Dojo Mission)
-    ==========
-        - Mission Unlock Requirement:
-            - Complete the mission: "The Mausoleum of Evil".
-            - Required Fists Proficiency: 250,000.
-        --------------------
-        - Recommended level: 114
-        - Shrine: No
-        - Torii Gate Expedition: No
-        - Number of Kodama: 0
-        - Number of Sudama: 0
-        - Number of Hot Springs: 0
-        - Number of Dark Realms: 0
-        - Bosses: 
-            - Onryoki
-        - Guardian Spirit Unlocked: 
-            - None
-        - Notable Items In Mission / Mission Rewards:
-            - Onmyo Mage's Locks.
-            - Unlocks the Mystic Arts for Onmyo Magic.
+==========
+The Nine Symbols (Dojo Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "The Mausoleum of Evil".
+        - Required Fists Proficiency: 250,000.
+    --------------------
+    - Recommended level: 114
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Onryoki
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Gesture: BEGONE!
+        - Onmyo Mage's Locks X2
+        - Genmei Onmyo Mage's Hunting Robe (chest piece) (rare)
+        - Genmei Onmyo Mage's Hakama (leg piece) (rare)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Genmei Onmyo Mage's Hat (rare)
+        - Genmei Onmyo Mage's Bracers (uncommon)
+        - Genmei Onmyo Mage's Shoes (uncommon)
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - Unlocks the Mystic Arts for Onmyo Magic.
 
 
 ========== ========== ========== ========== ========== ========== ==========

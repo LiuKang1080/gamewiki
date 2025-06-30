@@ -14,7 +14,61 @@ Hair Locks (all are Exotic rarity)
     who keep it on their person.
 
 - Dual Swordsman's Locks:
-    A lock of hair from a master swordsmans who fell in battle. It is used to obtained 1 dual sword skill point.
+    A lock of hair from a master dual swordsmans who fell in battle. It is used to obtained 1 dual sword skill point.
+    ----------
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
+    who keep it on their person.
+
+- Spearman's Locks:
+    A lock of hair from a master spearman who fell in battle. It is used to obtained 1 spear skill point.
+    ----------
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
+    who keep it on their person.
+
+- Axeman's Locks:
+    A lock of hair from a master axeman who fell in battle. It is used to obtained 1 axe skill point.
+    ----------
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
+    who keep it on their person.
+
+- Kusarigama Wielder's Locks:
+    A lock of hair from a master kusarigama wielder who fell in battle. It is used to obtained 1 kusarigama skill point.
+    ----------
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
+    who keep it on their person.
+
+- Odachi Wielder's Locks:
+    A lock of hair from an odachi master who fell in battle. It is used to obtained 1 odachi skill point.
+    ----------
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
+    who keep it on their person.
+
+- Tonfa Wielder's Locks:
+    A lock of hair from an tonfa master who fell in battle. It is used to obtained 1 tonfa skill point.
+    ----------
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
+    who keep it on their person.
+
+- Hatchet Wielder's Locks:
+    A lock of hair from an hatchets master who fell in battle. It is used to obtained 1 hatchet skill point.
+    ----------
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
+    who keep it on their person.
+
+- Switchglaive Wielder's Locks:
+    A lock of hair from an switchglaive master who fell in battle. It is used to obtained 1 switchglaive skill point.
+    ----------
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
+    who keep it on their person.
+
+- Splitstaff Wielder's Locks:
+    A lock of hair from an splitstaff master who fell in battle. It is used to obtained 1 splitstaff skill point.
+    ----------
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
+    who keep it on their person.
+
+-Fist Wielder's Locks:
+    A lock of hair from a master fist wielder who fell in battle. It is used to obtained 1 fist skill point.
     ----------
     Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
     who keep it on their person.
