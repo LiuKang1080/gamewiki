@@ -2952,6 +2952,7 @@ A Distant Dream (Main Mission)
     - Skeleton Warrior (big) (axe)
     - Hellish hag
     - Fuki (first time)
+    - Skeleton Warrior (big) (hammer)
     - Gaki (big)
     - Dweller (big)
     - Ongyoki (first time)
@@ -3075,74 +3076,75 @@ Against All Comers (Sub Mission)
     - Otakemaru (boss)
     - William (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 A Spirit's Return (Sub Mission)
 ==========
-    - Quest Giver: 
+    - Quest Giver: Hakutaku
     - Characters:
-        - 
+        - Mujina (Ally)
     --------------------
-    - 
+    - Mitsume Yazura
+    - Namahage (bloodstained blade)
+    - Skeleton Warrior (spear)
+    - Konaki-Jiji
+    - Fuki
+    - Dweller (big)
+    - Dweller
+    - Toxic Slime
+    - Harinobo
+    - Ippon-Datara
+    - Bakegani
+    - Onyudo (water)
+    - One-Eyed Imp
+    - Abbarant Soldier
+    - Ongyoki
+    - Bakegani (big)
+    - Suiki
+    - Nure-Onna
+    - Revenant
+    - Kinki
+    - Skeleton Warrior (big) (axe)
 
 ==========
 A Familiar Glow (Sub Mission)
 ==========
-    - Quest Giver: 
+    - Quest Giver: Hakutaku
     - Characters:
-        - 
+        - Tokichiro (benevolent grave)
+        - Minamoto no Yoshitsune (benevolent grave)
+        - Minamoto no Yorimitsu (benevolent grave)
     --------------------
-    - 
+    - Nightmare Bringer (boss)
 
 ==========
 Rivals Return (Sub Mission)
 ==========
-    - Quest Giver: 
+    - Quest Giver: Nekomata
     - Characters:
-        - 
+        - None
     --------------------
-    - 
+    - Yasha
+    - Infernal Fox Spirit
+    - Hellish Hag
+    - Konaki-Jiji
+    - Gaki
+    - Yamanba
+    - Abbarant Soldier
+    - Kiryoki
+    - Tate Eboshi (boss)
+    ---------- checkpoint
+    - Harinobo
+    - Kinki
+    - Fuki
+    - Suiki
+    - Ongyoki
+    - Ancient Otakemaru (boss)
 
 ==========
 Undying Light (Sub Mission)
 ==========
-    - Quest Giver: 
+    - Quest Giver: Hakutaku
     - Characters:
-        - 
+        - None
     --------------------
-    - 
+    - Kukai (boss) (first time)

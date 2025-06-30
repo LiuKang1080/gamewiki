@@ -1,12 +1,12 @@
 ========== ========== ==========
 Key Items
 ========== ========== ==========
-    - Agyo Key Piece
+    - Agyo Key Piece [img complete]:
         - Key item obtained in the mission: A Distant Dream (main mission), after defeating Suiki.
         - Item is combined with the Ungyo Key Piece to form the Aun Key.
 
     - Aun Key [img complete]:
-        - Item is formed when the player obtains both the Agyo Key Piece, and the Ungyo Key Piece.
+        - Item is formed automatically when the player obtains both the Agyo Key Piece and the Ungyo Key Piece.
         - Item is removed from the player's inventory upon completing the mission: A Distant Dream (main mission).
 
     - Ame-no-Murakumo Tsurugi [img complete]:

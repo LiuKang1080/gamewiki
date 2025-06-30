@@ -5067,44 +5067,6 @@ Against All Comers (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 A Spirit's Return (Sub Mission)
 ==========
@@ -5113,28 +5075,34 @@ A Spirit's Return (Sub Mission)
         - Save all of the captured Mujina in "A Distant Dream" (3 total).
         - Speak with Mujina in the Interim.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 146
+    - Gold: 41,400
+    - Amrita: 174,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Gesture: MUJINA DANCE
+        - Ninja's Locks X1
+        - Invisible Cloth X1
+        - Spirit Stone Carapace X1
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Invisible Cloth X1
+        - Spirit Stone Carapace X1
+        - Coral Fragment X1
+        - Fuki Veil X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 A Familiar Glow (Sub Mission)
@@ -5143,28 +5111,33 @@ A Familiar Glow (Sub Mission)
         - Complete the mission: "A Distant Dream".
         - Complete the mission: "A Spirit's Return".
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 147
+    - Gold: 41,800
+    - Amrita: 178,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Nightmare Bringer
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Samurai's Locks
+        - Dreaming Demon Faceguard (divine)
+        - Dreaming Demon Coat (exotic)
+        - Dreaming Demon Waistguard (exotic)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Dreaming Demon Coat (exotic)
+        - Dreaming Demon Gauntlets (exotic)
+        - Dreaming Demon Greaves (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Rivals Return (Sub Mission)
@@ -5172,28 +5145,34 @@ Rivals Return (Sub Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "A Distant Dream".
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 148
+    - Gold: 42,200
+    - Amrita: 182,776
+    - Shrine: No
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 2 (0 required)
     - Bosses: 
-        - 
+        - Tate Eboshi
+        - Ancient Otakemaru
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Quality Umbracite X1
+        - Bloodstained Blade Scraps X2
+        - Fuki's Kusarigama (divine)
+        - Random Equipment (divine) [Equipment is in all caps]
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Glue X1
+        - Random Equipment (divine)
+        - Highest-Quality Iron Platelet X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Undying Light (Sub Mission)
@@ -5202,25 +5181,30 @@ Undying Light (Sub Mission)
         - Complete the mission: "A Distant Dream".
         - Complete the mission: "Battle at the Temple".
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 149
+    - Gold: 42,600
+    - Amrita: 186,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Kukai
     - Guardian Spirit Unlocked: 
-        - 
+        - Suzaku
     - Mission Rewards: 
     First Time: 
-        - 
+        - Kobo Daishi's Khakkhara (splitstaff) (divine)
+        - Kobo Daishi's Hat (exotic)
+        - Kobo Daishi's Stole (chest piece) (exotic)
+        - Kobo Daishi's Hakama (legs piece) (exotic)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Kobo Daishi's Stole (exotic)
+        - Kobo Daishi's Sleevelets (arm piece) (exotic)
+        - Kobo Daishi's Gaiters (foot piece) (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
