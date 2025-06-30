@@ -1,0 +1,289 @@
+==========
+TEMPLATE ()
+==========
+    - Quest Giver: 
+    - Characters:
+        - 
+    --------------------
+    - 
+
+
+========== ========== ========== ========== ========== ========== ==========
+Dojo Missions:
+========== ========== ========== ========== ========== ========== ==========
+
+
+========== ========== ========== ========== ========== ========== ==========
+Twilight Missions:
+========== ========== ========== ========== ========== ========== ==========
+
+
+========== ========== ========== ========== ========== ========== ==========
+Base Game Missions:
+========== ========== ========== ========== ========== ========== ==========
+========== ========== ========== ========== ========== ========== ==========
+Awakening Region (Region 1)
+========== ========== ========== ========== ========== ========== ==========
+==========
+The Village of Cursed Blossoms (Main Mission)
+==========
+    - Quest Giver: Protagonist
+    - Characters:
+        - Tokichiro (Cutscenes)
+    --------------------
+    - Yamanba
+    - Gaki
+    - Gozuki (boss)
+    - Tesso
+    - Outlaw (fire arrow + bow, sword)
+    - Rogue (spear)
+    - Rogue (big) (torch, axe)
+    - Outlaw (torch, spear)
+    - Outlaw (sword)
+    - Outlaw (rifle, sword)
+    - Sohaya Warrior (hatchets)
+    - Outlaw (cannon, sword)
+    - Rogue (big) (axe)
+    - Mujina
+    - Rogue (torch, sword)
+    - Gaki (big)
+    - Yoki (sword)
+    - Outlaw (axe)
+    - Rogue (torch, cannon, sword)
+    - Kappa
+    - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==========
+The Forest Veiled in Darkness (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Tokichiro (NPC)
+    --------------------
+
+==========
+The Beast Born of Smoke and Flames (Main Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Tokichiro (Cutscenes, NPC)
+        - Saito Dosan (Cutscenes)
+        - Senji Toyo (NPC)
+        - Mumyo (Cutscenes)
+    --------------------
+
+==========
+A Voice in the Twilight (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - None
+    --------------------
+
+==========
+Dark Omens (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - None
+    --------------------
+
+==========
+The Viper's Sanctum (Main Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Tokichiro (NPC)
+        - Saito Dosan (Cutscenes)
+        - Mumyo (Cutscenes)
+    --------------------
+
+==========
+A Favor for the Blacksmith (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Mumyo (Ally)
+    --------------------
+
+==========
+The Search (Sub Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters:
+        - Tokichiro (NPC)
+    --------------------
+
+==========
+The Greedy Hunter (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - None
+    --------------------
+
+
+
+========== ========== ========== ========== ==========
+Soaring Region (Region 2)
+========== ========== ========== ========== ==========
+==========
+The Hidden Monsters of Okehazama (Main Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters:
+        - Oda Nobunaga (Cutscenes)
+        - Maeda Toshiie (Cutscenes, NPC)
+        - Tokichiro (NPC)
+    --------------------
+
+==========
+Imagawa Diehard (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - None
+    --------------------
+
+==========
+Hidetatsu's Dying Wish (Sub Mission)
+==========
+    - Quest Giver: Oda Nobunaga
+    - Characters:
+        - None
+    --------------------
+
+==========
+An Error in Calculation (Sub Mission)
+==========
+    - Quest Giver: Maeda Toshiie
+    - Characters:
+        - None
+    --------------------
+
+==========
+The Mysterious One Night Castle (Main Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Tokichiro (Cutscenes, NPC)
+        - Maeda Toshiie (Cutscenes)
+        - Shibata Katsuie (Cutscenes)
+        - Mumyo (Cutscenes)
+        - Hachisuka Koroku (Cutscenes, Ally)
+    --------------------
+
+==========
+The Sunomata Yokai Hunt (Main Mission)
+==========
+    - Quest Giver: Hachisuka Koroku
+    - Characters:
+        - Hachisuka Koroku (Ally)
+    --------------------
+
+==========
+A Hot-blodded Howl (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Maeda Keiji (NPC)
+        - Maeda Toshiie (Ally)
+    --------------------
+
+==========
+The Fire God's Magatama (Sub Mission)
+==========
+    - Quest Giver: Senji Toyo
+    - Characters:
+        - None
+    --------------------
+
+==========
+The Hollow Fortress (Main Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Tokichiro (Cutscenes, NPC)
+        - Takenaka Hanbei (Cutscenes)
+        - Mumyo (Cutscenes)
+        - Kashin Koji (Cutscenes)
+    --------------------
+
+==========
+An End to Seclusion (Sub Mission)
+==========
+    - Quest Giver: Oichi
+    - Characters:
+        - None
+    --------------------
+
+==========
+The Shiftling's Wise Judgement (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Shibata Katsuie (NPC, Ally)
+        - Hachisuka Koroku (NPC, Ally)
+    --------------------
+
+==========
+The Viper and the Butterfly (Sub Mission)
+==========
+    - Quest Giver: Princess Noh
+    - Characters:
+        - Princess Noh (Cutscenes)
+        - Oda Nobunaga (Cutscenes)
+    --------------------
+
+
+
+========== ========== ========== ========== ==========
+Shadow Region (Region 3)
+========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
