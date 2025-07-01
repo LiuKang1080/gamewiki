@@ -106,45 +106,6 @@ The Beast Born of Smoke and Flames (Main Mission)
     - Nurikabe
     - Enenra (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 A Voice in the Twilight (Sub Mission)
 ==========
@@ -152,6 +113,13 @@ A Voice in the Twilight (Sub Mission)
     - Characters:
         - None
     --------------------
+    - Gaki
+    - Gaki (big)
+    - Infernal Oni-Bi
+    - Yoki (sword)
+    - Enki
+    - Thunderstorm Oni-Bi
+    - Gozuki (boss)
 
 ==========
 Dark Omens (Sub Mission)
@@ -160,6 +128,61 @@ Dark Omens (Sub Mission)
     - Characters:
         - None
     --------------------
+    - Human (torch, axe)
+    - Human (spear)
+    - Human (sword)
+    - Human (rifle, sword)
+    - Human (big) (torch, axe)
+    - Human (conch shell, sword)
+    - Human (fire arrow + bow, sword)
+    - Abberant Soldier
+    - Enki
+    - Gaki
+    - One-Eyed Oni
+    - Sohaya Warrior (hatchets)
+    - Human (torch, rifle, sword)
+    - Human (big) (odachi)
+    - Yoki (sword)
+    - Karasu Tengu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Viper's Sanctum (Main Mission)

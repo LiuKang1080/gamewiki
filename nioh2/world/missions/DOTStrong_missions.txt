@@ -35,6 +35,7 @@ Other Notes:
         Beholder in Dream of the Samurai difficulty.
     - All missions in the Soaring Region (region 2) are automatically unlocked after beating the mission In the Eye of the
         Beholder in Dream of the Samurai difficulty.
+    - The Shadow Region is unlocked fully after completing 4 missions.
     - 
 
 
@@ -159,76 +160,40 @@ The Beast Born of Smoke and Flames (Main Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 A Voice in the Twilight (Sub Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 127
+    - Gold: 35,000
+    - Amrita: 110,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Gozuki
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Clay Bell of Beckoning X1
+        - Summoner's Candle X1
+        - Bandit Axe (divine)
+        - Demon's Horn X1
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Clay Bell of Beckoning X1
+        - Demon's Horn X1
+        - Divine Branch X1
+        - Signpost Amulet X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Dark Omens (Sub Mission)
@@ -236,28 +201,77 @@ Dark Omens (Sub Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 127
+    - Gold: 35,400
+    - Amrita: 114,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Sacred Ash X1
+        - Lumicite Crystal X1
+        - Genin's Kusarigama (divine)
+        - Brawler's Waistguard (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Brawler's Cuirass (exotic)
+        - Brawler's Greaves (exotic)
+        - Brawler's Helmet (exotic)
+        - Lumicite Fragment X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Viper's Sanctum (Main Mission)

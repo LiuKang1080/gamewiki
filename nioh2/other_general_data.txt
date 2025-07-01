@@ -271,7 +271,7 @@ Dream of the Strong (NG+1) Notes:
     - Obtain the Smithing Text: Kodama Bowl upon completing all Main and Sub missions on Dream of the Strong.
     - Maximum gear level: 160 - 170.
     - Maximum gear + level: +10.
-    - Maximum Soul Core level: 
+    - Maximum Soul Core level: 160
 
     - Spirit Stones that drop on Dream of the Strong (NG+):
         - 
