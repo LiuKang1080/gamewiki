@@ -4,7 +4,7 @@ General Info
     - [Tech] Gesture Icons are 83 x 83 pixels [need to place the icon in the middle row, and then extract the image].
 
     - There are a total of X gestures in the game.
-    - Gestures are account bound, and the player does not need to collect the same gestures multiple times.
+    - Gestures are account bound, and the player does not need to collect the same gesture multiple times.
     - The player starts with 21 gestures upon creating a new character for the first time.
     - There are 17 gestures in the Hidden Tea House.
     - There are X gestures obtained from missions.

@@ -35,60 +35,23 @@ The Village of Cursed Blossoms (Main Mission)
     - Gaki
     - Gozuki (boss)
     - Tesso
-    - Outlaw (fire arrow + bow, sword)
-    - Rogue (spear)
-    - Rogue (big) (torch, axe)
-    - Outlaw (torch, spear)
-    - Outlaw (sword)
-    - Outlaw (rifle, sword)
+    - Human (fire arrow + bow, sword)
+    - Human (spear)
+    - Human (big) (torch, axe)
+    - Human (torch, spear)
+    - Human (sword)
+    - Human (rifle, sword)
     - Sohaya Warrior (hatchets)
-    - Outlaw (cannon, sword)
-    - Rogue (big) (axe)
+    - Human (cannon, sword)
+    - Human (big) (axe)
     - Mujina
-    - Rogue (torch, sword)
+    - Human (torch, sword)
     - Gaki (big)
     - Yoki (sword)
-    - Outlaw (axe)
-    - Rogue (torch, cannon, sword)
+    - Human (axe)
+    - Human (torch, cannon, sword)
     - Kappa
     - Mezuki (boss)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ==========
 The Forest Veiled in Darkness (Sub Mission)
@@ -97,6 +60,17 @@ The Forest Veiled in Darkness (Sub Mission)
     - Characters:
         - Tokichiro (NPC)
     --------------------
+    - Human (torch, sword)
+    - Human (axe)
+    - Human (sword)
+    - Human (fire arrow + bow, sword)
+    - Human (big) (spear)
+    - Human (big) (axe)
+    - Human (big) (torch, spear)
+    - Human (torch, spear)
+    - Human (big) (dual swords)
+    - Gaki
+    - Enki
 
 ==========
 The Beast Born of Smoke and Flames (Main Mission)
@@ -108,6 +82,68 @@ The Beast Born of Smoke and Flames (Main Mission)
         - Senji Toyo (NPC)
         - Mumyo (Cutscenes)
     --------------------
+    - Human (big) (spear)
+    - Human (big) (sword)
+    - Human (torch, spear)
+    - Human (sword)
+    - Human (big) (odachi)
+    - Human (fire arrow + bow, sword)
+    - Human (torch, sword)
+    - Human (rifle, sword)
+    - Sohaya Warrior (hatchets)
+    - Human (big) (torch, sword)
+    - Gaki
+    - Yoki (sword)
+    - Skeleton Warrior (cannon, sword)
+    - Namahage (bloodstained cleavers)
+    - Skeleton Warrior (rifle, sword)
+    - Enki
+    - Human (spear)
+    - Gaki (big)
+    - Dweller
+    - Mujina
+    - Ippon-Datara (hammer)
+    - Nurikabe
+    - Enenra (boss)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 A Voice in the Twilight (Sub Mission)

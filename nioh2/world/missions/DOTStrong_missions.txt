@@ -90,79 +90,39 @@ The Village of Cursed Blossoms (Main Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Forest Veiled in Darkness (Sub Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 122
+    - Gold: 34,000
+    - Amrita: 100,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Lumicite Shard X3
+        - Yokai Incense X1
+        - Mountain Bandit Hetchets (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Night Raider Cuirass (exotic)
+        - Night Raider Waistguard (exotic)
+        - Quality Wood X3
+        - Quality Lacquer X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Beast Born of Smoke and Flames (Main Mission)
@@ -170,28 +130,76 @@ The Beast Born of Smoke and Flames (Main Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 123
+    - Gold: 34,400
+    - Amrita: 104,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 2 (0 required)
     - Bosses: 
-        - 
+        - Enenra
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Fabled Umbracite X1
+        - Enenra Mask (helmet piece) (divine)
+        - Ippon-Datara's Hammer (divine)
+        - Metalworking Chisel X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Ippon-Datara Fang X1
+        - High-Quality Tamahagane X2
+        - Quality Ingot X2
+        - Quality Iron Platelet X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 A Voice in the Twilight (Sub Mission)
