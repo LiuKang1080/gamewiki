@@ -249,7 +249,7 @@ Dream of the Samurai (NG) Notes:
     - Maximum gear + level: +10.
     - Maximum Soul Core level: 150.
     - Player can attain lvl 20 in all attributes upon reaching lvl 118.
-    - Player can attain lvl 30 in all attributes upon reaching lvl .
+    - Player can attain lvl 30 in all attributes upon reaching lvl 198.
 
     - Spirit Stone rarity drops depending on difficulty:
     - Spirit Stones that drop on Dream of the Samurai (NG):

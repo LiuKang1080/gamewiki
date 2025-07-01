@@ -821,7 +821,7 @@ Traces of the Raging Blaze
     - Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 3
-    - Number of Hot Springs: 0
+    - Number of Hot Springs: 1
     - Number of Dark Realms: 2 (0 required)
     - Bosses: 
         - Enenra

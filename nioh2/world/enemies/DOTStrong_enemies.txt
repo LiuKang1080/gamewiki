@@ -16,6 +16,27 @@ Dojo Missions:
 ========== ========== ========== ========== ========== ========== ==========
 Twilight Missions:
 ========== ========== ========== ========== ========== ========== ==========
+==========
+Traces of the Raging Blaze (A Beast Born of Smoke and Flames | Awakening Region (Region 1))
+==========
+    - Yoki (sword)
+    - Skeleton Warrior (spear)
+    - Skeleton Warrior (rifle, sword)
+    - Gaki
+    - Kappa
+    - Skeleton Warrior (sword)
+    - Ippon-Datara (hammer)
+    - Infernal Oni-Bi
+    - Karakasa Umbrella
+    - Dweller
+    - Gaki (big)
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Mujina
+    - Enki
+    - Skeleton Warrior (cannon, sword)
+    - Yoki (axe)
+    - Nurikabe
+    - Enenra (boss)
 
 
 ========== ========== ========== ========== ========== ========== ==========

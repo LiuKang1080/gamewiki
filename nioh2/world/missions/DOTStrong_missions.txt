@@ -35,7 +35,7 @@ Other Notes:
         Beholder in Dream of the Samurai difficulty.
     - All missions in the Soaring Region (region 2) are automatically unlocked after beating the mission In the Eye of the
         Beholder in Dream of the Samurai difficulty.
-    - The Shadow Region is unlocked fully after completing 4 missions.
+    - The Shadow Region is fully unlocked after completing 4 missions.
     - 
 
 
@@ -47,6 +47,40 @@ Dojo Missions:
 ========== ========== ========== ========== ========== ========== ==========
 Twilight Missions:
 ========== ========== ========== ========== ========== ========== ==========
+==========
+Traces of the Raging Blaze
+==========
+    - Mission Unlock Requirement:
+        - The Beast Born of Smoke and Flames (Awakening Region | Region 1).
+    --------------------
+    - Recommended level: 135
+    - Gold: 113,400 / 37,800
+    - Amrita: 416,328 / 138,776
+    - Shrine: Yes
+    - Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 3
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 2 (0 required)
+    - Bosses: 
+        - Enenra
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Quality Umbracite X1
+        - Highest-Quality Ingot X2
+        - Highest-Quality Tamahagane X2
+        - Highest-Quality Platelet X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Smoldering Ash Pile X1
+        - Highest-Quality Ingot X1
+        - Highest-Quality Tamahagane X1
+        - Highest-Quality Iron Platelet X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 
 ========== ========== ========== ========== ========== ========== ==========
