@@ -17,6 +17,24 @@ Dojo Missions:
 Twilight Missions:
 ========== ========== ========== ========== ========== ========== ==========
 ==========
+The Violet Cherry Blossoms (The Village of Cursed Blossoms | Awakening Region (Region 1))
+==========
+    - Gaki
+    - Gaki (big)
+    - Gozuki (boss)
+    - Enki
+    - Mujina
+    - Yoki (sword)
+    - Infernal Oni-Bi
+    - Maelstrom Oni-Bi
+    - Yoki (axe)
+    - Nure-Onna
+    - Abberant Soldier
+    - Ippon-Datara (hammer)
+    - Kappa
+    - Mezuki (boss)
+
+==========
 Traces of the Raging Blaze (A Beast Born of Smoke and Flames | Awakening Region (Region 1))
 ==========
     - Yoki (sword)
@@ -175,7 +193,30 @@ The Viper's Sanctum (Main Mission)
         - Saito Dosan (Cutscenes)
         - Mumyo (Cutscenes)
     --------------------
-    - 
+    - Human (torch, sword)
+    - Gaki
+    - Human (spear)
+    - Human (torch, axe)
+    - Human (big) (spear)
+    - Human (rifle, sword)
+    - Ninja (sword)
+    - Human (sword)
+    - Human (axe)
+    - Skeleton Warrior (cannon, sword)
+    - Blue Yoki (dual swords)
+    - Mujina
+    - Sohaya Warrior (hatchets)
+    - Kappa
+    - Yoki (axe)
+    - Abberant Soldier
+    - Nure-Onna
+    - Nurikabe
+    - Enki
+    - Human (fire arrow + bow, sword)
+    - Human (cannon, sword)
+    - Toxic Slime
+    - Yoki (sword)
+    - Yatsu-no-Kami (boss)
 
 
 

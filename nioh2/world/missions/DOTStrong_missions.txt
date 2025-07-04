@@ -48,6 +48,39 @@ Dojo Missions:
 Twilight Missions:
 ========== ========== ========== ========== ========== ========== ==========
 ==========
+The Violet Cherry Blossoms
+==========
+    - Mission Unlock Requirement:
+        - The Village of Cursed Blossoms (Awakening Region | Region 1).
+    --------------------
+    - Recommended level: 134
+    - Gold: 112,200 / 
+    - Amrita: 404,328 / 
+    - Shrine: Yes
+    - Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 3
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 2 (0 required)
+    - Bosses: 
+        - Gozuki
+        - Mezuki
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Quality Umbracite X1
+        - Sacred Arrow X4
+        - Highest-Quality Leather Platelet X2
+        - Highest-Quality Leather Cord X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
 Traces of the Raging Blaze
 ==========
     - Mission Unlock Requirement:
@@ -276,7 +309,7 @@ The Viper's Sanctum (Main Mission)
     - Shrine: Yes
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
-    - Number of Sudama: 
+    - Number of Sudama: 2 (1 big Sudama)
     - Number of Hot Springs: 1
     - Number of Dark Realms: 3 (0 required)
     - Bosses: 
@@ -291,7 +324,9 @@ The Viper's Sanctum (Main Mission)
         - Metalworking Chisel X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Bladed Horn X1
+        - Glowing Lock of Wet Hair X1
+        - Poison Pearl X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None
