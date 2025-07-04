@@ -166,45 +166,6 @@ Dark Omens (Sub Mission)
     - Yoki (sword)
     - Karasu Tengu
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Viper's Sanctum (Main Mission)
 ==========
@@ -214,6 +175,46 @@ The Viper's Sanctum (Main Mission)
         - Saito Dosan (Cutscenes)
         - Mumyo (Cutscenes)
     --------------------
+    - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 A Favor for the Blacksmith (Sub Mission)

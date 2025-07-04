@@ -264,77 +264,80 @@ Dark Omens (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Viper's Sanctum (Main Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
+    - Recommended level: 128
+    - Gold: 35,800
+    - Amrita: 118,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
     - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 3 (0 required)
     - Bosses: 
-        - 
+        - Yatsu-no-Kami
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Shinto Priest's Hunting Garb
+        - Shinto Priest's Hakama
+        - Fabled Umbracite X1
+        - Metalworking Chisel X2
     ---------- ---------- ----------
     Subsequent Completes:
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 A Favor for the Blacksmith (Sub Mission)
