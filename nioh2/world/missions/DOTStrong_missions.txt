@@ -31,11 +31,27 @@ TEMPLATE ()
 ==========
 Other Notes:
 ==========
+    - Twilight Missions in this difficulty are automatically unlocked when the region their main mission is in are unlocked.
     - All missions in the Awakening Region (region 1) are automatically unlocked after beating the mission In the Eye of the
         Beholder in Dream of the Samurai difficulty.
     - All missions in the Soaring Region (region 2) are automatically unlocked after beating the mission In the Eye of the
         Beholder in Dream of the Samurai difficulty.
-    - The Shadow Region is fully unlocked after completing 4 missions.
+    - The Shadow Region (region 3) is fully unlocked after completing 4 missions.
+    - The Dawn Region (region 4) and the Twilight Region (region 5) are fully unlocked after completing 8 missions.
+    - The following Dojo Missions are unlocked after completing 8 missions:
+        - The Way of the Warrior: Veteran
+        - The Way of the Ninja: Veteran
+        - The Way of Onmyo: Veteran
+        - Opening of the Mind's Eye
+        - Master of the Dual Blades
+        - Hanzo the Demon
+        - The Unmoving Mountain
+        - The Chain That Splits the Sky
+        - The Tengu's Blade
+        - Like Lightning
+        - The Unstoppable Whirlwind
+        - Sharp Eyes
+        - The One Who Lives in the Shadows
     - 
 
 
@@ -331,77 +347,40 @@ The Viper's Sanctum (Main Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 A Favor for the Blacksmith (Sub Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 132
+    - Gold: 36,400
+    - Amrita: 124,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Kobizen Odachi (divine)
+        - Bronze Hammer (axe) (divine)
+        - Officer's Spear (divine)
+        - Retainer's Tonfa (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Martial Artist's Switchglaive (exotic)
+        - Seki Dual Tachi (dual swords) (exotic)
+        - Naked Steel Kusarigama (exotic)
+        - Bizen Osafune (sword - type 2) (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Search (Sub Mission)
@@ -409,28 +388,33 @@ The Search (Sub Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 133
+    - Gold: 36,800
+    - Amrita: 128,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 4
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 2 (0 required)
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Kodama Bowl (head gear) (divine)
+        - Possessed Kodama Bowl X1
+        - Glowing Lock of Wet Hair X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Quality Leather Cord X3
+        - Possessed Kodama Bowl X2
+        - Quality Leather Platelet X3
+        - Signpost Amulet X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Greedy Hunter (Sub Mission)
@@ -461,34 +445,46 @@ The Greedy Hunter (Sub Mission)
     Notable Items During / Post Mission:
         - 
 
-==========
-The Greedy Hunter (Sub Mission)
-==========
-    - Mission Unlock Requirement:
-        - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
-    --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
-    ---------- ---------- ----------
-    Subsequent Completes:
-        - 
-    ---------- ---------- ----------
-    Notable Items During / Post Mission:
-        - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -875,18 +871,1207 @@ The Viper and the Butterfly (Sub Mission)
 ========== ========== ========== ========== ========== ========== ==========
 Shadow Region (Region 3)
 ========== ========== ========== ========== ========== ========== ==========
+==========
+A Way Out (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 4 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+Learning A Lesson (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 4 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+The Shrine of Oaths (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 4 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+Immovable (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 4 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+A Formal Match (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 4 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+Corpses and Ice (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 4 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+Lingering Snow and Crimson Tracks (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 4 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+The Tiger Approaches (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 4 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+The Brother's Blades (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 4 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+A Shadow's Duty (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 4 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+The Fallen Star (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 4 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+Horns on Head, Dragonfly in Hand (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 4 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+Bird In A Cage (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 4 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+The Point of No Return (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 4 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+The Golden Nation (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 4 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+The Demon King's Blade (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 4 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+The Child's Prodigy's Invitation (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 4 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+The Chinese Bellflower Dagger (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 4 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+A Strong Bond (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 4 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
 
 
+========== ========== ========== ========== ==========
+Dawn Region (Region 4)
+========== ========== ========== ========== ==========
+==========
+Pervading Waters (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+The Missing Gun (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+The Refined Man of the Underworld (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+Song of the Yokai (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+The Frenzied Blaze (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+The Burning Sky (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+Abduction (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+The Warrior (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+The Sun Sets on Mount Tenno (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+The Aberrant Mage (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+The Third Word (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+Master of the Three Evils (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
 
 
+========== ========== ========== ========== ==========
+Twilight Region (Region 5)
+========== ========== ========== ========== ==========
+==========
+Ruin Draws Near (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+Okuni's Search (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+Farewell to the Past (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+The Two Faces of Hospitality (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+The High-Spirited Demon (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+A Message From the Deceased (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+Stray Cats (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+Calling on the Fire God (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+Scattered Fragments (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+A Prayer in the Moonlight (Sub Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete 8 missions in Dream of the Strong.
+    --------------------
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
 
 
-
-
-
-
-
-
+========== ========== ========== ========== ==========
+Dream Region (Region 6)
+========== ========== ========== ========== ==========
 
 
 

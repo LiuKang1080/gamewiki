@@ -18,7 +18,7 @@ The Way of the Warrior: Novice (Dojo Mission)
     - Characters:
         - Tsukahara Bokuden (NPC)
     --------------------
-    - Outlaw (sword)
+    - Human (sword)
 
 ==========
 The Way of the Ninja: Novice (Dojo Mission)
@@ -516,12 +516,12 @@ The Village of Cursed Blossoms (Main Mission)
     - Gaki (first time)
     - Gozuki (boss) (first time)
     - Enki (first time)
-    - Outlaw (bow + fire arrow, sword) (first time)
-    - Outlaw (spear) (first time)
-    - Rogue (big) (axe) (first time)
-    - Outlaw (sword) (first time)
+    - Human (bow + fire arrow, sword) (first time)
+    - Human (spear) (first time)
+    - Human (big) (axe) (first time)
+    - Human (sword) (first time)
     - Yoki (sword) (first time)
-    - Outlaw (torch, bow + fire arrow, sword) (first time)
+    - Human (torch, bow + fire arrow, sword) (first time)
     - Mezuki (boss) (first time)
 
 ==========
@@ -531,13 +531,13 @@ The Forest Veiled in Darkness (Sub Mission)
     - Characters:
         - Tokichiro (NPC)
     --------------------
-    - Outlaw (torch, sword)
-    - Rogue (axe)
-    - Rogue (big) (spear) (first time)
-    - Outlaw (bow + fire arrow, sword)
-    - Rogue (big) (axe)
-    - Outlaw (big) (torch, spear) (first time)
-    - Rogue (big) (dual swords) (first time)
+    - Human (torch, sword)
+    - Human (axe)
+    - Human (big) (spear) (first time)
+    - Human (bow + fire arrow, sword)
+    - Human (big) (axe)
+    - Human (big) (torch, spear) (first time)
+    - Human (big) (dual swords) (first time)
     - Gaki
     - Enki
 
@@ -551,13 +551,13 @@ The Beast Born of Smoke and Flames (Main Mission)
         - Senji Toyo (NPC)
         - Mumyo (Cutscenes)
     --------------------
-    - Outlaw (sword)
-    - Rogue (big) (sword) (first time)
-    - Outlaw (torch, spear)
-    - Rogue (big) (spear) (first time)
-    - Rogue (big) (odachi) (first time)
-    - Outlaw (torch, sword)
-    - Outlaw (bow + fire arrow, sword)
+    - Human (sword)
+    - Human (big) (sword) (first time)
+    - Human (torch, spear)
+    - Human (big) (spear) (first time)
+    - Human (big) (odachi) (first time)
+    - Human (torch, sword)
+    - Human (bow + fire arrow, sword)
     - Ippon-Datara (hammer) (first time)
     - Gaki
     - Sohaya Warrior (hatchets) (first time)
@@ -565,7 +565,6 @@ The Beast Born of Smoke and Flames (Main Mission)
     - Enki
     - Dweller (first time)
     - Ippon-Datara (odachi) (first time)
-    - Rogue (bow + fire arrow, sword) (first time)
     - Mujina (first time)
     - Nurikabe (first time)
     - Skeleton Warrior (bow + fire arrow, sword) (first time)
@@ -594,21 +593,20 @@ Dark Omens (Sub Mission)
     - Characters:
         - None
     --------------------
-    - Outlaw (torch, axe) (first time)
-    - Outlaw (spear)
-    - Rogue (sword)
-    - Rogue (rifle, sword)
-    - Outlaw (bow + fire arrow, sword)
-    - Outlaw (rifle, sword)
-    - Outlaw (conch shell, sword)
-    - Rogue (big) (axe)
+    - Human (torch, axe) (first time)
+    - Human (spear)
+    - Human (sword)
+    - Human (rifle, sword)
+    - Human (bow + fire arrow, sword)
+    - Human (conch shell, sword)
+    - Human (big) (axe)
     - Abbarant Soldier (first time)
     - Enki
     - Gaki
     - One-Eyed Oni (first time)
     - Sohaya Warrior (hatchets)
-    - Outlaw (torch, rifle, sword)
-    - Rogue (big) (odachi)
+    - Human (torch, rifle, sword)
+    - Human (big) (odachi)
     - Yoki (sword)
     - Karasu Tengu (first time)
 
@@ -622,10 +620,10 @@ The Viper's Sanctum (Main Mission)
         - Mumyo (Cutscenes)
     --------------------
     - Gaki
-    - Warrior (sword) (first time)
-    - Warrior (spear) (first time)
-    - Warrior (torch, axe) (first time)
-    - Warrior (big) (torch, spear) (first time)
+    - Human (sword)
+    - Human (spear)
+    - Human (torch, axe)
+    - Human (big) (torch, spear)
     - Ninja (sword) (first time)
     - Yoki (axe) (first time)
     - Sohaya Warrior (hatchets)
@@ -634,7 +632,7 @@ The Viper's Sanctum (Main Mission)
     - Nurikabe
     - Yoki (sword)
     - Enki
-    - Warrior (bow + fire arrow, sword)
+    - Human (bow + fire arrow, sword)
     - Toxic Slime (first time)
     - Ippon-Datara (hammer)
     - Yatsu-no-Kami (boss) (first time)
@@ -653,9 +651,9 @@ A Favor for the Blacksmith (Sub Mission)
     - Dweller (big) (first time)
     - Ippon-Datara (hammer)
     - Wheelmonk (first time)
-    - Rogue (big) (torch, odachi)
-    - Outlaw (bow + fire arrow, sword)
-    - Rogue (big) (dual swords)
+    - Human (big) (torch, odachi)
+    - Human (bow + fire arrow, sword)
+    - Human (big) (dual swords)
 
 ==========
 The Search (Sub Mission)
@@ -676,10 +674,10 @@ The Greedy Hunter (Sub Mission)
     - Characters:
         - None
     --------------------
-    - Outlaw (dual swords)
-    - Outlaw (sword)
-    - Outlaw (bow + fire arrow, sword)
-    - Outlaw (axe)
+    - Human (dual swords)
+    - Human (sword)
+    - Human (bow + fire arrow, sword)
+    - Human (axe)
     - Enki
     - Gaki
     - Gaki (big)
@@ -711,12 +709,12 @@ The Hidden Monsters of Okehazama (Main Mission)
     - Infernal Oni-Bi
     - Maelstrom Oni-Bi (first time)
     - One-Eyed Oni
-    - Warrior (axe)
-    - Warrior (bow + fire arrow, sword)
-    - Warrior (big) (dual swords)
-    - Warrior (sword)
+    - Human (axe)
+    - Human (bow + fire arrow, sword)
+    - Human (big) (dual swords)
+    - Human (sword)
     - Nurikabe
-    - Warrior (spear)
+    - Human (spear)
     - Imagawa Yoshimoto (boss) (first time)
 
 ==========
@@ -726,10 +724,10 @@ Imagawa Diehard (Sub Mission)
     - Characters:
         - None
     --------------------
-    - Warrior (bow + fire arrow, sword)
-    - Warrior (torch, spear)
-    - Warrior (dual swords)
-    - Warrior (spear)
+    - Human (bow + fire arrow, sword)
+    - Human (torch, spear)
+    - Human (dual swords)
+    - Human (spear)
     - Okabe Motonobu (first time)
     - Ninja (sword)
     - Okabe Masatsuna (first time)
@@ -742,15 +740,15 @@ Hidetatsu's Dying Wish (Sub Mission)
     - Characters:
         - None
     --------------------
-    - Warrior (sword)
-    - Warrior (axe)
-    - Warrior (big) (spear)
+    - Human (sword)
+    - Human (axe)
+    - Human (big) (spear)
     - Toxic Slime
-    - Warrior (big) (axe)
-    - Warrior (bow + fire arrow, sword)
+    - Human (big) (axe)
+    - Human (bow + fire arrow, sword)
     - Sohaya Warrior (hatchets)
-    - Warrior (big) (odachi)  
-    - Warrior (big) (sword) 
+    - Human (big) (odachi)  
+    - Human (big) (sword) 
     - Nure-Onna
     - One-Eyed Oni
     - Gaki
@@ -787,10 +785,10 @@ The Mysterious One Night Castle (Main Mission)
         - Mumyo (Cutscenes)
         - Hachisuka Koroku (Cutscenes, Ally)
     --------------------
-    - Warrior (axe)
-    - Warrior (bow + fire arrow, sword)
-    - Warrior (spear)
-    - Warrior (big) (odachi) 
+    - Human (axe)
+    - Human (bow + fire arrow, sword)
+    - Human (spear)
+    - Human (big) (odachi) 
     - Gaki
     - Aberrant Soldier
     - Karasu Tengu
@@ -800,11 +798,8 @@ The Mysterious One Night Castle (Main Mission)
     - Lesser Umi-Bozu
     - Enki
     - Sohaya Warrior (switchglaive)
-    - Rogue (axe)
-    - Warrior (sword)
-    - Rogue (spear)
-    - Rogue (sword)
-    - Warrior (big) (axe)
+    - Human (sword)
+    - Human (big) (axe)
     - Nurikabe
     - Karakasa Umbrella
     - Kappa
@@ -836,11 +831,11 @@ A Hot-blodded Howl (Sub Mission)
         - Maeda Keiji (NPC)
         - Maeda Toshiie (Ally)
     --------------------
-    - Warrior (sword)
-    - Warrior (axe)
-    - Rogue (big) (hammer)
+    - Human (sword)
+    - Human (axe)
+    - Human (big) (hammer)
     - Ippon-Datara (odachi)
-    - Warrior (bow + fire arrow, sword)
+    - Human (bow + fire arrow, sword)
     - Gaki
     - Dweller
     - Enki
@@ -852,10 +847,10 @@ A Hot-blodded Howl (Sub Mission)
     - Infernal Oni-Bi
     - Yoki (sword)
     - Gaki (big)
-    - Warrior (spear)
-    - Rogue (big) (dual swords)
-    - Warrior (torch, sword)
-    - Rogue (big) (spear)
+    - Human (spear)
+    - Human (big) (dual swords)
+    - Human (torch, sword)
+    - Human (big) (spear)
     - Adachi the Beheader (first time)
 
 ==========
@@ -890,18 +885,18 @@ The Hollow Fortress (Main Mission)
     - Dweller
     - Dweller (big)
     - Koroka (first time)
-    - Warrior (torch, sword)
+    - Human (torch, sword)
     - Enki
-    - Warrior (sword)
-    - Warrior (big) (axe)
-    - Warrior (big) (odachi)
+    - Human (sword)
+    - Human (big) (axe)
+    - Human (big) (odachi)
     - Aberrant Soldier
     - Rokurokubi (spear) (first time)
     - Onryoki (boss) (first time)
     - Snowclops (first time)
-    - Warrior (bow + fire arrow, sword)
+    - Human (bow + fire arrow, sword)
     - Rokurokubi (dual swords) (first time)
-    - Warrior (big) (torch, axe)
+    - Human (big) (torch, axe)
     - Mujina
     - Rokurokubi (sword) (first time)
     - Saito Yoshitatsu (boss) (first time)
@@ -932,17 +927,17 @@ The Shiftling's Wise Judgement (Sub Mission)
         - Hachisuka Koroku (NPC, Ally)
     --------------------
     (Side w/ Hachisuka Koroku):
-    - Warrior (axe)
-    - Warrior (big) (dual swords)
-    - Warrior (big) (odachi)
-    - Warrior (big) (axe)
-    - Warrior (bow + fire arrow, sword)
-    - Warrior (dual swords)
-    - Warrior (sword)
-    - Warrior (spear)
+    - Human (axe)
+    - Human (big) (dual swords)
+    - Human (big) (odachi)
+    - Human (big) (axe)
+    - Human (bow + fire arrow, sword)
+    - Human (dual swords)
+    - Human (sword)
+    - Human (spear)
     - Ninja (dual swords) (first time)
-    - Warrior (big) (sword)
-    - Warrior (conch shell, sword)
+    - Human (big) (sword)
+    - Human (conch shell, sword)
     - Ninja (cannon, sword) (first time)
     - Ninja (sword)
     - Ninja (kusarigama) (first time)
@@ -999,28 +994,26 @@ A Way Out (Main Mission)
         - Matsunaga Hisahide (Cutscenes)
     --------------------
     - Ninja Dog (first time)
-    - Rogue (bow + fire arrow, sword)
-    - Rogue (torch, sword)
-    - Rogue (axe)
-    - Rogue (sword)
-    - Rogue (spear)
-    - Warrior (big) (torch, odachi)
+    - Human (bow + fire arrow, sword)
+    - Human (torch, sword)
+    - Human (axe)
+    - Human (sword)
+    - Human (spear)
+    - Human (big) (torch, odachi)
     - Yamanba
     - Gaki
     - Skeleton Warrior (big) (axe)
     - Skeleton Warrior (bow + fire arrow, sword)
-    - Warrior (big) (spear)
-    - Warrior (big) (odachi)
-    - Outlaw (sword)
-    - Outlaw (conch shell, sword)
+    - Human (big) (spear)
+    - Human (big) (odachi)
+    - Human (conch shell, sword)
     - Mitsume Yazura (first time)
     - One-Eyed Imp (first time)
     - Biwa Boku-Boku
     - Skeleton Warrior (cannon, sword)
     - Skeleton Warrior (spear)
     - Karasu Tengu
-    - Outlaw (rifle, sword)
-    - Outlaw (axe)
+    - Human (rifle, sword)
     - Karakasa Umbrella
     - Skeleton Warrior (rifle, sword)
     - Nurikabe
@@ -1033,23 +1026,23 @@ Learning A Lesson (Sub Mission)
     - Characters:
         - None
     --------------------
-    - Rogue (axe)
-    - Rogue (sword)
-    - Rogue (cannon, sword)
-    - Warrior (big) (odachi)
+    - Human (axe)
+    - Human (sword)
+    - Human (cannon, sword)
+    - Human (big) (odachi)
     - Skeleton Warrior (spear)
     - Dweller
     - Gaki
     - Yamanba
     - Yoki (sword)
-    - Rogue (torch, sword)
+    - Human (torch, sword)
     - Sohaya Warrior (hatchets)
     - Skeleton Warrior (cannon, sword)
     - Ippon Datara (odachi)
-    - Warrior (big) (hammer)
+    - Human (big) (hammer)
     - Sohaya Warrior (switchglaive)
     - Abbarant Soldier
-    - Warrior (big) (axe)
+    - Human (big) (axe)
     - Kappa
     - Enki
 
@@ -1067,11 +1060,11 @@ The Shrine of Oaths (Sub Mission)
     - One-Eyed Oni
     - Gaki
     - Koroka
-    - Rogue (conch shell, sword)
-    - Rogue (spear)
-    - Rogue (big) (odachi)
-    - Rogue (bow + fire arrow, sword)
-    - Rogue (rifle, sword)
+    - Human (conch shell, sword)
+    - Human (spear)
+    - Human (big) (odachi)
+    - Human (bow + fire arrow, sword)
+    - Human (rifle, sword)
     - Karakasa Umbrella
     - Maelstrom Oni-Bi
     - Infernal Oni-Bi
@@ -1086,10 +1079,10 @@ Immoveable (Sub Mission)
     --------------------
     - Sohaya Warrior (axe) (first time)
     - Sohaya Warrior (hatchets)
-    - Rogue (torch, rifle, sword)
-    - Rogue (rifle, sword)
-    - Rogue (big) (spear)
-    - Rogue (axe)
+    - Human (torch, rifle, sword)
+    - Human (rifle, sword)
+    - Human (big) (spear)
+    - Human (axe)
     - Ninja Dog
     - Sohaya Warrior (odachi) (first time)
     - Enki
@@ -1122,25 +1115,25 @@ Corpses and Ice (Main Mission)
         - Hattori Hanzo (Cutscenes)
         - Honda Tadakatsu (Cutscenes, NPC)
     --------------------
-    - Warrior (sword)
-    - Warrior (spear)
-    - Warrior (torch, sword)
-    - Warrior (rifle, sword)
-    - Warrior (big) (odachi)
-    - Warrior (torch, rifle, sword)
+    - Human (sword)
+    - Human (spear)
+    - Human (torch, sword)
+    - Human (rifle, sword)
+    - Human (big) (odachi)
+    - Human (torch, rifle, sword)
     - Mujina
     - Skeleton Warrior (rifle, sword)
     - Gaki
     - Yoki (axe)
     - Enki
-    - Warrior (torch, axe)
+    - Human (torch, axe)
     - Skeleton Warrior (big) (axe)
     - Skeleton Warrior (spear)
-    - Warrior (conch shell, sword)
-    - Warrior (axe)
+    - Human (conch shell, sword)
+    - Human (axe)
     - Mitsume Yazura
     - Rokurokubi
-    - Warrior (big) (spear)
+    - Human (big) (spear)
     - Magara Takamoto (first time)
     - Namahage (bloodstained cleavers) (first time)
     - Namahage (bloodstained blade) (first time)
@@ -1204,21 +1197,21 @@ A Shadow's Duty (Sub Mission)
     - Characters: 
         - Hattori Hanzo (NPC)
     --------------------
-    - Warrior (big) (axe)
-    - Warrior (sword)
+    - Human (big) (axe)
+    - Human (sword)
     - Ninja (bow + fire arrow, sword)
-    - Warrior (big) (sword)
-    - Warrior (rifle, sword)
-    - Warrior (axe)
-    - Warrior (torch, sword)
+    - Human (big) (sword)
+    - Human (rifle, sword)
+    - Human (axe)
+    - Human (torch, sword)
     - Ninja (sword)
     - Skeleton Warrior (big) (axe)
     - Gaki
     - Abbarant Soldier
-    - Warrior (odachi) (first time)
-    - Warrior (big) (rifle, sword) (first time)
-    - Warrior (spear)
-    - Warrior (conch shell, sword)
+    - Human (odachi) (first time)
+    - Human (big) (rifle, sword) (first time)
+    - Human (spear)
+    - Human (conch shell, sword)
     - Enki
     - Skeleton Warrior (sword)
     - Skeleton Warrior (spear)
@@ -1266,22 +1259,22 @@ Bird In A Cage (Main Mission)
     - Dweller
     - Spider (medium) (first time)
     - Spider (small) (first time)
-    - Warrior (sword)
-    - Warrior (torch, sword)
-    - Warrior (torch, axe)
-    - Warrior (big) (sword)
-    - Warrior (big) (torch, odachi)
+    - Human (sword)
+    - Human (torch, sword)
+    - Human (torch, axe)
+    - Human (big) (sword)
+    - Human (big) (torch, odachi)
     - Ninja Dog
     - Dweller (big)
     - Tesso (first time)
-    - Warrior (big) (axe)
-    - Warrior (conch shell, sword)
+    - Human (big) (axe)
+    - Human (conch shell, sword)
     - Yoki (axe)
-    - Warrior (axe)
-    - Warrior (rifle, sword)
+    - Human (axe)
+    - Human (rifle, sword)
     - Skeleton Warrior (big) (axe)
-    - Warrior (big) (spear)
-    - Warrior (big) (dual swords)
+    - Human (big) (spear)
+    - Human (big) (dual swords)
     - Skeleton Warrior (big) (hammer)
     - Waira
     - Koroka
@@ -1292,7 +1285,7 @@ Bird In A Cage (Main Mission)
     - Namahage (bloodstained cleavers)
     - Mujina
     - Skeleton Warrior (rifle, sword)
-    - Warrior (big) (odachi)
+    - Human (big) (odachi)
     - Spider (big) (first time)
     - Azai Nagamasa (boss) (first time)
 
@@ -1360,13 +1353,13 @@ A Strong Bond (Sub Mission)
     - Characters: 
         - Takenaka Hanbei (NPC)
     --------------------
-    - Rogue (big) (torch, odachi)
-    - Rogue (spear)
+    - Human (big) (torch, odachi)
+    - Human (spear)
     - Sohaya Warrior (switchglaive)
     - Dog
-    - Rogue (sword)
+    - Human (sword)
     - Sohaya Warrior (odachi)
-    - Rogue (torch, axe)
+    - Human (torch, axe)
     - Dweller
     - Lesser Umi-Bozu
     - One-Eyed Imp
@@ -1396,11 +1389,11 @@ Pervading Waters (Main Mission)
     --------------------
     - Saika Clan (dual pistols, rifle, dual swords) (first time)
     - Saika Clan (rifle, kusarigama) (first time)
-    - Outlaw (conch shell, sword)
-    - Outlaw (spear)
+    - Human (conch shell, sword)
+    - Human (spear)
     - Nurikabe
     - Saika Clan (cannon, kusarigama) (first time)
-    - Outlaw (sword)
+    - Human (sword)
     - Muni (human saika warrior) (kusarigama) (first-time)
     - Nure-Onna
     - Gaki
@@ -1431,15 +1424,15 @@ The Missing Gun (Sub Mission)
         - None
     --------------------
     - Saika Clan (dual pistols, rifle, dual swords)
-    - Rogue (big) (sword)
-    - Rogue (torch, spear)
-    - Rogue (sword)
+    - Human (big) (sword)
+    - Human (torch, spear)
+    - Human (sword)
     - Ninja Dog
-    - Rogue (big) (spear)
+    - Human (big) (spear)
     - Saika Clan (cannon, dual swords)
     - Saika Clan (kusarigama)
-    - Rogue (axe)
-    - Rogue (big) (axe)
+    - Human (axe)
+    - Human (big) (axe)
     - Kosuzume (human saika warrior) (kusarigama) (first time)
     - Tesso
     - Skeleton Warrior (rifle, sword)
@@ -1496,12 +1489,12 @@ The Frenzied Blaze (Main Mission)
         - Obsidian Samurai (Ally)
         - Oichi (Cutscenes)
     --------------------
-    - Warrior (sword)
+    - Human (sword)
     - Onmyo Mage (first time)
-    - Outlaw (axe)
-    - Warrior (spear)
-    - Warrior (torch, spear)
-    - Outlaw (bow + fire arrow, sword)
+    - Human (axe)
+    - Human (spear)
+    - Human (torch, spear)
+    - Human (bow + fire arrow, sword)
     - Gaki
     - Kappa
     - Gaki (big)
@@ -1518,9 +1511,9 @@ The Frenzied Blaze (Main Mission)
     - Skeleton Warrior (rifle, sword)
     - Nurikabe
     - Ippon-Datara (hammer)
-    - Warrior (rifle, sword)
-    - Warrior (big) (spear)
-    - Warrior (big) (dual swords)
+    - Human (rifle, sword)
+    - Human (big) (spear)
+    - Human (big) (dual swords)
     - Onyudo (fire)
     - Skeleton Warrior (cannon, sword)
     - Kasha (boss) (first time)
@@ -1580,16 +1573,16 @@ The Warrior (Sub Mission)
     - Infernal Oni-Bi
     - One-Eyed Oni
     - Tesso
-    - Outlaw (sword)
-    - Warrior (odachi)
+    - Human (sword)
+    - Human (odachi)
     - Mitsume Yazura
     - Ubume
-    - Warrior (axe)
+    - Human (axe)
     - Skeleton Warrior (bow + fire arrow, sword)
-    - Warrior (big) (dual swords)
-    - Warrior (bow + fire arrow, sword)
+    - Human (big) (dual swords)
+    - Human (bow + fire arrow, sword)
     - Thunderstorm Oni-Bi
-    - Warrior (big) (odachi)
+    - Human (big) (odachi)
     - Enki
     - Tesso
     - Abbarant Soldier
@@ -1609,24 +1602,24 @@ The Sun Sets on Mount Tenno (Main Mission)
     --------------------
     - Gaki
     - Skeleton Warrior (spear)
-    - Warrior (torch, spear)
-    - Warrior (dual swords)
-    - Warrior (bow + fire arrow, sword)
+    - Human (torch, spear)
+    - Human (dual swords)
+    - Human (bow + fire arrow, sword)
     - Skeleton Warrior (sword)
     - Yoki (axe)
-    - Warrior (rifle, sword)
+    - Human (rifle, sword)
     - Nure-Onna
     - Waira
-    - Warrior (odachi)
+    - Human (odachi)
     - Blue Yoki (kusarigama) (first time)
     - Skeleton Warrior (rifle, sword)
     - Skeleton Warrior (bow + fire arrow, sword)
-    - Warrior (axe)
-    - Warrior (spear)
-    - Warrior (cannon, sword)
-    - Warrior (big) (odachi)
-    - Warrior (torch, sword)
-    - Warrior (big) (rifle, sword)
+    - Human (axe)
+    - Human (spear)
+    - Human (cannon, sword)
+    - Human (big) (odachi)
+    - Human (torch, sword)
+    - Human (big) (rifle, sword)
     - Nurikabe
     - Onmyo Mage
     - Ubume
@@ -1644,18 +1637,18 @@ The Aberrant Mage (Sub Mission)
     - Characters: 
         - Saika Magoichi (Ally)
     --------------------
-    - Warrior (sword)
-    - Warrior (axe)
-    - Warrior (big) (rifle, sword)
-    - Warrior (big) (torch, odachi)
-    - Warrior (big) (spear)
+    - Human (sword)
+    - Human (axe)
+    - Human (big) (rifle, sword)
+    - Human (big) (torch, odachi)
+    - Human (big) (spear)
     - Spider
     - Dweller
     - Dweller (big)
     - Koroka
     - Tesso
-    - Warrior (rifle, sword)
-    - Warrior (big) (axe)
+    - Human (rifle, sword)
+    - Human (big) (axe)
     - Onmyo Mage
     - Enki
     - Abbarant Soldier
@@ -1703,12 +1696,12 @@ Ruin Draws Near (Main Mission)
     - Mujina
     - Abbarant Soldier
     - Wheelmonk
-    - Warrior (axe)
-    - Warrior (torch, spear)
-    - Warrior (cannon, sword)
+    - Human (axe)
+    - Human (torch, spear)
+    - Human (cannon, sword)
     - Infernal oni-Bi
     - Koroka
-    - Warrior (spear)
+    - Human (spear)
     - Maeda Toshiie (boss) (first time)
     - Nurikabe
     - Ippon-Datara (hammer)
@@ -1742,11 +1735,11 @@ Farewell to the Past (Sub Mission)
     - Characters: 
         - None
     --------------------
-    - Warrior (dual swords)
-    - Warrior (spear)
-    - Warrior (big) (odachi)
+    - Human (dual swords)
+    - Human (spear)
+    - Human (big) (odachi)
     - Onmyo Mage
-    - Warrior (big) (dual swords)
+    - Human (big) (dual swords)
     - Mysterious Samurai
 
 ==========
@@ -1763,12 +1756,12 @@ The Two Faces of Hospitality (Main Mission)
         - Kashin Koji (Cutscenes)
     --------------------
     - Ninja (kusarigama)
-    - Warrior (sword)
-    - Warrior (rifle, sword)
-    - Warrior (big) (axe)
+    - Human (sword)
+    - Human (rifle, sword)
+    - Human (big) (axe)
     - Flying Bolt
-    - Warrior (big) (sword)
-    - Warrior (spear)
+    - Human (big) (sword)
+    - Human (spear)
     - Ikeda Motosuke (sword) (first time)
     - Abbarant Soldier
     - Skeleton Warrior (big) (axe)
@@ -1777,15 +1770,15 @@ The Two Faces of Hospitality (Main Mission)
     - Rokurokubi (dual swords)
     - Yoki (sword)
     - Mitsume Yazura
-    - Warrior (big) (dual swords)
+    - Human (big) (dual swords)
     - Mori Nagayoshi (spear) (first time)
     - Ninja (tonfas) (first time)
     - Ninja (dual swords)
-    - Warrior (big) (torch, axe)
+    - Human (big) (torch, axe)
     - Ninja Dog
-    - Warrior (cannon, sword)
+    - Human (cannon, sword)
     - Mujina
-    - Warrior (big) (torch, sword)
+    - Human (big) (torch, sword)
     - Ikeda Tsuneoki (dual swords) (first time)
     - Nurikabe
     - Skeleton Warrior (rifle, sword)
@@ -1828,18 +1821,18 @@ A Message From the Deceased (Sub Mission)
     - Characters:
         - Chosokabe Motochika (NPC, Ally)
     --------------------
-    - Warrior (spear)
-    - Warrior (rifle, sword)
-    - Warrior (conch shell, sword)
-    - Warrior (big) (dual swords)
-    - Warrior (big) (odachi)
-    - Warrior (axe)
+    - Human (spear)
+    - Human (rifle, sword)
+    - Human (conch shell, sword)
+    - Human (big) (dual swords)
+    - Human (big) (odachi)
+    - Human (axe)
     - Abbarant Soldier
     - Gaki
     - Skeleton Warrior (spear)
     - Skeleton Warrior (cannon, sword)
     - Yoki (axe)
-    - Warrior (odachi)
+    - Human (odachi)
     - Yoki (sword)
     - Mitsume Yazura
     - Nure-Onna
@@ -1895,7 +1888,7 @@ Scattered Fragments (Sub Mission)
     - Yamanba
     - Spider (big)
     - Thunderstorm Oni-Bi
-    - Ippon-Datara
+    - Ippon-Datara (hammer)
     - Maelstrom Oni-Bi
     - Biwa Boku-Boku
     - Abbarant Soldier
@@ -1988,15 +1981,15 @@ The Golden Castle (Main Mission)
         - Sen no Rikyu (Cutscenes)
         - Tokichiro (Cutscenes)
     --------------------
-    - Warrior (spear)
-    - Warrior (sword)
-    - Warrior (big) (dual swords)
+    - Human (spear)
+    - Human (sword)
+    - Human (big) (dual swords)
     - Yoki (axe)
-    - Warrior (axe)
-    - Warrior (big) (odachi)
+    - Human (axe)
+    - Human (big) (odachi)
     - Ninja Dog
-    - Warrior (rifle)
-    - Warrior (big) (sword)
+    - Human (rifle, sword)
+    - Human (big) (sword)
     - Rokurokubi (spear)
     - Enenra (boss)
     - Ubume
@@ -2070,15 +2063,15 @@ Cherry Blossom Viewing Daigo (Main Mission)
         - Okuni (Cutscenes, NPC)
         - Mumyo (Cutscenes, NPC, Ally)
     --------------------
-    - Warrior (big) (torch, spear)
-    - Warrior (rifle, sword)
-    - Warrior (spear)
-    - Warrior (torch, spear)
+    - Human (big) (torch, spear)
+    - Human (rifle, sword)
+    - Human (spear)
+    - Human (torch, spear)
     - Katagiri Katsumoto (Seven Spears #1) (spear) (first time)
-    - Warrior (big) (spear)
+    - Human (big) (spear)
     - Lesser Umi-Bozu
     - Magatsu Warrior
-    - Warrior (torch, sword)
+    - Human (torch, sword)
     - Fukushima Masanori (Seven Spears #2) (spear) (first time)
     - Abbarant Soldier
     - Skeleton Warrior (rifle, sword)
@@ -2310,17 +2303,17 @@ A Song to Calm the Storm (Main Mission)
         - Nasu no Yoichi (NPC)
         - Benkei (Ally)
     --------------------
-    - Warrior (axe)
-    - Warrior (big) (sword)
-    - Warrior (torch, spear)
-    - Warrior (big) (fire arrow + bow, sword)
-    - Warrior (big) (odachi)
+    - Human (axe)
+    - Human (big) (sword)
+    - Human (torch, spear)
+    - Human (big) (fire arrow + bow, sword)
+    - Human (big) (odachi)
     - Kiryoki (first time)
     - Gaki
     - Lesser Umi-Bozu
-    - Warrior (torch, axe)
+    - Human (torch, axe)
     - Sohaya Warrior (splitstaff) (first time)
-    - Warrior (big) (torch, sword)
+    - Human (big) (torch, sword)
     - Bakegani (first time)
     - Abbarant Soldier
     - Nure-Onna
@@ -2328,7 +2321,7 @@ A Song to Calm the Storm (Main Mission)
     - Rokurokubi (spear)
     - Kappa
     - Bakegani (big) (first time)
-    - Warrior (big) (torch, odachi)
+    - Human (big) (torch, odachi)
     - Benkei (boss) (first time)
     - Skeleton Warrior (spear)
     - Mujina
@@ -2388,10 +2381,10 @@ The Lost Sword (Sub Mission)
     - Lesser Umi-Bozu
     - Bakegani
     - Red Kappa
-    - Warrior (big) (torch, fire arrow + bow, sword)
+    - Human (big) (torch, fire arrow + bow, sword)
     - Sohaya Warrior (splitstaff)
-    - Warrior (big) (fire arrow, sword)
-    - Warrior (big) (sword)
+    - Human (big) (fire arrow, sword)
+    - Human (big) (sword)
     - Taira no Kagekiyo (boss) (first time)
 
 ==========
@@ -2427,13 +2420,13 @@ Eternal Rivals (Main Mission)
         - Minamoto no Yoshitsune (Cutscenes, Ally)
         - Benkei (Cutscenes)
     --------------------
-    - Warrior (sword)
-    - Warrior (spear)
-    - Warrior (fire arrow + bow, sword)
+    - Human (sword)
+    - Human (spear)
+    - Human (fire arrow + bow, sword)
     - Sohaya Warrior (splitstaff)
-    - Warrior (torch, spear)
+    - Human (torch, spear)
     - Dweller
-    - Warrior (torch, sword)
+    - Human (torch, sword)
     - Rokurokubi (sword)
     - Abbarant Soldier
     - Nuppeppo (first time)
@@ -2507,11 +2500,11 @@ Prisoners of the Stones (Sub Mission)
     - Characters:
         - Mysterious Samurai / Date Tomomune (NPC, Ally)
     --------------------
-    - Warrior (fire arrow + bow, sword)
-    - Warrior (big) (spear)
-    - Warrior (conch shell, sword)
-    - Warrior (axe)
-    - Warrior (big) (dual swords)
+    - Human (fire arrow + bow, sword)
+    - Human (big) (spear)
+    - Human (conch shell, sword)
+    - Human (axe)
+    - Human (big) (dual swords)
     - Lesser Umi-Bozu
     - Gaki (big)
     - Skeleton Warrior (big) (axe)
@@ -2612,9 +2605,9 @@ The Buddha's Palm (Sub Mission)
     - Characters:
         - Usui Sadamitsu (NPC)
     --------------------
-    - Rogue (sword)
-    - Rogue (big) (torch, sword)
-    - Rogue (axe)
+    - Human (sword)
+    - Human (big) (torch, sword)
+    - Human (axe)
     - Tsuchigumo Ninja (tonfas)
     - One-Eyed Imp
     - Oboroguruma
@@ -2623,9 +2616,9 @@ The Buddha's Palm (Sub Mission)
     - Tsuchigumo Ninja (dual swords) (first time)
     - Tesso
     - Sohaya Warrior (switchglaive)
-    - Rogue (fire arrow + bow, sword)
+    - Human (fire arrow + bow, sword)
     - Sohaya Warrior (torch, odachi)
-    - Rogue (torch, axe)
+    - Human (torch, axe)
     - Onyudo (lightning)
     - Onmyo Mage
     - Dweller
@@ -2731,8 +2724,8 @@ The Sweet Scent of Plums (Sub Mission)
         - Fujiwara no Yasumasa (NPC, Ally)
     --------------------
     - Sohaya Warrior (hatchets)
-    - Warrior (spear)
-    - Warrior (odachi)
+    - Human (spear)
+    - Human (odachi)
     - Tsuchigumo Ninja (fists)
     - Onmyo Mage
     - Tsuchigumo Ninja (fire arrow + bow, sword)
@@ -2763,12 +2756,12 @@ The Demon Slayers (Sub Mission)
     - Characters:
         - None
     --------------------
-    - Warrior (big) (odachi)
-    - Warrior (sword)
-    - Warrior (big) (axe)
+    - Human (big) (odachi)
+    - Human (sword)
+    - Human (big) (axe)
     - Sohaya Warrior (splitstaff)
-    - Warrior (spear)
-    - Warrior (fire arrow + bow, sword)
+    - Human (spear)
+    - Human (fire arrow + bow, sword)
     - Watanabe no Tsuna (boss) (fists) (first time)
     - Sohaya Warrior (fists)
     - Urabe no Suetake (boss) (fire arrow + bow, spear) (first time)
@@ -2776,7 +2769,7 @@ The Demon Slayers (Sub Mission)
     - Skeleton Warrior (spear)
     - Skeleton Warrior (sword)
     - Onmyo Mage
-    - Warrior (big) (sword)
+    - Human (big) (sword)
     - Fujiwara no Yasumasa (boss) (fire arrow + bow, sword) (first time)
     - Sohaya Warrior (hatchets)
     - Skeleton Warrior (fire arrow + bow, sword)
@@ -2827,10 +2820,10 @@ Dawn of the Demon (Main Mission)
         - Ancient Otakemaru (Cutscenes)
         - Suzuka (Cutscenes, Ally)
     --------------------
-    - Outlaw (sword)
-    - Outlaw (torch, axe)
+    - Human (sword)
+    - Human (torch, axe)
     - Revenant (sword)
-    - Outlaw (axe)
+    - Human (axe)
     - Skeleton Warrior (sword)
     - Revenant (hatchets)
     - Hellish Hag
@@ -2839,7 +2832,7 @@ Dawn of the Demon (Main Mission)
     - Nuppeppo
     - Ninja Dog
     - Underworld Soldier
-    - Outlaw (torch, sword)
+    - Human (torch, sword)
     - Enki
     - Konaki-Jiji (first time)
     - Revenant (fists) (first time)
@@ -2864,9 +2857,9 @@ In Search of the Elixir (Sub Mission)
     - Characters:
         - Izumo no Hirosada (NPC)
     --------------------
-    - Outlaw (splitstaff) (first time)
-    - Outlaw (fire arrow + bow) (sword)
-    - Warrior (splitstaff)
+    - Human (splitstaff) (first time)
+    - Human (fire arrow + bow) (sword)
+    - Human (splitstaff)
     - Sohaya Warrior (fists)
     - Sohaya Warrior (odachi)
     - Tsuchigumo Ninja (kusarigama)
@@ -2899,12 +2892,12 @@ Words of Respite (Sub Mission)
     - Characters:
         - Kukai (NPC)
     --------------------
-    - Warrior (spear)
-    - Warrior (sword)
-    - Warrior (torch, sword)
-    - Warrior (fire arrow + bow, sword)
-    - Warrior (big) (torch, axe)
-    - Warrior (big) (axe)
+    - Human (spear)
+    - Human (sword)
+    - Human (torch, sword)
+    - Human (fire arrow + bow, sword)
+    - Human (big) (torch, axe)
+    - Human (big) (axe)
     - Rokurokubi (torch, sword)
     - Abbarant Soldier
     - Namahage (bloodstained cleavers)
@@ -3002,11 +2995,11 @@ Against All Comers (Sub Mission)
     - Characters:
         - None
     --------------------
-    - Outlaw (sword)
-    - Outlaw (hatchets) (first time)
-    - Rogue (dual swords)
+    - Human (sword)
+    - Human (hatchets) (first time)
+    - Human (dual swords)
     - The Sohaya (switchglaive) (first time)
-    - Rogue (big) (odachi)
+    - Human (big) (odachi)
     - Enki
     - Ippon-Datara (hammer)
     - Nure-Onna
@@ -3050,7 +3043,7 @@ Against All Comers (Sub Mission)
     - Ryomen Sukuna (boss)
     ---------- checkpoint
     - Sohaya Warrior (splitstaff)
-    - Warrior (spear)
+    - Human (spear)
     - Kiryoki
     - Bakegani
     - Bakegani (big)
