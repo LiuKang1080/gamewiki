@@ -67,7 +67,7 @@ Twilight Missions:
 The Violet Cherry Blossoms
 ==========
     - Mission Unlock Requirement:
-        - The Village of Cursed Blossoms (Awakening Region | Region 1).
+        - Mission is automatically unlocked on Dream of the Strong.
     --------------------
     - Recommended level: 134
     - Gold: 112,200 / 
@@ -100,7 +100,7 @@ The Violet Cherry Blossoms
 Traces of the Raging Blaze
 ==========
     - Mission Unlock Requirement:
-        - The Beast Born of Smoke and Flames (Awakening Region | Region 1).
+        - Mission is automatically unlocked on Dream of the Strong.
     --------------------
     - Recommended level: 135
     - Gold: 113,400 / 37,800
@@ -127,6 +127,40 @@ Traces of the Raging Blaze
         - Highest-Quality Ingot X1
         - Highest-Quality Tamahagane X1
         - Highest-Quality Iron Platelet X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Blood Tainted Samurai
+==========
+    - Mission Unlock Requirement:
+        - Mission is automatically unlocked on Dream of the Strong.
+    --------------------
+    - Recommended level: 134
+    - Gold: 112,200 / 37,400
+    - Amrita: 404,328 / 134,776
+    - Shrine: Yes
+    - Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
+    - Bosses: 
+        - None
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Quality Umbracite X1
+        - Lumicite Crystal X1
+        - Karasu Tengu Feather X1
+        - Sacred Ash X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Lumicite Shard X1
+        - Sacred Ash X1
+        - Karasu Tengu Feather X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None

@@ -179,6 +179,20 @@ Traces of the Raging Blaze (A Beast Born of Smoke and Flames | Awakening Region 
 ==========
 The Blood Tainted Samurai (Dark Omens | Awakening Region (Region 1))
 ==========
+    - Abberant Soldier
+    - Enki
+    - Gaki
+    - Revenant (spear)
+    - Revenant (big) (hammer)
+    - Yoki (axe)
+    - Ippon-Datara (hammer)
+    - Gaki (big)
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Dweller (big)
+    - Skeleton Warrior (spear)
+    - Biwa Boku-Boku
+    - Yoki (sword)
+    - Karasu Tengu
 
 ==========
 Blood on the Wind (The Mysterious One Night Castle | Soaring Region (Region 2))
