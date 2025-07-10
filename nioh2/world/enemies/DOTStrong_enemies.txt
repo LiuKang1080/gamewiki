@@ -132,7 +132,6 @@ The One Who Lives in the Shadows (Dojo Mission)
     - Hattori Hanzo (boss)
 
 
-
 ========== ========== ========== ========== ========== ========== ==========
 Twilight Missions:
 ========== ========== ========== ========== ========== ========== ==========
@@ -197,6 +196,31 @@ The Blood Tainted Samurai (Dark Omens | Awakening Region (Region 1))
 ==========
 Blood on the Wind (The Mysterious One Night Castle | Soaring Region (Region 2))
 ==========
+    - Yoki (sword)
+    - Abberant Soldier
+    - Dweller
+    - Gaki
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Karasu Tengu
+    - Enki
+    - Yamanba
+    - Karakasa Umbrella
+    - Skeleton Warrior (spear)
+    - Nure-Onna
+    - Lesser Umi-Bozu
+    - Ippon-Datara (hammer)
+    - Yoki (axe)
+    - Gaki (big)
+    - Dweller (big)
+    - Waira
+    - Skeleton Warrior (cannon, sword)
+    - Red Kappa
+    - Nurikabe
+    - Skeleton Warrior (rifle, sword)
+    - Ippon-Datara (odachi)
+    - Mujina
+    - Biwa Boku-Boku
+    - Kamaitachi (boss)
 
 ==========
 The Cursed Castle Ruins (A Bird In A Cage | Shadow Region (Region 3))

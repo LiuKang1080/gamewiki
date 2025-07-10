@@ -91,7 +91,10 @@ The Violet Cherry Blossoms
         - Highest-Quality Leather Cord X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Blood-Encrusted Sawtooth X1
+        - Enki Pelt X1
+        - Highest-Quality Leather Platelet X1
+        - Highest-Quality Cord X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None
@@ -161,6 +164,41 @@ The Blood Tainted Samurai
         - Lumicite Shard X1
         - Sacred Ash X1
         - Karasu Tengu Feather X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+Blood on the Wind
+==========
+    - Mission Unlock Requirement:
+        - Mission is automatically unlocked on Dream of the Strong.
+    --------------------
+    - Recommended level: 157
+    - Gold: 124,800 / 41,600
+    - Amrita: 530,328 / 176,776
+    - Shrine: Yes
+    - Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 2 (0 required)
+    - Bosses: 
+        - Kamaitachi
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Quality Umbracite X1
+        - Sickle Blade Fragments X1
+        - Highest-Quality Wood X2
+        - Highest-Quality Lacquer X2
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Sickle Blade Fragment X1
+        - Highest-Quality Wood X1
+        - Highest-Quality Lacquer X1
+        - Lumicite Shard X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None
