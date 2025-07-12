@@ -494,74 +494,79 @@ The Greedy Hunter (Sub Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 134
+    - Gold: 37,200
+    - Amrita: 132,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Gyosha hand Axe (hatchets) (divine)
+        - Seven Scalp Switchglaive (divine)
+        - Sohaya Garb Faceplate (divine)
+        - Enki Pelt X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Enki X1
+        - Skeletal Warrior Sacrum X1
+        - Warped Jawbone X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        - None
 
 
 ========== ========== ========== ========== ========== ========== ==========
 Soaring Region (Region 2)
 ========== ========== ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==========
 The Hidden Monsters of Okehazama (Main Mission)
 ==========

@@ -453,50 +453,60 @@ The Greedy Hunter (Sub Mission)
     - Characters:
         - None
     --------------------
-    - 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    - Human (sword)
+    - Enki
+    - Gaki
+    - Gaki (big)
+    - Nure-Onna
+    - Abberant Soldier
+    - Yoki (axe)
+    - Human (dual swords)
+    - Human (axe)
+    - Yoki (sword)
+    - Sohaya Warrior (switchglaive)
 
 
 ========== ========== ========== ========== ==========
 Soaring Region (Region 2)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==========
 The Hidden Monsters of Okehazama (Main Mission)
 ==========
