@@ -469,44 +469,6 @@ The Greedy Hunter (Sub Mission)
 ========== ========== ========== ========== ==========
 Soaring Region (Region 2)
 ========== ========== ========== ========== ==========
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Hidden Monsters of Okehazama (Main Mission)
 ==========
@@ -516,6 +478,63 @@ The Hidden Monsters of Okehazama (Main Mission)
         - Maeda Toshiie (Cutscenes, NPC)
         - Tokichiro (NPC)
     --------------------
+    - Yoki (sword)
+    - Gaki
+    - Enki
+    - Yamanba
+    - Blue Yoki (dual swords)
+    - Nure-Onna
+    - Karasu-Tengu
+    - Mujina
+    - Infernal Oni-Bi
+    - Kappa
+    - Maelstrom Oni-Bi
+    - One-Eyed Oni
+    - Human (axe)
+    - Human (rifle, sword)
+    - Human (sword)
+    - Human (big) (dual swords)
+    - Nurikabe
+    - Human (cannon, sword)
+    - Imagawa Yoshimoto (boss)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Imagawa Diehard (Sub Mission)

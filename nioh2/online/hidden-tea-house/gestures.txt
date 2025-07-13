@@ -1,7 +1,7 @@
 ========== ========== ========== ========== ==========
 General Info
 ========== ========== ========== ========== ==========
-    - [Tech] Gesture Icons are 83 x 83 pixels [need to place the icon in the middle row, and then extract the image].
+    - [Tech] Gesture Icons are 83 x 83 pixels [need to place the icon in the middle column, and then extract the image].
 
     - There are a total of X gestures in the game.
     - Gestures are account bound, and the player does not need to collect the same gesture multiple times.
@@ -77,7 +77,7 @@ Gestures Obtained From Missions
 ========== ========== ==========
 Dream of the Samurai (NG)
 ========== ========== ==========
-TOTAL: 45
+TOTAL: 46
 Friendly Gestures: (17)
     - [img complete] DON'T WORRY: Forest Veiled in Darkness (mission reward).
     - [img complete] OVERJOYED: The Beast Born of Smoke and Flames (successfully interact with your first Mujina).
@@ -111,7 +111,7 @@ Neutral Gestures: (12)
     - [img complete] NINJA POSE: The One Who Lives in the Shadows (mission reward).
     - [img complete] BEGONE!: The Nine Symbols (mission reward).
 
-Hostile Gestures: (16)
+Hostile Gestures: (17)
     - [img complete] SUDAMA DANCE: The Search (mission reward).
     - [img complete] SHOO: Imagawa Diehard (mission reward).
     - [img complete] NIOH STANCE (RESOLUTE): The Way of the Warrior: Adept (mission reward).
@@ -128,3 +128,4 @@ Hostile Gestures: (16)
     - [img complete] SUMO MOVE: The Unmoving Mountain (mission reward).
     - [img complete] SHURIKEN STARS: Like Lightning (mission reward).
     - [img complete] SUMO VICTORY: The Unstoppable Whirlwind (mission reward).
+    - [img complete] MOVE!: Talk to Tokichiro in the main mission: The Hidden Monsters of Okehazama on Dream of the Strong difficulty.
