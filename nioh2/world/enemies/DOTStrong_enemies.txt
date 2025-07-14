@@ -498,44 +498,6 @@ The Hidden Monsters of Okehazama (Main Mission)
     - Human (cannon, sword)
     - Imagawa Yoshimoto (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Imagawa Diehard (Sub Mission)
 ==========
@@ -543,6 +505,51 @@ Imagawa Diehard (Sub Mission)
     - Characters:
         - None
     --------------------
+    - Human (fire arrow + bow, sword)
+    - Human (torch, spear)
+    - Human (dual swords)
+    - Okabe Motonobu (rifle, axe)
+    - Ninja (sword)
+    - Okabe Masatsuna (odachi)
+    - Imagawa Yoshimoto (boss)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Hidetatsu's Dying Wish (Sub Mission)

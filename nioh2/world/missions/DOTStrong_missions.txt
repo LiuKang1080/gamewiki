@@ -561,72 +561,77 @@ The Hidden Monsters of Okehazama (Main Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Imagawa Diehard (Sub Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
+    - Recommended level: 138
+    - Gold: 38,000
+    - Amrita: 140,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
     - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Imagawa Yoshimoto
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Master Archer's Hat (divine)
+        - Wild Boar Crest Helmet (divine)
+        - Sessai's Switchglaive (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Wild Boar Crest Helmet (exotic)
+        - Quality Lacquer X3
+        - Quality Wood X3
+        - Righteous Jasper X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Hidetatsu's Dying Wish (Sub Mission)
