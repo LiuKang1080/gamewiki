@@ -536,44 +536,6 @@ Hidetatsu's Dying Wish (Sub Mission)
     - Infernal Oni-Bi
     - Blue Yoki (dual swords)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 An Error in Calculation (Sub Mission)
 ==========
@@ -581,6 +543,52 @@ An Error in Calculation (Sub Mission)
     - Characters:
         - None
     --------------------
+    - Gaki
+    - Toxic Slime
+    - Karakasa Umbrella
+    - Karasu Tengu
+    - Dweller
+    - Nure-Onna
+    - One-Eyed Oni
+    - Waira
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Mysterious One Night Castle (Main Mission)

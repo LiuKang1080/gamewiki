@@ -1,0 +1,5 @@
+========== ========== ==========
+Items Notes:
+========== ========== ==========
+    - Ochoko Cups: Costs starts at 200 Glory, and caps at 1,000 Glory.
+    - 
