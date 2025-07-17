@@ -52,7 +52,8 @@ Other Notes:
         - The Unstoppable Whirlwind
         - Sharp Eyes
         - The One Who Lives in the Shadows
-    - 
+    - The Dream Region (region 6) is fully unlocked after completing 12 missions.
+    - The Dojo Mission: The Nine Symbols is unlocked after completing 12 missions.
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -595,72 +596,77 @@ Imagawa Diehard (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Hidetatsu's Dying Wish (Sub Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 139
+    - Gold: 38,400
+    - Amrita: 144,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Smithing Text: Transient Blade
+        - Smithing Text: Coin Threader
+        - Smithing Text: Pit Viper's Garments
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Transient Blade (sword) (exotic) [sword icon type 1]
+        - Pit Viper's Robes (chest piece) (exotic)
+        - Pit Viper's Hakama (leg piece) (exotic)
+        - Pit Viper's Shoes (foot piece) (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 An Error in Calculation (Sub Mission)

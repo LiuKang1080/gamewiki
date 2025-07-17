@@ -513,44 +513,6 @@ Imagawa Diehard (Sub Mission)
     - Okabe Masatsuna (odachi)
     - Imagawa Yoshimoto (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Hidetatsu's Dying Wish (Sub Mission)
 ==========
@@ -558,6 +520,59 @@ Hidetatsu's Dying Wish (Sub Mission)
     - Characters:
         - None
     --------------------
+    - Human (sword)
+    - Human (axe)
+    - Human (big) (spear)
+    - Human (fire arrow + bow, sword)
+    - Toxic Slime
+    - Human (spear)
+    - Human (big) (axe)
+    - Sohaya Warrior (hatchets)
+    - Human (big) (odachi)
+    - Human (big) (sword)
+    - Nure-Onna
+    - One-Eyed Oni
+    - Gaki
+    - Infernal Oni-Bi
+    - Blue Yoki (dual swords)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 An Error in Calculation (Sub Mission)
