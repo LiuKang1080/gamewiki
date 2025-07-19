@@ -204,6 +204,44 @@ Blood on the Wind
     Notable Items During / Post Mission:
         - None
 
+==========
+The Cursed Castle Ruins (A Bird In A Cage | Shadow Region (Region 3))
+==========
+
+==========
+The Defiled Sanctuary (The Golden Nation | Shadow Region (Region 3))
+==========
+    - Mission Unlock Requirement:
+        - Unlock the Shadow Region (region 3) by completing 4 missions.
+    --------------------
+    - Recommended level: 196
+    - Gold: 162,000 / 54,000
+    - Amrita: 902,328 / 300,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
+    - Bosses: 
+        - Kasha
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Quality Umbracite X1
+        - Summoner's Candle X1
+        - Highest-Quality Wood X5
+        - Infernal Nail X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Highest-Quality Wood X2
+        - Broken Wheel Piece X1
+        - Demon's Horn X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
 
 ========== ========== ========== ========== ========== ========== ==========
 Base Game Missions:
@@ -657,7 +695,44 @@ An Error in Calculation (Sub Mission)
         - High-Quality Leather Cord X3
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Warrior's Cross Spear (exotic)
+        - High-Quality Leather Platelet X2
+        - High-Quality Leather Cord X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
+The Mysterious One Night Castle (Main Mission)
+==========
+    - Mission Unlock Requirement:
+        - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
+    --------------------
+    - Recommended level: 142
+    - Gold: 39,000
+    - Amrita: 150,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 2 (1 big sudama)
+    - Number of Hot Springs: 2
+    - Number of Dark Realms: 2 (0 required)
+    - Bosses: 
+        - Kamaitachi
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Fabled Umbracite X1
+        - Metalworking Chisel X2
+        - Ferryman's Robes (divine)
+        - Ferryman's Hakama (divine)
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Sickle Blade Fragment X1
+        - High-Quality Wood X2
+        - Waira Claw X1
+        - High-Quality Lacquer X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None
@@ -699,35 +774,6 @@ An Error in Calculation (Sub Mission)
 
 
 
-
-==========
-The Mysterious One Night Castle (Main Mission)
-==========
-    - Mission Unlock Requirement:
-        - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
-    --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
-    ---------- ---------- ----------
-    Subsequent Completes:
-        - 
-    ---------- ---------- ----------
-    Notable Items During / Post Mission:
-        - 
 
 ==========
 The Sunomata Yokai Hunt (Sub Mission)

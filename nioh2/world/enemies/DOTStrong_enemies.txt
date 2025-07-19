@@ -229,6 +229,17 @@ The Cursed Castle Ruins (A Bird In A Cage | Shadow Region (Region 3))
 ==========
 The Defiled Sanctuary (The Golden Nation | Shadow Region (Region 3))
 ==========
+    - Dweller
+    - Abberant Soldier
+    - Tesso
+    - Gaki
+    - Ubume
+    - Ippon-Datara (odachi)
+    - Karakasa Umbrella
+    - One-Eyed Oni
+    - Nure-Onna
+    - Rokurokubi (sword)
+    - Kasha (boss)
 
 ==========
 Mountain of the Dark Lord (The Sun Sets on Mount Tenno | Dawn Region (Region 4))
@@ -552,44 +563,6 @@ An Error in Calculation (Sub Mission)
     - One-Eyed Oni
     - Waira
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Mysterious One Night Castle (Main Mission)
 ==========
@@ -601,6 +574,65 @@ The Mysterious One Night Castle (Main Mission)
         - Mumyo (Cutscenes)
         - Hachisuka Koroku (Cutscenes, Ally)
     --------------------
+    - Human (spear)
+    - Human (big) (odachi)
+    - Sohaya Warrior (switchglaive)
+    - Human (fire arrow + bow, sword)
+    - Gaki
+    - Abberant Soldier
+    - Gaki (big)
+    - Waira
+    - Karasu Tengu
+    - Nure-Onna
+    - Lesser Umi-Bozu
+    - Enki
+    - Ninja Dog
+    - Human (big) (rifle, sword)
+    - Human (big) (axe)
+    - Yamanba
+    - Blue Yoki (dual swords)
+    - Nurikabe
+    - Mujina
+    - Karakasa Umbrella
+    - Kamaitachi (boss)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Sunomata Yokai Hunt (Main Mission)
