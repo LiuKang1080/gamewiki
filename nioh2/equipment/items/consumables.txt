@@ -135,6 +135,16 @@ Consumables
     ----------
     Ash from wood burned by monks on a sacred altar.
 
+- Red Spider Lily (rare):
+    Use to greatly increase your Anima.
+    ----------
+    The fully bloomed corolla of a Red Spider Lily. The flower's Japanese name, Higanbana, came about due to them typically
+    blooming during the fall equinox event, Higane, a time when people would pray for the souls of their ancestors. Ingesting
+    one of these poisonous flowers could also lead to death, sending one to Higan or "the other side", further cementing the
+    connection.
+
+    The flower goes by countless names, "corpse flowers", "hell flowers", "ghost flowers", to name but a few. While it has some
+    auspicious names, the great majority of them have an ominous tone.
 
 
 
