@@ -225,6 +225,29 @@ Blood on the Wind (The Mysterious One Night Castle | Soaring Region (Region 2))
 ==========
 The Cursed Castle Ruins (A Bird In A Cage | Shadow Region (Region 3))
 ==========
+    - Tesso
+    - Dweller
+    - Spider (small)
+    - Spider (medium)
+    - Abberant Soldier
+    - Rokurokubi (sword)
+    - Rokurokubi (spear)
+    - Namahage (bloodstained cleavers)
+    - Dweller (big)
+    - Namahage (bloodstained blade)
+    - Yoki (axe)
+    - Rokurokubi (rifle, sword)
+    - Human (sword)
+    - Yoki (sword)
+    - Skeleton Warrior (cannon, sword)
+    - Toxic Slime
+    - Nurikabe
+    - Koroka
+    - Skeleton Warrior (rifle, sword)
+    - Spider (big)
+    - Mujina
+    - Rokurokubi (dual swords)
+    - Azai Nagamasa (boss)
 
 ==========
 The Defiled Sanctuary (The Golden Nation | Shadow Region (Region 3))

@@ -207,6 +207,37 @@ Blood on the Wind
 ==========
 The Cursed Castle Ruins (A Bird In A Cage | Shadow Region (Region 3))
 ==========
+    - Mission Unlock Requirement:
+        - Mission is unlocked after completing 4 missions and unlocking the Shadow Region (region 3)
+    --------------------
+    - Recommended level: 178
+    - Gold: 141,000 / 47,000
+    - Amrita: 692,328 / 230,776
+    - Shrine: Yes
+    - Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 2 (1 big sudama)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 3 (0 required)
+    - Bosses: 
+        - Azai Nagamasa
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Quality Umbracite X1
+        - Kamaitachi's Front Teeth X1
+        - Burnt Wick X1
+        - Highest-Quality Iron Platelet X3
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Embercite Shard X2
+        - Burnt Wick X1
+        - Kamaitachi's Front Teeth X1
+        - Highest-Quality Iron Platelet X1
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
 
 ==========
 The Defiled Sanctuary (The Golden Nation | Shadow Region (Region 3))
