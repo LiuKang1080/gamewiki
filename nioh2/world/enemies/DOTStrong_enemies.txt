@@ -619,44 +619,6 @@ The Mysterious One Night Castle (Main Mission)
     - Karakasa Umbrella
     - Kamaitachi (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Sunomata Yokai Hunt (Main Mission)
 ==========
@@ -664,6 +626,17 @@ The Sunomata Yokai Hunt (Main Mission)
     - Characters:
         - Hachisuka Koroku (Ally)
     --------------------
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Enki
+    - Skeleton Warrior (spear)
+    - Skeleton Warrior (big) (axe)
+    - Karasu Tengu
+    - Skeleton Warrior (sword)
+    - Nure-Onna
+    - Gaki
+    - Lesser Umi-Bozu
+    - Skeleton Warrior (rifle, sword)
+    - Waira
 
 ==========
 A Hot-blodded Howl (Sub Mission)
@@ -673,6 +646,45 @@ A Hot-blodded Howl (Sub Mission)
         - Maeda Keiji (NPC)
         - Maeda Toshiie (Ally)
     --------------------
+    - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Fire God's Magatama (Sub Mission)

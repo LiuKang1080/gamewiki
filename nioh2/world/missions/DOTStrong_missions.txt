@@ -768,44 +768,6 @@ The Mysterious One Night Castle (Main Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Sunomata Yokai Hunt (Sub Mission)
 ==========
@@ -818,7 +780,7 @@ The Sunomata Yokai Hunt (Sub Mission)
     - Shrine: Yes
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
-    - Number of Sudama: 
+    - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
     - Bosses: 
@@ -832,10 +794,51 @@ The Sunomata Yokai Hunt (Sub Mission)
         - Red Spider Lily X1
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Custom Kusarigama (exotic)
+        - Kappa Shell X1
+        - Karasu Tengu Feather X1
+        - Red Spider Lily X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 A Hot-blodded Howl (Sub Mission)
@@ -843,28 +846,30 @@ A Hot-blodded Howl (Sub Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
+    - Recommended level: 146
+    - Gold: 39,600
+    - Amrita: 156,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
     - Number of Sudama: 
-    - Number of Hot Springs: 
+    - Number of Hot Springs: 0
     - Number of Dark Realms: 
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Captain's Spear (divine)
+        - High-Quality Tamahagane X3
+        - Whetstone X2
     ---------- ---------- ----------
     Subsequent Completes:
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Fire God's Magatama (Sub Mission)
