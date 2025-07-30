@@ -802,44 +802,6 @@ The Sunomata Yokai Hunt (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 A Hot-blodded Howl (Sub Mission)
 ==========
@@ -852,9 +814,9 @@ A Hot-blodded Howl (Sub Mission)
     - Shrine: Yes
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
-    - Number of Sudama: 
+    - Number of Sudama: 0
     - Number of Hot Springs: 0
-    - Number of Dark Realms: 
+    - Number of Dark Realms: 0
     - Bosses: 
         - None
     - Guardian Spirit Unlocked: 
@@ -866,10 +828,51 @@ A Hot-blodded Howl (Sub Mission)
         - Whetstone X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Captain's Spear (exotic)
+        - High-Quality Tamahagane X3
+        - High-Quality Ingot X2
+        - Whetstone X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Fire God's Magatama (Sub Mission)

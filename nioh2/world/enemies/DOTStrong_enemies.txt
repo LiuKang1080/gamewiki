@@ -652,7 +652,21 @@ A Hot-blodded Howl (Sub Mission)
     - Ippon-Datara (odachi)
     - Human (big) (hammer)
     - Human (spear)
-    - 
+    - Gaki
+    - Dweller
+    - Enki
+    - One-Eyed Oni
+    - Abberant Soldier
+    - Waira
+    - Dweller (big)
+    - Nurikabe
+    - Yoki (sword)
+    - Gaki (big)
+    - Infernal Oni-Bi
+    - Human (big) (dual swords)
+    - Human (torch, sword)
+    - Human (big) (spear)
+    - Adachi the Beheader
 
 
 
