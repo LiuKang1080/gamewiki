@@ -646,6 +646,12 @@ A Hot-blodded Howl (Sub Mission)
         - Maeda Keiji (NPC)
         - Maeda Toshiie (Ally)
     --------------------
+    - Human (sword)
+    - Human (axe)
+    - Human (fire arrow + bow, sword)
+    - Ippon-Datara (odachi)
+    - Human (big) (hammer)
+    - Human (spear)
     - 
 
 

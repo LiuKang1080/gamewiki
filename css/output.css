@@ -671,10 +671,6 @@ video {
   height: 100%;
 }
 
-.h-\[707px\] {
-  height: 707px;
-}
-
 .min-h-screen {
   min-height: 100vh;
 }
@@ -1375,12 +1371,12 @@ video {
     display: grid;
   }
 
-  .md\:h-\[760px\] {
-    height: 760px;
-  }
-
   .md\:h-\[707px\] {
     height: 707px;
+  }
+
+  .md\:h-\[760px\] {
+    height: 760px;
   }
 
   .md\:w-11\/12 {
