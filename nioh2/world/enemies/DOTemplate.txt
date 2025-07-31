@@ -1,0 +1,1258 @@
+==========
+TEMPLATE ()
+==========
+    - Quest Giver: 
+    - Characters:
+        - 
+    --------------------
+    - 
+
+
+========== ========== ========== ========== ========== ========== ==========
+Dojo Missions:
+========== ========== ========== ========== ========== ========== ==========
+==========
+The Way of the Warrior: Veteran (Dojo Mission)
+==========
+
+==========
+The Way of the Ninja: Veteran (Dojo Mission)
+==========
+
+==========
+The Way of the Onmyo: Veteran (Dojo Mission)
+==========
+
+==========
+Opening of the Mind's Eye (Dojo Mission)
+==========
+    - Quest Giver: Shisenin Kosen
+    - Characters:
+        - None
+    --------------------
+    - Shisenin Kosen (boss)
+
+==========
+Master of the Dual Blades (Dojo Mission)
+==========
+    - Quest Giver: Ashikaga Yoshiteru
+    - Characters:
+        - None
+    --------------------
+    - Ashikaga Yoshiteru (boss)
+
+==========
+Hanzo the Demon (Dojo Mission)
+==========
+    - Quest Giver: Hattori Hanzo
+    - Characters:
+        - None
+    --------------------
+    - Hattori Hanzo (boss)
+
+==========
+The Unmoving Mountain (Dojo Mission)
+==========
+    - Quest Giver: Sakata Kintoki
+    - Characters:
+        - None
+    --------------------
+    - Sakata Kintoki (boss)
+
+==========
+The Chain That Splits the Sky (Dojo Mission)
+==========
+    - Quest Giver: Shisenin Kosen
+    - Characters:
+        - None
+    --------------------
+    - Shisenin Kosen (boss)
+
+==========
+The Tengu's Blade (Dojo Mission)
+==========
+    - Quest Giver: Shisenin Kosen
+    - Characters:
+        - None
+    --------------------
+    - Shisenin Kosen (boss)
+
+==========
+Like Lightning (Dojo Mission)
+==========
+    - Quest Giver: Hattori Hanzo
+    - Characters:
+        - None
+    --------------------
+    - Hattori Hanzo (boss)
+
+==========
+The Unstoppable Whirlwind (Dojo Mission)
+==========
+    - Quest Giver: Sakata Kintoki
+    - Characters:
+        - None
+    --------------------
+    - Sakata Kintoki (boss)
+
+==========
+Sharp Eyes (Dojo Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters:
+        - None
+    --------------------
+    - Mumyo (boss)
+
+==========
+Breaking Free (Dojo Mission)
+==========
+    - Quest Giver: Hattori Hanzo
+    - Characters:
+        - None
+    --------------------
+    - Hattori Hanzo (boss)
+
+==========
+Strike Like a Yokai (Dojo Mission)
+==========
+    - Quest Giver: Kato Danzo
+    - Characters:
+        - None
+    --------------------
+    - Kato Danzo (boss)
+
+==========
+The One Who Lives in the Shadows (Dojo Mission)
+==========
+    - Quest Giver: Hattori Hanzo
+    - Characters:
+        - None
+    --------------------
+    - Hattori Hanzo (boss)
+
+==========
+The Nine Symbols (Dojo Mission)
+==========
+    - Quest Giver: Abe no Seimei
+    - Characters:
+        - None
+    --------------------
+    - 
+
+
+========== ========== ========== ========== ========== ========== ==========
+Twilight Missions:
+========== ========== ========== ========== ========== ========== ==========
+==========
+The Violet Cherry Blossoms (The Village of Cursed Blossoms | Awakening Region (Region 1))
+==========
+
+==========
+Traces of the Raging Blaze (A Beast Born of Smoke and Flames | Awakening Region (Region 1))
+==========
+
+==========
+The Blood Tainted Samurai (Dark Omens | Awakening Region (Region 1))
+==========
+
+==========
+Blood on the Wind (The Mysterious One Night Castle | Soaring Region (Region 2))
+==========
+
+==========
+The Cursed Castle Ruins (A Bird In A Cage | Shadow Region (Region 3))
+==========
+
+==========
+The Defiled Sanctuary (The Golden Nation | Shadow Region (Region 3))
+==========
+
+==========
+Mountain of the Dark Lord (The Sun Sets on Mount Tenno | Dawn Region (Region 4))
+==========
+
+==========
+The Island of Monsters (Twilight Region (Region 5))
+==========
+
+==========
+Wings of the Phoenix (The Mausoleum of Evil | Dream Region (Region 6))
+==========
+
+==========
+Darkness Brewing (Shadows Creep In Kurama | The Tengu's Disciple (DLC 1))
+==========
+
+==========
+The Mystery of Rashomon (The Blighted Gate | Darkness In The Capital (DLC 2))
+==========
+
+==========
+The Bewitching Tower (In Search of the Elixir | The First Samurai (DLC 3))
+==========
+
+
+========== ========== ========== ========== ========== ========== ==========
+Base Game Missions:
+========== ========== ========== ========== ========== ========== ==========
+========== ========== ========== ========== ========== ========== ==========
+Awakening Region (Region 1)
+========== ========== ========== ========== ========== ========== ==========
+==========
+The Village of Cursed Blossoms (Main Mission)
+==========
+    - Quest Giver: Protagonist
+    - Characters:
+        - Tokichiro (Cutscenes)
+    --------------------
+
+==========
+The Forest Veiled in Darkness (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Tokichiro (NPC)
+    --------------------
+
+==========
+The Beast Born of Smoke and Flames (Main Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Tokichiro (Cutscenes, NPC)
+        - Saito Dosan (Cutscenes)
+        - Senji Toyo (NPC)
+        - Mumyo (Cutscenes)
+    --------------------
+
+==========
+A Voice in the Twilight (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - None
+    --------------------
+
+==========
+Dark Omens (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - None
+    --------------------
+
+==========
+The Viper's Sanctum (Main Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Tokichiro (NPC)
+        - Saito Dosan (Cutscenes)
+        - Mumyo (Cutscenes)
+    --------------------
+
+==========
+A Favor for the Blacksmith (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Mumyo (Ally)
+    --------------------
+
+==========
+The Search (Sub Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters:
+        - Tokichiro (NPC)
+    --------------------
+
+==========
+The Greedy Hunter (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - None
+    --------------------
+
+
+========== ========== ========== ========== ==========
+Soaring Region (Region 2)
+========== ========== ========== ========== ==========
+==========
+The Hidden Monsters of Okehazama (Main Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters:
+        - Oda Nobunaga (Cutscenes)
+        - Maeda Toshiie (Cutscenes, NPC)
+        - Tokichiro (NPC)
+    --------------------
+
+==========
+Imagawa Diehard (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - None
+    --------------------
+
+==========
+Hidetatsu's Dying Wish (Sub Mission)
+==========
+    - Quest Giver: Oda Nobunaga
+    - Characters:
+        - None
+    --------------------
+
+==========
+An Error in Calculation (Sub Mission)
+==========
+    - Quest Giver: Maeda Toshiie
+    - Characters:
+        - None
+    --------------------
+
+==========
+The Mysterious One Night Castle (Main Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Tokichiro (Cutscenes, NPC)
+        - Maeda Toshiie (Cutscenes)
+        - Shibata Katsuie (Cutscenes)
+        - Mumyo (Cutscenes)
+        - Hachisuka Koroku (Cutscenes, Ally)
+    --------------------
+
+==========
+The Sunomata Yokai Hunt (Main Mission)
+==========
+    - Quest Giver: Hachisuka Koroku
+    - Characters:
+        - Hachisuka Koroku (Ally)
+    --------------------
+
+==========
+A Hot-blodded Howl (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Maeda Keiji (NPC)
+        - Maeda Toshiie (Ally)
+    --------------------
+
+==========
+The Fire God's Magatama (Sub Mission)
+==========
+    - Quest Giver: Senji Toyo
+    - Characters:
+        - None
+    --------------------
+
+==========
+The Hollow Fortress (Main Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Tokichiro (Cutscenes, NPC)
+        - Takenaka Hanbei (Cutscenes)
+        - Mumyo (Cutscenes)
+        - Kashin Koji (Cutscenes)
+    --------------------
+
+==========
+An End to Seclusion (Sub Mission)
+==========
+    - Quest Giver: Oichi
+    - Characters:
+        - None
+    --------------------
+
+==========
+The Shiftling's Wise Judgement (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Shibata Katsuie (NPC, Ally)
+        - Hachisuka Koroku (NPC, Ally)
+    --------------------
+
+==========
+The Viper and the Butterfly (Sub Mission)
+==========
+    - Quest Giver: Princess Noh
+    - Characters:
+        - Princess Noh (Cutscenes)
+        - Oda Nobunaga (Cutscenes)
+    --------------------
+
+
+========== ========== ========== ========== ==========
+Shadow Region (Region 3)
+========== ========== ========== ========== ==========
+==========
+A Way Out (Main Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - Saito Toshimitsu (Cutscenes)
+        - Akechi Mitsuhide (Cutscenes)
+        - Tokichiro (Cutscenes)
+        - Hachisuka Koroku (Cutscenes)
+        - Mumyo (Cutscenes, NPC)
+        - Takenaka Hanbei (NPC)
+        - Oda Nobunaga (Cutscenes)
+        - Matsunaga Hisahide (Cutscenes)
+    --------------------
+
+==========
+Learning A Lesson (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters:
+        - None
+    --------------------
+
+==========
+The Shrine of Oaths (Sub Mission)
+==========
+    - Quest Giver: Takenaka Hanbei
+    - Characters:
+        - None
+    --------------------
+
+==========
+Immoveable (Sub Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters:
+        - None
+    --------------------
+
+==========
+A Formal Match (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters: 
+        - Tokichiro (NPC)
+        - Oda Nobunaga (NPC)
+    --------------------
+    - Obsidian Samurai (boss) (first time)
+
+==========
+Corpses and Ice (Main Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters: 
+        - Oda Nobunaga (Cutscenes)
+        - Maeda Toshiie (Cutscenes)
+        - Shibata Katsuie (Cutscenes)
+        - Mumyo (NPC, Ally)
+        - Hattori Hanzo (Cutscenes)
+        - Honda Tadakatsu (Cutscenes, NPC)
+    --------------------
+
+==========
+Lingering Snow and Crimson Tracks (Sub Mission)
+==========
+    - Quest Giver: Takenaka Hanbei
+    - Characters: 
+        - None
+    --------------------
+
+==========
+The Tiger Approaches (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters: 
+        - Honda Tadakatsu (Ally)
+    --------------------
+
+==========
+The Brother's Baldes (Sub Mission)
+==========
+    - Quest Giver: Honda Tadakatsu
+    - Characters: 
+        - None
+    --------------------
+
+==========
+A Shadow's Duty (Sub Mission)
+==========
+    - Quest Giver: Honda Tadakatsu
+    - Characters: 
+        - Hattori Hanzo (NPC)
+    --------------------
+
+==========
+The Fallen Star (Sub Mission)
+==========
+    - Quest Giver: Maeda Toshiie
+    - Characters: 
+        - Maeda Toshiie (Ally)
+    --------------------
+
+==========
+Horns on Head, Dragonfly in Hand (Main Mission)
+==========
+    - Quest Giver: Honda Tadakatsu
+    - Characters: 
+        - None
+    --------------------
+    - Honda Tadakatsu (boss) (first time)
+
+==========
+Bird In A Cage (Main Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters: 
+        - Ryunojo the Dung Lover (NPC)
+        - Oichi (Cutscenes)
+        - Tokichiro (Cutscenes)
+        - Kashin Koji (Cutscenes)
+    --------------------
+
+==========
+The Point of No Return (Sub Mission)
+==========
+    - Quest Giver: Takenaka Hanbei
+    - Characters: 
+        - None
+    --------------------
+    - Saito Yoshitatsu
+
+==========
+The Golden Nation (Sub Mission)
+==========
+    - Quest Giver: Takenaka Hanbei
+    - Characters: 
+        - Gamo Ujisato (NPC)
+    --------------------
+
+==========
+The Demon King's Blade (Sub Mission)
+==========
+    - Quest Giver: Oda Nobunaga
+    - Characters: 
+        - Oda Nobunaga (Cutscenes)
+    --------------------
+    - Oda Nobunaga (boss) (first time)
+
+==========
+The Child's Prodigy's Invitation (Sub Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters: 
+        - None
+    --------------------
+    - Gamo Ujisato (boss) (first time)
+
+==========
+The Chinese Bellflower Dagger (Sub Mission)
+==========
+    - Quest Giver: Saito Toshimitsu
+    - Characters: 
+        - None
+    --------------------
+    - Saito Toshimitsu (boss) (first time)
+
+==========
+A Strong Bond (Sub Mission)
+==========
+    - Quest Giver: Hakutaku
+    - Characters: 
+        - Takenaka Hanbei (NPC)
+    --------------------
+
+
+========== ========== ========== ========== ==========
+Dawn Region (Region 4)
+========== ========== ========== ========== ==========
+==========
+Pervading Waters (Main Mission)
+==========
+    - Quest Giver: Tokichiro
+    - Characters: 
+        - Shibata Katsuie (Cutscenes, NPC, Ally)
+        - Oda Nobunaga (Cutscenes)
+        - Tokichiro (Cutscenes, NPC)
+        - Mumyo (NPC)
+        - Takenaka Hanbei (NPC)
+    --------------------
+
+==========
+The Missing Gun (Sub Mission)
+==========
+    - Quest Giver: Shibata Katsuie
+    - Characters: 
+        - None
+    --------------------
+
+==========
+The Refined Man of the Underworld (Sub Mission)
+==========
+    - Quest Giver: Matsunaga Hisahide
+    - Characters: 
+        - None
+    --------------------
+
+==========
+Song of the Yokai (Sub Mission)
+==========
+    - Quest Giver: Hachisuka Koroku
+    - Characters: 
+        - Okuni (NPC)
+    --------------------
+
+==========
+The Frenzied Blaze (Main Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters: 
+        - Akechi Mitsuhide (Cutscenes)
+        - Saito Toshimitsu (Cutscenes)
+        - Oda Nobunaga (Cutscenes)
+        - Princess Noh (Cutscenes)
+        - Obsidian Samurai (Ally)
+        - Oichi (Cutscenes)
+    --------------------
+
+==========
+The Burning Sky (Sub Mission)
+==========
+    - Quest Giver: Senji Toyo
+    - Characters: 
+        - None
+    --------------------
+
+==========
+Abduction (Sub Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters: 
+        - None
+    --------------------
+
+==========
+The Warrior (Sub Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters: 
+        - Obsidian Samurai (NPC)
+    --------------------
+
+==========
+The Sun Sets on Mount Tenno (Main Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters: 
+        - Akechi Mitsuhide (Cutscenes)
+        - Saito Toshimitsu (Cutscenes)
+        - Kashin Koji (Cutscenes)
+        - Tokichiro (Cutscenes)
+    --------------------
+
+==========
+The Aberrant Mage (Sub Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters: 
+        - Saika Magoichi (Ally)
+    --------------------
+
+==========
+The Third Word (Sub Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters: 
+        - None
+    --------------------
+    - Saika Magoichi (boss)
+
+==========
+Master of the Three Evils (Sub Mission)
+==========
+    - Quest Giver: Matsunaga Hisahide
+    - Characters: 
+        - None
+    --------------------
+    - Matsunaga Hisahide (boss) (first time)
+
+
+========== ========== ========== ========== ==========
+Twilight Region (Region 5)
+========== ========== ========== ========== ==========
+==========
+Ruin Draws Near (Main Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters: 
+        - Oichi (Cutscenes)
+    --------------------
+
+==========
+Okuni's Search (Sub Mission)
+==========
+    - Quest Giver: Okuni
+    - Characters: 
+        - Okuni (Ally)
+    --------------------
+
+==========
+Farewell to the Past (Sub Mission)
+==========
+    - Quest Giver: Tenkai (Akechi Mitsuhide)
+    - Characters: 
+        - None
+    --------------------
+
+==========
+The Two Faces of Hospitality (Main Mission)
+==========
+    - Quest Giver: Hattori Hanzo
+    - Characters:
+        - Akechi Mitsuhide / Tenkai (Cutscenes, NPC)
+        - Sen no Rikyu (Cutscenes)
+        - Mumyo (Cutscenes)
+        - Hattori Hanzo (NPC, Ally)
+        - Honda Tadakatsu (NPC, Ally)
+        - Tokichiro (Cutscenes)
+        - Kashin Koji (Cutscenes)
+    --------------------
+
+==========
+The High-Spirited Demon (Main Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - Hachisuka Koroku (Cutscenes)
+        - Mumyo (Cutscenes, Ally)
+        - Tokichiro (Cutscenes)
+        - Takenaka Hanbei (Cutscenes)
+        - Miyoshino (Cutscenes)
+    --------------------
+
+==========
+A Message From the Deceased (Sub Mission)
+==========
+    - Quest Giver: Tenkai
+    - Characters:
+        - Chosokabe Motochika (NPC, Ally)
+    --------------------
+
+==========
+Stray Cats (Sub Mission)
+==========
+    - Quest Giver: Hattori Hanzo
+    - Characters:
+        - Hattori Hanzo (NPC)
+    --------------------
+
+==========
+Calling on the Fire God (Sub Mission)
+==========
+    - Quest Giver: Senji Toyo
+    - Characters:
+        - None
+    --------------------
+
+==========
+Scattered Fragments (Sub Mission)
+==========
+    - Quest Giver: Sen no Rikyu
+    - Characters:
+        - None
+    --------------------
+
+==========
+A Prayer in the Moonlight (Sub Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - Yamanaka Shikanosuke (Ally)
+    --------------------
+
+
+========== ========== ========== ========== ==========
+Dream Region (Region 6)
+========== ========== ========== ========== ==========
+==========
+The Mausoleum of Evil (Main Mission)
+==========
+    - Quest Giver: Miyoshino
+    - Characters:
+        - Mumyo (NPC)
+        - Tokichiro (Cutscenes)
+    --------------------
+
+==========
+The Roaming Artisan (Sub Mission)
+==========
+    - Quest Giver: Senji Toyo
+    - Characters:
+        - Muramasa (NPC)
+    --------------------
+
+==========
+Mataza of the Spear (Sub Mission)
+==========
+    - Quest Giver: Maeda Toshiie
+    - Characters:
+        - None
+    --------------------
+    - Maeda Toshiie (boss)
+
+==========
+The Golden Castle (Main Mission)
+==========    
+    - Quest Giver: Mumyo
+    - Characters:
+        - Mumyo (Cutscenes, NPC)
+        - Sen no Rikyu (Cutscenes)
+        - Tokichiro (Cutscenes)
+    --------------------
+
+==========
+The Bravest of the Brave (Sub Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters:
+        - Maeda Keiji (NPC, Ally)
+    --------------------
+
+==========
+The Dream's End (Sub Mission)
+==========
+    - Quest Giver: Okuni
+    - Characters:
+        - Okuni (NPC, Ally)
+    --------------------
+
+==========
+Cherry Blossom Viewing Daigo (Main Mission)
+==========
+    - Quest Giver: Tenkai (Akechi Mitsuhide)
+    - Characters:
+        - Tokichiro (Cutscenes)
+        - Okuni (Cutscenes, NPC)
+        - Mumyo (Cutscenes, NPC, Ally)
+    --------------------
+
+==========
+Restoring Harmony (Sub Mission)
+==========
+    - Quest Giver: Saito Toshimitsu
+    - Characters:
+        - None
+    --------------------
+    - Ryomen Sukuna (boss)
+
+==========
+Japanese Heart, Yokai Smarts (Sub Mission)
+==========
+    - Quest Giver: Hachisuka Koroku
+    - Characters:
+        - None
+    --------------------
+    - Hachisuka Koroku (boss)
+
+==========
+Restless Spirits (Sub Mission)
+==========
+    - Quest Giver: Shibata Katsuie
+    - Characters:
+        - None
+    --------------------
+
+==========
+The Scented Letter (Sub Mission)
+==========
+    - Quest Giver: Takenaka Hanbei
+    - Characters:
+        - None
+    --------------------
+
+==========
+Yaksha Returns (Sub Mission)
+==========
+    - Quest Giver: Azai Nagamasa
+    - Characters:
+        - None
+    --------------------
+    - Azai Nagamasa (boss)
+
+==========
+Sealed Fate (Main Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters:
+        - Mumyo (Cutscenes)
+        - William (Cutscenes)
+    --------------------
+    - None
+
+
+========== ========== ========== ========== ==========
+Afterglow Region (Region 7)
+========== ========== ========== ========== ==========
+==========
+The Blue-Eyed Samurai (Main Mission)
+==========
+    - Quest Giver: Protagonist
+    - Characters:
+        - William (Cutscenes)
+        - Kashin Koji (Cutscenes)
+        - Mumyo (Cutscenes)
+    --------------------
+    - William (boss) (first time)
+
+==========
+In The Eye of the Beholder (Main Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters:
+        - Mumyo (Ally)
+        - William (Ally)
+        - Maria (Cutscenes)
+        - Kashin Koji (Cutscenes)
+        - Tokichiro (Cutscenes)
+    --------------------
+
+==========
+Dawn of Hope (Sub Mission)
+==========
+    - Quest Giver: Hattori Hanzo
+    - Characters:
+        - William (Ally)
+    --------------------
+
+==========
+The Trustworthy (Sub Mission)
+==========
+    - Quest Giver: Matsunaga Hisahide
+    - Characters:
+        - Mumyo (Ally)
+    --------------------
+    - Hattori Hanzo (boss) (first time)
+    - Honda Tadakatsu (boss)
+
+==========
+Winds of Ruin (Sub Mission)
+==========
+    - Quest Giver: Mumyo
+    - Characters:
+        - None
+    --------------------
+
+==========
+Wave of Terror (Sub Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - None
+    --------------------
+
+==========
+Calamity's Pulse (Sub Mission)
+==========
+    - Quest Giver: Tenkai (Akechi Mitsuhide)
+    - Characters:
+        - None
+    --------------------
+    - Yatsu-no-Kami (boss)
+    - Shuten Doji (boss)
+    - Otakemaru (boss)
+
+
+========== ========== ========== ========== ==========
+The Tengu's Disciple (DLC 1)
+========== ========== ========== ========== ==========
+==========
+A Song to Calm the Storm (Main Mission)
+==========
+    - Quest Giver: Hakutaku
+    - Characters:
+        - Nasu no Yoichi (NPC)
+        - Benkei (Ally)
+    --------------------
+
+==========
+Shadows Creep in Kurama (Sub Mission)
+==========
+    - Quest Giver: Minamoto no Yoshitsune
+    - Characters:
+        - None
+    --------------------
+
+==========
+The Lost Sword (Sub Mission)
+==========
+    - Quest Giver: Minamoto no Yoshitsune
+    - Characters:
+        - Nasu no Yoichi (NPC)
+    --------------------
+
+==========
+The Loyal Retainer (Sub Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - Kajiwara Kagetoki (Ally)
+    --------------------
+
+==========
+Eternal Rivals (Main Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - Minamoto no Yoshitsune (Cutscenes, Ally)
+        - Benkei (Cutscenes)
+    --------------------
+
+==========
+An Encounter Among the Blossoms (Sub Mission)
+==========
+    - Quest Giver: Hakutaku
+    - Characters:
+        - Saigyo the Wandering Monk (NPC)
+    --------------------
+
+==========
+The Tale of the Taira (Sub Mission)
+==========
+    - Quest Giver: Hakutaku
+    - Characters:
+        - None
+    --------------------
+
+==========
+Prisoners of the Stones (Sub Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - Mysterious Samurai / Date Tomomune (NPC, Ally)
+    --------------------
+
+==========
+Soul of the Warrior Monk (Sub Mission)
+==========
+    - Quest Giver: Hakutaku
+    - Characters:
+        - None
+    --------------------
+    - Benkei (boss)
+
+==========
+Bond of the Blade (Sub Mission)
+==========
+    - Quest Giver: Minamoto no Yoshitsune
+    - Characters:
+        - None
+    --------------------
+    - Minamoto no Yoshitsune (boss)
+
+
+========== ========== ========== ========== ==========
+Darkness In The Capital (DLC 2)
+========== ========== ========== ========== ==========
+==========
+Suzune in the Flames (Main Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - Minamoto no Yorimitsu (Cutscenes)
+        - Sakata Kintoki (Cutscenes)
+    --------------------
+
+==========
+The Blighted Gate (Main Mission)
+==========
+    - Quest Giver: Hakutaku
+    - Characters:
+        - Minamoto no Yorimitsu (Cutscenes)
+        - Sakata Kintoki (Cutscenes)
+        - Ashiya Doman (Cutscenes)
+        - Abe no Seimei (Cutscenes)
+    --------------------
+
+==========
+The Buddha's Palm (Sub Mission)
+==========
+    - Quest Giver: Minamoto no Yorimitsu
+    - Characters:
+        - Usui Sadamitsu (NPC)
+    --------------------
+
+==========
+Insatiable Bloodlust (Sub Mission)
+==========
+    - Quest Giver: ??? Minamoto no Yorimitsu ???
+    - Characters:
+        - Minamoto no Yorimitsu (NPC, Ally)
+        - Watanabe no Tsuna (Ally)
+    --------------------
+
+==========
+Palace of the Damned (Main Mission)
+==========
+    - Quest Giver: Abe no Seimei
+    - Characters:
+        - Minamoto no Yorimitsu (NPC)
+        - Abe no Seimei (NPC)
+        - Ashiya Doman (Cutscenes)
+        - Abe no Seimei (Cutscenes, Ally)
+        - Minamoto no Yorimitsu (Cutscenes, Ally)
+    --------------------
+
+==========
+Boundless Chaos (Sub Mission)
+==========
+    - Quest Giver: Abe no Seimei
+    - Characters:
+        - Urabe no Suetake (Ally)
+    --------------------
+
+==========
+The Sweet Scent of Plums (Sub Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - Fujiwara no Yasumasa (NPC, Ally)
+    --------------------
+
+==========
+The Demon Slayers (Sub Mission)
+==========
+    - Quest Giver: Sakata Kintoki
+    - Characters:
+        - None
+    --------------------
+
+==========
+A Storm in the Underworld (Sub Mission)
+==========
+    - Quest Giver: Abe no Seimei
+    - Characters:
+        - Taira no Korehira (NPC, Ally)
+    --------------------
+
+==========
+The Revelry Ends (Sub Mission)
+==========
+    - Quest Giver: Minamoto no Yorimitsu
+    - Characters:
+        - Minamoto no Yorimitsu (Ally)
+    --------------------
+    - Shuten Doji (boss)
+
+==========
+The Dragon Clan (Sub Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - None
+    --------------------
+    - Ren Hayabusa (boss) (first time)
+
+
+========== ========== ========== ========== ==========
+The First Samurai (DLC 3)
+========== ========== ========== ========== ==========
+==========
+Dawn of the Demon (Main Mission)
+==========
+    - Quest Giver: Protagonist
+    - Characters:
+        - Ancient Otakemaru (Cutscenes)
+        - Suzuka (Cutscenes, Ally)
+    --------------------
+
+==========
+In Search of the Elixir (Sub Mission)
+==========
+    - Quest Giver: Suzuka
+    - Characters:
+        - Izumo no Hirosada (NPC)
+    --------------------
+
+==========
+Words of Respite (Sub Mission)
+==========
+    - Quest Giver: Suzuka
+    - Characters:
+        - Kukai (NPC)
+    --------------------
+
+==========
+A Distant Dream (Main Mission)
+==========
+    - Quest Giver: Suzuka
+    - Characters:
+        - Mujina (Ally)
+        - Ancient Otakemaru (Cutscenes)
+        - Suzuka (Cutscenes)
+        - Kashin Koji (Cutscenes)
+    --------------------
+
+==========
+The Alluring Ancient (Sub Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - None
+    --------------------
+    - Ancient Nyotengu (boss) (first time)
+
+==========
+Battle at the Temple (Sub Mission)
+==========
+    - Quest Giver: Suzuka
+    - Characters:
+        - Kukai (NPC)
+    --------------------
+
+==========
+Against All Comers (Sub Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - None
+    --------------------
+
+==========
+A Spirit's Return (Sub Mission)
+==========
+    - Quest Giver: Hakutaku
+    - Characters:
+        - Mujina (Ally)
+    --------------------
+
+==========
+A Familiar Glow (Sub Mission)
+==========
+    - Quest Giver: Hakutaku
+    - Characters:
+        - Tokichiro (benevolent grave)
+        - Minamoto no Yoshitsune (benevolent grave)
+        - Minamoto no Yorimitsu (benevolent grave)
+    --------------------
+    - Nightmare Bringer (boss)
+
+==========
+Rivals Return (Sub Mission)
+==========
+    - Quest Giver: Nekomata
+    - Characters:
+        - None
+    --------------------
+
+==========
+Undying Light (Sub Mission)
+==========
+    - Quest Giver: Hakutaku
+    - Characters:
+        - None
+    --------------------
+    - Kukai (boss)
