@@ -668,44 +668,6 @@ A Hot-blodded Howl (Sub Mission)
     - Human (big) (spear)
     - Adachi the Beheader
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Fire God's Magatama (Sub Mission)
 ==========
@@ -713,6 +675,44 @@ The Fire God's Magatama (Sub Mission)
     - Characters:
         - None
     --------------------
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Hollow Fortress (Main Mission)
