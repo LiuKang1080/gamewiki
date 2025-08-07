@@ -675,7 +675,17 @@ The Fire God's Magatama (Sub Mission)
     - Characters:
         - None
     --------------------
-    - 
+    - Skeleton Warrior (sword)
+    - Gaki
+    - Skeleton Warrior (spear)
+    - Nure-Onna
+    - Enki
+    - Yamanba
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Karasu Tengu
+    - Infernal Oni-Bi
+    - Toxic Slime
+    - Waira
 
 
 

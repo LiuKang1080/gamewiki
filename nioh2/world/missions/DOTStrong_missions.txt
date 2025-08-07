@@ -848,9 +848,9 @@ The Fire God's Magatama (Sub Mission)
     - Shrine: Yes
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 3 (0 required)
     - Bosses: 
         - None
     - Guardian Spirit Unlocked: 
@@ -863,7 +863,10 @@ The Fire God's Magatama (Sub Mission)
         - Rai Kuniyuki Odachi (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Hachiya Kusarigama (exotic)
+        - Hero's Hatchets (exotic)
+        - Terminus Switchglaive (exotic)
+        - Martial Artist's Tonfa (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None
