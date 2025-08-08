@@ -16,7 +16,7 @@ TEMPLATE ()
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
         - 
@@ -26,42 +26,6 @@ TEMPLATE ()
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - 
-
-
-==========
-Other Notes:
-==========
-    - Twilight Missions in this difficulty are automatically unlocked when the region their main mission is in are unlocked.
-    - All missions in the Awakening Region (region 1) are automatically unlocked after beating the mission In the Eye of the
-        Beholder in Dream of the Samurai difficulty.
-    - All missions in the Soaring Region (region 2) are automatically unlocked after beating the mission In the Eye of the
-        Beholder in Dream of the Samurai difficulty.
-    - The Shadow Region (region 3) is fully unlocked after completing 4 missions.
-    - The Dawn Region (region 4) and the Twilight Region (region 5) are fully unlocked after completing 8 missions.
-    - The following Dojo Missions are unlocked after completing 8 missions:
-        - The Way of the Warrior: Veteran
-        - The Way of the Ninja: Veteran
-        - The Way of Onmyo: Veteran
-        - Opening of the Mind's Eye
-        - Master of the Dual Blades
-        - Hanzo the Demon
-        - The Unmoving Mountain
-        - The Chain That Splits the Sky
-        - The Tengu's Blade
-        - Like Lightning
-        - The Unstoppable Whirlwind
-        - Sharp Eyes
-        - The One Who Lives in the Shadows
-    - The Dream Region (region 6) is fully unlocked after completing 12 missions.
-    - The Dojo Mission: The Nine Symbols is unlocked after completing 12 missions.
-    - The following regions are unlocked after completing 18 missions:
-        - Afterglow Region (region 7)
-        - The Tengu's Disciple (DLC 1)
-        - Darkness In The Capital (DLC 2)
-        - The First Samurai (DLC 3)
-    - The following Dojo Missions are unlocked after completing 18 missions:
-        - Breaking Free
-        - Strike Like a Yokai
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -541,35 +505,28 @@ The Violet Cherry Blossoms
     - Mission Unlock Requirement:
         - Mission is automatically unlocked on Dream of the Strong.
     --------------------
-    - Recommended level: 134
-    - Gold: 112,200 / 
-    - Amrita: 404,328 / 
-    - Shrine: Yes
-    - Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 3
-    - Number of Hot Springs: 0
-    - Number of Dark Realms: 2 (0 required)
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - Gozuki
-        - Mezuki
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Quality Umbracite X1
-        - Sacred Arrow X4
-        - Highest-Quality Leather Platelet X2
-        - Highest-Quality Leather Cord X2
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Blood-Encrusted Sawtooth X1
-        - Enki Pelt X1
-        - Highest-Quality Leather Platelet X1
-        - Highest-Quality Cord X1
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 Traces of the Raging Blaze
@@ -577,34 +534,28 @@ Traces of the Raging Blaze
     - Mission Unlock Requirement:
         - Mission is automatically unlocked on Dream of the Strong.
     --------------------
-    - Recommended level: 135
-    - Gold: 113,400 / 37,800
-    - Amrita: 416,328 / 138,776
-    - Shrine: Yes
-    - Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 3
-    - Number of Hot Springs: 1
-    - Number of Dark Realms: 2 (0 required)
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - Enenra
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Quality Umbracite X1
-        - Highest-Quality Ingot X2
-        - Highest-Quality Tamahagane X2
-        - Highest-Quality Platelet X2
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Smoldering Ash Pile X1
-        - Highest-Quality Ingot X1
-        - Highest-Quality Tamahagane X1
-        - Highest-Quality Iron Platelet X1
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 The Blood Tainted Samurai
@@ -612,33 +563,28 @@ The Blood Tainted Samurai
     - Mission Unlock Requirement:
         - Mission is automatically unlocked on Dream of the Strong.
     --------------------
-    - Recommended level: 134
-    - Gold: 112,200 / 37,400
-    - Amrita: 404,328 / 134,776
-    - Shrine: Yes
-    - Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 1
-    - Number of Hot Springs: 0
-    - Number of Dark Realms: 1 (0 required)
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - None
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Quality Umbracite X1
-        - Lumicite Crystal X1
-        - Karasu Tengu Feather X1
-        - Sacred Ash X1
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Lumicite Shard X1
-        - Sacred Ash X1
-        - Karasu Tengu Feather X1
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 Blood on the Wind
@@ -646,34 +592,28 @@ Blood on the Wind
     - Mission Unlock Requirement:
         - Mission is automatically unlocked on Dream of the Strong.
     --------------------
-    - Recommended level: 157
-    - Gold: 124,800 / 41,600
-    - Amrita: 530,328 / 176,776
-    - Shrine: Yes
-    - Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 1
-    - Number of Hot Springs: 0
-    - Number of Dark Realms: 2 (0 required)
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - Kamaitachi
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Quality Umbracite X1
-        - Sickle Blade Fragments X1
-        - Highest-Quality Wood X2
-        - Highest-Quality Lacquer X2
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Sickle Blade Fragment X1
-        - Highest-Quality Wood X1
-        - Highest-Quality Lacquer X1
-        - Lumicite Shard X1
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 The Cursed Castle Ruins
@@ -681,34 +621,28 @@ The Cursed Castle Ruins
     - Mission Unlock Requirement:
         - Unlock the Shadow Region (region 3) by completing 4 missions.
     --------------------
-    - Recommended level: 178
-    - Gold: 141,000 / 47,000
-    - Amrita: 692,328 / 230,776
-    - Shrine: Yes
-    - Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 2 (1 big sudama)
-    - Number of Hot Springs: 1
-    - Number of Dark Realms: 3 (0 required)
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - Azai Nagamasa
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Quality Umbracite X1
-        - Kamaitachi's Front Teeth X1
-        - Burnt Wick X1
-        - Highest-Quality Iron Platelet X3
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Embercite Shard X2
-        - Burnt Wick X1
-        - Kamaitachi's Front Teeth X1
-        - Highest-Quality Iron Platelet X1
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 The Defiled Sanctuary
@@ -716,33 +650,28 @@ The Defiled Sanctuary
     - Mission Unlock Requirement:
         - Unlock the Shadow Region (region 3) by completing 4 missions.
     --------------------
-    - Recommended level: 196
-    - Gold: 162,000 / 54,000
-    - Amrita: 902,328 / 300,776
-    - Shrine: Yes
-    - Torii Gate Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 0
-    - Number of Hot Springs: 0
-    - Number of Dark Realms: 0
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - Kasha
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Quality Umbracite X1
-        - Summoner's Candle X1
-        - Highest-Quality Wood X5
-        - Infernal Nail X1
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Highest-Quality Wood X2
-        - Broken Wheel Piece X1
-        - Demon's Horn X1
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 Mountain of the Dark Lord
@@ -750,7 +679,7 @@ Mountain of the Dark Lord
     - Mission Unlock Requirement:
         - Unlock the Dawn Region (region 4) by completing 8 missions.
     --------------------
-    - Recommended level: / 
+    - Recommended level: 
     - Gold: 
     - Amrita: 
     - Shrine: 
@@ -779,7 +708,7 @@ The Island of Monsters
     - Mission Unlock Requirement:
         - Unlock the Twilight Region (region 5) by completing 8 missions.
     --------------------
-    - Recommended level: / 
+    - Recommended level: 
     - Gold: 
     - Amrita: 
     - Shrine: 
@@ -808,7 +737,7 @@ Wings of the Phoenix
     - Mission Unlock Requirement:
         - Unlock the Dream Region (region 6) by completing 12 missions.
     --------------------
-    - Recommended level: / 
+    - Recommended level: 
     - Gold: 
     - Amrita: 
     - Shrine: 
@@ -837,7 +766,7 @@ Darkness Brewing
     - Mission Unlock Requirement:
         - Unlock The Tengu's Disciple (DLC 1) by completing 18 missions.
     --------------------
-    - Recommended level: / 
+    - Recommended level: 
     - Gold: 
     - Amrita: 
     - Shrine: 
@@ -866,7 +795,7 @@ The Mystery of Rashomon
     - Mission Unlock Requirement:
         - Unlock Darkness In The Capital (DLC 2) by completing 18 missions.
     --------------------
-    - Recommended level: / 
+    - Recommended level: 
     - Gold: 
     - Amrita: 
     - Shrine: 
@@ -895,7 +824,7 @@ The Bewitching Tower
     - Mission Unlock Requirement:
         - Unlock The First Samurai (DLC 3) by completing 18 missions.
     --------------------
-    - Recommended level: / 
+    - Recommended level: 
     - Gold: 
     - Amrita: 
     - Shrine: 
@@ -931,35 +860,28 @@ The Village of Cursed Blossoms (Main Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 119
-    - Gold: 33,000
-    - Amrita: 90,776
-    - Shrine: Yes
-    - Torii Gate Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 0
-    - Number of Hot Springs: 0
-    - Number of Dark Realms: 2 (0 required)
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - Gozuki
-        - Mezuki
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Fabled Umbracite X1
-        - Metalworking Chisel X2
-        - Lone Wolf's Cuirass (divine)
-        - Lone Wolf's Waistguard (divine)
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Blood-Encrusted Sawtooth X1
-        - Warped Jawbone X1
-        - Quality Leather Platelet X3
-        - Quality Leather Cord X3
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 The Forest Veiled in Darkness (Sub Mission)
@@ -967,33 +889,28 @@ The Forest Veiled in Darkness (Sub Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 122
-    - Gold: 34,000
-    - Amrita: 100,776
-    - Shrine: Yes
-    - Torii Gate Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 0
-    - Number of Hot Springs: 0
-    - Number of Dark Realms: 0
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - None
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Lumicite Shard X3
-        - Yokai Incense X1
-        - Mountain Bandit Hetchets (divine)
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Night Raider Cuirass (exotic)
-        - Night Raider Waistguard (exotic)
-        - Quality Wood X3
-        - Quality Lacquer X2
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 The Beast Born of Smoke and Flames (Main Mission)
@@ -1001,34 +918,28 @@ The Beast Born of Smoke and Flames (Main Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 123
-    - Gold: 34,400
-    - Amrita: 104,776
-    - Shrine: Yes
-    - Torii Gate Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 0
-    - Number of Hot Springs: 1
-    - Number of Dark Realms: 2 (0 required)
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - Enenra
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Fabled Umbracite X1
-        - Enenra Mask (helmet piece) (divine)
-        - Ippon-Datara's Hammer (divine)
-        - Metalworking Chisel X2
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Ippon-Datara Fang X1
-        - High-Quality Tamahagane X2
-        - Quality Ingot X2
-        - Quality Iron Platelet X2
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 A Voice in the Twilight (Sub Mission)
@@ -1036,34 +947,28 @@ A Voice in the Twilight (Sub Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 127
-    - Gold: 35,000
-    - Amrita: 110,776
-    - Shrine: Yes
-    - Torii Gate Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 0
-    - Number of Hot Springs: 0
-    - Number of Dark Realms: 0
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - Gozuki
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Clay Bell of Beckoning X1
-        - Summoner's Candle X1
-        - Bandit Axe (divine)
-        - Demon's Horn X1
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Clay Bell of Beckoning X1
-        - Demon's Horn X1
-        - Divine Branch X1
-        - Signpost Amulet X2
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 Dark Omens (Sub Mission)
@@ -1071,34 +976,28 @@ Dark Omens (Sub Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 127
-    - Gold: 35,400
-    - Amrita: 114,776
-    - Shrine: Yes
-    - Torii Gate Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 0
-    - Number of Hot Springs: 0
-    - Number of Dark Realms: 0
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - None
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Sacred Ash X1
-        - Lumicite Crystal X1
-        - Genin's Kusarigama (divine)
-        - Brawler's Waistguard (divine)
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Brawler's Cuirass (exotic)
-        - Brawler's Greaves (exotic)
-        - Brawler's Helmet (exotic)
-        - Lumicite Fragment X1
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 The Viper's Sanctum (Main Mission)
@@ -1106,33 +1005,28 @@ The Viper's Sanctum (Main Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 128
-    - Gold: 35,800
-    - Amrita: 118,776
-    - Shrine: Yes
-    - Torii Gate Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 2 (1 big Sudama)
-    - Number of Hot Springs: 1
-    - Number of Dark Realms: 3 (0 required)
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - Yatsu-no-Kami
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Shinto Priest's Hunting Garb
-        - Shinto Priest's Hakama
-        - Fabled Umbracite X1
-        - Metalworking Chisel X2
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Bladed Horn X1
-        - Glowing Lock of Wet Hair X1
-        - Poison Pearl X1
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 A Favor for the Blacksmith (Sub Mission)
@@ -1140,34 +1034,28 @@ A Favor for the Blacksmith (Sub Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 132
-    - Gold: 36,400
-    - Amrita: 124,776
-    - Shrine: Yes
-    - Torii Gate Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 0
-    - Number of Hot Springs: 0
-    - Number of Dark Realms: 0
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - None
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Kobizen Odachi (divine)
-        - Bronze Hammer (axe) (divine)
-        - Officer's Spear (divine)
-        - Retainer's Tonfa (divine)
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Martial Artist's Switchglaive (exotic)
-        - Seki Dual Tachi (dual swords) (exotic)
-        - Naked Steel Kusarigama (exotic)
-        - Bizen Osafune (sword - type 2) (exotic)
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 The Search (Sub Mission)
@@ -1175,33 +1063,28 @@ The Search (Sub Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 133
-    - Gold: 36,800
-    - Amrita: 128,776
-    - Shrine: Yes
-    - Torii Gate Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 4
-    - Number of Hot Springs: 0
-    - Number of Dark Realms: 2 (0 required)
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - None
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Kodama Bowl (head gear) (divine)
-        - Possessed Kodama Bowl X1
-        - Glowing Lock of Wet Hair X2
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Quality Leather Cord X3
-        - Possessed Kodama Bowl X2
-        - Quality Leather Platelet X3
-        - Signpost Amulet X2
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 The Greedy Hunter (Sub Mission)
@@ -1209,33 +1092,28 @@ The Greedy Hunter (Sub Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 134
-    - Gold: 37,200
-    - Amrita: 132,776
-    - Shrine: Yes
-    - Torii Gate Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 0
-    - Number of Hot Springs: 0
-    - Number of Dark Realms: 0
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - None
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Gyosha hand Axe (hatchets) (divine)
-        - Seven Scalp Switchglaive (divine)
-        - Sohaya Garb Faceplate (divine)
-        - Enki Pelt X2
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Enki X1
-        - Skeletal Warrior Sacrum X1
-        - Warped Jawbone X1
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -1247,34 +1125,28 @@ The Hidden Monsters of Okehazama (Main Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 135
-    - Gold: 37,600
-    - Amrita: 136,776
-    - Shrine: Yes
-    - Torii Gate Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 2 (1 big sudama)
-    - Number of Hot Springs: 1
-    - Number of Dark Realms: 2 (0 required)
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - Imagawa Yoshimoto
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Samurai's Locks X1
-        - Fabled Umbracite X1
-        - Master Archer's Cuirass (chest piece) (divine)
-        - Metalworking Chisel X2
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Sozasamonji Matsukurago (dual swords) (exotic)
-        - Master Archer's Greaves (exotic)
-        - Master Archer's Gauntlets (exotic)
-        - Lightning Amulet X1
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 Imagawa Diehard (Sub Mission)
@@ -1282,33 +1154,28 @@ Imagawa Diehard (Sub Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 138
-    - Gold: 38,000
-    - Amrita: 140,776
-    - Shrine: Yes
-    - Torii Gate Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 0
-    - Number of Hot Springs: 0
-    - Number of Dark Realms: 0
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - Imagawa Yoshimoto
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Master Archer's Hat (divine)
-        - Wild Boar Crest Helmet (divine)
-        - Sessai's Switchglaive (divine)
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Wild Boar Crest Helmet (exotic)
-        - Quality Lacquer X3
-        - Quality Wood X3
-        - Righteous Jasper X1
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 Hidetatsu's Dying Wish (Sub Mission)
@@ -1316,33 +1183,28 @@ Hidetatsu's Dying Wish (Sub Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 139
-    - Gold: 38,400
-    - Amrita: 144,776
-    - Shrine: Yes
-    - Torii Gate Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 0
-    - Number of Hot Springs: 0
-    - Number of Dark Realms: 1 (0 required)
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - None
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Smithing Text: Transient Blade
-        - Smithing Text: Coin Threader
-        - Smithing Text: Pit Viper's Garments
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Transient Blade (sword) (exotic) [sword icon type 1]
-        - Pit Viper's Robes (chest piece) (exotic)
-        - Pit Viper's Hakama (leg piece) (exotic)
-        - Pit Viper's Shoes (foot piece) (exotic)
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 An Error in Calculation (Sub Mission)
@@ -1350,33 +1212,28 @@ An Error in Calculation (Sub Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 140
-    - Gold: 38,800
-    - Amrita: 148,776
-    - Shrine: Yes
-    - Torii Gate Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 1
-    - Number of Hot Springs: 1
-    - Number of Dark Realms: 1 (0 required)
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - None
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Warrior's Cross Spear (divine)
-        - Abacus (accessory) (divine)
-        - High-Quality Leather Platelet X3
-        - High-Quality Leather Cord X3
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Warrior's Cross Spear (exotic)
-        - High-Quality Leather Platelet X2
-        - High-Quality Leather Cord X2
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 The Mysterious One Night Castle (Main Mission)
@@ -1384,34 +1241,28 @@ The Mysterious One Night Castle (Main Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 142
-    - Gold: 39,000
-    - Amrita: 150,776
-    - Shrine: Yes
-    - Torii Gate Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 2 (1 big sudama)
-    - Number of Hot Springs: 2
-    - Number of Dark Realms: 2 (0 required)
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - Kamaitachi
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Fabled Umbracite X1
-        - Metalworking Chisel X2
-        - Ferryman's Robes (divine)
-        - Ferryman's Hakama (divine)
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Sickle Blade Fragment X1
-        - High-Quality Wood X2
-        - Waira Claw X1
-        - High-Quality Lacquer X2
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 The Sunomata Yokai Hunt (Sub Mission)
@@ -1419,33 +1270,28 @@ The Sunomata Yokai Hunt (Sub Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 145
-    - Gold: 39,400
-    - Amrita: 154,776
-    - Shrine: Yes
-    - Torii Gate Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 0
-    - Number of Hot Springs: 0
-    - Number of Dark Realms: 0
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - None
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Custom Kusarigama (divine)
-        - Japanese Scissors (accessory) (divine)
-        - Red Spider Lily X1
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Custom Kusarigama (exotic)
-        - Kappa Shell X1
-        - Karasu Tengu Feather X1
-        - Red Spider Lily X1
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 A Hot-blodded Howl (Sub Mission)
@@ -1453,33 +1299,28 @@ A Hot-blodded Howl (Sub Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 146
-    - Gold: 39,600
-    - Amrita: 156,776
-    - Shrine: Yes
-    - Torii Gate Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 0
-    - Number of Hot Springs: 0
-    - Number of Dark Realms: 0
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - None
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Captain's Spear (divine)
-        - High-Quality Tamahagane X3
-        - Whetstone X2
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Captain's Spear (exotic)
-        - High-Quality Tamahagane X3
-        - High-Quality Ingot X2
-        - Whetstone X1
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 The Fire God's Magatama (Sub Mission)
@@ -1487,34 +1328,28 @@ The Fire God's Magatama (Sub Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 148
-    - Gold: 40,000
-    - Amrita: 160,776
-    - Shrine: Yes
-    - Torii Gate Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 0
-    - Number of Hot Springs: 0
-    - Number of Dark Realms: 3 (0 required)
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - None
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Swordsmith's Hammer (divine)
-        - Kiku Ichimonji (sword) [type 1] (divine)
-        - Seki Kaneyoshi Dual Tachi (dual swords) (divine)
-        - Rai Kuniyuki Odachi (divine)
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Hachiya Kusarigama (exotic)
-        - Hero's Hatchets (exotic)
-        - Terminus Switchglaive (exotic)
-        - Martial Artist's Tonfa (exotic)
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - 
 
 ==========
 The Hollow Fortress (Main Mission)
@@ -1522,73 +1357,28 @@ The Hollow Fortress (Main Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 148
-    - Gold: 40,400
-    - Amrita: 164,776
-    - Shrine: Yes
-    - Torii Gate Expedition: Yes
-    - Number of Kodama: 0
-    - Number of Sudama: 2
-    - Number of Hot Springs: 2
-    - Number of Dark Realms: 2 (0 required)
+    - Recommended level: 
+    - Gold: 
+    - Amrita: 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
     - Bosses: 
-        - Onryoki
-        - Saito Yoshitatsu
+        - 
     - Guardian Spirit Unlocked: 
-        - None
+        - 
     - Mission Rewards: 
     First Time: 
-        - Genryu's Helmet (divine)
-        - Fabled Umbracite X1
-        - Metalworking Chisel X2
-        - Hand Mirror (accessory) (divine)
+        - 
     ---------- ---------- ----------
     Subsequent Completes:
-        - Udoto (sword) (exotic) [type 1]
-        - Genryu's Gauntlets (exotic)
-        - Genryu's Greaves (exotic)
-        - Lumicite Shard X1
+        - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        - 
 
 ==========
 An End to Seclusion (Sub Mission)
@@ -3258,6 +3048,7 @@ Sealed Fate (Main Mission)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - 
+
 
 
 ========== ========== ========== ========== ==========

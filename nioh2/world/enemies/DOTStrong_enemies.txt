@@ -687,43 +687,6 @@ The Fire God's Magatama (Sub Mission)
     - Toxic Slime
     - Waira
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Hollow Fortress (Main Mission)
 ==========
@@ -734,6 +697,64 @@ The Hollow Fortress (Main Mission)
         - Mumyo (Cutscenes)
         - Kashin Koji (Cutscenes)
     --------------------
+    - Dweller
+    - Dweller (big)
+    - Koroka
+    - Human (big) (torch, sword)
+    - Enki
+    - Human (sword)
+    - Human (big) (axe)
+    - Abberant Soldier
+    - Human (torch, sword)
+    - Human (big) (odachi)
+    - Rokurokubi (sword)
+    - Flying Bolt
+    - Rokurokubi (spear)
+    - Human (big) (torch, odachi)
+    - Onryoki (boss)
+    - One-Eyed Oni (snowclops)
+    - Kappa
+    - Mujina
+    - Nurikabe
+    - Human (fire arrow + bow, sword)
+    - Rokurokubi (dual swords)
+    - Saito Yoshitatsu (boss)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 An End to Seclusion (Sub Mission)
