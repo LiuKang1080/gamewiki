@@ -17,7 +17,7 @@ Randomly generate a number between 1 and 11, each number representing a weapon f
 */
 
 
-function rand_num(limit) {
+function generate_rand_num(limit) {
     /*
     Generate a random number from 1 to the upper limit provided.
     
@@ -29,6 +29,7 @@ function rand_num(limit) {
     Return: 
         - [none] console.log().
     */
+    // initialize variables
     let num = 0;
 
     // labeled statement
@@ -46,5 +47,5 @@ function rand_num(limit) {
 }
 
 
-// call rand_num() function
-console.log(rand_num(11));
+// call rand function
+console.log(generate_rand_num(11));

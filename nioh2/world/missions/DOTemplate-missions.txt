@@ -506,8 +506,8 @@ The Violet Cherry Blossoms
         - Mission is automatically unlocked on Dream of the Strong.
     --------------------
     - Recommended level: 
-    - Gold: 
-    - Amrita: 
+    - Gold:  / 
+    - Amrita:  / 
     - Shrine: 
     - Torii Gate Expedition: 
     - Number of Kodama: 
@@ -535,8 +535,8 @@ Traces of the Raging Blaze
         - Mission is automatically unlocked on Dream of the Strong.
     --------------------
     - Recommended level: 
-    - Gold: 
-    - Amrita: 
+    - Gold:  / 
+    - Amrita:  / 
     - Shrine: 
     - Torii Gate Expedition: 
     - Number of Kodama: 
@@ -564,8 +564,8 @@ The Blood Tainted Samurai
         - Mission is automatically unlocked on Dream of the Strong.
     --------------------
     - Recommended level: 
-    - Gold: 
-    - Amrita: 
+    - Gold:  / 
+    - Amrita:  / 
     - Shrine: 
     - Torii Gate Expedition: 
     - Number of Kodama: 
@@ -593,8 +593,8 @@ Blood on the Wind
         - Mission is automatically unlocked on Dream of the Strong.
     --------------------
     - Recommended level: 
-    - Gold: 
-    - Amrita: 
+    - Gold:  / 
+    - Amrita:  / 
     - Shrine: 
     - Torii Gate Expedition: 
     - Number of Kodama: 
@@ -622,8 +622,8 @@ The Cursed Castle Ruins
         - Unlock the Shadow Region (region 3) by completing 4 missions.
     --------------------
     - Recommended level: 
-    - Gold: 
-    - Amrita: 
+    - Gold:  / 
+    - Amrita:  / 
     - Shrine: 
     - Torii Gate Expedition: 
     - Number of Kodama: 
@@ -651,8 +651,8 @@ The Defiled Sanctuary
         - Unlock the Shadow Region (region 3) by completing 4 missions.
     --------------------
     - Recommended level: 
-    - Gold: 
-    - Amrita: 
+    - Gold:  / 
+    - Amrita:  / 
     - Shrine: 
     - Torii Gate Expedition: 
     - Number of Kodama: 
@@ -680,8 +680,8 @@ Mountain of the Dark Lord
         - Unlock the Dawn Region (region 4) by completing 8 missions.
     --------------------
     - Recommended level: 
-    - Gold: 
-    - Amrita: 
+    - Gold:  / 
+    - Amrita:  / 
     - Shrine: 
     - Torii Gate Expedition: 
     - Number of Kodama: 
@@ -709,8 +709,8 @@ The Island of Monsters
         - Unlock the Twilight Region (region 5) by completing 8 missions.
     --------------------
     - Recommended level: 
-    - Gold: 
-    - Amrita: 
+    - Gold:  / 
+    - Amrita:  / 
     - Shrine: 
     - Torii Gate Expedition: 
     - Number of Kodama: 
@@ -738,8 +738,8 @@ Wings of the Phoenix
         - Unlock the Dream Region (region 6) by completing 12 missions.
     --------------------
     - Recommended level: 
-    - Gold: 
-    - Amrita: 
+    - Gold:  / 
+    - Amrita:  / 
     - Shrine: 
     - Torii Gate Expedition: 
     - Number of Kodama: 
@@ -767,8 +767,8 @@ Darkness Brewing
         - Unlock The Tengu's Disciple (DLC 1) by completing 18 missions.
     --------------------
     - Recommended level: 
-    - Gold: 
-    - Amrita: 
+    - Gold:  / 
+    - Amrita:  / 
     - Shrine: 
     - Torii Gate Expedition: 
     - Number of Kodama: 
@@ -796,8 +796,8 @@ The Mystery of Rashomon
         - Unlock Darkness In The Capital (DLC 2) by completing 18 missions.
     --------------------
     - Recommended level: 
-    - Gold: 
-    - Amrita: 
+    - Gold:  / 
+    - Amrita:  / 
     - Shrine: 
     - Torii Gate Expedition: 
     - Number of Kodama: 
@@ -825,8 +825,8 @@ The Bewitching Tower
         - Unlock The First Samurai (DLC 3) by completing 18 missions.
     --------------------
     - Recommended level: 
-    - Gold: 
-    - Amrita: 
+    - Gold:  / 
+    - Amrita:  / 
     - Shrine: 
     - Torii Gate Expedition: 
     - Number of Kodama: 
