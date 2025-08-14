@@ -720,42 +720,6 @@ The Hollow Fortress (Main Mission)
     - Rokurokubi (dual swords)
     - Saito Yoshitatsu (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 An End to Seclusion (Sub Mission)
 ==========
@@ -763,6 +727,51 @@ An End to Seclusion (Sub Mission)
     - Characters:
         - None
     --------------------
+    - Karakasa Umbrella
+    - Yamanba
+    - Infernal Oni-Bi
+    - Karasu Tengu
+    - One-Eyed Oni
+    - Abberant Soldier
+    - Maelstrom Oni-Bi
+    - Waira
+    - Rokurokubi (spear)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Shiftling's Wise Judgement (Sub Mission)
