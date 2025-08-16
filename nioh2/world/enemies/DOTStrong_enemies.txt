@@ -737,42 +737,6 @@ An End to Seclusion (Sub Mission)
     - Waira
     - Rokurokubi (spear)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Shiftling's Wise Judgement (Sub Mission)
 ==========
@@ -781,6 +745,36 @@ The Shiftling's Wise Judgement (Sub Mission)
         - Shibata Katsuie (NPC, Ally)
         - Hachisuka Koroku (NPC, Ally)
     --------------------
+    (Side with Hachisuka Koroku):
+    - Human (axe)
+    - Human (big) (dual swords)
+    - Human (big) (odachi)
+    - Human (big) (axe)
+    - Human (fire arrow + bow, sword)
+    - Human (sword)
+    - Human (dual swords)
+    - Human (spear)
+    - Ninja (dual swords)
+    - Ninja (sowrd)
+    - Ninja (Kusarigama)
+    - Human (conch shell, sword)
+    - Ninja (cannon, sword)
+    - Human (big) (sowrd)
+    - Human (odachi)
+    - Shibata Katsuie (boss)
+    
+    (Side with Shibata Katsuie):
+    - Skeleton Warrior (spear)
+    - Enki
+    - Karakasa Umbrella
+    - One-Eyed Oni
+    - Gaki
+    - Dweller
+    - Gaki (big)
+    - Ippon-Datara (odachi)
+    - Ippon-Datara (hammer)
+    - Dweller (big)
+    - Hachisuka Koroku (boss)
 
 ==========
 The Viper and the Butterfly (Sub Mission)
@@ -790,12 +784,58 @@ The Viper and the Butterfly (Sub Mission)
         - Princess Noh (Cutscenes)
         - Oda Nobunaga (Cutscenes)
     --------------------
-
+    - Gaki
+    - Nurikabe
+    - Koroka
+    - Nure-Onna
+    - One-Eyed Oni (snowclops)
+    - Biwa Boku-Boku
+    - Abberant Soldier
+    - Yamanba
+    - Gaki (big)
+    - Revenant (switchglaive)
 
 
 ========== ========== ========== ========== ==========
 Shadow Region (Region 3)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==========
 A Way Out (Main Mission)
 ==========

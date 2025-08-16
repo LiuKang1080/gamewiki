@@ -1585,72 +1585,40 @@ An End to Seclusion (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Shiftling's Wise Judgement (Sub Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 153
+    - Gold: 41,200
+    - Amrita: 172,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 0 (0 required)
     - Bosses: 
-        - 
+        - Shibata Katsuie
+        - Hachisuka Koroku
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Double-headed Snake Tonfa (divine)
+        - Borehole Bow (divine)
+        - Sakai Rifle (divine)
+        - Explosive Rounds X3
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Explosive Rounds X2
+        - Quality Wood X5
+        - Quality Lacquer X5
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Viper and the Butterfly (Sub Mission)
@@ -1658,33 +1626,76 @@ The Viper and the Butterfly (Sub Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 157
+    - Gold: 41,600
+    - Amrita: 176,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 1 (0 required)
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Smithing Text: Sasayuki
+        - Principal Governor's Cuirass (divine)
+        - Principal Governor's Waistguard (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Sasayuki (switchglaive) (water) (exotic)
+        - Principal Governor's Faceplate
+        - Principal Governor's Gauntlets
+        - Principal Governor's Greaves
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 
 ========== ========== ========== ========== ========== ========== ==========
 Shadow Region (Region 3)
 ========== ========== ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==========
 A Way Out (Main Mission)
 ==========
