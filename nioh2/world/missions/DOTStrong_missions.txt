@@ -1658,72 +1658,40 @@ The Viper and the Butterfly (Sub Mission)
 ========== ========== ========== ========== ========== ========== ==========
 Shadow Region (Region 3)
 ========== ========== ========== ========== ========== ========== ==========
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 A Way Out (Main Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Shadow Region by completing 4 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 158
+    - Gold: 42,200
+    - Amrita: 182,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 2 (1 big sudama)
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 3 (0 required)
     - Bosses: 
-        - 
+        - Tatarimokke
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Sohaya Mask (divine)
+        - Fabled Umbracite X1
+        - Metalworking Chisel X2
+        - Tenmoku (tea utensil) (exotic)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Petrified Eye X1
+        - Sohaya Gauntlets (exotic)
+        - Sohaya Waistguard (exotic)
+        - Sohaya Greaves (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Learning A Lesson (Sub Mission)
@@ -1731,28 +1699,73 @@ Learning A Lesson (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Shadow Region by completing 4 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 161
+    - Gold: 42,600
+    - Amrita: 186,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Jikkyu Mitsutada (sword) [type 1] (divine)
+        - Sacred Water X5
+        - Embercite Shard X3
+        - Skeletal Warrior's Sacrum X1
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Jikkyu Mitsutada (sword) [type 1] (exotic)
+        - Sacred Water X3
+        - Embercite Shard X1
+        - Aberrant Spirit Stone X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Shrine of Oaths (Sub Mission)

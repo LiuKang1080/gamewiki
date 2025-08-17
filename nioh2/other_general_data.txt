@@ -274,7 +274,8 @@ Dream of the Strong (NG+1) Notes:
     - Maximum Soul Core level: 160
 
     - Spirit Stones that drop on Dream of the Strong (NG+):
-        - Embercite Fragment [new] (starts dropping from the Shadow Region (region 3) and onwards)
+        - Embercite Fragment [new] (starts dropping from the Soaring Region (region 2) and onwards)
+        - Embercite Shard [new] (starts dropping from the Shadow Region (region 3) and onwards)
 
 ========== ========== ==========
 Dream of the Demon (NG+2) Notes:

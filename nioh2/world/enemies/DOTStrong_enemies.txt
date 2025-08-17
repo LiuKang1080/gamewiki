@@ -799,43 +799,6 @@ The Viper and the Butterfly (Sub Mission)
 ========== ========== ========== ========== ==========
 Shadow Region (Region 3)
 ========== ========== ========== ========== ==========
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 A Way Out (Main Mission)
 ==========
@@ -850,6 +813,31 @@ A Way Out (Main Mission)
         - Oda Nobunaga (Cutscenes)
         - Matsunaga Hisahide (Cutscenes)
     --------------------
+    - Ninja Dog
+    - Human (fire arrow + bow, sword)
+    - Human (torch, sword)
+    - Human (big) (spear)
+    - Human (big) (odachi)
+    - Human (axe)
+    - Human (spear)
+    - Human (sword)
+    - Yamanba
+    - Gaki
+    - Enki
+    - Skeleton Warrior (big) (axe)
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Human (big) (torch, spear)
+    - Human (conch shell, sword)
+    - Karasu Tengu
+    - Mitsume Yazura
+    - Skeleton Warrior (sword)
+    - One-Eyed Imp
+    - Biwa Boku-Boku
+    - One-Eyed Oni
+    - Skeleton Warrior (cannon, sword)
+    - Human (rifle, sword)
+    - Nurikabe
+    - Tatarimokke (boss)
 
 ==========
 Learning A Lesson (Sub Mission)
@@ -858,6 +846,61 @@ Learning A Lesson (Sub Mission)
     - Characters:
         - None
     --------------------
+    - Human (axe)
+    - Human (cannon, sword)
+    - Human (sword)
+    - Human (big) (odachi)
+    - Skeleton Warrior (spear)
+    - Gaki
+    - Yamanba
+    - Yoki (sword)
+    - Sohaya Warrior (hatchets)
+    - Dweller
+    - Enki
+    - Kappa
+    - Abberant Soldier
+    - Ippon-Datara (odachi)
+    - Skeleton Warrior (cannon, sword)
+    - Dweller (big)
+    - Sohaya Warrior (switchglaive)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Shrine of Oaths (Sub Mission)
