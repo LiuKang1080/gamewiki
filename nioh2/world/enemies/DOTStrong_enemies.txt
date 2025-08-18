@@ -864,44 +864,6 @@ Learning A Lesson (Sub Mission)
     - Dweller (big)
     - Sohaya Warrior (switchglaive)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Shrine of Oaths (Sub Mission)
 ==========
@@ -909,6 +871,62 @@ The Shrine of Oaths (Sub Mission)
     - Characters:
         - None
     --------------------
+    - Yoki (axe)
+    - Abberant Soldier
+    - Mitsume Yazura
+    - One-Eyed Oni
+    - Yamanba
+    - Gaki
+    - Yoki (sword)
+    - Human (conch shell, sword)
+    - Human (spear)
+    - Human (big) (odachi)
+    - Human (rifle, sword)
+    - Human (fire arrow + bow, sword)
+    - Koroka
+    - One-Eyed Imp
+    - Maelstrom Oni-Bi
+    - Infernal Oni-Bi
+    - Karakasa Umbrella
+    - Karasu Tengu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Immoveable (Sub Mission)

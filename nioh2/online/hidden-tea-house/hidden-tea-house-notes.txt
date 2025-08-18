@@ -2,4 +2,109 @@
 Items Notes:
 ========== ========== ==========
     - Ochoko Cups: Costs starts at 200 Glory, and caps at 1,000 Glory.
-    - 
+    - All hanging Scroll Texts that are available for purchase are 1,000 Glory.
+
+
+========== ========== ==========
+Items Glory Cost:
+========== ========== ==========
+    - common: white
+    - uncommon: yellow
+    - rare: blue
+    - exotic: purple
+    - divine: green
+    - ethreal: orange
+
+
+    - [exotic] Book of Reincarnation: 800 increases by 300 Glory on each purchase up to
+    - [exotic] Herbal Remedy: 400
+    - [exotic] Summoner's Candle: 650
+    - [exotic] Zen Manual: 800 increases by 300 Glory on each purchase up to 
+    - [rare] Fragrent Wood: 120
+    - [rare] Ochoko Cup: 1,000
+    - [rare] Sacred Ash: 200
+    - [rare] Sacred Brush: 180
+    - [rare] Shinobi Box: 180
+    - [uncommon] Amulet of Camaraderie: 120
+    - [uncommon] Arrowproof Amulet: 180
+    - [uncommon] Burning Oil Jar: 240
+    - [uncommon] Fleeting Guardian Amulet: 310
+    - [uncommon] Hyottoko Mask: 220
+    - [uncommon] Possessed Kodama Bowl: 100
+    - [uncommon] Yokai Incense: 200
+    - [uncommon] Yokai Water Pot: 140
+    - [common] Mud Jar: 220
+    - [common] Signpost Amulet: 30
+    - [common] Sticky Pot: 160
+    - [common] Visitor Amulet: 100
+    -------------------- Yokai forging materials
+    - [divine] Divine Robe Scrap: 5,000
+    - [divine] Sanmyo Blade Fragment: 5,000
+    - [exotic] Nightmare Tusk: 5,000
+    - [rare] Bladed Horn: 2,500
+    - [rare] Blood-Encrusted Sawtooth: 2,500
+    - [rare] Broken Demon Tile: 4,000
+    - [rare] Infernal Nail: 3,000
+    - [rare] Giant Toad Oil: 3,000
+    - [rare] Gyuki Wing Membrane: 3,000
+    - [rare] Large Tsugigumo Claw: 3,000
+    - [rare] Nue's Claw: 3,000
+    - [rare] Ominous Bird's Beak: 2,500
+    - [rare] Primordial Mud: 3,500
+    - [rare] Shuten Doji's Red Hair: 4,000
+    - [rare] Sickle Blade Fragments: 2,500
+    - [rare] Smouldering Ash Pile: 2,500
+    - [rare] Tate Eboshi Horn: 3,500
+    - [rare] Transparent Blade: 4,000
+    - [rare] Wheel of Ice and Fire: 3,000
+    - [rare] White Tiger Fur: 4,000
+    - [uncommon] Aberrant Spirit Stone: 700
+    - [uncommon] Baby Stone Fragment: 1,100
+    - [uncommon] Bakegani Pincers: 1,000
+    - [uncommon] Biwa Pick: 1,500
+    - [uncommon] Bloodstained Blade Scraps: 900
+    - [uncommon] Broken Wheel Piece: 900
+    - [uncommon] Burnt Wick: 1,000
+    - [uncommon] Coral Fragment: 2,000
+    - [uncommon] Cursed Nail: 1,100
+    - [uncommon] Demon's Horn: 900
+    - [uncommon] Enki Pelt: 800
+    - [uncommon] Fox Spirit's Pelt: 700
+    - [uncommon] Fuki Veil: 2,000
+    - [uncommon] Ghastly Bird Tail Feathers 2,500
+    - [uncommon] Glowing Lock of Wet Hair: 800
+    - [uncommon] Hateful Spine: 2,000
+    - [uncommon] Invisible Cloth: 2,000
+    - [uncommon] Ippon-Datara Fang: 1,000
+    - [uncommon] Kamaitachi's Front Teeth: 900
+    - [uncommon] Kappa Shell: 1,500
+    - [uncommon] Karasu Tengu Feather: 2,000
+    - [uncommon] Kiryoki Mane: 1,200
+    - [uncommon] Konaki-Jiji Hair: 1,000
+    - [uncommon] Large Crooked Horn: 2,000
+    - [uncommon] Lesser Umi-Bozu's Eyestone: 800
+    - [uncommon] Lock of Grey Hair: 800
+    - [uncommon] Mujina's Scarf: 1,500
+    - [uncommon] Mutated Skin: 700
+    - [uncommon] Namahage Horn: 1,200
+    - [uncommon] Nuppeppo Liver: 1,100
+    - [uncommon] Nurikabe Fragment: 1,500
+    - [uncommon] One-Eyed Imp's Clogs: 1,500
+    - [uncommon] One-Eyed Oni Loincloth: 1,100
+    - [uncommon] Oni-Bi Core: 600
+    - [uncommon] Oxcart Screen: 1,000
+    - [uncommon] Petrified Eye: 1,200
+    - [uncommon] Poison Pearl: 800
+    - [uncommon] Red Kappa Shell: 1,900
+    - [uncommon] Skeletal Warrior's Sacrum: 700
+    - [uncommon] Slender Vertebra: 1,000
+    - [uncommon] Snowclops Loincloth: 1,300
+    - [uncommon] Spirit Stone Arm: 2,000
+    - [uncommon] Spirit Stone Carapace: 2,000
+    - [uncommon] Umbrella Rib: 900
+    - [uncommon] Underworld Veil: 800
+    - [uncommon] Waira Claw: 1,100
+    - [uncommon] Warped Jawbone: 500
+    - [uncommon] Web Netting: 700
+    - [uncommon] White Cloth: 1,400
+    - [uncommon] Writhing Tongue: 1,000

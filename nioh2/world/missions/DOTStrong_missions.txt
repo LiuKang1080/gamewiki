@@ -1728,73 +1728,77 @@ Learning A Lesson (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Shrine of Oaths (Sub Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Shadow Region by completing 4 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 163
+    - Gold: 43,400
+    - Amrita: 194,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Petrified Eye X1
+        - Poison Omamori (accessory) (divine)
+        - Prayer Beads (accessory) (divine)
+        - Smithing Text: High Priest's Vestments
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Petrified Eye X1
+        - Divine Branch X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Immovable (Sub Mission)
