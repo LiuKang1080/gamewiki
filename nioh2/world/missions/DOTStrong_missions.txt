@@ -1761,73 +1761,40 @@ The Shrine of Oaths (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Immovable (Sub Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Shadow Region by completing 4 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 162
+    - Gold: 43,000
+    - Amrita: 190,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 1 (0 required)
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Extinction Switchglaive (divine)
+        - Embercite Shard X7
+        - Summoner's Candle X1
+        - Omamori (accessory) (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Embercite Fragment X4
+        - Skeletal Warrior's Sacrum X1
+        - Warped Jawbone X2
+        - Yokai Water Pot X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 A Formal Match (Sub Mission)
@@ -1835,28 +1802,72 @@ A Formal Match (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Shadow Region by completing 4 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 164
+    - Gold: 44,000
+    - Amrita: 200,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Yasuke
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Gozutenno's Axe (divine)
+        - Obsidian Helmet (divine)
+        - Obsidian Cuirass (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Starcutter Sword [type 2] (exotic)
+        - Obsidian Waistguard (exotic)
+        - Obsidian Gauntlets (exotic)
+        - Obsidian Greaves (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Corpses and Ice (Main Mission)

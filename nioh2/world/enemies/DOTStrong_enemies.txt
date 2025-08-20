@@ -890,44 +890,6 @@ The Shrine of Oaths (Sub Mission)
     - Karakasa Umbrella
     - Karasu Tengu
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Immoveable (Sub Mission)
 ==========
@@ -935,6 +897,22 @@ Immoveable (Sub Mission)
     - Characters:
         - None
     --------------------
+    - Sohaya Warrior (axe) 
+    - Human (rifle, sword)
+    - Human (big) (spear)
+    - Ninja Dog
+    - Sohaya Warrior (hatchets)
+    - Human (axe)
+    - Human (big) (axe)
+    - Sohaya Warrior (switchglaive)
+    - Sohaya Warrior (odachi)
+    - Enki
+    - Mitsume Yazura
+    - Skeleton Warrior (rifle, sword)
+    - Karasu Tengu
+    - Gaki
+    - Skeleton Warrior (spear)
+    - Skeleton Warrior (big) (axe)
 
 ==========
 A Formal Match (Sub Mission)
@@ -945,6 +923,45 @@ A Formal Match (Sub Mission)
         - Oda Nobunaga (NPC)
     --------------------
     - Obsidian Samurai (boss) (first time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Corpses and Ice (Main Mission)

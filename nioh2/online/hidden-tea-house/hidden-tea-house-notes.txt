@@ -3,6 +3,8 @@ Items Notes:
 ========== ========== ==========
     - Ochoko Cups: Costs starts at 200 Glory, and caps at 1,000 Glory.
     - All hanging Scroll Texts that are available for purchase are 1,000 Glory.
+    - All Masterpieces (weapons | up to exotic rarity) are available for 770 Glory.
+    - All Sacred Treasures (weapons | exotic and above) are available for 1,400 Glory.
 
 
 ========== ========== ==========
@@ -14,7 +16,6 @@ Items Glory Cost:
     - exotic: purple
     - divine: green
     - ethreal: orange
-
 
     - [exotic] Book of Reincarnation: 800 increases by 300 Glory on each purchase up to
     - [exotic] Herbal Remedy: 400
@@ -108,3 +109,59 @@ Items Glory Cost:
     - [uncommon] Web Netting: 700
     - [uncommon] White Cloth: 1,400
     - [uncommon] Writhing Tongue: 1,000
+
+
+========== ========== ==========
+Transformations Glory Cost:
+========== ========== ==========
+    - Revenant [type 1]: 4,961
+    - Revenant [type 2]: 4,961
+    - Saito Dosan: 2,000
+    - Imagawa Yoshimoto: 3,000
+    - Hachisuka Koroku: 2,500
+    - Honda Tadakatsu: 2,000
+    - Mumyo: 10,000
+    - Azai Nagamasa: 3,000
+    - Oda Nobunaga [young]: 5,000
+    - Oda Nobunaga [old]: 5,000
+    - Senji Toyo: 8,000
+    - Akechi Mitsuhide: 4,000
+    - Saito Toshimitsu: 4,000
+    - Matsunaga Hisahide: 5,000
+    - Saika Magoichi: 3,000
+    - Takenaka Hanbei: 4,500
+    - Okuni: 10,000
+    - Fuku: 10,000
+    - Shibata Katsuie: 3,000
+    - Maeda Toshiie: 3,000
+    - Yasuke: 3,000
+    - Tsukahara Bokuden: 4,000
+    - Sakata Kintoki: 4,000
+    - Ashikaga Yoshiteru: 4,000
+    - Shisenin Kosen: 4,000
+    - Kato Danzo: 4,000
+    - Abe no Seimei: 4,000
+    - Hattori Hanzo: 4,000
+    - Tokichiro: 5,000
+    - Tokichiro [dream]: 5,000
+    - Kashin Koji: 5,000
+    - William: 5,000
+    - Maria: 10,000
+    - Minamoto no Yoshitsune: 6,000
+    - Benkei: 6,000
+    - Minamoto no Yorimitsu: 7,000
+    - Ashiya Doman: 5,000
+    - Suzuka: 10,000
+    - Ancient Nyotengu: 10,000
+
+
+
+
+
+
+
+
+
+
+
+
