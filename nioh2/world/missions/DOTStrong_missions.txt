@@ -542,8 +542,8 @@ The Violet Cherry Blossoms
         - Mission is automatically unlocked on Dream of the Strong.
     --------------------
     - Recommended level: 134
-    - Gold: 112,200 / 
-    - Amrita: 404,328 / 
+    - Gold: 112,200 / 37,400
+    - Amrita: 404,328 / 134,776
     - Shrine: Yes
     - Expedition: Yes
     - Number of Kodama: 0
@@ -1830,73 +1830,40 @@ A Formal Match (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Corpses and Ice (Main Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Shadow Region by completing 4 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 164
+    - Gold: 43,600
+    - Amrita: 196,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1 (1 big sudama)
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 3 (0 required)
     - Bosses: 
-        - 
+        - Magara Naotaka
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Taro Tachi (odachi) (water) (divine)
+        - Water Omamori (accessory) (divine)
+        - Fabled Umbracite X1
+        - Metalworking Chisel X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Namahage Horn X1
+        - Water Amulet X3
+        - High-Quality Leather Platelet X3
+        - High-Quality Leather Cord X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Lingering Snow and Crimson Tracks (Sub Mission)
@@ -1904,28 +1871,33 @@ Lingering Snow and Crimson Tracks (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Shadow Region by completing 4 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 167
+    - Gold: 44,000
+    - Amrita: 200,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Haguro Ninja Hatchets (divine)
+        - Governor's Helmet (divine)
+        - Governor's Cuirass (divine)
+        - Governor's Waistguard (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Snowclops Loincloth X1
+        - Governor's Gauntlets (exotic)
+        - Governor's Greaves (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Tiger Approaches (Sub Mission)
@@ -1933,28 +1905,33 @@ The Tiger Approaches (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Shadow Region by completing 4 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 170
+    - Gold: 45,400
+    - Amrita: 214,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Samurai's Locks X1
+        - Shinobi Cuirass (divine)
+        - Shinobi Waistguard (divine)
+        - Shinobi Faceplate (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Shinobi Gauntlets (exotic)
+        - Shinobi Greaves (exotic)
+        - Lock of Grey Hair X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Brother's Blades (Sub Mission)
@@ -1962,28 +1939,34 @@ The Brother's Blades (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Shadow Region by completing 4 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 168
+    - Gold: 44,400
+    - Amrita: 204,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
     - Bosses: 
-        - 
+        - Magara Naotaka
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Taro Tachi (odachi) (water) (divine)
+        - Jiro Tachi (odachi) (divine)
+        - Embercite Crystal X2
+        - Righteous Jasper X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Embercite Shard X2
+        - Righteous Jasper X2
+        - High-Quality Tamahagane X2
+        - High-Quality Ingot X4
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 A Shadow's Duty (Sub Mission)
@@ -1991,28 +1974,71 @@ A Shadow's Duty (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Shadow Region by completing 4 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
+    - Recommended level: 170
+    - Gold: 45,600
+    - Amrita: 216,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
     - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Ninja's Locks X1
+        - Greater Good Helmet (divine)
+        - Greater Good Cuirass (divine)
+        - Sohaya Tsurugi (sword) [type 2] (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Greater Good Waistguard (exotic)
+        - Greater Good Gauntlets (exotic)
+        - Greater Good Greaves (exotic)
+        - Divine Branch X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Fallen Star (Sub Mission)

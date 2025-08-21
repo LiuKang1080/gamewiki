@@ -924,45 +924,6 @@ A Formal Match (Sub Mission)
     --------------------
     - Obsidian Samurai (boss) (first time)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Corpses and Ice (Main Mission)
 ==========
@@ -975,6 +936,38 @@ Corpses and Ice (Main Mission)
         - Hattori Hanzo (Cutscenes)
         - Honda Tadakatsu (Cutscenes, NPC)
     --------------------
+    - Human (sword)
+    - Human (big) (odachi)
+    - Human (torch, spear)
+    - Human (torch, sword)
+    - Human (torch, axe)
+    - Human (cannon, sword)
+    - Human (rifle, sword)
+    - Human (spear)
+    - Human (big) (torch, odachi)
+    - Mujina
+    - Yokai (axe)
+    - Skeleton Warrior (cannon, sword)
+    - Skeleton Warrior (rifle, sword)
+    - Gaki
+    - Gaki (big)
+    - Enki
+    - Skeleton Warrior (big) (axe)
+    - Skeleton Warrior (sword)
+    - Human (conch shell, sword)
+    - Human (axe)
+    - Mitsume Yazura
+    - Rokurokubi (sword)
+    - Magara Takamoto (odachi)
+    - Yoki (sword)
+    - Human (big) (sword)
+    - Namahage (bloodstained blade)
+    - Flying Bolt
+    - Maelstrom Oni-Bi
+    - Nurikabe
+    - Lesser Umi-Bozu
+    - Kappa
+    - Magara Naotaka (boss)
 
 ==========
 Lingering Snow and Crimson Tracks (Sub Mission)
@@ -983,6 +976,15 @@ Lingering Snow and Crimson Tracks (Sub Mission)
     - Characters: 
         - None
     --------------------
+    - Karakasa Umbrella
+    - One-Eyed Imp
+    - One-Eyed Oni (snowclops)
+    - Enki
+    - Maelstrom Oni-Bi
+    - Namahage (bloodstained cleavers)
+    - Infernal Oni-Bi
+    - Enki
+    - Flying Bolt
 
 ==========
 The Tiger Approaches (Sub Mission)
@@ -991,6 +993,16 @@ The Tiger Approaches (Sub Mission)
     - Characters: 
         - Honda Tadakatsu (Ally)
     --------------------
+    - Abberant Soldier
+    - Skeleton Warrior (rifle, sword)
+    - Gaki
+    - Enki
+    - Mitsume Yazura
+    - Rokurokubi (spear)
+    - Rokurokubi (sword)
+    - One-Eyed Oni (snowclops)
+    - Yamanba
+    - Namahage (bloodstained cleavers)
 
 ==========
 The Brother's Baldes (Sub Mission)
@@ -999,6 +1011,12 @@ The Brother's Baldes (Sub Mission)
     - Characters: 
         - None
     --------------------
+    - Abberant Soldier
+    - Rokurokubi (torch, spear)
+    - Revenant (odachi)
+    - Skeleton Warrior (spear)
+    - Skeleton Warrior (rifle, sword)
+    - Magara Naotaka (boss)
 
 ==========
 A Shadow's Duty (Sub Mission)
@@ -1007,6 +1025,64 @@ A Shadow's Duty (Sub Mission)
     - Characters: 
         - Hattori Hanzo (NPC)
     --------------------
+    - Human (big) (axe)
+    - Human (dual swords)
+    - Human (sword)
+    - Human (rifle, sword)
+    - Ninja (fire arrow + bow, sword)
+    - Human (torch, sword)
+    - Ninja (sword)
+    - Human (big) (torch, rifle, sword)
+    - Human (conch shell, sword)
+    - Human (spear)
+    - Skeleton Warrior (big) (axe)
+    - Gaki
+    - Enki
+    - Skeleton Warrior (sword)
+    - Skeleton Warrior (spear)
+    - Abberant Soldier
+    - Rokurokubi (dual swords)
+    - Namahage (bloodstained cleavers)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Fallen Star (Sub Mission)
