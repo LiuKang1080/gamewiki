@@ -1044,46 +1044,6 @@ A Shadow's Duty (Sub Mission)
     - Rokurokubi (dual swords)
     - Namahage (bloodstained cleavers)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Fallen Star (Sub Mission)
 ==========
@@ -1091,6 +1051,11 @@ The Fallen Star (Sub Mission)
     - Characters: 
         - Maeda Toshiie (Ally)
     --------------------
+    - Revenant (sword)
+    - Biwa Boku-Boku
+    - Thunderstorm Oni-Bi
+    - Maelstrom Oni-Bi
+    - Infernal Oni-Bi
 
 ==========
 Horns on Head, Dragonfly in Hand (Main Mission)
@@ -1099,7 +1064,7 @@ Horns on Head, Dragonfly in Hand (Main Mission)
     - Characters: 
         - None
     --------------------
-    - Honda Tadakatsu (boss) (first time)
+    - Honda Tadakatsu (boss)
 
 ==========
 Bird In A Cage (Main Mission)
@@ -1111,6 +1076,33 @@ Bird In A Cage (Main Mission)
         - Tokichiro (Cutscenes)
         - Kashin Koji (Cutscenes)
     --------------------
+    - Dweller
+    - Spider (medium)
+    - Spider (small)
+    - Tesso
+    - Human (sword)
+    - Human (torch, sword)
+    - Human (big) (hammer)
+    - Human (big) (sword)
+    - Human (big) (torch, odachi)
+    - Namahage (bloodstained cleavers)
+    - Dweller (big)
+    - Namahage (bloodstained blade)
+    - Yoki (axe)
+    - Human (rifle, sword)
+    - Skeleton Warrior (big) (axe)
+    - Human (big) (spear)
+    - Human (big) (dual swords)
+    - Waira
+    - Human (conch shell, sword)
+    - Skeleton Warrior (cannon, sword)
+    - Toxic Slime
+    - Nurikabe
+    - Skeleton Warrior (rifle, sword)
+    - Mujina
+    - Spider (big)
+    - Yoki (sword)
+    - Azai Nagamasa (boss)
 
 ==========
 The Point of No Return (Sub Mission)
@@ -1119,7 +1111,48 @@ The Point of No Return (Sub Mission)
     - Characters: 
         - None
     --------------------
-    - Saito Yoshitatsu
+    - Saito Yoshitatsu (boss)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Golden Nation (Sub Mission)

@@ -2003,71 +2003,39 @@ A Shadow's Duty (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Fallen Star (Sub Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Shadow Region by completing 4 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 169
+    - Gold: 45,000
+    - Amrita: 210,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Kaikunigo (sword) [type 2] (divine)
+        - Suwa Myojin Helmet (divine)
+        - Tatenashi Cuirass (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Tatenashi Helmet (exotic)
+        - Tatenashi Gauntlets (exotic)
+        - Tatenashi Waistguard (exotic)
+        - Tatenashi Greaves (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Horns on Head, Dragonfly in Hand (Sub Mission)
@@ -2075,28 +2043,32 @@ Horns on Head, Dragonfly in Hand (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Shadow Region by completing 4 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 171
+    - Gold: 45,800
+    - Amrita: 218,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Honda Tadakatsu
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Tombokiri (spear) (Lightning) (divine)
+        - Warrior of the East Helmet (divine)
+        - Warrior of the East Cuirass (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Warrior of the East Waistguard (exotic)
+        - Warrior of the East Gauntlets (exotic)
+        - Warrior of the East Greaves (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Bird In A Cage (Main Mission)
@@ -2104,28 +2076,34 @@ Bird In A Cage (Main Mission)
     - Mission Unlock Requirement:
         - Unlock the Shadow Region by completing 4 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 171
+    - Gold: 45,000
+    - Amrita: 210,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1 (1 big sudama)
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 2 (0 required)
     - Bosses: 
-        - 
+        - Azai Nagamasa
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Samurai's Locks X1
+        - Fabled Umbracite X1
+        - Metalworking Chisel X2
+        - Azai Ichimonji (sword) [type 1] (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Kohoku Master's Waistguard (exotic)
+        - Kohoku Master's Gauntlets (exotic)
+        - Kohoku Master's Greaves (exotic)
+        - Saisetsu-Shin's Sake X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Point of No Return (Sub Mission)
@@ -2133,28 +2111,70 @@ The Point of No Return (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Shadow Region by completing 4 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 174
+    - Gold: 46,000
+    - Amrita: 220,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Saito Yoshitatsu
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Hand Mirror (accessory) (divine)
+        - Summoner's Candle X1
+        - Book of Reincarnation X1
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - High-Quality Iron Platelet X3
+        - Yokai Water Pot X2
+        - Red Spider Lily X1
+        - High-Quality Ingot X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Golden Nation (Sub Mission)

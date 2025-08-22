@@ -1296,7 +1296,7 @@ The Point of No Return (Sub Mission)
     - Characters: 
         - None
     --------------------
-    - Saito Yoshitatsu
+    - Saito Yoshitatsu (boss)
 
 ==========
 The Golden Nation (Sub Mission)
