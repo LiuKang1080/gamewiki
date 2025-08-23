@@ -1113,47 +1113,6 @@ The Point of No Return (Sub Mission)
     --------------------
     - Saito Yoshitatsu (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Golden Nation (Sub Mission)
 ==========
@@ -1161,6 +1120,19 @@ The Golden Nation (Sub Mission)
     - Characters: 
         - Gamo Ujisato (NPC)
     --------------------
+    - Rokurokubi (dual swords)
+    - Rokurokubi (torch, sword)
+    - Skeleton Warrior (big) (axe)
+    - Ubume
+    - Mitsume Yazura
+    - Yoki (sword)
+    - Flying Bolt
+    - Skeleton Warrior (rifle, sword)
+    - Tesso
+    - Skeleton Warrior (spear)
+    - Ninja (dual swords)
+    - Ninja (sword)
+    - Onryoki (boss)
 
 ==========
 The Demon King's Blade (Sub Mission)
@@ -1169,7 +1141,7 @@ The Demon King's Blade (Sub Mission)
     - Characters: 
         - Oda Nobunaga (Cutscenes)
     --------------------
-    - Oda Nobunaga (boss) (first time)
+    - Oda Nobunaga (boss)
 
 ==========
 The Child's Prodigy's Invitation (Sub Mission)
@@ -1178,7 +1150,7 @@ The Child's Prodigy's Invitation (Sub Mission)
     - Characters: 
         - None
     --------------------
-    - Gamo Ujisato (boss) (first time)
+    - Gamo Ujisato (boss)
 
 ==========
 The Chinese Bellflower Dagger (Sub Mission)
@@ -1187,7 +1159,7 @@ The Chinese Bellflower Dagger (Sub Mission)
     - Characters: 
         - None
     --------------------
-    - Saito Toshimitsu (boss) (first time)
+    - Saito Toshimitsu (boss)
 
 ==========
 A Strong Bond (Sub Mission)
@@ -1196,11 +1168,61 @@ A Strong Bond (Sub Mission)
     - Characters: 
         - Takenaka Hanbei (NPC)
     --------------------
+    - Human (spear)
+    - Human (sword)
+    - Human (big) (torch, odachi)
+    - Sohaya Warrior (switchglaive)
+    - Ninja Dog
+    - Human (dual swords)
+    - Sohaya Warrior (odachi)
+    - Human (torch, axe)
+    - Human (axe)
+    - Dweller
+    - Lesser Umi-Bozu
+    - One-Eyed Imp
+    - Yamanba
+    - One-Eyed Oni
+    - Karakasa Umbrella
+    - Onyudo (fire)
+    - Koroka
+    - Ninja (dual swords)
+    - Dweller (big)
+    - Mujina (copies Shojumaru (spear), spawns a Dark Realm)
 
 
 ========== ========== ========== ========== ==========
 Dawn Region (Region 4)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==========
 Pervading Waters (Main Mission)
 ==========

@@ -2139,71 +2139,39 @@ The Point of No Return (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Golden Nation (Sub Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Shadow Region by completing 4 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 174
+    - Gold: 45,600
+    - Amrita: 216,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Onryoki
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Smithing Text: Wisdom Sutra Sword & Plane Cutter
+        - Swallowtail Helmet (divine)
+        - Smithing Text: Swallowtail Armor
+        - Karamono Katatsuki (tea utensil) (exotic)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Swallowtail Waistguard (exotic)
+        - Swallowtail Gauntlets (exotic)
+        - Swallowtail Greaves (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Demon King's Blade (Sub Mission)
@@ -2211,28 +2179,33 @@ The Demon King's Blade (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Shadow Region by completing 4 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 175
+    - Gold: 46,400
+    - Amrita: 224,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Oda Nobunaga
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Vice-Minister's Cuirass (divine)
+        - Vice-Minister's Waistguard (divine)
+        - Vice-Minister's Gauntlets (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Vice-Minister's Cuirass (exotic)
+        - Vice-Minister's Waistguard (exotic)
+        - Vice-Minister's Gauntlets (exotic)
+        - Vice-Minister's Greaves (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Child's Prodigy's Invitation (Sub Mission)
@@ -2240,28 +2213,33 @@ The Child's Prodigy's Invitation (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Shadow Region by completing 4 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 175
+    - Gold: 81,900
+    - Amrita: 228,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Gamo Ujisato
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Wisdom Sutra Sword & Plane Cutter (dual swords) (divine)
+        - Hino Rifle (divine)
+        - Swallowtail Greaves (divine)
+        - Swallowtail Waistguard (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Swallowtail Helmet (exotic)
+        - Swallowtail Cuirass (exotic)
+        - Swallowtail Gauntlets (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Chinese Bellflower Dagger (Sub Mission)
@@ -2269,28 +2247,33 @@ The Chinese Bellflower Dagger (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Shadow Region by completing 4 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 164
+    - Gold: 77,700
+    - Amrita: 204,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Saito Toshimitsu
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Onmyo Mage's Locks X1
+        - Great Kanemitsu (odachi) (divine)
+        - Onmyo Warrior's Cuirass (divine)
+        - Onmyo Warrior's Gauntlets (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Onmyo Warrior's Greaves (exotic)
+        - Onmyo Warrior's Waistguard (exotic)
+        - RANDOM Odachi (divine or below)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 A Strong Bond (Sub Mission)
@@ -2298,33 +2281,69 @@ A Strong Bond (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Shadow Region by completing 4 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 201
+    - Gold: 112,400
+    - Amrita: 322,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 1 (0 required)
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Heshikiri Hasebe (sword) [type 1] (divine)
+        - Legendary Strategist's Garb (chest) (divine)
+        - Legendary Strategist's Hakama (legs) (divine)
+        - Legendary Strategist's Shoes (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Bowl Helmet (exotic)
+        - RANDOM Light Armor (chest) (divine or below)
+        - Mujina's Scarf X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 
 ========== ========== ========== ========== ==========
 Dawn Region (Region 4)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==========
 Pervading Waters (Main Mission)
 ==========
