@@ -271,6 +271,27 @@ Mountain of the Dark Lord (The Sun Sets on Mount Tenno | Dawn Region (Region 4))
 ==========
 The Island of Monsters (Twilight Region (Region 5))
 ==========
+    - Gaki
+    - Blue Yoki (dual swords)
+    - Skeleton Warrior (big) (axe)
+    - Enki
+    - Blue Yoki (kusarigama)
+    - Abberant Soldier
+    - Rokurokubi (rifle, sword)
+    - Namahage (bloodstained blade)
+    - Rokurokubi (dual swords)
+    - Skeleton Warrior (cannon, sword)
+    - Biwa Boku-Boku
+    - Karasu Tengu
+    - Maelstrom Oni-Bi
+    - Infernal Oni-Bi
+    - Thunderstorm Oni-Bi
+    - Skeleton Warrior (sword)
+    - Gaki (big)
+    - Nure-Onna
+    - Waira
+    - Mujina
+    - Tatarimokke (boss)
 
 ==========
 Wings of the Phoenix (The Mausoleum of Evil | Dream Region (Region 6))
@@ -1193,36 +1214,6 @@ A Strong Bond (Sub Mission)
 ========== ========== ========== ========== ==========
 Dawn Region (Region 4)
 ========== ========== ========== ========== ==========
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Pervading Waters (Main Mission)
 ==========
@@ -1234,6 +1225,38 @@ Pervading Waters (Main Mission)
         - Mumyo (NPC)
         - Takenaka Hanbei (NPC)
     --------------------
+    - Saika Clan (rifle, dual swords)
+    - Saika Clan (dual pistols, rifle, dual swords)
+    - Saika Clan (dual pistols, rifle, kusarigama)
+    - Human (spear)
+    - Human (conch shell, sword)
+    - Human (axe)
+    - Nurikabe
+    - Human (rifle, sword)
+    - Saika Clan (cannon, kusarigama)
+    - Muni (human saika warrior) (rifle, kusarigama)
+    - Gaki
+    - Mitsume Yazura
+    - Skeleton Warrior (cannon, sword)
+    - Thunderstorm Oni-Bi
+    - Skeleton Warrior (spear)
+    - One-Eyed Imp
+    - Tesso
+    - Skeleton Warrior (big) (axe)
+    - Ubume
+    - Onyudo (water)
+    - Lesser Umi-Bozu
+    - Skeleton Warrior (sword)
+    - Gaki (big)
+    - Shimotsuma Rairen (human saika warrior) (spear)
+    - Koroka
+    - Mujina
+    - Infernal Oni-Bi
+    - Maelstrom oni-Bi
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Biwa Boku-Boku
+    - Saika Magoichi (boss)
+    - Gyuki (boss)
 
 ==========
 The Missing Gun (Sub Mission)
@@ -1242,6 +1265,25 @@ The Missing Gun (Sub Mission)
     - Characters: 
         - None
     --------------------
+    - Saika Clan (dual pistols, rifle, dual swords)
+    - Human (big) (sword)
+    - Human (torch, spear)
+    - Human (sword)
+    - Ninja Dog
+    - Human (big) (spear)
+    - Saika Clan (cannon, dual swords)
+    - Saika Clan (rifle, kusarigama)
+    - Human (axe)
+    - Muni (saika clan member) (rifle, kusarigama)
+    - Tesso
+    - One-Eyed Imp
+    - Skeleton Warrior (rifle, sword)
+    - Skeleton Warrior (big) (axe)
+    - Ubume
+    - Skeleton Warrior (spear)
+    - Spider (medium)
+    - Spider (big)
+    - Hotaru (human saika warrior) (rifle, dual swords)
 
 ==========
 The Refined Man of the Underworld (Sub Mission)
@@ -1250,6 +1292,10 @@ The Refined Man of the Underworld (Sub Mission)
     - Characters: 
         - None
     --------------------
+    - Gaki
+    - Enki
+    - Gozuki (boss)
+    - Mezuki (boss)
 
 ==========
 Song of the Yokai (Sub Mission)
@@ -1258,6 +1304,49 @@ Song of the Yokai (Sub Mission)
     - Characters: 
         - Okuni (NPC)
     --------------------
+    - Nure-Onna
+    - Lesser Umi-Bozu
+    - Rokurokubi (sword)
+    - Koroka
+    - Yamanba
+    - Ninja (dual swords)
+    - Abberant Soldier
+    - Enki
+    - Maelstrom Oni-Bi
+    - Tesso
+    - Ubume
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Frenzied Blaze (Main Mission)

@@ -1394,7 +1394,7 @@ Pervading Waters (Main Mission)
     - Nurikabe
     - Saika Clan (cannon, kusarigama) (first time)
     - Human (sword)
-    - Muni (human saika warrior) (kusarigama) (first-time)
+    - Muni (human saika warrior) (rifle, kusarigama) (first-time)
     - Nure-Onna
     - Gaki
     - Skeleton Warrior (cannon, sword)
@@ -1442,7 +1442,7 @@ The Missing Gun (Sub Mission)
     - Spider (big)
     - Spider (medium)
     - Skeleton Warrior (spear)
-    - Hotaru (human saika warrior) (dual swords) (first time)
+    - Hotaru (human saika warrior) (rifle, dual swords) (first time)
 
 ==========
 The Refined Man of the Underworld (Sub Mission)

@@ -750,9 +750,9 @@ Mountain of the Dark Lord
     - Mission Unlock Requirement:
         - Unlock the Dawn Region (region 4) by completing 8 missions.
     --------------------
-    - Recommended level: / 
-    - Gold: 
-    - Amrita: 
+    - Recommended level: 
+    - Gold:  / 
+    - Amrita:  / 
     - Shrine: 
     - Torii Gate Expedition: 
     - Number of Kodama: 
@@ -779,28 +779,34 @@ The Island of Monsters
     - Mission Unlock Requirement:
         - Unlock the Twilight Region (region 5) by completing 8 missions.
     --------------------
-    - Recommended level: / 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 196
+    - Gold: 162,000 / 54,000
+    - Amrita: 902,328 / 300,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 1 (0 required)
     - Bosses: 
-        - 
+        - Tatarimokke
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Quality Umbracite X1
+        - Summoner's Candle X1
+        - Highest-Quality Tamahagane X3
+        - Divine Branch X4
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - High-Quality Tamahagane X3
+        - Highest-Quality Lacquer X3
+        - Righteous Jasper X2
+        - Divine Branch X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Wings of the Phoenix
@@ -808,9 +814,9 @@ Wings of the Phoenix
     - Mission Unlock Requirement:
         - Unlock the Dream Region (region 6) by completing 12 missions.
     --------------------
-    - Recommended level: / 
-    - Gold: 
-    - Amrita: 
+    - Recommended level: 
+    - Gold:  / 
+    - Amrita:  / 
     - Shrine: 
     - Torii Gate Expedition: 
     - Number of Kodama: 
@@ -837,9 +843,9 @@ Darkness Brewing
     - Mission Unlock Requirement:
         - Unlock The Tengu's Disciple (DLC 1) by completing 18 missions.
     --------------------
-    - Recommended level: / 
-    - Gold: 
-    - Amrita: 
+    - Recommended level: 
+    - Gold:  / 
+    - Amrita:  / 
     - Shrine: 
     - Torii Gate Expedition: 
     - Number of Kodama: 
@@ -866,9 +872,9 @@ The Mystery of Rashomon
     - Mission Unlock Requirement:
         - Unlock Darkness In The Capital (DLC 2) by completing 18 missions.
     --------------------
-    - Recommended level: / 
-    - Gold: 
-    - Amrita: 
+    - Recommended level: 
+    - Gold:  / 
+    - Amrita:  / 
     - Shrine: 
     - Torii Gate Expedition: 
     - Number of Kodama: 
@@ -895,9 +901,9 @@ The Bewitching Tower
     - Mission Unlock Requirement:
         - Unlock The First Samurai (DLC 3) by completing 18 missions.
     --------------------
-    - Recommended level: / 
-    - Gold: 
-    - Amrita: 
+    - Recommended level: 
+    - Gold:  / 
+    - Amrita:  / 
     - Shrine: 
     - Torii Gate Expedition: 
     - Number of Kodama: 
@@ -2313,65 +2319,41 @@ A Strong Bond (Sub Mission)
 ========== ========== ========== ========== ==========
 Dawn Region (Region 4)
 ========== ========== ========== ========== ==========
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Pervading Waters (Main Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Dawn Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 176
+    - Gold: 46,800
+    - Amrita: 228,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 2 (1 big sudama)
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 2 (0 required)
     - Bosses: 
-        - 
+        - Saika Magoichi
+        - Gyuki
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Ravenwing Rifle (divine)
+        - Yatagarasu Cuirass (divine)
+        - Fabled Umbracite X1
+        - Metalworking Chisel X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Hacco Nenbutsu (sword) [type 1] (exotic)
+        - Yatagarasu Gauntlets (exotic)
+        - Yatagarasu Greaves (exotic)
+        - Embercite Shard X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Missing Gun (Sub Mission)
@@ -2379,28 +2361,33 @@ The Missing Gun (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Dawn Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 179
+    - Gold: 47,200
+    - Amrita: 232,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Roaring Gun Ammunition X5
+        - Tactician's Helmet (divine)
+        - Tactician's Cuirass (divine)
+        - Tactician's Waistguard (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Roaring Gun Ammunition X4
+        - Tactician's Gauntlets (exotic)
+        - Tactician's Greaves (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Refined Man of the Underworld (Sub Mission)
@@ -2408,28 +2395,33 @@ The Refined Man of the Underworld (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Dawn Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 180
+    - Gold: 47,800
+    - Amrita: 238,776
+    - Shrine: No
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Gozuki
+        - Mezuki
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Karamono Hyotan (tea utensil) (exotic)
+        - Summoner's Candle X1
+        - Yokai Water Pot X3
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Large Crooked Horn X1
+        - Yokai Water Pot X3
+        - Warped Jawbone X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Song of the Yokai (Sub Mission)
@@ -2437,28 +2429,64 @@ Song of the Yokai (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Dawn Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 180
+    - Gold: 47,600
+    - Amrita: 236,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 7 (0 required)
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Dancing Blade (sword) [type 1] (divine)
+        - Yokai Incense X1
+        - Comb (accessory) (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Yokai Incense X1
+        - Glowing Lock of Wet Hair X1
+        - Lock of Grey Hair X3
+        - Ochoko Cup X5
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Frenzied Blaze (Main Mission)
