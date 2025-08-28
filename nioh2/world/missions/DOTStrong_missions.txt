@@ -2527,65 +2527,70 @@ The Burning Sky (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Abduction (Sub Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Dawn Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 184
+    - Gold: 48,600
+    - Amrita: 246,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Baby Stone Fragment X1
+        - Omamori (accessory) (divine)
+        - Prayer Beads (accessory) (divine)
+        - Book of Reincarnation X1
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Baby Stone Fragment X1
+        - One-Eyed Imp's Clogs X1
+        - Umbrella Rib X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Warrior (Sub Mission)

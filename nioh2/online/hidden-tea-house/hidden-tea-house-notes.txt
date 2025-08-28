@@ -17,10 +17,10 @@ Items Glory Cost:
     - divine: green
     - ethreal: orange
 
-    - [exotic] Book of Reincarnation: 800 increases by 300 Glory on each purchase up to
+    - [exotic] Book of Reincarnation: 800 increases by 300 Glory on each purchase up to 5,000 Glory
     - [exotic] Herbal Remedy: 400
     - [exotic] Summoner's Candle: 650
-    - [exotic] Zen Manual: 800 increases by 300 Glory on each purchase up to 
+    - [exotic] Zen Manual: 800 increases by 300 Glory on each purchase up to 5,000 Glory
     - [rare] Fragrent Wood: 120
     - [rare] Ochoko Cup: 1,000
     - [rare] Sacred Ash: 200

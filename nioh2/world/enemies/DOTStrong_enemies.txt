@@ -1376,39 +1376,6 @@ The Burning Sky (Sub Mission)
     - Infernal Oni-Bi
     - Onyudo (fire)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Abduction (Sub Mission)
 ==========
@@ -1416,6 +1383,51 @@ Abduction (Sub Mission)
     - Characters: 
         - None
     --------------------
+    - Gaki
+    - Gaki (big)
+    - One-Eyed Imp
+    - Infernal Oni-Bi
+    - Maelstrom Oni-Bi
+    - Thunderstorm Oni-Bi
+    - Lesser Umi-Bozu
+    - Yamanba
+    - Koroka
+    - Karakasa Umbrella
+    - Tesso
+    - Ubume
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Warrior (Sub Mission)
