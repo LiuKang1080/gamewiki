@@ -1316,38 +1316,6 @@ Song of the Yokai (Sub Mission)
     - Tesso
     - Ubume
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Frenzied Blaze (Main Mission)
 ==========
@@ -1360,6 +1328,31 @@ The Frenzied Blaze (Main Mission)
         - Obsidian Samurai (Ally)
         - Oichi (Cutscenes)
     --------------------
+    - Onmyo Mage
+    - Human (sword)
+    - Human (axe)
+    - Rokurokubi (sword)
+    - Human (torch, spear)
+    - Human (sword)
+    - Human (rifle, sword)
+    - Skeleton Warrior (big) (axe)
+    - Gaki
+    - Skeleton Warrior (spear)
+    - Wheelmonk
+    - Koroka
+    - Infernal Oni-Bi
+    - Skeleton Warrior (rifle, sword)
+    - Ippon-Datara (hammer)
+    - Dweller
+    - Gaki (big)
+    - Onyudo (fire)
+    - Ubume
+    - Mujina
+    - Skeleton Warrior (cannon, sword)
+    - Nurikabe
+    - Human (big) (spear)
+    - Human (big) (dual swords)
+    - Kasha (boss)
 
 ==========
 The Burning Sky (Sub Mission)
@@ -1368,6 +1361,53 @@ The Burning Sky (Sub Mission)
     - Characters: 
         - None
     --------------------
+    - Gaki
+    - Enki
+    - Skeleton Warrior (spear)
+    - Ubume
+    - Yamanba
+    - One-Eyed Imp
+    - Skeleton Warrior (rifle, sword)
+    - Mitsume Yazura
+    - One-Eyed Oni
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Karasu Tengu
+    - Skeleton Warrior (big) (axe)
+    - Infernal Oni-Bi
+    - Onyudo (fire)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Abduction (Sub Mission)

@@ -2457,65 +2457,40 @@ Song of the Yokai (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Frenzied Blaze (Main Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Dawn Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 181
+    - Gold: 48,000
+    - Amrita: 242,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 2
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 3 (0 required)
     - Bosses: 
-        - 
+        - Kasha
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Firestarter Hood (divine)
+        - Firestarter Cuirass (divine)
+        - Fabled Umbracite X1
+        - Metalworking Chisel X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Broken Wheel Piece X1
+        - Gunpowder Bomb X3
+        - Burning Oil Jar X2
+        - Fire Amulet X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Burning Sky (Sub Mission)
@@ -2523,28 +2498,65 @@ The Burning Sky (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Dawn Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 185
+    - Gold: 49,000
+    - Amrita: 250,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Kamui (odachi) (fire) (divine)
+        - Radiant Flame (hatchets) (fire) (divine)
+        - Twin Dragon Tonfa (fire) (divine)
+        - Sacred Water X5
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Aberrant Switchglaive (exotic)
+        - Nightcrow Kusarigama (exotic)
+        - Evil-Crusher Hammer (exotic)
+        - Sacred Water X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Abduction (Sub Mission)
