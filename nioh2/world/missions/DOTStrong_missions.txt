@@ -2561,37 +2561,6 @@ Abduction (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Warrior (Sub Mission)
 ==========
@@ -2604,11 +2573,11 @@ The Warrior (Sub Mission)
     - Shrine: Yes
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
-    - Number of Sudama: 
+    - Number of Sudama: 0
     - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
@@ -2619,10 +2588,44 @@ The Warrior (Sub Mission)
         - Conqueror's Waistguard (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Conqueror's Cuirass
+        - Conqueror's Gauntlets
+        - Conqueror's Greaves
+        - Conqueror's Waistguard
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Sun Sets on Mount Tenno (Main Mission)

@@ -1396,39 +1396,6 @@ Abduction (Sub Mission)
     - Tesso
     - Ubume
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Warrior (Sub Mission)
 ==========
@@ -1436,6 +1403,61 @@ The Warrior (Sub Mission)
     - Characters: 
         - Obsidian Samurai (NPC)
     --------------------
+    - Dweller
+    - Skeleton Warrior (spear)
+    - Tesso
+    - Skeleton Warrior (rifle, sword)
+    - Infernal Oni-Bi
+    - One-Eyed Oni
+    - Ubume
+    - Mitsume Yazura
+    - Human (odachi)
+    - Human (sword)
+    - Human (axe)
+    - Enki
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Human (big) (dual swords)
+    - Human (fire arrow + bow, sword)
+    - Thunderstorm Oni-Bi
+    - Human (big) (odachi)
+    - Abberant Soldier
+    - Koroka
+    - Onyudo (fire)
+    - Yoki (axe)
+    - Ippon-Datara (hammer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Sun Sets on Mount Tenno (Main Mission)
