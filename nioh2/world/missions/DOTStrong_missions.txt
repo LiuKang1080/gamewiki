@@ -2598,28 +2598,31 @@ The Warrior (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Dawn Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
+    - Recommended level: 186
+    - Gold: 49,400
+    - Amrita: 254,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
     - Number of Sudama: 
-    - Number of Hot Springs: 
+    - Number of Hot Springs: 1 (0 required)
     - Number of Dark Realms: 
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Smithing Text: Conqueror's Armor
+        - Conqueror's Cuirass (divine)
+        - Conqueror's Gauntlets (divine)
+        - Conqueror's Waistguard (divine)
     ---------- ---------- ----------
     Subsequent Completes:
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Sun Sets on Mount Tenno (Main Mission)
