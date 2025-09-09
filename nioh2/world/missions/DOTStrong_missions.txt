@@ -2596,65 +2596,70 @@ The Warrior (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Sun Sets on Mount Tenno (Main Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Dawn Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 187
+    - Gold: 49,600
+    - Amrita: 256,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 2 (0 required)
     - Bosses: 
-        - 
+        - Ryomen Sukuna
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Onmyo Mage's Locks X1
+        - Fabled Umbracite X1
+        - Metalworking Chisel X2
+        - Ryomen Sukuna's Bow (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Mud Jar X2
+        - Wheel of Ice and Fire X1
+        - Embercite Crystal X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Aberrant Mage (Sub Mission)
