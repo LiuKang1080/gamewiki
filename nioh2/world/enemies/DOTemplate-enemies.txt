@@ -439,7 +439,7 @@ A Formal Match (Sub Mission)
         - Tokichiro (NPC)
         - Oda Nobunaga (NPC)
     --------------------
-    - Obsidian Samurai (boss) (first time)
+    - Obsidian Samurai (boss)
 
 ==========
 Corpses and Ice (Main Mission)
@@ -501,7 +501,7 @@ Horns on Head, Dragonfly in Hand (Main Mission)
     - Characters: 
         - None
     --------------------
-    - Honda Tadakatsu (boss) (first time)
+    - Honda Tadakatsu (boss)
 
 ==========
 Bird In A Cage (Main Mission)
@@ -538,7 +538,7 @@ The Demon King's Blade (Sub Mission)
     - Characters: 
         - Oda Nobunaga (Cutscenes)
     --------------------
-    - Oda Nobunaga (boss) (first time)
+    - Oda Nobunaga (boss)
 
 ==========
 The Child's Prodigy's Invitation (Sub Mission)
@@ -547,7 +547,7 @@ The Child's Prodigy's Invitation (Sub Mission)
     - Characters: 
         - None
     --------------------
-    - Gamo Ujisato (boss) (first time)
+    - Gamo Ujisato (boss)
 
 ==========
 The Chinese Bellflower Dagger (Sub Mission)
@@ -556,7 +556,7 @@ The Chinese Bellflower Dagger (Sub Mission)
     - Characters: 
         - None
     --------------------
-    - Saito Toshimitsu (boss) (first time)
+    - Saito Toshimitsu (boss)
 
 ==========
 A Strong Bond (Sub Mission)
@@ -678,7 +678,7 @@ Master of the Three Evils (Sub Mission)
     - Characters: 
         - None
     --------------------
-    - Matsunaga Hisahide (boss) (first time)
+    - Matsunaga Hisahide (boss)
 
 
 ========== ========== ========== ========== ==========
@@ -906,7 +906,7 @@ The Blue-Eyed Samurai (Main Mission)
         - Kashin Koji (Cutscenes)
         - Mumyo (Cutscenes)
     --------------------
-    - William (boss) (first time)
+    - William (boss)
 
 ==========
 In The Eye of the Beholder (Main Mission)
@@ -935,7 +935,7 @@ The Trustworthy (Sub Mission)
     - Characters:
         - Mumyo (Ally)
     --------------------
-    - Hattori Hanzo (boss) (first time)
+    - Hattori Hanzo (boss)
     - Honda Tadakatsu (boss)
 
 ==========
@@ -1154,7 +1154,7 @@ The Dragon Clan (Sub Mission)
     - Characters:
         - None
     --------------------
-    - Ren Hayabusa (boss) (first time)
+    - Ren Hayabusa (boss)
 
 
 ========== ========== ========== ========== ==========
@@ -1203,7 +1203,7 @@ The Alluring Ancient (Sub Mission)
     - Characters:
         - None
     --------------------
-    - Ancient Nyotengu (boss) (first time)
+    - Ancient Nyotengu (boss)
 
 ==========
 Battle at the Temple (Sub Mission)

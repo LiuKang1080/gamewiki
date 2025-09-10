@@ -943,7 +943,7 @@ A Formal Match (Sub Mission)
         - Tokichiro (NPC)
         - Oda Nobunaga (NPC)
     --------------------
-    - Obsidian Samurai (boss) (first time)
+    - Obsidian Samurai (boss)
 
 ==========
 Corpses and Ice (Main Mission)
@@ -1463,39 +1463,6 @@ The Sun Sets on Mount Tenno (Main Mission)
     - Biwa Boku-Boku
     - Ryomen Sukuna (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Aberrant Mage (Sub Mission)
 ==========
@@ -1503,6 +1470,24 @@ The Aberrant Mage (Sub Mission)
     - Characters: 
         - Saika Magoichi (Ally)
     --------------------
+    - Human (sword)
+    - Human (axe)
+    - Human (big) (rifle, sword)
+    - Human (big) (odachi)
+    - Human (big) (spear)
+    - Spider (small)
+    - Dweller
+    - Dweller (big)
+    - Koroka
+    - Tesso
+    - Spider (medium)
+    - Human (rifle, sword)
+    - Enki
+    - Onmyo Mage
+    - Abberant Soldier
+    - Ubume
+    - Onyudo (fire)
+    - Onyudo (lightning)
 
 ==========
 The Third Word (Sub Mission)
@@ -1520,12 +1505,46 @@ Master of the Three Evils (Sub Mission)
     - Characters: 
         - None
     --------------------
-    - Matsunaga Hisahide (boss) (first time)
+    - Matsunaga Hisahide (boss)
 
 
 ========== ========== ========== ========== ==========
 Twilight Region (Region 5)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==========
 Ruin Draws Near (Main Mission)
 ==========
@@ -1748,7 +1767,7 @@ The Blue-Eyed Samurai (Main Mission)
         - Kashin Koji (Cutscenes)
         - Mumyo (Cutscenes)
     --------------------
-    - William (boss) (first time)
+    - William (boss)
 
 ==========
 In The Eye of the Beholder (Main Mission)
@@ -1777,7 +1796,7 @@ The Trustworthy (Sub Mission)
     - Characters:
         - Mumyo (Ally)
     --------------------
-    - Hattori Hanzo (boss) (first time)
+    - Hattori Hanzo (boss)
     - Honda Tadakatsu (boss)
 
 ==========
@@ -1996,7 +2015,7 @@ The Dragon Clan (Sub Mission)
     - Characters:
         - None
     --------------------
-    - Ren Hayabusa (boss) (first time)
+    - Ren Hayabusa (boss)
 
 
 ========== ========== ========== ========== ==========
@@ -2045,7 +2064,7 @@ The Alluring Ancient (Sub Mission)
     - Characters:
         - None
     --------------------
-    - Ancient Nyotengu (boss) (first time)
+    - Ancient Nyotengu (boss)
 
 ==========
 Battle at the Temple (Sub Mission)

@@ -2630,65 +2630,39 @@ The Sun Sets on Mount Tenno (Main Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Aberrant Mage (Sub Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Dawn Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 189
+    - Gold: 50,000
+    - Amrita: 260,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Onmyo Mage's Locks X1
+        - Onmyo Hunting Garb (chest piece) (divine)
+        - Onmyo Hunting Hakama (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Onmyo Hunting Hat (exotic)
+        - Onmyo Hunting Bracers (exotic)
+        - Onmyo Hunting Shoes (exotic)
+        - Lightning Amulet X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Third Word (Sub Mission)
@@ -2696,28 +2670,34 @@ The Third Word (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Dawn Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 190
+    - Gold: 50,800
+    - Amrita: 268,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Saika Magoichi
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Highest-Quality Leather Platelet X3
+        - Highest-Quality Leather Cord X3
+        - Highest-Quality Lacquer X3
+        - Highest-Quality Ingot X3
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - High-Quality Leather Platelet X3
+        - High-Quality Leather Cord X3
+        - High-Quality Lacquer X3
+        - High-Quality Ingot X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Master of the Three Evils (Sub Mission)
@@ -2725,33 +2705,70 @@ Master of the Three Evils (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Dawn Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 181
+    - Gold: 48,000
+    - Amrita: 240,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Matsunaga Hisahide
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Fudo Kuniyuki & Yagen Toshiro (dual swords) (fire) (divine)
+        - Malefactor's Helmet (divine)
+        - Malefactor's Cuirass (divine)
+        - Malefactor's Waistguard (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Malefactor's Greaves (exotic)
+        - Malefactor's Gauntlets (exotic)
+        - Shrapnel Bomb X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 
 ========== ========== ========== ========== ==========
 Twilight Region (Region 5)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==========
 Ruin Draws Near (Main Mission)
 ==========
