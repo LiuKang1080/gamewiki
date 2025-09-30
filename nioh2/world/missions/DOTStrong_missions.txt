@@ -2737,66 +2737,41 @@ Master of the Three Evils (Sub Mission)
 ========== ========== ========== ========== ==========
 Twilight Region (Region 5)
 ========== ========== ========== ========== ==========
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Ruin Draws Near (Main Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Twilight Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 190
+    - Gold: 51,400
+    - Amrita: 274,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 2 (1 big sudama)
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 4 (0 required)
     - Bosses: 
-        - 
+        - Maeda Toshiie
+        - Oni Shibata Katsuie
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Samurai's Locks X1
+        - Urn Splitter Hatchets (divine)
+        - Fabled Umbracite X1
+        - Metalworking Chisel X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Oni Shibata's Waistguard (exotic)
+        - Oni Shibata's Gauntlets (exotic)
+        - Oni Shibata's Greaves (exotic)
+        - Embercite Shard X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Okuni's Search (Sub Mission)
@@ -2804,28 +2779,32 @@ Okuni's Search (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Twilight Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
+    - Recommended level: 192
+    - Gold: 51,600
+    - Amrita: 276,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
     - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Number of Sudama: 0
+    - Number of Hot Springs: 7 (0 required)
+    - Number of Dark Realms: 2 (0 required)
     - Bosses: 
-        - 
+        - Enenra
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Dancing Blade (sword) [type 1] (divine)
+        - Fan (accessory) (divine)
+        - Glowing Lock of Wet Hair X3
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Glowing Lock of Wet Hair X1
+        - Lock of Grey Hair X1
+        - White Cloth X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Farewell to the Past (Sub Mission)
@@ -2833,28 +2812,65 @@ Farewell to the Past (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Twilight Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 193
+    - Gold: 91,700
+    - Amrita: 284,776
+    - Shrine: No
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Akechi Chikakage (sword) [type 1] (divine)
+        - Hyuga Director's Helmet (divine)
+        - Hyuga Director's Cuirass (divine)
+        - Hyuga Director's Gauntlets (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Hyuga Director's Waistguard (exotic)
+        - Hyuga Director's Greaves (exotic)
+        - RANDOM Sword (Divine or below)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Two Faces of Hospitality (Main Mission)

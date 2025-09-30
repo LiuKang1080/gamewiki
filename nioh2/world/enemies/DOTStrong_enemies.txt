@@ -1511,40 +1511,6 @@ Master of the Three Evils (Sub Mission)
 ========== ========== ========== ========== ==========
 Twilight Region (Region 5)
 ========== ========== ========== ========== ==========
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Ruin Draws Near (Main Mission)
 ==========
@@ -1552,6 +1518,27 @@ Ruin Draws Near (Main Mission)
     - Characters: 
         - Oichi (Cutscenes)
     --------------------
+    - Skeleton Warrior (cannon, sword)
+    - Skeleton Warrior (spear)
+    - Skeleton Warrior (big) (axe)
+    - Abberant Soldier
+    - Skeleton Warrior (rifle, sword)
+    - Yoki (sword)
+    - Mujina
+    - Tesso
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Onyudo (fire)
+    - Wheelmonk
+    - Ippon-Datara (hammer)
+    - Human (axe)
+    - Human (torch, spear)
+    - Human (cannon, sword)
+    - Infernal Oni-Bi
+    - Koroka
+    - Human (spear)
+    - Maeda Toshiie (boss)
+    - Nurikabe
+    - Oni Shibata Katsuie (boss)
 
 ==========
 Okuni's Search (Sub Mission)
@@ -1560,6 +1547,18 @@ Okuni's Search (Sub Mission)
     - Characters: 
         - Okuni (Ally)
     --------------------
+    - Flying Bolt
+    - Tesso
+    - Nure-Onna
+    - Gaki
+    - Blue Yoki (dual swords)
+    - Skeleton Warrior (rifle, sword)
+    - Namahage (bloodstained blade)
+    - One-Eyed Imp
+    - Yamanba
+    - Ubume
+    - Onyudo (fire)
+    - Enenra (boss)
 
 ==========
 Farewell to the Past (Sub Mission)
@@ -1568,6 +1567,46 @@ Farewell to the Past (Sub Mission)
     - Characters: 
         - None
     --------------------
+    - Human (dual swords)
+    - Human (spear)
+    - Human (big) (odachi)
+    - Onmyo Mage
+    - Human (big) (dual swords)
+    - Mysterious Samurai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Two Faces of Hospitality (Main Mission)
