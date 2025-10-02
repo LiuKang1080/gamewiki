@@ -2840,66 +2840,72 @@ Farewell to the Past (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Two Faces of Hospitality (Main Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Twilight Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 194
+    - Gold: 52,800
+    - Amrita: 288,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 2 (0 required)
     - Bosses: 
-        - 
+        - Tokichiro
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Fabled Umbracite X1
+        - Metalworking Chisel X2
+        - Golden Gourd Cuirass (divine)
+        - Golden Gourd Waistguard (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Golden Gourd Plated Headband (exotic)
+        - Golden Gourd Gauntlets (exotic)
+        - Golden Gourd Greaves (exotic)
+        - Lumicite Crystal X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The High-Spirited Demon (Main Mission)
