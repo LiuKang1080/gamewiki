@@ -2875,66 +2875,75 @@ The Two Faces of Hospitality (Main Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The High-Spirited Demon (Main Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Twilight Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 196
+    - Gold: 54,200
+    - Amrita: 302,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1 (1 big sudama)
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 3 (0 required)
     - Bosses: 
-        - 
+        - Kamaitachi
+        - Hachisuka Koroku
+        - Mezuki
+        - Daidara Bocchi
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Demon's Maw (sword) [type 1] (divine)
+        - Red Kappa Helmet (divine)
+        - Fabled Umbracite X1
+        - Metalworking Chisel X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Oni-Bi Core X1
+        - Biwa Pick X1
+        - Abberant Spirit Stone X1
+        - Skeletal Warrior's Sacrum X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 A Message From the Deceased (Sub Mission)
