@@ -1649,40 +1649,6 @@ The High-Spirited Demon (Main Mission)
     - Mezuki (boss)
     - Daidara Bocchi (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 A Message From the Deceased (Sub Mission)
 ==========
@@ -1690,6 +1656,19 @@ A Message From the Deceased (Sub Mission)
     - Characters:
         - Chosokabe Motochika (NPC, Ally)
     --------------------
+    - Human (spear)
+    - Human (rifle, sword)
+    - Human (conch shell, sword)
+    - Human (big) (dual swords)
+    - Human (big) (odachi)
+    - Abberant Soldier
+    - Gaki
+    - Skeleton Warrior (spear)
+    - Skeleton Warrior (cannon, sword)
+    - Yoki (axe)
+    - Mitsume Yazura
+    - Nure-Onna
+    - Sengoku Hidehisa (odachi)
 
 ==========
 Stray Cats (Sub Mission)
@@ -1698,6 +1677,15 @@ Stray Cats (Sub Mission)
     - Characters:
         - Hattori Hanzo (NPC)
     --------------------
+    - Lesser Umi-Bozu
+    - Nure-Onna
+    - Dweller
+    - Tesso
+    - Dweller (big)
+    - Mitsume Yazura
+    - Abberant Soldier
+    - Skeleton Warrior (big)
+    - Onryoki (boss)
 
 ==========
 Calling on the Fire God (Sub Mission)
@@ -1706,6 +1694,18 @@ Calling on the Fire God (Sub Mission)
     - Characters:
         - None
     --------------------
+    - Tesso
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Onyudo (fire)
+    - Skeleton Warrior (big) (axe)
+    - Wheelmonk
+    - Ippon-Datara (odachi)
+    - Infernal Oni-Bi
+    - Blue Yoki (cannon, sword)
+    - Blue Yoki (kusarigama)
+    - Skeleton Warrior (cannon, sword)
+    - Mitsume Yazura
+    - Koroka
 
 ==========
 Scattered Fragments (Sub Mission)
@@ -1714,6 +1714,15 @@ Scattered Fragments (Sub Mission)
     - Characters:
         - None
     --------------------
+    - Spider (medium)
+    - Tesso
+    - Yamanba
+    - Spider (big)
+    - Thunderstorm Oni-Bi
+    - Ippon-Datara (hammer)
+    - Infernal Oni-Bi
+    - Biwa Boku-Boku
+    - Koroka
 
 ==========
 A Prayer in the Moonlight (Sub Mission)
@@ -1722,11 +1731,55 @@ A Prayer in the Moonlight (Sub Mission)
     - Characters:
         - Yamanaka Shikanosuke (Ally)
     --------------------
+    - Rokurokubi (sword)
+    - Aberrant Soldier
+    - Gaki
+    - Nure-Onna
+    - Lesser Umi-Bozu
+    - Infernal Oni-Bi
+    - Maelstrom Oni-Bi
+    - Skeleton Warrior (cannon, sword)
+    - Skeleton Warrior (big) (axe)
+    - Onyudo (fire)
 
 
 ========== ========== ========== ========== ==========
 Dream Region (Region 6)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==========
 The Mausoleum of Evil (Main Mission)
 ==========

@@ -2913,66 +2913,39 @@ The High-Spirited Demon (Main Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 A Message From the Deceased (Sub Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Twilight Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 196
+    - Gold: 53,600
+    - Amrita: 296,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Onmyo Mage's Locks X1
+        - Tosa Governor's Helmet (divine)
+        - Braided Straw Helment (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Tosa Governor's Cuirass (exotic)
+        - Tosa Governor's Waistguard (exotic)
+        - Tosa Governor's Gauntlets (exotic)
+        - Tosa Governor's Greaves (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Stray Cats (Sub Mission)
@@ -2980,28 +2953,32 @@ Stray Cats (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Twilight Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 199
+    - Gold: 54,600
+    - Amrita: 306,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Onryoki
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Ninja's Locks X1
+        - Clay Bell of Beckoning X3
+        - Highest-Quality Leather Cord X5
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Clay Bell of Beckoning X1
+        - High-Quality Leather Cord X3
+        - High-Quality Leather Platelet X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Calling on the Fire God (Sub Mission)
@@ -3009,28 +2986,33 @@ Calling on the Fire God (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Twilight Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 200
+    - Gold: 55,000
+    - Amrita: 310,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Ame-no-Mahitotsu's Axe (fire) (divine)
+        - Seventh Sword Tonfa (divine)
+        - Echoing Thunder (hatchets) (lightning) (divine)
+        - Raijin's Claw (switchglaive) (lightning) (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Highest-Quality Tamahagane X2
+        - Highest-Quality Ingot X2
+        - Highest-Quality Iron Platelet X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Scattered Fragments (Sub Mission)
@@ -3038,28 +3020,32 @@ Scattered Fragments (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Twilight Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 201
+    - Gold: 55,800
+    - Amrita: 318,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Kamuro (tea utensil) (exotic)
+        - Zen Manual X1
+        - Herbal Remedy X1
+        - Highest-Quality Lacquer X4
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Highest-Quality Wood X2
+        - Highest-Quality Lacquer X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 A Prayer in the Moonlight (Sub Mission)
@@ -3067,33 +3053,71 @@ A Prayer in the Moonlight (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Twilight Region by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 193
+    - Gold: 52,000
+    - Amrita: 280,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Sekishu Kazusada (odachi) (divine)
+        - Moonprayer Cuirass (divine)
+        - Moonprayer Waistguard (divine)
+        - Moonprayer Gauntlets (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Moonprayer Helment (exotic)
+        - Moonprayer Greaves (exotic)
+        - Sekishu Kazusada (odachi) (exotic)
+        - Righteous Jasper X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 
 ========== ========== ========== ========== ==========
 Dream Region (Region 6)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==========
 The Mausoleum of Evil (Main Mission)
 ==========
