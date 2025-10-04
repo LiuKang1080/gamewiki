@@ -814,28 +814,32 @@ Wings of the Phoenix
     - Mission Unlock Requirement:
         - Unlock the Dream Region (region 6) by completing 12 missions.
     --------------------
-    - Recommended level: 
-    - Gold:  / 
-    - Amrita:  / 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 215
+    - Gold: 183,600 / 61,200
+    - Amrita: 1,118,328 / 372,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 2 (0 required)
     - Bosses: 
-        - 
+        - Shuten Doji
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Quality Umbracite X1
+        - Shuten Doji's Gourd (accessory) (divine)
+        - Shuten Doji's Club (axe) (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Highest-Quality Leather Platelet X3
+        - Highest-Quality Leather Cord X3
+        - Spirit Stone Arm X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Darkness Brewing
@@ -3086,66 +3090,39 @@ A Prayer in the Moonlight (Sub Mission)
 ========== ========== ========== ========== ==========
 Dream Region (Region 6)
 ========== ========== ========== ========== ==========
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Mausoleum of Evil (Main Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Dream Region by completing 12 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 201
+    - Gold: 56,000
+    - Amrita: 320,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 2
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 2 (0 required)
     - Bosses: 
-        - 
+        - Shuten Doji
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Dojikiri Yasutsuna (sword) [type 2] (divine)
+        - Genmei Onmyo Mage's Hat (divine)
+        - Fabled Umbracite X1
+        - Metalworking Chisel X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Shuten Doji's Red Hair X1
+        - Saisetsu-Shin's Sake X1
+        - Ochoko Cup X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Roaming Artisan (Sub Mission)
@@ -3153,28 +3130,33 @@ The Roaming Artisan (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Dream Region by completing 12 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 204
+    - Gold: 56,800
+    - Amrita: 328,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Basket Blade & Boar Cutter (dual swords) (divine)
+        - Metalworking Chisel X3
+        - Highest-Quality Tamahagane X4
+        - Whetstone X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - High-Quality Tamahagane x3
+        - High-Quality Iron Platelet X3
+        - High-Quality Ingot X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Mataza of the Spear (Sub Mission)
@@ -3182,28 +3164,64 @@ Mataza of the Spear (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Dream Region by completing 12 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 205
+    - Gold: 57,200
+    - Amrita: 332,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Maeda Toshiie
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Mataza's Long Spear (divine)
+        - Mataza's Helment (divine)
+        - Mataza's Cuirass (divine)
+        - Mataza's Waistguard (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Mataza's Gauntlets (exotic)
+        - Mataza's Greaves (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Golden Castle (Main Mission)

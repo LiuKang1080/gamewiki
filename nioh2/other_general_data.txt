@@ -269,9 +269,9 @@ Dream of the Strong (NG+1) Notes:
     - Gain access to the Stone of Penance.
     - Gain access to Demon Parade Picture Scrolls.
     - Obtain the Smithing Text: Kodama Bowl upon completing all Main and Sub missions on Dream of the Strong.
-    - Maximum gear level: 160
+    - Maximum gear level: 170 (average 160)
     - Maximum gear + level: +10.
-    - Maximum Soul Core level: 160
+    - Maximum Soul Core level: 170 (average 160)
 
     - Spirit Stones that drop on Dream of the Strong (NG+):
         - Embercite Fragment [new] (starts dropping from the Soaring Region (region 2) and onwards)
@@ -296,12 +296,12 @@ Dream of the Demon (NG+2) Notes:
     - DLC 1 enemies can now appear across all missions.
     - All bosses have Curse of the Demon.
 
-    - Gain access to Silibar Ingots. (Store Amrita)
+    - Gain access to Silibar Ingots (Store Amrita). Obtained by completing In the Eye of the Beholder on Dream of the Strong.
     - Gain access to Scroll of the Demon Picture Scrolls.
     - Obtain the Smiting Text: Scampuss Hat upon completing all Main and Sub missions on Dream of the Demon.
-    - Maximum gear level: 170
+    - Maximum gear level: 180 (average 170)
     - Maximum gear + level: +20.
-    - Maximum Soul Core level: 170
+    - Maximum Soul Core level: 180 (average 170)
 
     - Spirit Stones that drop on Dream of the Demon (NG+2):
         - 
@@ -328,9 +328,9 @@ Dream of the Wise (NG+3) Notes:
     - Gain access to Scroll of the Wise Picture Scrolls.
     - Gain access to Dream of the Nioh and The Underworld upon completing In the Eye of the Beholder on Dream of the Wise.
     - Obtain the Smithing text: Sudama Skull upon completing all Main and Sub missions on Dream of the Wise.
-    - Maximum gear level: 180
+    - Maximum gear level: 190 (average 180)
     - Maximum gear + level: +30.
-    - Maximum Soul Core level: 180
+    - Maximum Soul Core level: 190 (average 180)
 
     - Spirit Stones that drop on Dream of the Wise (NG+3):
         - 
@@ -365,15 +365,15 @@ Dream of the Nioh (NG+4) Notes:
 
     - Gain access to Scroll of the Nioh Picture Scrolls.
     - Obtain the Smithing Text: Mumyo's Mask upon completing all Main and Sub missions on Dream of the Nioh.
-    - Maximum gear level: 190
+    - Maximum gear level: 200 (average 190)
     - Maximum gear + level: +120.
-    - Maximum Soul Core level: 190
+    - Maximum Soul Core level: 200 (average 190)
 
     - Spirit Stones that drop on Dream of the Nioh (NG+4):
         - 
 
     - Maximum gear level for Underworld: 200
-    - Maximum Soul Core level: 200
+    - Maximum Soul Core level for Underworld: 200
 
 [Credits for NG+ notes]:
     - Lef, Fat Valentine

@@ -296,6 +296,21 @@ The Island of Monsters (Twilight Region (Region 5))
 ==========
 Wings of the Phoenix (The Mausoleum of Evil | Dream Region (Region 6))
 ==========
+    - Flying Bolt
+    - Red Kappa
+    - Spider (medium)
+    - Ubume
+    - Gaki
+    - Tesso
+    - Gaki (big)
+    - Yamanba
+    - Spider (big)
+    - Onyudo (lightning)
+    - Biwa Boku-Boku
+    - Mujina
+    - Nurikabe
+    - Mitsume Yazura
+    - Shuten Doji (boss)
 
 ==========
 Darkness Brewing (Shadows Creep In Kurama | The Tengu's Disciple (DLC 1))
@@ -1746,40 +1761,6 @@ A Prayer in the Moonlight (Sub Mission)
 ========== ========== ========== ========== ==========
 Dream Region (Region 6)
 ========== ========== ========== ========== ==========
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Mausoleum of Evil (Main Mission)
 ==========
@@ -1788,6 +1769,20 @@ The Mausoleum of Evil (Main Mission)
         - Mumyo (NPC)
         - Tokichiro (Cutscenes)
     --------------------
+    - Dweller
+    - Ubume
+    - Abberant Soldier
+    - Dweller (big)
+    - Onyudo (water)
+    - One-Eyed Oni
+    - Karasu Tengu
+    - Nure-Onna
+    - One-Eyed Imp
+    - Lesser Umi-Bozu
+    - Nurikabe
+    - Namahage (bloodstained cleavers)
+    - Namahage (bloodstained blade)
+    - Shuten Doji (boss)
 
 ==========
 The Roaming Artisan (Sub Mission)
@@ -1796,6 +1791,19 @@ The Roaming Artisan (Sub Mission)
     - Characters:
         - Muramasa (NPC)
     --------------------
+    - Abberant Soldier
+    - Spider (medium)
+    - Koroka
+    - Yamanba
+    - Skeleton Warrior (cannon, sword)
+    - Wheelmonk
+    - Skeleton Warrior (big) (axe)
+    - Skeleton Warrior (spear)
+    - Nurikabe
+    - Nure-Onna
+    - Spider (big)
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Ippon-Datara (odachi)
 
 ==========
 Mataza of the Spear (Sub Mission)
@@ -1805,6 +1813,40 @@ Mataza of the Spear (Sub Mission)
         - None
     --------------------
     - Maeda Toshiie (boss)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Golden Castle (Main Mission)
