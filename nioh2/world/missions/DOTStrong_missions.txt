@@ -750,28 +750,34 @@ Mountain of the Dark Lord
     - Mission Unlock Requirement:
         - Unlock the Dawn Region (region 4) by completing 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold:  / 
-    - Amrita:  / 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 193
+    - Gold: 155,400 / 51,800
+    - Amrita: 836,328 / 278,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 2 (0 required)
     - Bosses: 
-        - 
+        - Ryomen Sukuna
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Quality Umbracite X1
+        - Wheel of Ice and Fire X1
+        - Waira Claw X2
+        - Mud Jar X3
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Mud Jar X2
+        - Wheel of Ice and Fire X1
+        - Waira Claw X1
+        - Writhing Tongue X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Island of Monsters

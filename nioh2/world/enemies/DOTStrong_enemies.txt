@@ -267,6 +267,31 @@ The Defiled Sanctuary (The Golden Nation | Shadow Region (Region 3))
 ==========
 Mountain of the Dark Lord (The Sun Sets on Mount Tenno | Dawn Region (Region 4))
 ==========
+    - Toxic Slime
+    - Nure-Onna
+    - Skeleton Warrior (sword)
+    - Spider (medium)
+    - Skeleton Warrior (spear)
+    - Wheelmonk
+    - Tesso
+    - Spider (small)
+    - Spider (big)
+    - Yoki (axe)
+    - Rokurokubi (spear)
+    - Flying Bolt
+    - Rokurokubi (dual swords)
+    - Abberant Soldier
+    - Mitsume Yazura
+    - Ubume
+    - Gaki (big)
+    - Nurikabe
+    - Skeleton Warrior (big)
+    - Gaki
+    - Red Kappa
+    - Rokurokubi (sword)
+    - Onyudo (water)
+    - Onyudo (lightning)
+    - Ryomen Sukuna (boss)
 
 ==========
 The Island of Monsters (Twilight Region (Region 5))
