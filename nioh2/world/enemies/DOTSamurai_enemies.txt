@@ -1275,7 +1275,7 @@ Bird In A Cage (Main Mission)
     - Skeleton Warrior (big) (axe)
     - Human (big) (spear)
     - Human (big) (dual swords)
-    - Skeleton Warrior (big) (hammer)
+    - Skeleton Warrior (big) (hammer) (first time)
     - Waira
     - Koroka
     - Yokai (sword)
