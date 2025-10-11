@@ -3197,66 +3197,45 @@ Mataza of the Spear (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Golden Castle (Main Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Dream Region by completing 12 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 206
+    - Gold: 57,400
+    - Amrita: 334,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 2 (1 big sudama)
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 3 (0 required)
     - Bosses: 
-        - 
+        - Enenra
+        - Gozuki
+        - Mezuki
+        - Yatsu-no-Kami
+        - Kasha
+        - Lady Osakabe
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Mikazuki Munechika (sword) [type 2] (lightning) (divine)
+        - Onimaru Kunisuna (sword) [type 2] (fire) (divine)
+        - Fabled Umbracite X1
+        - Metalworking Chisel X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Demon's Horn X2
+        - Slender Vertebra X2
+        - Embercite Crystal X2
+        - Broken Demon Tile X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Bravest of the Brave (Sub Mission)
@@ -3264,28 +3243,32 @@ The Bravest of the Brave (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Dream Region by completing 12 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 204
+    - Gold: 56,400
+    - Amrita: 324,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Maeda Keiji
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Vermillion Spear (divine)
+        - Eccentric's Helment (divine)
+        - Eccentric's Cuirass (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Eccentric's Waistguard (exotic)
+        - Eccentric's Gauntlets (exotic)
+        - Eccentric's Greaves (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Dream's End (Sub Mission)
@@ -3293,28 +3276,63 @@ The Dream's End (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Dream Region by completing 12 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 209
+    - Gold: 57,800
+    - Amrita: 338,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Kasha
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Zenki and Goki (hatchets) (divine)
+        - Thunder God Kusarigama (lightning) (divine)
+        - Sarutobi's Gunsticks (tonfas) (divine)
+        - Herbal Remedy X1
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Fan (accessory) (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Cherry Blossom Viewing Daigo (Main Mission)

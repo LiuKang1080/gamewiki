@@ -1839,40 +1839,6 @@ Mataza of the Spear (Sub Mission)
     --------------------
     - Maeda Toshiie (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Golden Castle (Main Mission)
 ==========    
@@ -1882,6 +1848,34 @@ The Golden Castle (Main Mission)
         - Sen no Rikyu (Cutscenes)
         - Tokichiro (Cutscenes)
     --------------------
+    - Human (big) (dual swords)
+    - Human (sword)
+    - Human (torch, sword)
+    - Human (big) (torch, odachi)
+    - Human (axe)
+    - Ninja Dog
+    - Yoki (sword)
+    - Human (big) (sword)
+    - Rokurokubi (spear)
+    - Human (rifle, sword)
+    - Human (cannon, sword)
+    - Yoki (axe)
+    - Enenra (boss)
+    - Ubume
+    - Gaki
+    - Gaki (big)
+    - Abberant Soldier
+    - Blue Yoki (kusarigama)
+    - Blue Yoki (dual swords)
+    - Koroka
+    - Mujina
+    - Nurikabe
+    - Gozuki (boss)
+    - Mezuki (boss)
+    - Yatsu-no-Kami (boss)
+    - Kasha (boss)
+    - Magatsu Warrior
+    - Lady Osakabe (boss)
 
 ==========
 The Bravest of the Brave (Sub Mission)
@@ -1890,6 +1884,25 @@ The Bravest of the Brave (Sub Mission)
     - Characters:
         - Maeda Keiji (NPC, Ally)
     --------------------
+    - Mitsume Yazura
+    - Infernal Oni-Bi
+    - Thunderstorm Oni-Bi
+    - Abberant Soldier
+    - Skeleton Warrior (spear)
+    - Skeleton Warrior (big) (axe)
+    - Skeleton Warrior (cannon, sword)
+    - One-Eyed Oni
+    - One-Eyed Imp
+    - Blue Yoki (kusarigama)
+    - Dweller
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Gaki
+    - Waira
+    - Yamanba
+    - Yoki (sword)
+    - Enki
+    - Karasu Tengu
+    - Maeda Keiji (boss)
 
 ==========
 The Dream's End (Sub Mission)
@@ -1898,6 +1911,53 @@ The Dream's End (Sub Mission)
     - Characters:
         - Okuni (NPC, Ally)
     --------------------
+    - Blue Yoki (kusarigama)
+    - Blue Yoki (dual swords)
+    - Yoki (sword)
+    - Wheelmonk
+    - Yoki (axe)
+    - Onyudo (fire)
+    - Blue Yoki (cannon, sword)
+    - Ubume
+    - Flying Bolt
+    - Koroka
+    - Mitsume Yazura
+    - Magatsu Warrior
+    - Kasha (boss)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Cherry Blossom Viewing Daigo (Main Mission)
