@@ -1092,6 +1092,7 @@ Immoveable (Sub Mission)
     - Karasu Tengu
     - Skeleton Warrior (spear)
     - Skeleton Warrior (big) (axe)
+    - Sohaya Revenant (switchglaive) (first time)
 
 ==========
 A Formal Match (Sub Mission)

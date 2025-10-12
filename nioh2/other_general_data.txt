@@ -22,6 +22,10 @@ Key Items
         - Obtained after defeating Enenra in the Sub Mission: Okuni's Search.
         - Item is removed after completing the mission.
 
+    - Broken Comb [img complete]:
+        - Obtained from the final Sohaya Revenant (switchglaive) in the Sub Mission: Immovable by using the gesture: RELAX.
+        - Item is removed from inventory upon completing the mission.
+
     - Castle Gate Key [img complete]:
         - Key item obtained in the Main Mission: The Hollow Fortress.
         - Item is removed from the inventory upon completing the mission.
