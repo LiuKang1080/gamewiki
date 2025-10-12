@@ -1020,6 +1020,7 @@ Corpses and Ice (Main Mission)
     - Mitsume Yazura
     - Rokurokubi (sword)
     - Magara Takamoto (odachi)
+    - Magara Naosumi (odachi)
     - Yoki (sword)
     - Human (big) (sword)
     - Namahage (bloodstained blade)

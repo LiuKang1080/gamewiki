@@ -1136,6 +1136,7 @@ Corpses and Ice (Main Mission)
     - Rokurokubi
     - Human (big) (spear)
     - Magara Takamoto (odachi) (first time)
+    - Magara Naosumi (odachi) (first time)
     - Namahage (bloodstained cleavers) (first time)
     - Namahage (bloodstained blade) (first time)
     - Maelstrom Oni-Bi
