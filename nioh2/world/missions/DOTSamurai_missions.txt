@@ -1455,7 +1455,8 @@ A Favor for the Blacksmith (Sub Mission)
         - Bizen Osafune (sword)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - Kagatsuchi Magatama (Mission Reward - Increases the average rarity of uncommon+ forged items by 1%).
+        - Kagatsuchi Magatama (Mission Reward - Increases the rarity level of uncommon+ forged items by 1%. 
+            Reduces the common rarity percent from 31.0% to 28.0%).
 
 ==========
 The Search (Sub Mission)
@@ -2848,7 +2849,8 @@ The Burning Sky (Sub Mission)
         - Sacred Water X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - Kagatsuchi Magatama (Mission Reward - Increases the average rarity of uncommon+ forged items by 1%).
+        - Kagatsuchi Magatama (Mission Reward - Increases the rarity level of uncommon+ forged items by 1%. 
+            Reduces the common rarity percent from 31.0% to 28.0%).
 
 ==========
 Abduction (Sub Mission)
@@ -3366,7 +3368,8 @@ Calling on the Fire God (Sub Mission)
         - Highest-Quality Iron Platelet X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - Kagatsuchi Magatama (Mission Reward - Increases the average rarity of uncommon+ forged items by 1%).
+        - Kagatsuchi Magatama (Mission Reward - Increases the rarity level of uncommon+ forged items by 1%. 
+            Reduces the common rarity percent from 31.0% to 28.0%).
 
 ==========
 Scattered Fragments (Sub Mission)
