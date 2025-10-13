@@ -1275,7 +1275,7 @@ Pervading Waters (Main Mission)
     - Nurikabe
     - Human (rifle, sword)
     - Saika Clan (cannon, kusarigama)
-    - Muni (human saika warrior) (rifle, kusarigama)
+    - Muni (human saika warrior) (rifle, cannon, kusarigama)
     - Gaki
     - Mitsume Yazura
     - Skeleton Warrior (cannon, sword)
@@ -1613,7 +1613,7 @@ Farewell to the Past (Sub Mission)
     - Human (big) (odachi)
     - Onmyo Mage
     - Human (big) (dual swords)
-    - Mysterious Samurai
+    - Mysterious Samurai (Akechi Mitsuhide)
 
 ==========
 The Two Faces of Hospitality (Main Mission)
