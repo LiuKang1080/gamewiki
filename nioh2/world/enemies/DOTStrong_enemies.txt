@@ -1969,6 +1969,13 @@ Cherry Blossom Viewing Daigo (Main Mission)
         - Okuni (Cutscenes, NPC)
         - Mumyo (Cutscenes, NPC, Ally)
     --------------------
+    - Human (big) (torch, spear)
+    - Human (cannon, sword)
+    - Human (spear)
+    - Human (torch, spear)
+    - Human (big) (spear)
+    - Katagiri Katsumoto (Seven Spears #1) (spear)
+    - 
 
 ==========
 Restoring Harmony (Sub Mission)
