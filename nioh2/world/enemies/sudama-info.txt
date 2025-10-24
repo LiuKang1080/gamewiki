@@ -8,11 +8,18 @@ Items dropped from Sudama from exchange:
     - Spirit Stone
     - Lantern Plant Fruit
     - Summoner's Candle
+    - Clay Bell of Beckoning
+    - Fleeting Guardian Amulet
+    - Inspiriting Gem
+    - Uchiko Powder
+    - Whetstone
+    - Sacred Brush
+    - Salt
     - 
 
 ---------- Smithing Materials ----------
     - Quality Iron Platelet
-    - 
+    - Highest-Quality Tamahagane
 
 
 
