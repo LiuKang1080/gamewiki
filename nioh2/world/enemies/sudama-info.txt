@@ -3,30 +3,52 @@ Sudama Info
 ========== ========== ==========
 Items dropped from Sudama from exchange:
 ---------- Consumables ----------
-    - Red Spider Lily
-    - Small Spirit Stone
-    - Spirit Stone
-    - Lantern Plant Fruit
-    - Summoner's Candle
     - Clay Bell of Beckoning
     - Fleeting Guardian Amulet
     - Inspiriting Gem
-    - Uchiko Powder
-    - Whetstone
+    - Lantern Plant Fruit
+    - Red Spider Lily
+    - Righteous Jasper
     - Sacred Brush
     - Salt
-    - Righteous Jasper
+    - Small Spirit Stone
+    - Spirit Stone
+    - Summoner's Candle
+    - Uchiko Powder
+    - Whetstone
 
 ---------- Smithing Materials ----------
+    - Lacquer
+    - Quality Lacquer
+    - High-Quality Lacquer
+    - Highest-Quality Lacquer
+    ----------
+    - Leather Cord
+    - Quality Leather Cord
+    - High-Quality Leather Cord
+    - Highest-Quality Leather Cord
+    ----------
+    - Leather Platelet
+    - Quality Leather Platelet
+    - High-Quality Leather Platelet
+    - Highest-Quality Leather Platelet
+    ----------
+    - Ingot
+    - Quality Ingot
+    - High-Quality Ingot
+    - Highest-Quality Ingot
+    ----------
+    - Iron Platelet
     - Quality Iron Platelet
+    - High-Quality Iron Platelet
+    - Highest-Quality Iron Platelet
+    ----------
+    - Tamahagane
+    - Quality Tamahagane
+    - High-Quality Tamahagane
     - Highest-Quality Tamahagane
-
-
-
-
-
-
-
-
-
-
+    ----------
+    - Wood
+    - Quality Wood
+    - High-Quality Wood
+    - Highest-Quality Wood
