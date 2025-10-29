@@ -146,10 +146,30 @@ Consumables
     The flower goes by countless names, "corpse flowers", "hell flowers", "ghost flowers", to name but a few. While it has some
     auspicious names, the great majority of them have an ominous tone.
 
+Shinobi Box (rare):
+    Restores 30% of Ninjutsu Items that you prepared at a Shrine.
+    ----------
+    Contains a surprising number of various ninja tools given the container's compact size. Use it to restore 30% of the Ninjutsu
+    items you previously prepared at a shrine.
 
+Sacred Brush (rare):
+    Restores 30% of Onmyo Magic Items that you prepared at a Shrine.
+    ----------
+    A ritually purified brush that restores 30% of the Onmyo Magic items you previously prepared at a Shrine. It has been
+    ceremonially sprinkled with sacred water collected just as the sun rose.
 
+Noble Dung Ball (rare):
+    Counts as 2 Dung Balls. Exchange with Ryunojo the Dung Lover in the Main Mission: A Bird In A Cage
+    ----------
+    Excrement harvested from aristocrats, normally used as high quality fertilizer. Use it on an enemy to lower athe effect of any
+    medicines they use, and also drastically lower their guard.
 
+Righteous Jasper (rare):
+    This precious stone glows with a mysterious light. Legend has it that it grows in the soil of battlefields, born from the
+    blood of fallen soldiers. It is consequently prized amongst warriors.
 
+    When used, a Benevolent Grave will be placed where you are standing. You may not use the Benevolent Grave youself, but you will
+    gain rewards in proportion to the numnber of times it is used by other players.
 
 
 
