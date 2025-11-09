@@ -1926,40 +1926,6 @@ The Dream's End (Sub Mission)
     - Magatsu Warrior
     - Kasha (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Cherry Blossom Viewing Daigo (Main Mission)
 ==========
@@ -1975,7 +1941,59 @@ Cherry Blossom Viewing Daigo (Main Mission)
     - Human (torch, spear)
     - Human (big) (spear)
     - Katagiri Katsumoto (Seven Spears #1) (spear)
-    - 
+    - Rokurokubi (sword)
+    - Human (sword)
+    - Human (torch, rifle, sword)
+    - Lesser Umi-Bozu
+    - Magatsu Warrior
+    - Human (torch, sword)
+    - Fukushima Masanori (Seven Spears #2) (spear)
+    - Enki
+    - Abberant Soldier
+    - Gozuki (boss)
+    - Skeleton Warrior (rifle, sword)
+    - Kato Yoshiaki (Seven Spears #3) (dual swords)
+    - Kasuya Takenori (Seven Spears #4) (spear)
+    - Hirano Nagayasu (Seven Spears #5) (spear)
+    - Wakisaka Yasuharu (Seven Spears #6) (spear)
+    - Skeleton Warrior (cannon, sword)
+    - Kato Kiyomasa (Seven Spears #7) (spear)
+    - Tokichiro (dream) (boss)
+    - Kashin Koji (boss)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Restoring Harmony (Sub Mission)

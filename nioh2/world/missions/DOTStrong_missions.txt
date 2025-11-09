@@ -3302,38 +3302,6 @@ The Dream's End (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Cherry Blossom Viewing Daigo (Main Mission)
 ==========
@@ -3346,11 +3314,13 @@ Cherry Blossom Viewing Daigo (Main Mission)
     - Shrine: Yes
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
-    - Number of Sudama: 
+    - Number of Sudama: 1 (1 big sudama)
     - Number of Hot Springs: 1 (0 required)
     - Number of Dark Realms: 1 (0 required)
     - Bosses: 
-        - 
+        - Gozuki
+        - Tokichiro (dream)
+        - Kashin Koji
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
@@ -3361,10 +3331,44 @@ Cherry Blossom Viewing Daigo (Main Mission)
         - Metalworking Chisel X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Child of the Sun's Gauntlets (exotic)
+        - Child of the Sun's Greaves (exotic)
+        - Highest-Quality Wood X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Restoring Harmony (Sub Mission)
