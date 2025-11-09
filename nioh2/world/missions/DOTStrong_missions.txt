@@ -3338,66 +3338,39 @@ Cherry Blossom Viewing Daigo (Main Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Restoring Harmony (Sub Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Dream Region by completing 12 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 210
+    - Gold: 58,400
+    - Amrita: 344,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Ryomen Sukuna
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Onmyo Mage's Locks X1
+        - Smithing Text: Great Kanemitsu
+        - Smithing Text: Onmyo Warrior's Armor
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Onmyo Warrior's Gauntlets (exotic)
+        - Onmyo Warrior's Greaves (exotic)
+        - Fire Amulet X2
+        - Water Amulet X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Japanese Heart, Yokai Smarts (Sub Mission)
@@ -3405,28 +3378,32 @@ Japanese Heart, Yokai Smarts (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Dream Region by completing 12 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 210
+    - Gold: 58,800
+    - Amrita: 348,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Hachisuka Koroku
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Kawanami Kusarigama (divine)
+        - Kawanami Clan Vest (divine)
+        - Kawanami Clan Waistguard (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Kawanami Clan Plated Headband (exotic)
+        - Kawanami Clan Gauntlets (exotic)
+        - Kawanami Clan Greaves (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Restless Spirits (Sub Mission)
@@ -3434,28 +3411,34 @@ Restless Spirits (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Dream Region by completing 12 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 211
+    - Gold: 59,200
+    - Amrita: 352,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Oni Shibata Katsuie
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Urn Splitter Hatchets (divine)
+        - Oni Shibata's Waistguard (divine)
+        - Oni Shibata's Gauntlets (divine)
+        - Oni Shibata's Greaves (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Oni Shibata's Helment (exotic)
+        - Oni Shibata's Cuirass (exotic)
+        - Highest-Quality Iron Platelet X3
+        - Highest-Quality Ingot X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Scented Letter (Sub Mission)
@@ -3463,28 +3446,34 @@ The Scented Letter (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Dream Region by completing 12 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 214
+    - Gold: 59,200
+    - Amrita: 352,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Imakomei's Helmet (divine)
+        - Imakomei's Cuirass (divine)
+        - Summoner's Candle X1
+        - Smithing Text: Imakomei's Armor
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Imakomei's Waistguard (exotic)
+        - Imakomei's Gauntlets (exotic)
+        - Imakomei's Greaves (exotic)
+        - Highest-Quality Wood X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Yaksha Returns (Sub Mission)
@@ -3492,62 +3481,76 @@ Yaksha Returns (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Dream Region by completing 12 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 213
+    - Gold: 59,600
+    - Amrita: 356,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Azai Nagamasa
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Azai Ichimonji (sword) [type 1] (divine)
+        - Kohoku Master's Waistguard (divine)
+        - Kohoku Master's Gauntlets (divine)
+        - Kohoku Master's Greaves (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Kohoku Master's Cuirass (exotic)
+        - Kohoku Master's Waistguard (exotic)
+        - Kohoku Master's Helment (exotic)
+        - Azai Ichimonji (sword) [type 1] (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Sealed Fate (Main Mission)
 ==========
-    - Mission Unlock Requirement:
-        - Unlock the Dream Region by completing 12 missions.
-    --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
-    ---------- ---------- ----------
-    Subsequent Completes:
-        - 
-    ---------- ---------- ----------
-    Notable Items During / Post Mission:
-        - 
+    - This mission does not exist on Dream of the Strong.
 
 
 ========== ========== ========== ========== ==========
 Afterglow Region (Region 7)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==========
 The Blue-Eyed Samurai (Main Mission)
 ==========

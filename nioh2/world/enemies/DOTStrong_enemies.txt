@@ -1961,40 +1961,6 @@ Cherry Blossom Viewing Daigo (Main Mission)
     - Tokichiro (dream) (boss)
     - Kashin Koji (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Restoring Harmony (Sub Mission)
 ==========
@@ -2020,6 +1986,21 @@ Restless Spirits (Sub Mission)
     - Characters:
         - None
     --------------------
+    - Skeleton Warrior (spear)
+    - Enki
+    - Thunderstorm Oni-Bi
+    - One-Eyed Oni
+    - Tesso
+    - Rokurokubi (dual swords)
+    - Rokurokubi (fire arrow + bow, sword)
+    - Ubume
+    - Dweller
+    - Wheelmonk
+    - Waira
+    - Rokurokubi (spear)
+    - Skeleton Warrior (cannon, sword)
+    - Skeleton Warrior (spear)
+    - Oni Shibata Katsuie (boss)
 
 ==========
 The Scented Letter (Sub Mission)
@@ -2028,6 +2009,22 @@ The Scented Letter (Sub Mission)
     - Characters:
         - None
     --------------------
+    - Ubume
+    - Abberant Soldier
+    - Nure-Onna
+    - Flying Bolt
+    - Maelstrom Oni-Bi
+    - Dweller
+    - Dweller (big)
+    - Skeleton Warrior (rifle, sword)
+    - Koroka
+    - Tesso
+    - Karasu Tengu
+    - Gaki
+    - Skeleton Warrior (spear)
+    - Enki
+    - Yoki (axe)
+    - Blue Yoki (dual swords)
 
 ==========
 Yaksha Returns (Sub Mission)
@@ -2041,12 +2038,7 @@ Yaksha Returns (Sub Mission)
 ==========
 Sealed Fate (Main Mission)
 ==========
-    - Quest Giver: Mumyo
-    - Characters:
-        - Mumyo (Cutscenes)
-        - William (Cutscenes)
-    --------------------
-    - None
+    - This mission does not exist on Dream of the Strong.
 
 
 ========== ========== ========== ========== ==========
@@ -2062,6 +2054,40 @@ The Blue-Eyed Samurai (Main Mission)
         - Mumyo (Cutscenes)
     --------------------
     - William (boss)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 In The Eye of the Beholder (Main Mission)
