@@ -3519,66 +3519,72 @@ Sealed Fate (Main Mission)
 ========== ========== ========== ========== ==========
 Afterglow Region (Region 7)
 ========== ========== ========== ========== ==========
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Blue-Eyed Samurai (Main Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Afterglow Region by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 215
+    - Gold: 60,600
+    - Amrita: 366,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - William
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Youngblood Cuirass (exotic)
+        - Youngblood Waistguard (exotic)
+        - Fabled Umbracite X1
+        - Metalworking Chisel X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Youngblood Greaves (exotic)
+        - Youngblood Gauntlets (exotic)
+        - Highest-Quality Iron Platelet X3
+        - Highest-Quality Tamahagane X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 In The Eye of the Beholder (Main Mission)
