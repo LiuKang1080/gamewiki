@@ -3662,7 +3662,7 @@ The Dream's End (Sub Mission)
         - None
 
 ==========
-Cherry Blossom Viewing Daigo (Main Mission)
+Cherry Blossom Viewing in Daigo (Main Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "The Golden Castle"
