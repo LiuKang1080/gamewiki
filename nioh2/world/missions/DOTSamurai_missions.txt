@@ -3982,8 +3982,8 @@ In The Eye of the Beholder (Main Mission)
         - X1 of each weapon type in Divine rarity (After defeating Otakemaru).
         - Unlocks the "Builds" feature in the HUT after beating mission.
         - Allows the ability to apply Level Sync to all missions on Dream of the Samurai (NG) difficulty. 
-        - Unlocks the Dream of the Strong (NG+) difficulty.
         - Unlocks the Stone of Penance feature.
+        - Unlocks the Dream of the Strong (NG+) difficulty.
 
 ==========
 Dawn of Hope (Sub Mission)
