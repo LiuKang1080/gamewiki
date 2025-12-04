@@ -222,17 +222,6 @@ Proficiency
         - Shiftling: LVL 90
 
 
-========== ========== ========== ========== ==========
-Other Notes
-========== ========== ========== ========== ==========
-Gear Rarity:
-    - Common (white)
-    - Uncommon (yellow)
-    - Rare (blue)
-    - Exotic (purple)
-    - Divine (green)
-    - Ethreal (orange)
-
 ========== ========== ==========
 Dream of the Samurai (NG) Notes:
 ========== ========== ==========
@@ -381,3 +370,23 @@ Dream of the Nioh (NG+4) Notes:
 
 [Credits for NG+ notes]:
     - Lef, Fat Valentine
+
+
+========== ========== ========== ========== ==========
+Other Notes
+========== ========== ========== ========== ==========
+Gear Rarity:
+    - Common (white)
+    - Uncommon (yellow)
+    - Rare (blue)
+    - Exotic (purple)
+    - Divine (green)
+    - Ethreal (orange)
+
+Notes on iframes:
+    - Low Stance side dodge is 12 iframes.
+    - Low Stance front and back dodge is 10 frames
+    - Sword and Spear side dodge is 15 iframes.
+    - High Stance dodge roll is 18 iframes.
+    - Mid Stance side dodge is 10 iframes and the dodge roll is 18 iframes. 
+        (There are 2-3 frames in between the side dodge and the roll where you can be hit.)
