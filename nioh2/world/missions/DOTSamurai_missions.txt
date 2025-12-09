@@ -707,7 +707,7 @@ The One Who Lives in the Shadows (Dojo Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "The High-Spirited Demon".
-        - Required Fists Proficiency: 200,000.
+        - Required Ninjutsu Proficiency: 200,000.
     --------------------
     - Recommended level: 100
     - Shrine: No
@@ -740,7 +740,7 @@ The Nine Symbols (Dojo Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "The Mausoleum of Evil".
-        - Required Fists Proficiency: 250,000.
+        - Required Onmyo Magic Proficiency: 250,000.
     --------------------
     - Recommended level: 114
     - Shrine: No
