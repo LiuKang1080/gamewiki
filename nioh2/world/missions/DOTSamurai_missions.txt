@@ -4344,6 +4344,7 @@ Eternal Rivals (Main Mission)
     Notable Items During / Post Mission:
         - Saigyo's Poem II (item pickup in mission).
         - Unlocks the Twilight Mission: Darkness Brewing.
+        - Gives 1 Samurai point.
 
 ==========
 An Encounter Among the Blossoms (Sub Mission)
