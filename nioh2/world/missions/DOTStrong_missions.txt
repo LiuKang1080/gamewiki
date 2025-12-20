@@ -3554,66 +3554,73 @@ The Blue-Eyed Samurai (Main Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 In The Eye of the Beholder (Main Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Afterglow Region by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 215
+    - Gold: 61,400
+    - Amrita: 374,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 3 (0 required)
     - Bosses: 
-        - 
+        - Gozuki
+        - Mezuki
+        - Otakemaru
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Kusanagi Tsurugi (sword) (divine)
+        - Yasakani Magatama (accessory) (divine)
+        - Fabled Umbracite X1
+        - Silabar Ingot
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Embercite Shard X5
+        - Highest-Quality Ingot X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - Allows the ability to apply Level Sync to all missions on Dream of the Strong (NG+1) difficulty.
+        - Unlocks the Dream of the Demon (NG+2) difficulty.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Dawn of Hope (Sub Mission)

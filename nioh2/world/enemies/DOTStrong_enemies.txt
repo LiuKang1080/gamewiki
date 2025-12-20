@@ -2055,40 +2055,6 @@ The Blue-Eyed Samurai (Main Mission)
     --------------------
     - William (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 In The Eye of the Beholder (Main Mission)
 ==========
@@ -2100,6 +2066,52 @@ In The Eye of the Beholder (Main Mission)
         - Kashin Koji (Cutscenes)
         - Tokichiro (Cutscenes)
     --------------------
+    - Yoki (cannon, sword)
+    - Yoki (kusarigama)
+    - Yoki (axe)
+    - Yoki (sword)
+    - Tesso
+    - Abberant Soldier
+    - Karasu Tengu
+    - Magatsu Warrior
+    - Gozuki (boss)
+    - Mezuki (boss)
+    - Ubume
+    - Otakemaru (boss)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Dawn of Hope (Sub Mission)

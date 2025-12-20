@@ -239,8 +239,8 @@ Dream of the Samurai (NG) Notes:
     - Palace of the Damned | number of Fire Altars: 5.
 
     - Maximum gear level: 150
-    - Maximum gear + level: +10.
-    - Maximum Soul Core level: 150.
+    - Maximum gear + level: +10
+    - Maximum Soul Core level: 150
     - Player can attain lvl 20 in all attributes upon reaching lvl 118.
     - Player can attain lvl 30 in all attributes upon reaching lvl 198.
 
@@ -257,13 +257,14 @@ Dream of the Samurai (NG) Notes:
 ========== ========== ==========
 Dream of the Strong (NG+1) Notes:
 ========== ========== ==========
+    - Gain access to the Stone of Penance on this difficulty.
+    - Gain access to Demon Parade Picture Scrolls on this difficulty.
     - Defeating Otakemaru in the mission: In The Eye of the Beholder on Dream of the Strong and above (on every difficulty) for
         the first time will guaranteed drop a Yasakani Magatama. (Credits: Oolong Tea)
-    - Gain access to the Stone of Penance.
-    - Gain access to Demon Parade Picture Scrolls.
     - Obtain the Smithing Text: Kodama Bowl upon completing all Main and Sub missions on Dream of the Strong.
+    - Gain access to the Silabar Ingot for the Blacksmith after completing In The Eye of the Beholder on this difficulty.
     - Maximum gear level: 170 (average 160)
-    - Maximum gear + level: +10.
+    - Maximum gear + level: +10
     - Maximum Soul Core level: 170 (average 160)
 
     - Spirit Stones that drop on Dream of the Strong (NG+):
@@ -293,7 +294,7 @@ Dream of the Demon (NG+2) Notes:
     - Gain access to Scroll of the Demon Picture Scrolls.
     - Obtain the Smiting Text: Scampuss Hat upon completing all Main and Sub missions on Dream of the Demon.
     - Maximum gear level: 180 (average 170)
-    - Maximum gear + level: +20.
+    - Maximum gear + level: +20
     - Maximum Soul Core level: 180 (average 170)
 
     - Spirit Stones that drop on Dream of the Demon (NG+2):
@@ -322,7 +323,7 @@ Dream of the Wise (NG+3) Notes:
     - Gain access to Dream of the Nioh and The Underworld upon completing In the Eye of the Beholder on Dream of the Wise.
     - Obtain the Smithing text: Sudama Skull upon completing all Main and Sub missions on Dream of the Wise.
     - Maximum gear level: 190 (average 180)
-    - Maximum gear + level: +30.
+    - Maximum gear + level: +30
     - Maximum Soul Core level: 190 (average 180)
 
     - Spirit Stones that drop on Dream of the Wise (NG+3):
@@ -359,7 +360,7 @@ Dream of the Nioh (NG+4) Notes:
     - Gain access to Scroll of the Nioh Picture Scrolls.
     - Obtain the Smithing Text: Mumyo's Mask upon completing all Main and Sub missions on Dream of the Nioh.
     - Maximum gear level: 200 (average 190)
-    - Maximum gear + level: +120.
+    - Maximum gear + level: +120
     - Maximum Soul Core level: 200 (average 190)
 
     - Spirit Stones that drop on Dream of the Nioh (NG+4):
