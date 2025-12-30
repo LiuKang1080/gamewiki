@@ -287,8 +287,8 @@ Dream of the Demon (NG+2) Notes:
         - +60% more HP for enemies
         - -10% damage taken for enemies
         - Both of these buffs cannot be removed in any way. (Credits: Fat Valentine)
-    - DLC 1 enemies can now appear across all missions.
     - All bosses have Curse of the Demon.
+    - DLC 1 enemies can now appear across all missions.
 
     - Gain access to Silibar Ingots (Store Amrita). Obtained by completing In the Eye of the Beholder on Dream of the Strong.
     - Gain access to Scroll of the Demon Picture Scrolls.
@@ -316,8 +316,8 @@ Dream of the Wise (NG+3) Notes:
         
         Curse of the Wise contains new curse:
         - 50% damage lifesteal
+    - All bosses have Curse of the Wise.
     - DLC 2 enemies can now appear across all missions.
-    - All bosses have Curse of the Wise
 
     - Gain access to Scroll of the Wise Picture Scrolls.
     - Gain access to Dream of the Nioh and The Underworld upon completing In the Eye of the Beholder on Dream of the Wise.
@@ -354,8 +354,8 @@ Dream of the Nioh (NG+4) Notes:
         - +30% Ki Damage
         - 50% damage lifesteal
         - Life Regenerationfrom 0.2% to 0.5%
+    - All bosses have Curse of the Nioh.
     - DLC 3 enemies can now appear across all missions.
-    - All bosses have Curse of the Nioh
 
     - Gain access to Scroll of the Nioh Picture Scrolls.
     - Obtain the Smithing Text: Mumyo's Mask upon completing all Main and Sub missions on Dream of the Nioh.
