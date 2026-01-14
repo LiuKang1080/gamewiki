@@ -3658,66 +3658,77 @@ The Trustworthy (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Winds of Ruin (Sub Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Afterglow Region by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 215
+    - Gold: 121,600
+    - Amrita: 368,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Tsukahara Bokuden
+        - Sakata Kintoki
+        - Shisenin Kosen
+        - Kato Danzo
+        - Ashikaga Yoshiteru
+        - Hattori Hanzo
+        - Mumyo
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Samurai's Locks X1
+        - Black Lotus (switchglaive) (divine)
+        - Random Accessory (divine)
+        - Whetstone X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Random Switchglaive (divine or below)
+        - Random Melee Weapon [sword type 1] (divine or below)
+        - Random Accessory (divine or below)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Wave of Terror (Sub Mission)
