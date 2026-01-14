@@ -2946,7 +2946,7 @@ A Message From the Deceased (Sub Mission)
     First Time: 
         - Onmyo Mage's Locks X1
         - Tosa Governor's Helmet (divine)
-        - Braided Straw Helment (divine)
+        - Braided Straw Helmet (divine)
     ---------- ---------- ----------
     Subsequent Completes:
         - Tosa Governor's Cuirass (exotic)
@@ -3084,7 +3084,7 @@ A Prayer in the Moonlight (Sub Mission)
         - Moonprayer Gauntlets (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - Moonprayer Helment (exotic)
+        - Moonprayer Helmet (exotic)
         - Moonprayer Greaves (exotic)
         - Sekishu Kazusada (odachi) (exotic)
         - Righteous Jasper X1
@@ -3186,7 +3186,7 @@ Mataza of the Spear (Sub Mission)
     - Mission Rewards: 
     First Time: 
         - Mataza's Long Spear (divine)
-        - Mataza's Helment (divine)
+        - Mataza's Helmet (divine)
         - Mataza's Cuirass (divine)
         - Mataza's Waistguard (divine)
     ---------- ---------- ----------
@@ -3259,7 +3259,7 @@ The Bravest of the Brave (Sub Mission)
     - Mission Rewards: 
     First Time: 
         - Vermillion Spear (divine)
-        - Eccentric's Helment (divine)
+        - Eccentric's Helmet (divine)
         - Eccentric's Cuirass (divine)
     ---------- ---------- ----------
     Subsequent Completes:
@@ -3432,7 +3432,7 @@ Restless Spirits (Sub Mission)
         - Oni Shibata's Greaves (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - Oni Shibata's Helment (exotic)
+        - Oni Shibata's Helmet (exotic)
         - Oni Shibata's Cuirass (exotic)
         - Highest-Quality Iron Platelet X3
         - Highest-Quality Ingot X2
@@ -3504,7 +3504,7 @@ Yaksha Returns (Sub Mission)
     Subsequent Completes:
         - Kohoku Master's Cuirass (exotic)
         - Kohoku Master's Waistguard (exotic)
-        - Kohoku Master's Helment (exotic)
+        - Kohoku Master's Helmet (exotic)
         - Azai Ichimonji (sword) [type 1] (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
@@ -3590,66 +3590,37 @@ In The Eye of the Beholder (Main Mission)
         - Allows the ability to apply Level Sync to all missions on Dream of the Strong (NG+1) difficulty.
         - Unlocks the Dream of the Demon (NG+2) difficulty.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Dawn of Hope (Sub Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Afterglow Region by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 218
+    - Gold: 61,800
+    - Amrita: 378,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Onryoki
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Samurai's Locks X1
+        - Shoulder Strap (accessory) (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Glue X1
+        - Highest-Quality Leather Platelet X2
+        - Highest-Quality Leather Cord X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - Unlocks the Smithing Text: Kodama Bowl after completing this mission if all other main and sub mission are complete.
 
 ==========
 The Trustworthy (Sub Mission)
@@ -3657,28 +3628,67 @@ The Trustworthy (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Afterglow Region by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 218
+    - Gold: 250,000
+    - Amrita: 382,776
+    - Shrine: No
+    - Torii Gate Expedition: No
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Hattori Hanzo
+        - Honda Tadakatsu
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Samurai's Locks X1
+        - Tombokiri (spear) (lightning) (divine)
+        - Hanzo the Demon's Spear (divine)
+        - Highest-Quality Tamahagane X5
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Random Sword [type 1] (divine or below)
+        - Tombokiri (spear) (lightning) (exotic)
+        - Warrior of the East Helmet (exotic)
+        - Random Heavy Armor (divine or below)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Winds of Ruin (Sub Mission)

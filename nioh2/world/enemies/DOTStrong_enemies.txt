@@ -2079,40 +2079,6 @@ In The Eye of the Beholder (Main Mission)
     - Ubume
     - Otakemaru (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Dawn of Hope (Sub Mission)
 ==========
@@ -2120,6 +2086,21 @@ Dawn of Hope (Sub Mission)
     - Characters:
         - William (Ally)
     --------------------
+    - Abberant Soldier
+    - Magatsu Warrior
+    - Skeleton Warrior (big) (axe)
+    - Yoki (axe)
+    - Yoki (sword)
+    - Ninja (sword)
+    - Yoki (dual swords)
+    - Enki
+    - Yoki (kusarigama)
+    - Skeleton Warrior (spear)
+    - Tesso
+    - One-Eyed Oni
+    - Yoki (cannon, sword)
+    - Karasu Tengu
+    - Onryoki (boss)
 
 ==========
 The Trustworthy (Sub Mission)
@@ -2130,6 +2111,40 @@ The Trustworthy (Sub Mission)
     --------------------
     - Hattori Hanzo (boss)
     - Honda Tadakatsu (boss)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Winds of Ruin (Sub Mission)

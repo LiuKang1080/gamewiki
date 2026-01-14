@@ -261,7 +261,8 @@ Dream of the Strong (NG+1) Notes:
     - Gain access to Demon Parade Picture Scrolls on this difficulty.
     - Defeating Otakemaru in the mission: In The Eye of the Beholder on Dream of the Strong and above (on every difficulty) for
         the first time will guaranteed drop a Yasakani Magatama. (Credits: Oolong Tea)
-    - Obtain the Smithing Text: Kodama Bowl upon completing all Main and Sub missions on Dream of the Strong.
+    - Obtain the Smithing Text: Kodama Bowl upon completing all Main and Sub missions on Dream of the Strong. 
+        (Online missions are not counted towards this)
     - Gain access to the Silabar Ingot for the Blacksmith after completing In The Eye of the Beholder on this difficulty.
     - Maximum gear level: 170 (average 160)
     - Maximum gear + level: +10
@@ -292,7 +293,8 @@ Dream of the Demon (NG+2) Notes:
 
     - Gain access to Silibar Ingots (Store Amrita). Obtained by completing In the Eye of the Beholder on Dream of the Strong.
     - Gain access to Scroll of the Demon Picture Scrolls.
-    - Obtain the Smiting Text: Scampuss Hat upon completing all Main and Sub missions on Dream of the Demon.
+    - Obtain the Smiting Text: Scampuss Hat upon completing all Main and Sub missions on Dream of the Demon. 
+        (Online missions are not counted towards this)
     - Maximum gear level: 180 (average 170)
     - Maximum gear + level: +20
     - Maximum Soul Core level: 180 (average 170)
@@ -321,7 +323,8 @@ Dream of the Wise (NG+3) Notes:
 
     - Gain access to Scroll of the Wise Picture Scrolls.
     - Gain access to Dream of the Nioh and The Underworld upon completing In the Eye of the Beholder on Dream of the Wise.
-    - Obtain the Smithing text: Sudama Skull upon completing all Main and Sub missions on Dream of the Wise.
+    - Obtain the Smithing text: Sudama Skull upon completing all Main and Sub missions on Dream of the Wise. 
+        (Online missions are not counted towards this)
     - Maximum gear level: 190 (average 180)
     - Maximum gear + level: +30
     - Maximum Soul Core level: 190 (average 180)
@@ -358,7 +361,8 @@ Dream of the Nioh (NG+4) Notes:
     - DLC 3 enemies can now appear across all missions.
 
     - Gain access to Scroll of the Nioh Picture Scrolls.
-    - Obtain the Smithing Text: Mumyo's Mask upon completing all Main and Sub missions on Dream of the Nioh.
+    - Obtain the Smithing Text: Mumyo's Mask upon completing all Main and Sub missions on Dream of the Nioh. 
+        (Online missions are not counted towards this)
     - Maximum gear level: 200 (average 190)
     - Maximum gear + level: +120
     - Maximum Soul Core level: 200 (average 190)
