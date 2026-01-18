@@ -239,7 +239,7 @@ The Violet Cherry Blossoms (The Village of Cursed Blossoms | Awakening Region (R
     - Mujina
     - Yoki (axe)
     - Nure-Onna
-    - Abberant Soldier
+    - Aberrant Soldier
     - Ippon-Datara (hammer)
     - Mezuki (boss)
 
@@ -267,7 +267,7 @@ Traces of the Raging Blaze (A Beast Born of Smoke and Flames | Awakening Region 
 The Blood Tainted Samurai (Dark Omens | Awakening Region (Region 1))
 ==========
     - Enki
-    - Abberant Soldier
+    - Aberrant Soldier
     - Gaki
     - Revenant (spear)
     - Revenant (hammer)
@@ -287,7 +287,7 @@ The Blood Tainted Samurai (Dark Omens | Awakening Region (Region 1))
 Blood on the Wind (The Mysterious One Night Castle | Soaring Region (Region 2))
 ==========
     - Yoki (sword)
-    - Abberant Soldier
+    - Aberrant Soldier
     - Dweller
     - Enki
     - Gaki
@@ -319,7 +319,7 @@ The Cursed Castle Ruins (A Bird In A Cage | Shadow Region (Region 3))
     - Dweller
     - Spider (medium)
     - Spider (small)
-    - Abberant Soldier
+    - Aberrant Soldier
     - Rokurokubi (sword)
     - Rokurokubi (torch, sword)
     - Ninja Dog
@@ -342,7 +342,7 @@ The Cursed Castle Ruins (A Bird In A Cage | Shadow Region (Region 3))
 The Defiled Sanctuary (The Golden Nation | Shadow Region (Region 3))
 ==========
     - Dweller
-    - Abberant Soldier
+    - Aberrant Soldier
     - Tesso
     - Gaki
     - Ubume
@@ -374,7 +374,7 @@ Mountain of the Dark Lord (The Sun Sets on Mount Tenno | Dawn Region (Region 4))
     - Gaki (big)
     - Nurikabe
     - Red Kappa
-    - Abberant Soldier
+    - Aberrant Soldier
     - Skeleton Warrior (big) (axe)
     - Gaki
     - Onyudo (fire)
@@ -433,7 +433,7 @@ Darkness Brewing (Shadows Creep In Kurama | The Tengu's Disciple (DLC 1))
     - Flying Bolt
     - Bakegani (big)
     - Revenant (kusarigama)
-    - Abberant Soldier
+    - Aberrant Soldier
     - Nuppeppo
     - Tesso
     - Gaki
@@ -449,7 +449,7 @@ Darkness Brewing (Shadows Creep In Kurama | The Tengu's Disciple (DLC 1))
 ==========
 The Mystery of Rashomon (The Blighted Gate | Darkness In The Capital (DLC 2))
 ==========
-    - Abberant Soldier
+    - Aberrant Soldier
     - Oboroguruma
     - Spider (medium)
     - Kappa
@@ -471,7 +471,7 @@ The Mystery of Rashomon (The Blighted Gate | Darkness In The Capital (DLC 2))
 ==========
 The Bewitching Tower (In Search of the Elixir | The First Samurai (DLC 3))
 ==========
-    - Abberant Soldier
+    - Aberrant Soldier
     - Gaki
     - Nure-Onna
     - Maelstrom Fox Spirit (big)
@@ -600,7 +600,7 @@ Dark Omens (Sub Mission)
     - Human (bow + fire arrow, sword)
     - Human (conch shell, sword)
     - Human (big) (axe)
-    - Abberant Soldier (first time)
+    - Aberrant Soldier (first time)
     - Enki
     - Gaki
     - One-Eyed Oni (first time)
@@ -627,7 +627,7 @@ The Viper's Sanctum (Main Mission)
     - Ninja (sword) (first time)
     - Yoki (axe) (first time)
     - Sohaya Warrior (hatchets)
-    - Abberant Soldier
+    - Aberrant Soldier
     - Nure-Onna (first time)
     - Nurikabe
     - Yoki (sword)
@@ -682,7 +682,7 @@ The Greedy Hunter (Sub Mission)
     - Gaki
     - Gaki (big)
     - Nure-Onna
-    - Abberant Soldier
+    - Aberrant Soldier
     - Yoki (axe)
     - Yoki (sword)
     - Sohaya Warrior (switchglaive)
@@ -913,7 +913,7 @@ An End to Seclusion (Sub Mission)
     - Infernal Oni-Bi
     - Karasu Tengu
     - One-Eyed Oni
-    - Abberant Soldier
+    - Aberrant Soldier
     - Maelstrom Oni-Bi
     - Waira
     - Rokurokubi (spear)
@@ -968,7 +968,7 @@ The Viper and the Butterfly (Sub Mission)
     - Nurikabe
     - Koroka
     - Nure-Onna
-    - Abberant Soldier
+    - Aberrant Soldier
     - Snowclops
     - Karasu Tengu
     - Biwa Boku-Boku
@@ -1041,7 +1041,7 @@ Learning A Lesson (Sub Mission)
     - Ippon Datara (odachi)
     - Human (big) (hammer)
     - Sohaya Warrior (switchglaive)
-    - Abberant Soldier
+    - Aberrant Soldier
     - Human (big) (axe)
     - Kappa
     - Enki
@@ -1053,7 +1053,7 @@ The Shrine of Oaths (Sub Mission)
     - Characters:
         - None
     --------------------
-    - Abberant Soldier
+    - Aberrant Soldier
     - Yoki (axe)
     - Yoki (sword)
     - Mitsume Yazura 
@@ -1166,7 +1166,7 @@ The Tiger Approaches (Sub Mission)
     - Characters: 
         - Honda Tadakatsu (Ally)
     --------------------
-    - Abberant Soldier
+    - Aberrant Soldier
     - Skeleton Warrior (rifle, sword)
     - Gaki
     - Enki
@@ -1186,7 +1186,7 @@ The Brother's Baldes (Sub Mission)
         - None
     --------------------
     - Rokurokubi (torch, spear)
-    - Abberant Soldier
+    - Aberrant Soldier
     - Revenant (odachi)
     - Skeleton Warrior (spear)
     - Skeleton Warrior (rifle, sword)
@@ -1209,7 +1209,7 @@ A Shadow's Duty (Sub Mission)
     - Ninja (sword)
     - Skeleton Warrior (big) (axe)
     - Gaki
-    - Abberant Soldier
+    - Aberrant Soldier
     - Human (odachi) (first time)
     - Human (big) (rifle, sword) (first time)
     - Human (spear)
@@ -1473,7 +1473,7 @@ Song of the Yokai (Sub Mission)
     - Gaki
     - Flying Bolt (drops the Wood Tile: I)
     - Ninja (dual swords)
-    - Abberant Soldier
+    - Aberrant Soldier
     - Enki
     - Maelstrom Oni-Bi
     - Tesso
@@ -1587,7 +1587,7 @@ The Warrior (Sub Mission)
     - Human (big) (odachi)
     - Enki
     - Tesso
-    - Abberant Soldier
+    - Aberrant Soldier
     - Onyudo (fire)
     - Yoki (axe)
     - Ippon-Datara (hammer)
@@ -1625,7 +1625,7 @@ The Sun Sets on Mount Tenno (Main Mission)
     - Nurikabe
     - Onmyo Mage
     - Ubume
-    - Abberant Soldier
+    - Aberrant Soldier
     - Blue Yoki (dual swords)
     - Onyudo (water) (first time)
     - Skeleton Warrior (big) (axe)
@@ -1653,7 +1653,7 @@ The Aberrant Mage (Sub Mission)
     - Human (big) (axe)
     - Onmyo Mage
     - Enki
-    - Abberant Soldier
+    - Aberrant Soldier
     - Ubume
     - Onyudo (lightning) (first time)
     - Onyudo (fire)
@@ -1696,7 +1696,7 @@ Ruin Draws Near (Main Mission)
     - Skeleton Warrior (bow + fire arrow, sword)
     - Onyudo (fire)
     - Mujina
-    - Abberant Soldier
+    - Aberrant Soldier
     - Wheelmonk
     - Human (axe)
     - Human (torch, spear)
@@ -1765,7 +1765,7 @@ The Two Faces of Hospitality (Main Mission)
     - Human (big) (sword)
     - Human (spear)
     - Ikeda Motosuke (sword) (first time)
-    - Abberant Soldier
+    - Aberrant Soldier
     - Skeleton Warrior (big) (axe)
     - Skeleton Warrior (sword)
     - Wheelmonk
@@ -1798,7 +1798,7 @@ The High-Spirited Demon (Main Mission)
         - Miyoshino (Cutscenes)
     --------------------
     - Skeleton Warrior (rifle, sword)
-    - Abberant Soldier
+    - Aberrant Soldier
     - Yoki (sword)
     - Yoki (axe)
     - Karasu Tengu
@@ -1829,7 +1829,7 @@ A Message From the Deceased (Sub Mission)
     - Human (big) (dual swords)
     - Human (big) (odachi)
     - Human (axe)
-    - Abberant Soldier
+    - Aberrant Soldier
     - Gaki
     - Skeleton Warrior (spear)
     - Skeleton Warrior (cannon, sword)
@@ -1850,7 +1850,7 @@ Stray Cats (Sub Mission)
     - Lesser Umi-Bozu
     - Nure-Onna
     - Tesso
-    - Abberant Soldier
+    - Aberrant Soldier
     - Dweller
     - Dweller (big)
     - Waira
@@ -1893,7 +1893,7 @@ Scattered Fragments (Sub Mission)
     - Ippon-Datara (hammer)
     - Maelstrom Oni-Bi
     - Biwa Boku-Boku
-    - Abberant Soldier
+    - Aberrant Soldier
     - Koroka
 
 ==========
@@ -1905,7 +1905,7 @@ A Prayer in the Moonlight (Sub Mission)
     --------------------
     - Yamanaka Shikanosuke (sword) (first time)
     - Rokurokubi (sword)
-    - Abberant Soldier
+    - Aberrant Soldier
     - Nure-Onna
     - Gaki
     - Lesser Umi-Bozu
@@ -1928,7 +1928,7 @@ The Mausoleum of Evil (Main Mission)
         - Tokichiro (Cutscenes)
     --------------------
     - Dweller
-    - Abberant Soldier
+    - Aberrant Soldier
     - Ubume
     - Dweller (big)
     - One-Eyed Oni (Snowclops)
@@ -1947,7 +1947,7 @@ The Roaming Artisan (Sub Mission)
     - Characters:
         - Muramasa (NPC)
     --------------------
-    - Abberant Soldier
+    - Aberrant Soldier
     - Spider (medium)
     - Yamanba
     - Waira
@@ -1996,7 +1996,7 @@ The Golden Castle (Main Mission)
     - Enenra (boss)
     - Ubume
     - Gaki
-    - Abberant Soldier
+    - Aberrant Soldier
     - Yoki (sword)
     - Blue Yoki (kusarigama)
     - Koroka
@@ -2021,7 +2021,7 @@ The Bravest of the Brave (Sub Mission)
     - Thunderstorm Oni-Bi
     - Mitsume Yazura
     - Skeleton Warrior (spear)
-    - Abberant Soldier
+    - Aberrant Soldier
     - One-Eyed Oni
     - One-Eyed Imp
     - Blue Yoki (kusarigama)
@@ -2075,7 +2075,7 @@ Cherry Blossom Viewing in Daigo (Main Mission)
     - Magatsu Warrior
     - Human (torch, sword)
     - Fukushima Masanori (Seven Spears #2) (spear) (first time)
-    - Abberant Soldier
+    - Aberrant Soldier
     - Skeleton Warrior (rifle, sword)
     - Rokurokubi (torch, sword)
     - Gozuki (boss)
@@ -2138,7 +2138,7 @@ The Scented Letter (Sub Mission)
         - None
     --------------------
     - Ubume
-    - Abberant Soldier
+    - Aberrant Soldier
     - Nure-Onna
     - Maelstrom Oni-Bi
     - Flying Bolt
@@ -2202,7 +2202,7 @@ In The Eye of the Beholder (Main Mission)
     - Yoki (sword)
     - Yoki (axe)
     - Magatsu Warrior
-    - Abberant Soldier
+    - Aberrant Soldier
     - Yoki (kusarigama) (first time)
     - Gozuki (boss)
     - Mezuki (boss)
@@ -2218,7 +2218,7 @@ Dawn of Hope (Sub Mission)
     - Characters:
         - William (Ally)
     --------------------
-    - Abberant Soldier
+    - Aberrant Soldier
     - Magatsu Warrior
     - Skeleton Warrior (big) (axe)
     - Yoki (axe)
@@ -2317,7 +2317,7 @@ A Song to Calm the Storm (Main Mission)
     - Sohaya Warrior (splitstaff) (first time)
     - Human (big) (torch, sword)
     - Bakegani (first time)
-    - Abberant Soldier
+    - Aberrant Soldier
     - Nure-Onna
     - Ubume
     - Rokurokubi (spear)
@@ -2370,7 +2370,7 @@ The Lost Sword (Sub Mission)
     - Characters:
         - Nasu no Yoichi (NPC)
     --------------------
-    - Abberant Soldier
+    - Aberrant Soldier
     - Bakegani (big)
     - Gaki
     - Skeleton Warrior (fire arrow + bow, sword)
@@ -2398,7 +2398,7 @@ The Loyal Retainer (Sub Mission)
     --------------------
     - Red Kappa
     - Wheelmonk
-    - Abberant Soldier
+    - Aberrant Soldier
     - Gaki
     - Bakegani
     - Skeleton Warrior (spear)
@@ -2430,7 +2430,7 @@ Eternal Rivals (Main Mission)
     - Dweller
     - Human (torch, sword)
     - Rokurokubi (sword)
-    - Abberant Soldier
+    - Aberrant Soldier
     - Nuppeppo (first time)
     - Ippon-Datara (odachi)
     - Magatsu Warrior
@@ -2464,7 +2464,7 @@ An Encounter Among the Blossoms (Sub Mission)
     - Maelstrom Oni-Bi
     - Infernal Oni-Bi
     - Tesso
-    - Abberant Soldier
+    - Aberrant Soldier
     - Nuppeppo
     - Karasu Tengu
     - Red Kappa
@@ -2485,7 +2485,7 @@ The Tale of the Taira (Sub Mission)
     - Skeleton Warrior (spear)
     - Skeleton Warrior (fire arrow + bow, sword)
     - Revenant (switchglaive)
-    - Abberant Soldier
+    - Aberrant Soldier
     - Revenant (odachi)
     - Lesser Umi-Bozu
     - Taira no Kagekiyo (boss) (dual swords) (first time)
@@ -2510,7 +2510,7 @@ Prisoners of the Stones (Sub Mission)
     - Lesser Umi-Bozu
     - Gaki (big)
     - Skeleton Warrior (big) (axe)
-    - Abberant Soldier
+    - Aberrant Soldier
     - Namahage (bloodstained blade)
     - Koroka
     - Wheelmonk
@@ -2553,7 +2553,7 @@ Suzune in the Flames (Main Mission)
         - Sakata Kintoki (Cutscenes)
     --------------------
     - Wheelmonk
-    - Abberant Soldier
+    - Aberrant Soldier
     - Rokurokubi (dual swords)
     - Yamanba
     - Gaki
@@ -2613,7 +2613,7 @@ The Buddha's Palm (Sub Mission)
     - Tsuchigumo Ninja (tonfas)
     - One-Eyed Imp
     - Oboroguruma
-    - Abberant Soldier
+    - Aberrant Soldier
     - Gaki
     - Tsuchigumo Ninja (dual swords) (first time)
     - Tesso
@@ -2676,7 +2676,7 @@ Palace of the Damned (Main Mission)
     - Onmyo Mage
     - Toxic Slime
     - Oboroguruma
-    - Abberant Soldier
+    - Aberrant Soldier
     - Skeleton Warrior (fire arrow + bow, sword)
     - Flying Bolt
     - Yasha
@@ -2739,7 +2739,7 @@ The Sweet Scent of Plums (Sub Mission)
     - One-Eyed Imp
     - Infernal Fox Spirit (big)
     - Skeleton Warrior (spear)
-    - Abberant Soldier
+    - Aberrant Soldier
     - Ubume
     - Karakasa Umbrella
     - Kiryoki
@@ -2842,7 +2842,7 @@ Dawn of the Demon (Main Mission)
     - Ancient Otakemaru (boss) (first time)        
     - Nure-Onna
     - Bakegani
-    - Abberant Soldier
+    - Aberrant Soldier
     - Lesser Umi-Bozu
     - Karasu Tengu
     - Thunderstorm Fox Spirit
@@ -2874,7 +2874,7 @@ In Search of the Elixir (Sub Mission)
     - Bakegani
     - Nurikabe
     - Onyudo (water)
-    - Abberant Soldier
+    - Aberrant Soldier
     - Skeleton Warrior (big) (axe)
     - Skeleton Warrior (spear)
     - Skeleton Warrior (sword)
@@ -2901,7 +2901,7 @@ Words of Respite (Sub Mission)
     - Human (big) (torch, axe)
     - Human (big) (axe)
     - Rokurokubi (torch, sword)
-    - Abberant Soldier
+    - Aberrant Soldier
     - Namahage (bloodstained cleavers)
     - Kiryoki
     - Spider (small)
@@ -2974,7 +2974,7 @@ Battle at the Temple (Sub Mission)
         - Kukai (NPC)
     --------------------
     - Nuppeppo
-    - Abberant Soldier
+    - Aberrant Soldier
     - Spider (medium)
     - Karakasa Umbrella
     - Konaki-Jiji
@@ -3038,7 +3038,7 @@ Against All Comers (Sub Mission)
     - Oda Nobunaga (boss)
     ---------- checkpoint
     - Red Kappa
-    - Abberant Soldier
+    - Aberrant Soldier
     - Lesser Umi-Bozu
     - Wheelmonk
     - Saito Toshimitsu (boss)
@@ -3091,7 +3091,7 @@ A Spirit's Return (Sub Mission)
     - Bakegani
     - Onyudo (water)
     - One-Eyed Imp
-    - Abberant Soldier
+    - Aberrant Soldier
     - Ongyoki
     - Bakegani (big)
     - Suiki
@@ -3124,7 +3124,7 @@ Rivals Return (Sub Mission)
     - Konaki-Jiji
     - Gaki
     - Yamanba
-    - Abberant Soldier
+    - Aberrant Soldier
     - Kiryoki
     - Tate Eboshi (boss)
     ---------- checkpoint

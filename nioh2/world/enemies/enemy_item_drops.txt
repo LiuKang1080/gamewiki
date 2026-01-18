@@ -1,0 +1,115 @@
+========== ========== ========== ========== ==========
+Enemy Item Drops
+========== ========== ========== ========== ==========
+Gaki
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Enki
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Yoki
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Gozuki (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Mezuki (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Ippon-Datara
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Kappa
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Nurikabe
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Mujina
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Enenra (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Nure-Onna
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Aberrant Soldier
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
