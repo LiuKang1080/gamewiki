@@ -1,6 +1,9 @@
 ========== ========== ========== ========== ==========
 Enemy Item Drops
 ========== ========== ========== ========== ==========
+========== ========== ==========
+Base Game Enemies
+========== ========== ==========
 Gaki
     - Soul Core
     - 
@@ -85,31 +88,448 @@ Aberrant Soldier
     - [random rarity] random equippable item
     - 
 
+Toxic Slime
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Yatsu-no-Kami (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Yamanba
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+One-Eyed Oni
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Karasu Tengu
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Waira
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Karakasa Umbrella
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Lesser Umi-Bozu
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Skeleton Warrior
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Kamaitachi (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Koroka
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Dweller
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Rokurokubi
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Onryoki (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Mitsume Yazura
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Biwa Boku-Boku
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Tatarimokke (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Flying Bolt
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Namahage
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Tesso
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Ubume
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Onyudo
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Guyki (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Wheelmonk
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Kasha (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Ryomen Sukuna (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Daidara Bocchi (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Shuten Doji (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Magatsu Warrior
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Lady Osakabe (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Otakemaru (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Sudama
+    - Look at the file sudama_info.txt.
+
+Scampuss
+    - Scampuss Soul Core
+    - Clay Bell of Beckoning
+
+Infernal Oni-Bi
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Maelstrom Oni-Bi
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Thunderstorm Oni-Bi
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
 
 
+========== ========== ========== ========== ==========
+The Tengu's Disciple (DLC 1)
+========== ========== ========== ========== ==========
+Bakegani
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Kiryoki
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Seto Taisho / Benkei (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Uminyudo (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Nuppeppo
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Nue (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
 
 
+========== ========== ========== ========== ==========
+Darkness In The Capital (DLC 2)
+========== ========== ========== ========== ==========
+Oboroguruma
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Yasha
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Tsuchigumo (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Giant Toad (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Infernal Fox Spirit
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Thunderstorm Fox Spirit
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Hellish Hag
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+White Tiger (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Underworld Soldier
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
+
+Lightning Gods of Yomi (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
 
 
+========== ========== ========== ========== ==========
+The First Samurai (DLC 3)
+========== ========== ========== ========== ==========
+Maelstrom Fox Spirit
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
 
+Konaki-Jiji
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
 
+Itsumade
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
 
+Harinobo
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
 
+Tate Eboshi (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
 
+Ancient Nyotengu (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
 
+Kinki
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
 
+Fuki
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
 
+Suiki
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
 
+Ongyoki
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
 
-
-
-
-
-
-
-
-
-
-
-
-
+Nightmare Bringer (boss)
+    - Soul Core
+    - 
+    ----------
+    - [random rarity] random equippable item
+    - 
