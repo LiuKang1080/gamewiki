@@ -16,7 +16,7 @@ TEMPLATE ()
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -49,7 +49,7 @@ The Way of the Warrior: Veteran (Dojo Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -78,7 +78,7 @@ The Way of the Ninja: Veteran (Dojo Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -107,7 +107,7 @@ The Way of Onmyo: Veteran (Dojo Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -136,7 +136,7 @@ Opening of the Mind's Eye (Dojo Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -165,7 +165,7 @@ Master of the Dual Blades (Dojo Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -194,7 +194,7 @@ Hanzo the Demon (Dojo Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -223,7 +223,7 @@ The Unmoving Mountain (Dojo Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -252,7 +252,7 @@ The Chain That Splits the Sky (Dojo Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -281,7 +281,7 @@ The Tengu's Blade (Dojo Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -310,7 +310,7 @@ Like Lightning (Dojo Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -339,7 +339,7 @@ The Unstoppable Whirlwind (Dojo Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -368,7 +368,7 @@ Sharp Eyes (Dojo Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -397,7 +397,7 @@ The One Who Lives in the Shadows (Dojo Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -426,7 +426,7 @@ The Nine Symbols (Dojo Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -455,7 +455,7 @@ Breaking Free (Dojo Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -484,7 +484,7 @@ Strike Like a Yokai (Dojo Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -517,7 +517,7 @@ The Violet Cherry Blossoms
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -546,7 +546,7 @@ Traces of the Raging Blaze
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -575,7 +575,7 @@ The Blood Tainted Samurai
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -604,7 +604,7 @@ Blood on the Wind
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -633,7 +633,7 @@ The Cursed Castle Ruins
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -662,7 +662,7 @@ The Defiled Sanctuary
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -691,7 +691,7 @@ Mountain of the Dark Lord
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -720,7 +720,7 @@ The Island of Monsters
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -749,7 +749,7 @@ Wings of the Phoenix
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -778,7 +778,7 @@ Darkness Brewing
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -807,7 +807,7 @@ The Mystery of Rashomon
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -836,7 +836,7 @@ The Bewitching Tower
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -872,7 +872,7 @@ The Village of Cursed Blossoms (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -901,7 +901,7 @@ The Forest Veiled in Darkness (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -930,7 +930,7 @@ The Beast Born of Smoke and Flames (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -959,7 +959,7 @@ A Voice in the Twilight (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -988,7 +988,7 @@ Dark Omens (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1017,7 +1017,7 @@ The Viper's Sanctum (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1046,7 +1046,7 @@ A Favor for the Blacksmith (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1075,7 +1075,7 @@ The Search (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1104,7 +1104,7 @@ The Greedy Hunter (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1137,7 +1137,7 @@ The Hidden Monsters of Okehazama (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1166,7 +1166,7 @@ Imagawa Diehard (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1195,7 +1195,7 @@ Hidetatsu's Dying Wish (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1224,7 +1224,7 @@ An Error in Calculation (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1253,7 +1253,7 @@ The Mysterious One Night Castle (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1282,7 +1282,7 @@ The Sunomata Yokai Hunt (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1311,7 +1311,7 @@ A Hot-blodded Howl (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1340,7 +1340,7 @@ The Fire God's Magatama (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1369,7 +1369,7 @@ The Hollow Fortress (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1398,7 +1398,7 @@ An End to Seclusion (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1427,7 +1427,7 @@ The Shiftling's Wise Judgement (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1456,7 +1456,7 @@ The Viper and the Butterfly (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1489,7 +1489,7 @@ A Way Out (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1518,7 +1518,7 @@ Learning A Lesson (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1547,7 +1547,7 @@ The Shrine of Oaths (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1576,7 +1576,7 @@ Immovable (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1605,7 +1605,7 @@ A Formal Match (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1634,7 +1634,7 @@ Corpses and Ice (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1663,7 +1663,7 @@ Lingering Snow and Crimson Tracks (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1692,7 +1692,7 @@ The Tiger Approaches (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1721,7 +1721,7 @@ The Brother's Blades (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1750,7 +1750,7 @@ A Shadow's Duty (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1779,7 +1779,7 @@ The Fallen Star (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1808,7 +1808,7 @@ Horns on Head, Dragonfly in Hand (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1837,7 +1837,7 @@ Bird In A Cage (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1866,7 +1866,7 @@ The Point of No Return (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1895,7 +1895,7 @@ The Golden Nation (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1924,7 +1924,7 @@ The Demon King's Blade (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1953,7 +1953,7 @@ The Child's Prodigy's Invitation (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -1982,7 +1982,7 @@ The Chinese Bellflower Dagger (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2011,7 +2011,7 @@ A Strong Bond (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2044,7 +2044,7 @@ Pervading Waters (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2073,7 +2073,7 @@ The Missing Gun (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2102,7 +2102,7 @@ The Refined Man of the Underworld (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2131,7 +2131,7 @@ Song of the Yokai (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2160,7 +2160,7 @@ The Frenzied Blaze (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2189,7 +2189,7 @@ The Burning Sky (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2218,7 +2218,7 @@ Abduction (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2247,7 +2247,7 @@ The Warrior (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2276,7 +2276,7 @@ The Sun Sets on Mount Tenno (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2305,7 +2305,7 @@ The Aberrant Mage (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2334,7 +2334,7 @@ The Third Word (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2363,7 +2363,7 @@ Master of the Three Evils (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2396,7 +2396,7 @@ Ruin Draws Near (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2425,7 +2425,7 @@ Okuni's Search (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2454,7 +2454,7 @@ Farewell to the Past (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2483,7 +2483,7 @@ The Two Faces of Hospitality (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2512,7 +2512,7 @@ The High-Spirited Demon (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2541,7 +2541,7 @@ A Message From the Deceased (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2570,7 +2570,7 @@ Stray Cats (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2599,7 +2599,7 @@ Calling on the Fire God (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2628,7 +2628,7 @@ Scattered Fragments (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2657,7 +2657,7 @@ A Prayer in the Moonlight (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2690,7 +2690,7 @@ The Mausoleum of Evil (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2719,7 +2719,7 @@ The Roaming Artisan (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2748,7 +2748,7 @@ Mataza of the Spear (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2777,7 +2777,7 @@ The Golden Castle (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2806,7 +2806,7 @@ The Bravest of the Brave (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2835,7 +2835,7 @@ The Dream's End (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2864,7 +2864,7 @@ Cherry Blossom Viewing in Daigo (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2893,7 +2893,7 @@ Restoring Harmony (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2922,7 +2922,7 @@ Japanese Heart, Yokai Smarts (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2951,7 +2951,7 @@ Restless Spirits (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -2980,7 +2980,7 @@ The Scented Letter (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3009,7 +3009,7 @@ Yaksha Returns (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3038,7 +3038,7 @@ Sealed Fate (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3072,7 +3072,7 @@ The Blue-Eyed Samurai (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3101,7 +3101,7 @@ In The Eye of the Beholder (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3130,7 +3130,7 @@ Dawn of Hope (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3159,7 +3159,7 @@ The Trustworthy (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3188,7 +3188,7 @@ Winds of Ruin (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3217,7 +3217,7 @@ Wave of Terror (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3246,7 +3246,7 @@ Calamity's Pulse (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3279,7 +3279,7 @@ A Song to Calm the Storm (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3308,7 +3308,7 @@ Shadows Creep In Kurama (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3337,7 +3337,7 @@ The Lost Sword (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3366,7 +3366,7 @@ The Loyal Retainer (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3395,7 +3395,7 @@ Eternal Rivals (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3424,7 +3424,7 @@ An Encounter Among the Blossoms (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3453,7 +3453,7 @@ The Tale of the Taira (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3482,7 +3482,7 @@ Prisoners of the Stones (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3511,7 +3511,7 @@ Soul of the Warrior Monk (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3540,7 +3540,7 @@ Bond of the Blade (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3573,7 +3573,7 @@ Suzune in the Flames (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3602,7 +3602,7 @@ The Blighted Gate (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3631,7 +3631,7 @@ The Buddha's Palm (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3660,7 +3660,7 @@ Insatiable Bloodlust (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3689,7 +3689,7 @@ Palace of the Damned (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3718,7 +3718,7 @@ Boundless Chaos (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3747,7 +3747,7 @@ The Sweet Scent of Plums (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3776,7 +3776,7 @@ The Demon Slayers (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3805,7 +3805,7 @@ A Storm in the Underworld (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3834,7 +3834,7 @@ The Revelry Ends (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3863,7 +3863,7 @@ The Dragon Clan (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3896,7 +3896,7 @@ Dawn of the Demon (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3925,7 +3925,7 @@ In Search of the Elixir (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3954,7 +3954,7 @@ Words of Respite (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3983,7 +3983,7 @@ A Distant Dream (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4012,7 +4012,7 @@ The Alluring Ancient (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4041,7 +4041,7 @@ Battle at the Temple (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4070,7 +4070,7 @@ Against All Comers (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4099,7 +4099,7 @@ A Spirit's Return (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4128,7 +4128,7 @@ A Familiar Glow (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4157,7 +4157,7 @@ Rivals Return (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4186,7 +4186,7 @@ Undying Light (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 

@@ -5,30 +5,57 @@ Enemy Item Drops
 Base Game Enemies
 ========== ========== ==========
 Gaki
-    - Soul Core
-    - 
+    - Gaki Soul Core
+    - Warped Jawbone
     ----------
+    - Stone
+    - Gunpowder Bomb
+    - Yokai Water Pot
+    ----------
+    - Gold
     - [random rarity] random equippable item
-    - 
+    - Leather Platelet
+
+Large Gaki
+    - Gaki Soul Core
+    - Warped Jawbone
+    ----------
+    - Stone
+    - Gunpowder Bomb
+    - Yokai Water Pot
+    ----------
+    - Gold
+    - [random rarity] random equippable item
+    - Leather Platelet
 
 Enki
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
 Yoki
-    - Soul Core
+    - Yoki Soul Core
     - 
     ----------
+    - Elixir
+    ----------
+    - Gold
     - [random rarity] random equippable item
-    - 
+    - Wood
 
 Gozuki (boss)
-    - Soul Core
+    - Gozuki Soul Core
+    - Large Crooked Horn
+    ----------
     - 
     ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -36,6 +63,10 @@ Mezuki (boss)
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -43,6 +74,10 @@ Ippon-Datara
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -50,6 +85,10 @@ Kappa
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -57,6 +96,10 @@ Nurikabe
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -64,6 +107,10 @@ Mujina
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -71,6 +118,10 @@ Enenra (boss)
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -78,6 +129,10 @@ Nure-Onna
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -85,6 +140,10 @@ Aberrant Soldier
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -92,13 +151,20 @@ Toxic Slime
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
 Yatsu-no-Kami (boss)
-    - Soul Core
-    - 
+    - Yatsu-no-Kami Soul Core
     ----------
+    - Antidote
+    - Elixir
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -106,13 +172,21 @@ Yamanba
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
-One-Eyed Oni
+One-Eyed Oni / Snowclops
     - Soul Core
     - 
     ----------
+    - Stone
+    - Elixir
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -120,6 +194,10 @@ Karasu Tengu
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -127,6 +205,10 @@ Waira
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -134,6 +216,10 @@ Karakasa Umbrella
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -141,6 +227,10 @@ Lesser Umi-Bozu
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -148,6 +238,10 @@ Skeleton Warrior
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -155,6 +249,10 @@ Kamaitachi (boss)
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -162,6 +260,10 @@ Koroka
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -169,6 +271,10 @@ Dweller
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -176,6 +282,10 @@ Rokurokubi
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -183,6 +293,10 @@ Onryoki (boss)
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -190,6 +304,10 @@ Mitsume Yazura
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -197,6 +315,10 @@ Biwa Boku-Boku
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -204,6 +326,10 @@ Tatarimokke (boss)
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -211,6 +337,10 @@ Flying Bolt
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -218,6 +348,10 @@ Namahage
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -225,6 +359,10 @@ Tesso
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -232,6 +370,10 @@ Ubume
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -239,6 +381,10 @@ Onyudo
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -246,6 +392,10 @@ Guyki (boss)
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -253,6 +403,10 @@ Wheelmonk
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -260,27 +414,50 @@ Kasha (boss)
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
 Ryomen Sukuna (boss)
     - Soul Core
+    - Wheel of Ice and Fire
+    ----------
     - 
     ----------
+    - Gold
     - [random rarity] random equippable item
+
+Oni Shibata Katsuie (boss)
     - 
+    ----------
+    - Oni Shibata's Helmet
+    - Oni Shibata's Greaves
+    - Oni Shibata's Waistguard
+    - 
+    ----------
+    - Gold
+    - [random rarity] random equippable item
 
 Daidara Bocchi (boss)
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
 Shuten Doji (boss)
-    - Soul Core
-    - 
+    - Shuten Doji Soul Core
     ----------
+    - Righteous Jasper
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -288,6 +465,10 @@ Magatsu Warrior
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -295,6 +476,10 @@ Lady Osakabe (boss)
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -302,6 +487,10 @@ Otakemaru (boss)
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -314,22 +503,34 @@ Scampuss
 
 Infernal Oni-Bi
     - Soul Core
+    - Oni-Bi Core
+    ----------
+    - Stone
     - 
     ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
 Maelstrom Oni-Bi
     - Soul Core
+    - Oni-Bi Core
+    ----------
+    - Stone
     - 
     ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
 Thunderstorm Oni-Bi
     - Soul Core
+    - Oni-Bi Core
+    ----------
+    - Stone
     - 
     ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -341,6 +542,10 @@ Bakegani
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -348,6 +553,10 @@ Kiryoki
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -355,6 +564,10 @@ Seto Taisho / Benkei (boss)
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -362,6 +575,10 @@ Uminyudo (boss)
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -369,6 +586,10 @@ Nuppeppo
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -376,6 +597,10 @@ Nue (boss)
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -387,6 +612,10 @@ Oboroguruma
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -394,6 +623,10 @@ Yasha
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -401,6 +634,10 @@ Tsuchigumo (boss)
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -408,6 +645,10 @@ Giant Toad (boss)
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -415,6 +656,10 @@ Infernal Fox Spirit
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -422,6 +667,10 @@ Thunderstorm Fox Spirit
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -429,6 +678,10 @@ Hellish Hag
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -436,6 +689,10 @@ White Tiger (boss)
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -443,6 +700,10 @@ Underworld Soldier
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -450,6 +711,10 @@ Lightning Gods of Yomi (boss)
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -461,6 +726,10 @@ Maelstrom Fox Spirit
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -468,6 +737,10 @@ Konaki-Jiji
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -475,6 +748,10 @@ Itsumade
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -482,6 +759,10 @@ Harinobo
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -489,6 +770,10 @@ Tate Eboshi (boss)
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -496,6 +781,10 @@ Ancient Nyotengu (boss)
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -503,6 +792,10 @@ Kinki
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -510,6 +803,10 @@ Fuki
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -517,6 +814,10 @@ Suiki
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -524,6 +825,10 @@ Ongyoki
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 
 
@@ -531,5 +836,9 @@ Nightmare Bringer (boss)
     - Soul Core
     - 
     ----------
+    - Stone
+    - 
+    ----------
+    - Gold
     - [random rarity] random equippable item
     - 

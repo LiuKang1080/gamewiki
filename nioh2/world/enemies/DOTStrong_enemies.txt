@@ -2127,40 +2127,6 @@ Winds of Ruin (Sub Mission)
     - Hattori Hanzo (spear) (boss)
     - Mumyo (switchglaive) (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Wave of Terror (Sub Mission)
 ==========
@@ -2168,6 +2134,16 @@ Wave of Terror (Sub Mission)
     - Characters:
         - None
     --------------------
+    - Gaki
+    - Yoki (axe)
+    - Yoki (sword)
+    - Gozuki (boss)
+    - Enki
+    - Yamanba
+    - Namahage
+    - Blue Yoki (dual swords)
+    - Ryomen Sukuna (boss)
+    - Shibata Katsuie (boss)
 
 ==========
 Calamity's Pulse (Sub Mission)
@@ -2184,6 +2160,40 @@ Calamity's Pulse (Sub Mission)
 ========== ========== ========== ========== ==========
 The Tengu's Disciple (DLC 1)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==========
 A Song to Calm the Storm (Main Mission)
 ==========

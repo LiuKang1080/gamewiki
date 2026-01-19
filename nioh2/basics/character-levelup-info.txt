@@ -1,0 +1,2 @@
+Attribute Changes Upon Level Up Thresholds:
+    - 

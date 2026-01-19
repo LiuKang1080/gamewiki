@@ -3698,66 +3698,42 @@ Winds of Ruin (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Wave of Terror (Sub Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock the Afterglow Region by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 219
+    - Gold: 125,200
+    - Amrita: 386,776
+    - Shrine: No
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Gozuki
+        - Ryomen Sukuna
+        - Shibata Katsuie
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Fabled Umbracite X1
+        - Ryomen Sukuna's Bow (divine)
+        - Ryomen Sukuna's Sword (odachi) (divine)
+        - Demon's Horn X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Random Axe [axe icon] (divine or below)
+        - Random Hatchets (divine or below)
+        - Wheel of Ice and Fire X1
+        - Demon's Horn X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Calamity's Pulse (Sub Mission)
@@ -3765,33 +3741,72 @@ Calamity's Pulse (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock the Afterglow Region by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 220
+    - Gold: 131,600
+    - Amrita: 486,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Yatsu-no-Kami
+        - Shuten Doji
+        - Otakemaru
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Fabled Umbracite X1
+        - Sanmyo Blade Fragment X1
+        - Random Equipment [chest icon] [EQUIPMENT in all caps](divine)
+        - Shuten Doji's Red Hair X1
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Glue X1
+        - Random Ranged Weapon (divine or below)
+        - Random Equipment (divine or below)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 
 ========== ========== ========== ========== ==========
 The Tengu's Disciple (DLC 1)
 ========== ========== ========== ========== ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==========
 A Song to Calm the Storm (Main Mission)
 ==========
@@ -3810,7 +3825,7 @@ A Song to Calm the Storm (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3839,7 +3854,7 @@ Shadows Creep In Kurama (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3868,7 +3883,7 @@ The Lost Sword (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3897,7 +3912,7 @@ The Loyal Retainer (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3926,7 +3941,7 @@ Eternal Rivals (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3955,7 +3970,7 @@ An Encounter Among the Blossoms (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -3984,7 +3999,7 @@ The Tale of the Taira (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4013,7 +4028,7 @@ Prisoners of the Stones (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4042,7 +4057,7 @@ Soul of the Warrior Monk (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4071,7 +4086,7 @@ Bond of the Blade (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4104,7 +4119,7 @@ Suzune in the Flames (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4133,7 +4148,7 @@ The Blighted Gate (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4162,7 +4177,7 @@ The Buddha's Palm (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4191,7 +4206,7 @@ Insatiable Bloodlust (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4220,7 +4235,7 @@ Palace of the Damned (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4249,7 +4264,7 @@ Boundless Chaos (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4278,7 +4293,7 @@ The Sweet Scent of Plums (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4307,7 +4322,7 @@ The Demon Slayers (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4336,7 +4351,7 @@ A Storm in the Underworld (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4365,7 +4380,7 @@ The Revelry Ends (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4394,7 +4409,7 @@ The Dragon Clan (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4427,7 +4442,7 @@ Dawn of the Demon (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4456,7 +4471,7 @@ In Search of the Elixir (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4485,7 +4500,7 @@ Words of Respite (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4514,7 +4529,7 @@ A Distant Dream (Main Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4543,7 +4558,7 @@ The Alluring Ancient (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4572,7 +4587,7 @@ Battle at the Temple (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4601,7 +4616,7 @@ Against All Comers (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4630,7 +4645,7 @@ A Spirit's Return (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4659,7 +4674,7 @@ A Familiar Glow (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4688,7 +4703,7 @@ Rivals Return (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
@@ -4717,7 +4732,7 @@ Undying Light (Sub Mission)
     - Bosses: 
         - 
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
         - 
