@@ -28,16 +28,38 @@ Large Gaki
     - [random rarity] random equippable item
     - Leather Platelet
 
-Enki
-    - Soul Core
+Human
     - 
     ----------
-    - Stone
-    - 
+    - Elixir
+    - Stone 
     ----------
     - Gold
     - [random rarity] random equippable item
+    - Arrow
+    - Sacred Arrow
+
+Human (big)
     - 
+    ----------
+    - Elixir
+    - Stone 
+    ----------
+    - Gold
+    - [random rarity] random equippable item
+    - Arrow
+    - Sacred Arrow
+
+Enki
+    - Enki Soul Core
+    - 
+    ----------
+    - Elixir
+    - Lantern Plant Fruit
+    ----------
+    - Gold
+    - [random rarity] random equippable item
+
 
 Yoki
     - Yoki Soul Core
@@ -57,18 +79,17 @@ Gozuki (boss)
     ----------
     - Gold
     - [random rarity] random equippable item
-    - 
+
 
 Mezuki (boss)
-    - Soul Core
+    - Mezuki Soul Core
     - 
     ----------
-    - Stone
     - 
     ----------
     - Gold
     - [random rarity] random equippable item
-    - 
+
 
 Ippon-Datara
     - Soul Core

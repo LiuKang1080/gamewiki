@@ -1,2 +1,69 @@
-Attribute Changes Upon Level Up Thresholds:
-    - 
+========== ========== ========== ========== ==========
+Attribute Changes Upon Level Up Thresholds
+========== ========== ========== ========== ==========
+========== ========== ==========
+Samurai Skill Points
+========== ========== ==========
+    - There are a total of 20 Samurai Skill Points that can be obtained from leveling up.
+    - Gain +1 Samurai Skill Point upon reaching level:
+    3, 5, 7, 10, 15, 20, 25, 30, 35, 40, 45, 50, 60, 70, 80, 90, 100, 110, 120, and 130
+
+
+========== ========== ==========
+Ninjutsu Capacity
+========== ========== ==========
+    - Ninjutsu Capacity starts at 3 when character is lvl 1 with 5 attribute points in
+        Dexterity.
+        - +2 at attribute 6
+        - +1 from attribute 7 to . . . . . 
+
+
+========== ========== ==========
+Onmyo Magic Capacity
+========== ========== ==========
+    - Onmyo Magic Capacity starts at 3 when character is lvl 1 with 5 attribute points in
+        Magic.
+        - +2 at attribute 6
+        - +1 from attribute 7 to . . . . . 
+
+
+========== ========== ==========
+Weapon Proficiency Requirments
+========== ========== ==========
+    - All weapons start at lvl 1, with 0 proficiency.
+    - Required proficiency for level:
+        lvl 1: 0
+        lvl 2: 800
+        lvl 3: 2,000
+        lvl 4: 3,600
+        lvl 5: 
+
+
+========== ========== ==========
+Shiftling Proficiency Requirments
+========== ========== ==========
+    - Shiftling starts at lvl 1, with 0 Soul Fragments.
+    - Gain soul fragments when you purify soul cores, or perform Resting Rights.
+    - Different soul cores gives different amounts of soul fragments ??? TEST ???
+    - Required Soul Fragments for level:
+        lvl 1: 0
+        lvl 2: 1,000
+        lvl 3: 
+
+
+========== ========== ==========
+Ninjutsu Proficiency Requirments
+========== ========== ==========
+    - Ninjutsu starts at lvl 1, with 0 proficiency.
+    - Required proficiency for level:
+        lvl 1: 0
+        lvl 2: 
+
+
+========== ========== ==========
+Onmyo Magic Proficiency Requirments
+========== ========== ==========
+    - Onmyo Magic starts at lvl 1, with 0 proficiency.
+    - Required proficiency for level:
+        lvl 1: 0
+        lvl 2: 
