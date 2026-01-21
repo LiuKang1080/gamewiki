@@ -4,7 +4,7 @@ Enemy Item Drops
 ========== ========== ==========
 Base Game Enemies
 ========== ========== ==========
-Gaki
+Gaki / Gaki (big)
     - Gaki Soul Core
     - Warped Jawbone
     ----------
@@ -15,55 +15,76 @@ Gaki
     - Gold
     - [random rarity] random equippable item
     - Leather Platelet
-
-Large Gaki
-    - Gaki Soul Core
-    - Warped Jawbone
-    ----------
-    - Stone
-    - Gunpowder Bomb
-    - Yokai Water Pot
-    ----------
-    - Gold
-    - [random rarity] random equippable item
-    - Leather Platelet
+    - Highest-Quality Leather Platelet
 
 Human
     - 
     ----------
     - Elixir
-    - Stone 
+    - Stone
+    - Salt
+    - Gunpowder Bomb
+    - Shrapnel Bomb
+    - Uchiko Powder
+    - Righteous Jasper
     ----------
     - Gold
     - [random rarity] random equippable item
     - Arrow
     - Sacred Arrow
+    - Iron Platelet
+    - Highest-Quality Wood
+    - Highest-Quality Ingot
+    - Highest-Quality Lacquer
+    - Highest-Quality Leather Cord
+    - Highest-Quality Iron Platelet
+    - Highest-Quality Leather Platelet
 
-Human (big)
+Sohaya Warrior
     - 
+    - Sohaya Cuirass
+    - 
+    - Sohaya Waistguard
+    - Sohaya Greaves
+    - Smithing Text: Sohaya Garb
     ----------
     - Elixir
-    - Stone 
+    - Stone
+    - Salt
+    - Gunpowder Bomb
+    - Shrapnel Bomb
+    - Uchiko Powder
+    - Righteous Jasper
     ----------
     - Gold
     - [random rarity] random equippable item
     - Arrow
     - Sacred Arrow
+    - Iron Platelet
+    - Highest-Quality Wood
+    - Highest-Quality Ingot
+    - Highest-Quality Lacquer
+    - Highest-Quality Leather Cord
+    - Highest-Quality Iron Platelet
+    - Highest-Quality Leather Platelet
 
 Enki
     - Enki Soul Core
-    - 
+    - Enki Pelt
     ----------
     - Elixir
     - Lantern Plant Fruit
     ----------
     - Gold
     - [random rarity] random equippable item
-
+    - Highest-Quality Wood
+    - Highest-Quality Lacquer
+    - Highest-Quality Leather Cord
 
 Yoki
     - Yoki Soul Core
-    - 
+    - Demon's Horn
+    - Smiting Text: Demon's Axe
     ----------
     - Elixir
     ----------
@@ -75,32 +96,32 @@ Gozuki (boss)
     - Gozuki Soul Core
     - Large Crooked Horn
     ----------
+    - Righteous Jasper
     - 
     ----------
     - Gold
     - [random rarity] random equippable item
-
 
 Mezuki (boss)
     - Mezuki Soul Core
-    - 
+    - Blood-Encrusted Sawtooth
     ----------
+    - Righteous Jasper
     - 
     ----------
     - Gold
     - [random rarity] random equippable item
-
 
 Ippon-Datara
     - Soul Core
-    - 
+    - Ippon-Datara Fang
     ----------
     - Stone
-    - 
+    - Elixir
     ----------
     - Gold
     - [random rarity] random equippable item
-    - 
+    - Highest-Quality Leather Platelet
 
 Kappa
     - Soul Core
@@ -288,11 +309,12 @@ Koroka
     - [random rarity] random equippable item
     - 
 
-Dweller
-    - Soul Core
+Dweller / Dweller (big)
+    - Dweller Soul Core
     - 
     ----------
     - Stone
+    - Gunpowder Bomb
     - 
     ----------
     - Gold

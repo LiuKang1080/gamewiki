@@ -15,7 +15,8 @@ Ninjutsu Capacity
     - Ninjutsu Capacity starts at 3 when character is lvl 1 with 5 attribute points in
         Dexterity.
         - +2 at attribute 6
-        - +1 from attribute 7 to . . . . . 
+        - +1 from attribute 7 to 9
+        - +2 at attribute 10 
 
 
 ========== ========== ==========
@@ -24,7 +25,8 @@ Onmyo Magic Capacity
     - Onmyo Magic Capacity starts at 3 when character is lvl 1 with 5 attribute points in
         Magic.
         - +2 at attribute 6
-        - +1 from attribute 7 to . . . . . 
+        - +1 from attribute 7 to 9
+        - +2 at attribute 10
 
 
 ========== ========== ==========
@@ -36,7 +38,9 @@ Weapon Proficiency Requirments
         lvl 2: 800
         lvl 3: 2,000
         lvl 4: 3,600
-        lvl 5: 
+        lvl 5: 5,600
+        lvl 6: 8,000
+        lvl 7: 
 
 
 ========== ========== ==========
@@ -44,11 +48,14 @@ Shiftling Proficiency Requirments
 ========== ========== ==========
     - Shiftling starts at lvl 1, with 0 Soul Fragments.
     - Gain soul fragments when you purify soul cores, or perform Resting Rights.
-    - Different soul cores gives different amounts of soul fragments ??? TEST ???
+    - Different soul cores give different amounts of soul fragments.
     - Required Soul Fragments for level:
         lvl 1: 0
         lvl 2: 1,000
-        lvl 3: 
+        lvl 3: 2,000
+        lvl 4: 3,600
+        lvl 5: 5,600
+        lvl 6: 
 
 
 ========== ========== ==========
@@ -57,7 +64,7 @@ Ninjutsu Proficiency Requirments
     - Ninjutsu starts at lvl 1, with 0 proficiency.
     - Required proficiency for level:
         lvl 1: 0
-        lvl 2: 
+        lvl 2: 800
 
 
 ========== ========== ==========
