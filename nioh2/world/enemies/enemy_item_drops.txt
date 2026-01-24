@@ -319,7 +319,7 @@ Dweller / Dweller (big)
     ----------
     - Gold
     - [random rarity] random equippable item
-    - 
+    - Quality Tamahagane
 
 Rokurokubi
     - Soul Core

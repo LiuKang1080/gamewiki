@@ -4957,6 +4957,7 @@ Dawn of the Demon (Main Mission)
     Notable Items During / Post Mission:
         - Ninja's Locks.
         - Onmyo Mage's Locks.
+        - Grilled Tang Sweet during mission.
 
 ==========
 In Search of the Elixir (Sub Mission)
@@ -4990,7 +4991,7 @@ In Search of the Elixir (Sub Mission)
         - Suzuka's Greaves (exotic)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - Grilled Tang Sweet during mission.
 
 ==========
 Words of Respite (Sub Mission)
@@ -5059,6 +5060,9 @@ A Distant Dream (Main Mission)
         - Highest-Quality Lacquer X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
+        - Ninja's Locks
+        - Onmyo Mage's Locks
+        - Grilled Tang Sweet during mission.
         - Unlocks the Twilight Mission: The Cradle of the Demon.
         - Unlocks the Twilight Mission: The Bewitching Tower.
 
