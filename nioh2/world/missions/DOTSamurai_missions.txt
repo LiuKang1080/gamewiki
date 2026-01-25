@@ -1157,6 +1157,43 @@ The Mystery of Rashomon
         - None
 
 ==========
+The Cradle of the Demon
+==========
+    - Mission Unlock Requirement:
+        - In Search of the Elixir (The First Samurai | DLC 3).
+        - A Distant Dream (The First Samurai | DLC 3).
+    --------------------
+    - Recommended level: 
+    - Gold: 130,200 / 43,400
+    - Amrita: 584,328 / 194,776
+    - Shrine: Yes
+    - Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 2 (2 big sudama)
+    - Number of Hot Springs: 2 (0 required)
+    - Number of Dark Realms: ??? (0 required) ???
+    - Bosses: 
+        - Ancient Otakemaru
+        - Tate Eboshi
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - Quality Umbracite X1
+        - Random Weapon [WEAPONS is in all caps | sword icon [type 1]] (divine)
+        - Tate Eboshi Horn X1
+        - Summoner's Candle X1
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - Tate Eboshi's Horn X1
+        - Highest-Quality Tamahagane X3
+        - Highest-Quality Ingot X3
+        - Divine Branch X2
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - None
+
+==========
 The Bewitching Tower
 ==========
     - Mission Unlock Requirement:

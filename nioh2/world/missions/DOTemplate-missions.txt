@@ -764,7 +764,7 @@ Wings of the Phoenix
 Darkness Brewing
 ==========
     - Mission Unlock Requirement:
-        - Unlock The Tengu's Disciple (DLC 1) by completing 18 missions.
+        - Unlock The Tengu's Disciple Region (DLC 1) by completing 18 missions.
     --------------------
     - Recommended level: 
     - Gold:  / 
@@ -793,7 +793,36 @@ Darkness Brewing
 The Mystery of Rashomon
 ==========
     - Mission Unlock Requirement:
-        - Unlock Darkness In The Capital (DLC 2) by completing 18 missions.
+        - Unlock Darkness In The Capital Region (DLC 2) by completing 18 missions.
+    --------------------
+    - Recommended level: 
+    - Gold:  / 
+    - Amrita:  / 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - None
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
+The Cradle of the Demon
+==========
+    - Mission Unlock Requirement:
+        - Unlock The First Samurai Region (DLC 3) by completing 18 missions.
     --------------------
     - Recommended level: 
     - Gold:  / 
@@ -822,7 +851,7 @@ The Mystery of Rashomon
 The Bewitching Tower
 ==========
     - Mission Unlock Requirement:
-        - Unlock The First Samurai (DLC 3) by completing 18 missions.
+        - Unlock The First Samurai Region (DLC 3) by completing 18 missions.
     --------------------
     - Recommended level: 
     - Gold:  / 
