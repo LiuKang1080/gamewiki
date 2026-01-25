@@ -276,7 +276,7 @@ Lesser Umi-Bozu
     - [random rarity] random equippable item
     - 
 
-Skeleton Warrior
+Skeleton Warrior / Skeleton Warrior (big)
     - Soul Core
     - 
     ----------
@@ -285,7 +285,7 @@ Skeleton Warrior
     ----------
     - Gold
     - [random rarity] random equippable item
-    - 
+    - Quality Wood
 
 Kamaitachi (boss)
     - Soul Core

@@ -5173,7 +5173,7 @@ Against All Comers (Sub Mission)
     First Time: 
         - Samurai's Locks X1
         - Random Weapon [WEAPONS is in all caps | sword icon type 1] (divine)
-        - Random Armor (divine)
+        - Random Armor [ARMOR is in all caps | chest icon] (divine)
         - Inspiriting Gem X2
     ---------- ---------- ----------
     Subsequent Completes:
