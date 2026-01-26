@@ -1163,15 +1163,15 @@ The Cradle of the Demon
         - In Search of the Elixir (The First Samurai | DLC 3).
         - A Distant Dream (The First Samurai | DLC 3).
     --------------------
-    - Recommended level: 
+    - Recommended level: 152
     - Gold: 130,200 / 43,400
     - Amrita: 584,328 / 194,776
     - Shrine: Yes
     - Expedition: Yes
     - Number of Kodama: 0
-    - Number of Sudama: 2 (2 big sudama)
+    - Number of Sudama: 1 (1 big sudama)
     - Number of Hot Springs: 2 (0 required)
-    - Number of Dark Realms: ??? (0 required) ???
+    - Number of Dark Realms: 2 (0 required)
     - Bosses: 
         - Ancient Otakemaru
         - Tate Eboshi

@@ -471,7 +471,30 @@ The Mystery of Rashomon (The Blighted Gate | Darkness In The Capital (DLC 2))
 ==========
 The Cradle of the Demon (Dawn of the Demon | The First Samurai (DLC 3))
 ==========
-    - 
+    - Skeleton Warrior (sword)
+    - Spider (medium)
+    - Aberrant Soldier
+    - Underworld Soldier
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Kiryoki
+    - Ongyoki
+    - Hellish Hag
+    - Dweller
+    - Mujina
+    - Magatsu Warrior
+    - Ippon-Datara (odachi)
+    - Wheelmonk
+    - Ancient Otakemaru (boss)
+    - Nure-Onna
+    - Yamanba
+    - Skeleton Warrior (spear)
+    - Lesser Umi-Bozu
+    - Fuki
+    - Suiki
+    - Biwa Boku-Boku
+    - Revenant (fists)
+    - Itsumade
+    - Tate Eboshi (boss)
 
 ==========
 The Bewitching Tower (In Search of the Elixir | The First Samurai (DLC 3))
