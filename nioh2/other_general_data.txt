@@ -203,14 +203,14 @@ Proficiency
         - Ninjutsu and Onmyo: LVL 50 (3,000,000 proficiency)
         - Shiftling: LVL 70 (12,000,000 soul fragments)
 
+    - Max level for Dream of the Demon:
+        - Weapons: LVL 35 (1,000,000 proficiency)
+        - Ninjutsu and Onmyo: LVL 55 (5,000,000 proficiency)
+        - Shiftling: LVL 75 (17,000,000 soul fragments)
+
     ========== ========== ==========
     Test the other difficulties
     ========== ========== ==========
-    - Max level for Dream of the Demon:
-        - Weapons: LVL 35
-        - Ninjutsu and Onmyo: LVL 45
-        - Shiftling: LVL 65
-
     - Max level for Dream of the Wise:
         - Weapons: LVL 40
         - Ninjutsu and Onmyo: LVL 50
@@ -259,6 +259,7 @@ Dream of the Strong (NG+1) Notes:
 ========== ========== ==========
     - Gain access to the Stone of Penance on this difficulty.
     - Gain access to Demon Parade Picture Scrolls on this difficulty.
+    - Yasakani Magatama can randomly drop as loot.
     - Defeating Otakemaru in the mission: In The Eye of the Beholder on Dream of the Strong and above (on every difficulty) for
         the first time will guaranteed drop a Yasakani Magatama. (Credits: Oolong Tea)
     - Obtain the Smithing Text: Kodama Bowl upon completing all Main and Sub missions on Dream of the Strong. 
@@ -276,7 +277,26 @@ Dream of the Strong (NG+1) Notes:
 Dream of the Demon (NG+2) Notes:
 ========== ========== ==========
     - Requires The Tengu's Disciple (DLC 1).
-    - Gain acess to Divine Soul Cores. Maximum level of Soul Core Rank is now 20, from 10.
+    - Gain access to Fabled Umbracite as Twilight Mission rewards.
+    - Gain access to Divine Soul Cores. Maximum level of Soul Core Rank is now 20, from 10.
+    - Gain access to Silibar Ingots (Store Amrita). Obtained by completing In the Eye of the Beholder on Dream of the Strong.
+    - Gain access to Scroll of the Demon Picture Scrolls.
+    - Starred atrribute effects can be found on randomly dropped loot.
+    - Obtain the Smiting Text: Scampuss Hat upon completing all Main and Sub missions on Dream of the Demon. 
+        (Online missions are not counted towards this)
+
+    - Gain access to the following Graces and Sets:
+        - Benzaiten's Grace
+        - Bishamonten's Grace
+        - Daikokuten's Grace
+        - Ebisu's Grace
+        - Fukuroju's Grace
+        - Hachiman's Grace
+        - Hotei's Grace
+        - Inari's Grace
+        - Jurojin's Grace
+        - Kuzuryu's Grace
+
     - Enemies can now have their weapon imbued with Poison or Paralysis.
     - Enemies can have the Curse of the Demon buff:
         - +60% increased HP
@@ -291,10 +311,6 @@ Dream of the Demon (NG+2) Notes:
     - All bosses have Curse of the Demon.
     - DLC 1 enemies can now appear across all missions.
 
-    - Gain access to Silibar Ingots (Store Amrita). Obtained by completing In the Eye of the Beholder on Dream of the Strong.
-    - Gain access to Scroll of the Demon Picture Scrolls.
-    - Obtain the Smiting Text: Scampuss Hat upon completing all Main and Sub missions on Dream of the Demon. 
-        (Online missions are not counted towards this)
     - Maximum gear level: 180 (average 170)
     - Maximum gear + level: +20
     - Maximum Soul Core level: 180 (average 170)
@@ -307,7 +323,26 @@ Dream of the Wise (NG+3) Notes:
 ========== ========== ==========
     - Requires Darkness in the Capital (DLC 2).
     - Gain access to Ethreal rarity gear.
-    - Character Stats can now go above 99 up to a maximum of 200
+    - Yata Mirror can randomly drop as loot.
+    - Gain access to Scroll of the Wise Picture Scrolls.
+    - Gain access to Ultimate atrributes on Scroll of the Wise Picture Scrolls.
+    - Gain access to Dream of the Nioh and The Underworld upon completing In the Eye of the Beholder on Dream of the Wise.
+    - Obtain the Smithing text: Sudama Skull upon completing all Main and Sub missions on Dream of the Wise. 
+        (Online missions are not counted towards this)
+    - Character Stats can now go above 99 up to a maximum of 200.
+
+    - Gain access to the following Graces and Sets:
+        - Acala's Grace
+        - Ame-no-Uzume's Grace
+        - Grace of Amaterasu
+        - Grace of Kagutsuchi
+        - Grace of Owatatsumi
+        - Grace of Susano
+        - Grace of Takemikazuchi
+        - Grace of Tsukuyomi
+        - Magatsuhi's Grace
+        - Marici's Grace
+
     - Enemies can have the Curse of the Wise buff:
         Contains all of the buffs from Curse of the Demon:
         - +60% increased HP
@@ -315,16 +350,12 @@ Dream of the Wise (NG+3) Notes:
         - -20% Ki Damage taken (yokai)
         - -50% Attack Ki Consumption (human)
         - +30% Ki Damage done to the player
-        
+
         Curse of the Wise contains new curse:
         - 50% damage lifesteal
     - All bosses have Curse of the Wise.
     - DLC 2 enemies can now appear across all missions.
 
-    - Gain access to Scroll of the Wise Picture Scrolls.
-    - Gain access to Dream of the Nioh and The Underworld upon completing In the Eye of the Beholder on Dream of the Wise.
-    - Obtain the Smithing text: Sudama Skull upon completing all Main and Sub missions on Dream of the Wise. 
-        (Online missions are not counted towards this)
     - Maximum gear level: 190 (average 180)
     - Maximum gear + level: +30
     - Maximum Soul Core level: 190 (average 180)
@@ -337,6 +368,26 @@ Dream of the Nioh (NG+4) Notes:
 ========== ========== ==========
     - Requires The First Samurai (DLC 3).
     - Gain access to Ethreal Soul Cores. Maximum level of Soul Core Rank is now 30, from 20.
+    - Gain access to Scroll of the Nioh Picture Scrolls.
+    - Obtain the Smithing Text: Mumyo's Mask upon completing all Main and Sub missions on Dream of the Nioh. 
+        (Online missions are not counted towards this)
+
+    - Gain access to the following Graces and Sets (Dream of the Nioh):
+        - Grace of Futsunushi
+        - Izanagi's Grace
+        - Izanami's Grace
+        - Ninigi's Grace
+        - Okuninushi's Grace
+        - Omoikane's Grace
+        - Sarutahiko's Grace
+        - Sukunahikona's Grace (sudama re-roll only)
+        - Takeminakata's Grace
+        - Tajikarao's Grace (sudama re-roll only)
+
+    - Gain access to the following Graces and Sets (Depths of the Underworld):
+        - Grace of Oyamatsumi
+        - Grace of Shinatsuhiko
+
     - Enemies can have the Curse of the Nioh buff:
         Contains all of the buffs from Curse of the Wise:
         - +60% increased HP
@@ -360,18 +411,15 @@ Dream of the Nioh (NG+4) Notes:
     - All bosses have Curse of the Nioh.
     - DLC 3 enemies can now appear across all missions.
 
-    - Gain access to Scroll of the Nioh Picture Scrolls.
-    - Obtain the Smithing Text: Mumyo's Mask upon completing all Main and Sub missions on Dream of the Nioh. 
-        (Online missions are not counted towards this)
     - Maximum gear level: 200 (average 190)
     - Maximum gear + level: +120
     - Maximum Soul Core level: 200 (average 190)
-
-    - Spirit Stones that drop on Dream of the Nioh (NG+4):
-        - 
-
     - Maximum gear level for Underworld: 200
     - Maximum Soul Core level for Underworld: 200
+
+    - Spirit Stones that drop on Dream of the Nioh (NG+4) and Underworld:
+        - 
+
 
 [Credits for NG+ notes]:
     - Lef, Fat Valentine
