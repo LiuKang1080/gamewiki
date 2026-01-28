@@ -5240,7 +5240,7 @@ A Spirit's Return (Sub Mission)
     - Number of Hot Springs: 0
     - Number of Dark Realms: 1 (0 required)
     - Bosses: 
-        - None
+        - Fujiwara no Chikata
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
