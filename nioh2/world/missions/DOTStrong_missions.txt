@@ -906,6 +906,35 @@ The Mystery of Rashomon
         - 
 
 ==========
+The Cradle of the Demon
+==========
+    - Mission Unlock Requirement:
+        - Unlock The First Samurai (DLC 3) by completing 18 missions.
+    --------------------
+    - Recommended level: 
+    - Gold:  / 
+    - Amrita:  / 
+    - Shrine: 
+    - Torii Gate Expedition: 
+    - Number of Kodama: 
+    - Number of Sudama: 
+    - Number of Hot Springs: 
+    - Number of Dark Realms: 
+    - Bosses: 
+        - 
+    - Guardian Spirit Unlocked: 
+        - 
+    - Mission Rewards: 
+    First Time: 
+        - 
+    ---------- ---------- ----------
+    Subsequent Completes:
+        - 
+    ---------- ---------- ----------
+    Notable Items During / Post Mission:
+        - 
+
+==========
 The Bewitching Tower
 ==========
     - Mission Unlock Requirement:
