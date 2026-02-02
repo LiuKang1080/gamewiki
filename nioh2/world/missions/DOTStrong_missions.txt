@@ -3804,66 +3804,73 @@ Calamity's Pulse (Sub Mission)
 ========== ========== ========== ========== ==========
 The Tengu's Disciple (DLC 1)
 ========== ========== ========== ========== ==========
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 A Song to Calm the Storm (Main Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock The Tengu's Disciple (DLC 1) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 220
+    - Gold: 62,800
+    - Amrita: 426,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 2 (1 big sudama)
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 1 (0 required)
     - Bosses: 
-        - 
+        - Benkei
+        - Uminyudo
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Random Splitstaff (divine)
+        - Benkei's Hood (divine)
+        - Fabled Umbracite X1
+        - Transparent Blade X1
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Benkei's Cuirass (divine or below)
+        - Benkei's Waistguard (divine or below)
+        - Random Splitstaff (divine or below)
+        - Water Amulet X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Shadows Creep In Kurama (Sub Mission)

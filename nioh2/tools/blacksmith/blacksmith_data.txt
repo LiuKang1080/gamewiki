@@ -52,3 +52,7 @@ Request for Muramasa
     - Disassemble to Obtain Rare Materials:
         - Number of levels: 29
         - Increase per level: N/A
+
+    - Silabar Ingots: Forging:
+        - Number of levels: 29
+        - Starts at 70.0%. Increases by 1.0% for each level.

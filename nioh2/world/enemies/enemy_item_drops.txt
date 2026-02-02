@@ -183,7 +183,7 @@ Aberrant Soldier
     - 
     ----------
     - Stone
-    - 
+    - Sacred Arrow
     ----------
     - Gold
     - [random rarity] random equippable item
@@ -582,22 +582,21 @@ Thunderstorm Oni-Bi
 The Tengu's Disciple (DLC 1)
 ========== ========== ========== ========== ==========
 Bakegani
-    - Soul Core
+    - Bakegani Soul Core
     - 
     ----------
-    - Stone
-    - 
+    - Elixir
     ----------
     - Gold
     - [random rarity] random equippable item
     - 
 
 Kiryoki
-    - Soul Core
-    - 
+    - Kiryoki Soul Core
+    - Kiryoki Mane
     ----------
-    - Stone
-    - 
+    - Lantern Plant Fruit
+    - Elixir
     ----------
     - Gold
     - [random rarity] random equippable item

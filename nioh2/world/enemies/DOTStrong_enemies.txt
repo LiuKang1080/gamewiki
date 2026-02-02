@@ -2164,40 +2164,6 @@ Calamity's Pulse (Sub Mission)
 ========== ========== ========== ========== ==========
 The Tengu's Disciple (DLC 1)
 ========== ========== ========== ========== ==========
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 A Song to Calm the Storm (Main Mission)
 ==========
@@ -2206,6 +2172,66 @@ A Song to Calm the Storm (Main Mission)
         - Nasu no Yoichi (NPC)
         - Benkei (Ally)
     --------------------
+    - Human (torch, axe)
+    - Human (big) (sword)
+    - Human (torch, spear)
+    - Human (spear)
+    - Human (big) (fire arrow + bow, sword)
+    - Human (axe)
+    - Human (big) (torch, axe)
+    - Skeleton Warrior (spear)
+    - Kiryoki
+    - Lesser Umi-Bozu
+    - Gaki
+    - Sohaya Warrior (splitstaff)
+    - Bakegani (big)
+    - Nure-Onna
+    - Ubume
+    - Aberrant Soldier
+    - Human (big) (torch, sword)
+    - Human (big) (odachi)
+    - Bakegani
+    - Rokurokubi (spear)
+    - Mujina
+    - Mysterious Warrior Monk | Benkei (boss)
+    - Rokurokubi (torch, spear)
+    - Sohaya Warrior (torch, splitstaff)
+    - Nurikabe
+    - Uminyudo (boss)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Shadows Creep in Kurama (Sub Mission)
