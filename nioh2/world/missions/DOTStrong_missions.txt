@@ -3840,66 +3840,71 @@ A Song to Calm the Storm (Main Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Shadows Creep In Kurama (Sub Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock The Tengu's Disciple (DLC 1) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 221
+    - Gold: 63,600
+    - Amrita: 442,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 2 (1 big sudama)
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 1 (0 required)
     - Bosses: 
-        - 
+        - Nue
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Flashfire Splitstaff (FIRE) (divine)
+        - Tengu Mask (divine)
+        - Tengu's Fan X2
+        - Metalworking Chisel X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Flashfire Splitstaff (FIRE) (divine or below)
+        - Highest-Quality Wood X3
+        - Highest-Quality Tamahagane X3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Lost Sword (Sub Mission)

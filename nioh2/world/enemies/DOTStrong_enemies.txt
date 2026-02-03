@@ -2199,40 +2199,6 @@ A Song to Calm the Storm (Main Mission)
     - Nurikabe
     - Uminyudo (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Shadows Creep in Kurama (Sub Mission)
 ==========
@@ -2240,6 +2206,64 @@ Shadows Creep in Kurama (Sub Mission)
     - Characters:
         - None
     --------------------
+    - Revenant (kusarigama)
+    - Gaki
+    - Bakegani (big)
+    - Karakasa Umbrella
+    - Yamanba
+    - Kiryoki
+    - Spider (small)
+    - Revenant (spear)
+    - Nure-Onna
+    - Skeleton Warrior (sword)
+    - Karasu Tengu
+    - Koroka
+    - Spider (medium)
+    - One-Eyed Imp
+    - Namahage (bloodstained cleavers)
+    - Yoki (sword)
+    - Tesso
+    - Revenant (splitstaff)
+    - Kappa
+    - Revenant (sword)
+    - Namahage (bloodstained blade)
+    - Nurikabe
+    - Yoki (axe)
+    - Nue (boss)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Lost Sword (Sub Mission)
