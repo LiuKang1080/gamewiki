@@ -3915,66 +3915,71 @@ The Lost Sword (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Loyal Retainer (Sub Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock The Tengu's Disciple (DLC 1) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 223
+    - Gold: 140,000
+    - Amrita: 474,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 1 (0 required)
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Random Splitstaff (divine)
+        - Glue X1
+        - Embercite Crystal X2
+        - Divine Branch X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Random Splitstaff (divine or below)
+        - Daion-Jin's Sake X2
+        - Ochoko Cup X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Eternal Rivals (Main Mission)

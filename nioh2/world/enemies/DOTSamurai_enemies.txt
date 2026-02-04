@@ -2441,6 +2441,8 @@ The Loyal Retainer (Sub Mission)
     - Dweller
     - Mitsume Yazura
     - Kiryoki
+    - Kappa (optional)
+    - Kajiwara Kagetoki (optional)
 
 ==========
 Eternal Rivals (Main Mission)

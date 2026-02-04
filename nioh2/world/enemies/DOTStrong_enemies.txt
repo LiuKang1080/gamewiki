@@ -2267,40 +2267,6 @@ The Lost Sword (Sub Mission)
     - Human (big) (fire arrow + bow, sword)
     - Taira no Kagekiyo (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Loyal Retainer (Sub Mission)
 ==========
@@ -2308,6 +2274,58 @@ The Loyal Retainer (Sub Mission)
     - Characters:
         - Kajiwara Kagetoki (Ally)
     --------------------
+    - Red Kappa
+    - Wheelmonk
+    - Aberrant Soldier
+    - Gaki
+    - Bakegani
+    - Skeleton Warrior (big) (axe)
+    - Dweller (big)
+    - Skeleton Warrior (spear)
+    - Yoki (axe)
+    - Magatsu Warrior
+    - Gaki (big)
+    - Rokurokubi (dual swords)
+    - Bakegani (big)
+    - Dweller
+    - Mitsume Yazura
+    - Kiryoki
+    - Kappa (optional)
+    - Kajiwara Kagetoki (optional)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Eternal Rivals (Main Mission)

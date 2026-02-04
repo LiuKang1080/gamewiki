@@ -9,9 +9,11 @@ Pools
 ==========
     Pool 1 (L2 / LT):
         - The Blood Tainted Samurai
+        - The Violet Cherry Blossoms
 
     Pool 2 (R2 / RT):
         - Darkness Brewing
+        - Blood on the Wind
 
 
 ==========
@@ -30,8 +32,8 @@ Tuesday:
     - Darkness Brewing
 
 Wednesday:
-    -
-    -
+    - The Violet Cherry Blossoms
+    - Blood on the Wind
 
 Thursday:
     -
