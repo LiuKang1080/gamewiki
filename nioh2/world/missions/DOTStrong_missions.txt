@@ -3880,66 +3880,72 @@ Shadows Creep In Kurama (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Lost Sword (Sub Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock The Tengu's Disciple (DLC 1) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 222
+    - Gold: 64,400
+    - Amrita: 458,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Taira no Kagekiyo
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Smithing Text: Fan-Piercing Bow
+        - Smithing Text: Blessed Sleeve Armor
+        - Yoichi's Bow (divine)
+        - Bladed Sleeve Hat (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Blessed Sleeve Cuirass (divine or below)
+        - Blessed Sleeve Gauntlets (divine or below)
+        - Blessed Sleeve Waistguard (divine or below)
+        - Blessed Sleeve Greaves (divine or below)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Loyal Retainer (Sub Mission)

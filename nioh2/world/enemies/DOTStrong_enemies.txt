@@ -2249,40 +2249,6 @@ Shadows Creep in Kurama (Sub Mission)
     - Yoki (axe)
     - Nue (boss)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 The Lost Sword (Sub Mission)
 ==========
@@ -2290,6 +2256,50 @@ The Lost Sword (Sub Mission)
     - Characters:
         - Nasu no Yoichi (NPC)
     --------------------
+    - Aberrant Soldier
+    - Bakegani (big)
+    - Gaki
+    - One-Eyed Oni (snowclops)
+    - Namahage (bloodstained cleavers)
+    - Rokurokubi (spear)
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Kiryoki
+    - Human (big) (fire arrow + bow, sword)
+    - Taira no Kagekiyo (boss)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 The Loyal Retainer (Sub Mission)
