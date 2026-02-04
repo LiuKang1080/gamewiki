@@ -636,7 +636,9 @@ Nuppeppo
     - 
 
 Nue (boss)
-    - Soul Core
+    - Nue Soul Core
+    - Nue's Claw
+    - Smithing Text: Mitsuyo Kusarigama
     - 
     ----------
     - Stone

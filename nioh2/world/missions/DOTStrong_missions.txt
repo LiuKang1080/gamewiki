@@ -853,28 +853,34 @@ Darkness Brewing
     - Mission Unlock Requirement:
         - Unlock The Tengu's Disciple (DLC 1) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold:  / 
-    - Amrita:  / 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 230
+    - Gold: 208,800 / 69,600
+    - Amrita: 1,688,328 / 562,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1 (1 big sudama)
+    - Number of Hot Springs: 1 (0 required)
+    - Number of Dark Realms: 1 (0 required)
     - Bosses: 
-        - 
+        - Nue
     - Guardian Spirit Unlocked: 
-        - 
+        - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Quality Umbracite X1
+        - Random Splitstaff (divine)
+        - Nue's Claw X1
+        - Summoner's Candle X1
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Nue's Claw X1
+        - Highest-Quality Iron Platelet X3
+        - Highest-Quality Lacquer X3
+        - Divine Branch X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Mystery of Rashomon

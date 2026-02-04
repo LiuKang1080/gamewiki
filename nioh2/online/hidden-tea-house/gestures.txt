@@ -7,7 +7,7 @@ General Info
     - Gestures are account bound, and the player does not need to collect the same gesture multiple times.
     - The player starts with 21 gestures upon creating a new character for the first time.
     - There are 17 gestures in the Hidden Tea House.
-    - There are X gestures obtained from missions.
+    - There are X gestures obtained from missions, or other interactions.
 
 
 ========== ========== ========== ========== ==========
@@ -77,7 +77,7 @@ Gestures Obtained From Missions
 ========== ========== ==========
 Dream of the Samurai (NG)
 ========== ========== ==========
-TOTAL: 46
+TOTAL: 47
 Friendly Gestures: (17)
     - [img complete] DON'T WORRY: Forest Veiled in Darkness (mission reward).
     - [img complete] OVERJOYED: The Beast Born of Smoke and Flames (successfully interact with your first Mujina).
@@ -111,7 +111,7 @@ Neutral Gestures: (12)
     - [img complete] NINJA POSE: The One Who Lives in the Shadows (mission reward).
     - [img complete] BEGONE!: The Nine Symbols (mission reward).
 
-Hostile Gestures: (17)
+Hostile Gestures: (18)
     - [img complete] SUDAMA DANCE: The Search (mission reward).
     - [img complete] SHOO: Imagawa Diehard (mission reward).
     - [img complete] NIOH STANCE (RESOLUTE): The Way of the Warrior: Adept (mission reward).
@@ -129,3 +129,4 @@ Hostile Gestures: (17)
     - [img complete] SHURIKEN STARS: Like Lightning (mission reward).
     - [img complete] SUMO VICTORY: The Unstoppable Whirlwind (mission reward).
     - [img complete] MOVE!: Talk to Tokichiro in the main mission: The Hidden Monsters of Okehazama on Dream of the Strong difficulty.
+    - [img complete] FRUSTRATION: Attack or fail at mimmicing the proper gesture to a Mujina, and kill it. 
