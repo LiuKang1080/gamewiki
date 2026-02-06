@@ -10,22 +10,26 @@ Pools
     Pool 1 (L2 / LT):
         - The Blood Tainted Samurai
         - The Violet Cherry Blossoms
+        - The Cradle of the Demon
+        - Wings of the Phoenix
 
     Pool 2 (R2 / RT):
         - Darkness Brewing
         - Blood on the Wind
+        - The Bewitching Tower
+        - The Defiled Sanctuary
 
 
 ==========
 Week 1
 ==========
 Sunday:
-    -
-    -
+    - 
+    - 
 
 Monday:
-    -
-    -
+    - 
+    - 
 
 Tuesday:
     - The Blood Tainted Samurai
@@ -36,168 +40,168 @@ Wednesday:
     - Blood on the Wind
 
 Thursday:
-    -
-    -
+    - The Cradle of the Demon
+    - The Bewitching Tower
 
 Friday:
-    -
-    -
+    - Wings of the Phoenix
+    - The Defiled Sanctuary
 
 Saturday:
-    -
-    -
+    - 
+    - 
 
 ==========
 Week 2
 ==========
 Sunday:
-    -
-    -
+    - 
+    - 
 
 Monday:
-    -
-    -
+    - 
+    - 
 
 Tuesday:
-    -
-    -
+    - 
+    - 
 
 Wednesday:
-    -
-    -
+    - 
+    - 
 
 Thursday:
-    -
-    -
+    - 
+    - 
 
 Friday:
-    -
-    -
+    - 
+    - 
 
 Saturday:
-    -
-    -
+    - 
+    - 
 
 ==========
 Week 3
 ==========
 Sunday:
-    -
-    -
+    - 
+    - 
 
 Monday:
-    -
-    -
+    - 
+    - 
 
 Tuesday:
-    -
-    -
+    - 
+    - 
 
 Wednesday:
-    -
-    -
+    - 
+    - 
 
 Thursday:
-    -
-    -
+    - 
+    - 
 
 Friday:
-    -
-    -
+    - 
+    - 
 
 Saturday:
-    -
-    -
+    - 
+    - 
 
 ==========
 Week 4
 ==========
 Sunday:
-    -
-    -
+    - 
+    - 
 
 Monday:
-    -
-    -
+    - 
+    - 
 
 Tuesday:
-    -
-    -
+    - 
+    - 
 
 Wednesday:
-    -
-    -
+    - 
+    - 
 
 Thursday:
-    -
-    -
+    - 
+    - 
 
 Friday:
-    -
-    -
+    - 
+    - 
 
 Saturday:
-    -
-    -
+    - 
+    - 
 
 ==========
 Week 5
 ==========
 Sunday:
-    -
-    -
+    - 
+    - 
 
 Monday:
-    -
-    -
+    - 
+    - 
 
 Tuesday:
-    -
-    -
+    - 
+    - 
 
 Wednesday:
-    -
-    -
+    - 
+    - 
 
 Thursday:
-    -
-    -
+    - 
+    - 
 
 Friday:
-    -
-    -
+    - 
+    - 
 
 Saturday:
-    -
-    -
+    - 
+    - 
 
 ==========
 Week 6
 ==========
 Sunday:
-    -
-    -
+    - 
+    - 
 
 Monday:
-    -
-    -
+    - 
+    - 
 
 Tuesday:
-    -
-    -
+    - 
+    - 
 
 Wednesday:
-    -
-    -
+    - 
+    - 
 
 Thursday:
-    -
-    -
+    - 
+    - 
 
 Friday:
-    -
-    -
+    - 
+    - 
 
 Saturday:
-    -
-    -
+    - 
+    - 

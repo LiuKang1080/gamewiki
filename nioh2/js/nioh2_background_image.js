@@ -1,7 +1,7 @@
 /* ========== ========== ========== ========== ==========
 Randomly change background image upon page landing / refresh
-========== ========== ========== ========== ==========*/
-function change_background_nioh() {
+========== ========== ========== ========== ========== */
+function change_background_nioh2() {
     /*
     Function that randomly displayes the background image in the <body> tag of the page.
         - Set up array of paths to the images (picture_array)
@@ -42,4 +42,4 @@ function change_background_nioh() {
 
 
 // call function to randomly change the background image
-change_background_nioh();
+change_background_nioh2();

@@ -1216,7 +1216,7 @@ The Bewitching Tower
     - Mission Rewards: 
     First Time: 
         - Quality Umbracite X1
-        - Random Weapon (divine)
+        - Random WEAPONS [WEAPONS is in call caps] [sword type 1 icon] (divine)
         - Ghastly Bird Tail Feathers X1
         - Divine Branch X2
     ---------- ---------- ----------
