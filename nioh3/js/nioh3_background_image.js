@@ -20,14 +20,19 @@ function change_background_nioh3() {
 
     // Set up an array with images
     let picture_array = [
-        './img/nioh3_index_image_4.png'
+        './img/nioh3_index_image_1.png',
+        './img/nioh3_index_image_2.png',
+        './img/nioh3_index_image_3.png',
+        './img/nioh3_index_image_4.png',
+        './img/nioh3_index_image_5.png'
     ];
 
     // get a random number
     let random_number = Math.floor(Math.random() * picture_array.length);
 
     // construct the URL path for the background-image using the random number
-    let complete_url = String("url(" + picture_array[0] + ")");
+    let complete_url = String("url(" + picture_array[random_number] + ")");
+    console.log(complete_url);
 
     // change the background image
     document.body.style.backgroundImage = complete_url;
