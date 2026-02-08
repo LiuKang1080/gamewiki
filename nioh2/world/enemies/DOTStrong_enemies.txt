@@ -193,6 +193,41 @@ The Blood Tainted Samurai (Dark Omens | Awakening Region (Region 1))
     - Yoki (sword)
     - Karasu Tengu
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==========
 Blood on the Wind (The Mysterious One Night Castle | Soaring Region (Region 2))
 ==========
@@ -2293,40 +2328,6 @@ The Loyal Retainer (Sub Mission)
     - Kappa (optional)
     - Kajiwara Kagetoki (optional)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Eternal Rivals (Main Mission)
 ==========
@@ -2335,6 +2336,31 @@ Eternal Rivals (Main Mission)
         - Minamoto no Yoshitsune (Cutscenes, Ally)
         - Benkei (Cutscenes)
     --------------------
+    - Human (sword)
+    - Rokurokubi (torch, sword)
+    - Human (fire arrow + bow, sword)
+    - Human (spear)
+    - Human (big) (sword)
+    - Sohaya Warrior (splitstaff)
+    - Human (torch, spear)
+    - Rokurokubi (sword)
+    - Dweller
+    - Human (torch, sword)
+    - Aberrant Soldier
+    - Nuppeppo
+    - Ippon-Datara (odachi)
+    - Nurikabe
+    - Magatsu Warrior
+    - Kiryoki
+    - Bakegani (big)
+    - The Sohaya (splitstaff)
+    - Mujina
+    - Bakegani
+    - Yoki (sowrd)
+    - Namahage (bloodstained cleavers)
+    - Karasu Tengu
+    - Mezuki (boss)
+    - Minamoto no Yoshitsune (boss)
 
 ==========
 An Encounter Among the Blossoms (Sub Mission)
@@ -2343,6 +2369,25 @@ An Encounter Among the Blossoms (Sub Mission)
     - Characters:
         - Saigyo the Wandering Monk (NPC)
     --------------------
+    - One-Eyed Imp
+    - Karakasa Umbrella
+    - Ubume
+    - Lesser Umi-Bozu
+    - Kiryoki
+    - Gaki
+    - Thunderstorm Oni-Bi
+    - Maelstrom Oni-Bi
+    - Infernal Oni-Bi
+    - Tesso
+    - Aberrant Soldier
+    - Nuppeppo
+    - Karasu Tengu
+    - Red Kappa
+    - Toxic Slime
+    - Bakegani
+    - Onyudo (lightning)
+    - Mitsume Yazura
+    - Bakegani (big)
 
 ==========
 The Tale of the Taira (Sub Mission)
@@ -2351,6 +2396,50 @@ The Tale of the Taira (Sub Mission)
     - Characters:
         - None
     --------------------
+    - Revenant (hammer)
+    - Skeleton Warrior (spear)
+    - Skeleton Warrior (fire arrow + bow, sword)
+    - Revenant (switchglaive)
+    - Aberrant Soldier
+    - Revenant (odachi)
+    - Lesser Umi-Bozu
+    - Taira no Kagekiyo (boss)
+    - Bakegani
+    - Biwa Boku-Boku
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Prisoners of the Stones (Sub Mission)

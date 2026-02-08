@@ -2415,7 +2415,7 @@ The Lost Sword (Sub Mission)
     - Sohaya Warrior (splitstaff)
     - Human (big) (fire arrow, sword)
     - Human (big) (sword)
-    - Taira no Kagekiyo (boss) (first time)
+    - Taira no Kagekiyo (dual swords) (boss) (first time)
 
 ==========
 The Loyal Retainer (Sub Mission)
@@ -2518,7 +2518,7 @@ The Tale of the Taira (Sub Mission)
     - Aberrant Soldier
     - Revenant (odachi)
     - Lesser Umi-Bozu
-    - Taira no Kagekiyo (boss) (dual swords) (first time)
+    - Taira no Kagekiyo (dual swords) (boss)
     - Bakegani
     - Biwa Boku-Boku
     - Thunderstorm Oni-Bi

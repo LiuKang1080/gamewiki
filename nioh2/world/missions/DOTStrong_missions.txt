@@ -549,7 +549,7 @@ The Violet Cherry Blossoms
     - Number of Kodama: 0
     - Number of Sudama: 3
     - Number of Hot Springs: 0
-    - Number of Dark Realms: 2 (0 required)
+    - Number of Dark Realms: 2
     - Bosses: 
         - Gozuki
         - Mezuki
@@ -585,7 +585,7 @@ Traces of the Raging Blaze
     - Number of Kodama: 0
     - Number of Sudama: 3
     - Number of Hot Springs: 1
-    - Number of Dark Realms: 2 (0 required)
+    - Number of Dark Realms: 2
     - Bosses: 
         - Enenra
     - Guardian Spirit Unlocked: 
@@ -620,7 +620,7 @@ The Blood Tainted Samurai
     - Number of Kodama: 0
     - Number of Sudama: 1
     - Number of Hot Springs: 0
-    - Number of Dark Realms: 1 (0 required)
+    - Number of Dark Realms: 1
     - Bosses: 
         - None
     - Guardian Spirit Unlocked: 
@@ -640,6 +640,41 @@ The Blood Tainted Samurai
     Notable Items During / Post Mission:
         - None
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==========
 Blood on the Wind
 ==========
@@ -654,7 +689,7 @@ Blood on the Wind
     - Number of Kodama: 0
     - Number of Sudama: 1
     - Number of Hot Springs: 0
-    - Number of Dark Realms: 2 (0 required)
+    - Number of Dark Realms: 2
     - Bosses: 
         - Kamaitachi
     - Guardian Spirit Unlocked: 
@@ -689,7 +724,7 @@ The Cursed Castle Ruins
     - Number of Kodama: 0
     - Number of Sudama: 2 (1 big sudama)
     - Number of Hot Springs: 1
-    - Number of Dark Realms: 3 (0 required)
+    - Number of Dark Realms: 3
     - Bosses: 
         - Azai Nagamasa
     - Guardian Spirit Unlocked: 
@@ -757,8 +792,8 @@ Mountain of the Dark Lord
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 1
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 2 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 2
     - Bosses: 
         - Ryomen Sukuna
     - Guardian Spirit Unlocked: 
@@ -792,8 +827,8 @@ The Island of Monsters
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 1
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 1 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 1
     - Bosses: 
         - Tatarimokke
     - Guardian Spirit Unlocked: 
@@ -827,8 +862,8 @@ Wings of the Phoenix
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 0
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 2 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 2
     - Bosses: 
         - Shuten Doji
     - Guardian Spirit Unlocked: 
@@ -860,8 +895,8 @@ Darkness Brewing
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 1 (1 big sudama)
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 1 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 1
     - Bosses: 
         - Nue
     - Guardian Spirit Unlocked: 
@@ -990,7 +1025,7 @@ The Village of Cursed Blossoms (Main Mission)
     - Number of Kodama: 0
     - Number of Sudama: 0
     - Number of Hot Springs: 0
-    - Number of Dark Realms: 2 (0 required)
+    - Number of Dark Realms: 2
     - Bosses: 
         - Gozuki
         - Mezuki
@@ -1060,7 +1095,7 @@ The Beast Born of Smoke and Flames (Main Mission)
     - Number of Kodama: 0
     - Number of Sudama: 0
     - Number of Hot Springs: 1
-    - Number of Dark Realms: 2 (0 required)
+    - Number of Dark Realms: 2
     - Bosses: 
         - Enenra
     - Guardian Spirit Unlocked: 
@@ -1165,7 +1200,7 @@ The Viper's Sanctum (Main Mission)
     - Number of Kodama: 0
     - Number of Sudama: 2 (1 big Sudama)
     - Number of Hot Springs: 1
-    - Number of Dark Realms: 3 (0 required)
+    - Number of Dark Realms: 3
     - Bosses: 
         - Yatsu-no-Kami
     - Guardian Spirit Unlocked: 
@@ -1234,7 +1269,7 @@ The Search (Sub Mission)
     - Number of Kodama: 0
     - Number of Sudama: 4
     - Number of Hot Springs: 0
-    - Number of Dark Realms: 2 (0 required)
+    - Number of Dark Realms: 2
     - Bosses: 
         - None
     - Guardian Spirit Unlocked: 
@@ -1306,7 +1341,7 @@ The Hidden Monsters of Okehazama (Main Mission)
     - Number of Kodama: 0
     - Number of Sudama: 2 (1 big sudama)
     - Number of Hot Springs: 1
-    - Number of Dark Realms: 2 (0 required)
+    - Number of Dark Realms: 2
     - Bosses: 
         - Imagawa Yoshimoto
     - Guardian Spirit Unlocked: 
@@ -1375,7 +1410,7 @@ Hidetatsu's Dying Wish (Sub Mission)
     - Number of Kodama: 0
     - Number of Sudama: 0
     - Number of Hot Springs: 0
-    - Number of Dark Realms: 1 (0 required)
+    - Number of Dark Realms: 1
     - Bosses: 
         - None
     - Guardian Spirit Unlocked: 
@@ -1409,7 +1444,7 @@ An Error in Calculation (Sub Mission)
     - Number of Kodama: 0
     - Number of Sudama: 1
     - Number of Hot Springs: 1
-    - Number of Dark Realms: 1 (0 required)
+    - Number of Dark Realms: 1
     - Bosses: 
         - None
     - Guardian Spirit Unlocked: 
@@ -1443,7 +1478,7 @@ The Mysterious One Night Castle (Main Mission)
     - Number of Kodama: 0
     - Number of Sudama: 2 (1 big sudama)
     - Number of Hot Springs: 2
-    - Number of Dark Realms: 2 (0 required)
+    - Number of Dark Realms: 2
     - Bosses: 
         - Kamaitachi
     - Guardian Spirit Unlocked: 
@@ -1546,7 +1581,7 @@ The Fire God's Magatama (Sub Mission)
     - Number of Kodama: 0
     - Number of Sudama: 0
     - Number of Hot Springs: 0
-    - Number of Dark Realms: 3 (0 required)
+    - Number of Dark Realms: 3
     - Bosses: 
         - None
     - Guardian Spirit Unlocked: 
@@ -1581,7 +1616,7 @@ The Hollow Fortress (Main Mission)
     - Number of Kodama: 0
     - Number of Sudama: 2
     - Number of Hot Springs: 2
-    - Number of Dark Realms: 2 (0 required)
+    - Number of Dark Realms: 2
     - Bosses: 
         - Onryoki
         - Saito Yoshitatsu
@@ -1649,8 +1684,8 @@ The Shiftling's Wise Judgement (Sub Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 1
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 0 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 0
     - Bosses: 
         - Shibata Katsuie
         - Hachisuka Koroku
@@ -1684,8 +1719,8 @@ The Viper and the Butterfly (Sub Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 0
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 1 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 1
     - Bosses: 
         - None
     - Guardian Spirit Unlocked: 
@@ -1697,7 +1732,7 @@ The Viper and the Butterfly (Sub Mission)
         - Principal Governor's Waistguard (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - Sasayuki (switchglaive) (water) (exotic)
+        - Sasayuki (switchglaive) (WATER) (exotic)
         - Principal Governor's Faceplate
         - Principal Governor's Gauntlets
         - Principal Governor's Greaves
@@ -1722,8 +1757,8 @@ A Way Out (Main Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 2 (1 big sudama)
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 3 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 3
     - Bosses: 
         - Tatarimokke
     - Guardian Spirit Unlocked: 
@@ -1758,7 +1793,7 @@ Learning A Lesson (Sub Mission)
     - Number of Kodama: 0
     - Number of Sudama: 1
     - Number of Hot Springs: 0
-    - Number of Dark Realms: 1 (0 required)
+    - Number of Dark Realms: 1
     - Bosses: 
         - None
     - Guardian Spirit Unlocked: 
@@ -1825,8 +1860,8 @@ Immovable (Sub Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 0
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 1 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 1
     - Bosses: 
         - None
     - Guardian Spirit Unlocked: 
@@ -1894,15 +1929,15 @@ Corpses and Ice (Main Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 1 (1 big sudama)
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 3 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 3
     - Bosses: 
         - Magara Naotaka
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
     First Time: 
-        - Taro Tachi (odachi) (water) (divine)
+        - Taro Tachi (odachi) (WATER) (divine)
         - Water Omamori (accessory) (divine)
         - Fabled Umbracite X1
         - Metalworking Chisel X2
@@ -1998,14 +2033,14 @@ The Brother's Blades (Sub Mission)
     - Number of Kodama: 0
     - Number of Sudama: 0
     - Number of Hot Springs: 0
-    - Number of Dark Realms: 1 (0 required)
+    - Number of Dark Realms: 1
     - Bosses: 
         - Magara Naotaka
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
     First Time: 
-        - Taro Tachi (odachi) (water) (divine)
+        - Taro Tachi (odachi) (WATER) (divine)
         - Jiro Tachi (odachi) (divine)
         - Embercite Crystal X2
         - Righteous Jasper X2
@@ -2033,7 +2068,7 @@ A Shadow's Duty (Sub Mission)
     - Number of Kodama: 0
     - Number of Sudama: 
     - Number of Hot Springs: 0
-    - Number of Dark Realms: 1 (0 required)
+    - Number of Dark Realms: 1
     - Bosses: 
         - None
     - Guardian Spirit Unlocked: 
@@ -2109,7 +2144,7 @@ Horns on Head, Dragonfly in Hand (Sub Mission)
         - None
     - Mission Rewards: 
     First Time: 
-        - Tombokiri (spear) (Lightning) (divine)
+        - Tombokiri (spear) (LIGHTNING) (divine)
         - Warrior of the East Helmet (divine)
         - Warrior of the East Cuirass (divine)
     ---------- ---------- ----------
@@ -2134,8 +2169,8 @@ Bird In A Cage (Main Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 1 (1 big sudama)
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 2 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 2
     - Bosses: 
         - Azai Nagamasa
     - Guardian Spirit Unlocked: 
@@ -2339,8 +2374,8 @@ A Strong Bond (Sub Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 0
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 1 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 1
     - Bosses: 
         - None
     - Guardian Spirit Unlocked: 
@@ -2377,8 +2412,8 @@ Pervading Waters (Main Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 2 (1 big sudama)
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 2 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 2
     - Bosses: 
         - Saika Magoichi
         - Gyuki
@@ -2481,7 +2516,7 @@ Song of the Yokai (Sub Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 0
-    - Number of Hot Springs: 7 (0 required)
+    - Number of Hot Springs: 7
     - Number of Dark Realms: 0
     - Bosses: 
         - None
@@ -2515,8 +2550,8 @@ The Frenzied Blaze (Main Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 2
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 3 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 3
     - Bosses: 
         - Kasha
     - Guardian Spirit Unlocked: 
@@ -2551,16 +2586,16 @@ The Burning Sky (Sub Mission)
     - Number of Kodama: 0
     - Number of Sudama: 0
     - Number of Hot Springs: 0
-    - Number of Dark Realms: 1 (0 required)
+    - Number of Dark Realms: 1
     - Bosses: 
         - None
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
     First Time: 
-        - Kamui (odachi) (fire) (divine)
-        - Radiant Flame (hatchets) (fire) (divine)
-        - Twin Dragon Tonfa (fire) (divine)
+        - Kamui (odachi) (FIRE) (divine)
+        - Radiant Flame (hatchets) (FIRE) (divine)
+        - Twin Dragon Tonfa (FIRE) (divine)
         - Sacred Water X5
     ---------- ---------- ----------
     Subsequent Completes:
@@ -2619,7 +2654,7 @@ The Warrior (Sub Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 0
-    - Number of Hot Springs: 1 (0 required)
+    - Number of Hot Springs: 1
     - Number of Dark Realms: 0
     - Bosses: 
         - None
@@ -2654,8 +2689,8 @@ The Sun Sets on Mount Tenno (Main Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 1
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 2 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 2
     - Bosses: 
         - Ryomen Sukuna
     - Guardian Spirit Unlocked: 
@@ -2765,7 +2800,7 @@ Master of the Three Evils (Sub Mission)
         - None
     - Mission Rewards: 
     First Time: 
-        - Fudo Kuniyuki & Yagen Toshiro (dual swords) (fire) (divine)
+        - Fudo Kuniyuki & Yagen Toshiro (dual swords) (FIRE) (divine)
         - Malefactor's Helmet (divine)
         - Malefactor's Cuirass (divine)
         - Malefactor's Waistguard (divine)
@@ -2795,8 +2830,8 @@ Ruin Draws Near (Main Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 2 (1 big sudama)
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 4 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 4
     - Bosses: 
         - Maeda Toshiie
         - Oni Shibata Katsuie
@@ -2831,8 +2866,8 @@ Okuni's Search (Sub Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 
     - Number of Sudama: 0
-    - Number of Hot Springs: 7 (0 required)
-    - Number of Dark Realms: 2 (0 required)
+    - Number of Hot Springs: 7
+    - Number of Dark Realms: 2
     - Bosses: 
         - Enenra
     - Guardian Spirit Unlocked: 
@@ -2898,8 +2933,8 @@ The Two Faces of Hospitality (Main Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 0
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 2 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 2
     - Bosses: 
         - Tokichiro
     - Guardian Spirit Unlocked: 
@@ -2933,8 +2968,8 @@ The High-Spirited Demon (Main Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 1 (1 big sudama)
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 3 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 3
     - Bosses: 
         - Kamaitachi
         - Hachisuka Koroku
@@ -2971,7 +3006,7 @@ A Message From the Deceased (Sub Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 0
-    - Number of Hot Springs: 1 (0 required)
+    - Number of Hot Springs: 1
     - Number of Dark Realms: 0
     - Bosses: 
         - None
@@ -3039,17 +3074,17 @@ Calling on the Fire God (Sub Mission)
     - Number of Kodama: 0
     - Number of Sudama: 0
     - Number of Hot Springs: 0
-    - Number of Dark Realms: 1 (0 required)
+    - Number of Dark Realms: 1
     - Bosses: 
         - None
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
     First Time: 
-        - Ame-no-Mahitotsu's Axe (fire) (divine)
+        - Ame-no-Mahitotsu's Axe (FIRE) (divine)
         - Seventh Sword Tonfa (divine)
-        - Echoing Thunder (hatchets) (lightning) (divine)
-        - Raijin's Claw (switchglaive) (lightning) (divine)
+        - Echoing Thunder (hatchets) (LIGHTNING) (divine)
+        - Raijin's Claw (switchglaive) (LIGHTNING) (divine)
     ---------- ---------- ----------
     Subsequent Completes:
         - Highest-Quality Tamahagane X2
@@ -3106,7 +3141,7 @@ A Prayer in the Moonlight (Sub Mission)
     - Number of Kodama: 0
     - Number of Sudama: 0
     - Number of Hot Springs: 0
-    - Number of Dark Realms: 1 (0 required)
+    - Number of Dark Realms: 1
     - Bosses: 
         - None
     - Guardian Spirit Unlocked: 
@@ -3144,8 +3179,8 @@ The Mausoleum of Evil (Main Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 2
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 2 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 2
     - Bosses: 
         - Shuten Doji
     - Guardian Spirit Unlocked: 
@@ -3245,8 +3280,8 @@ The Golden Castle (Main Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 2 (1 big sudama)
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 3 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 3
     - Bosses: 
         - Enenra
         - Gozuki
@@ -3258,8 +3293,8 @@ The Golden Castle (Main Mission)
         - None
     - Mission Rewards: 
     First Time: 
-        - Mikazuki Munechika (sword) [type 2] (lightning) (divine)
-        - Onimaru Kunisuna (sword) [type 2] (fire) (divine)
+        - Mikazuki Munechika (sword) [type 2] (LIGHTNING) (divine)
+        - Onimaru Kunisuna (sword) [type 2] (FIRE) (divine)
         - Fabled Umbracite X1
         - Metalworking Chisel X2
     ---------- ---------- ----------
@@ -3285,7 +3320,7 @@ The Bravest of the Brave (Sub Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 0
-    - Number of Hot Springs: 1 (0 required)
+    - Number of Hot Springs: 1
     - Number of Dark Realms: 0
     - Bosses: 
         - Maeda Keiji
@@ -3318,7 +3353,7 @@ The Dream's End (Sub Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 0
-    - Number of Hot Springs: 1 (0 required)
+    - Number of Hot Springs: 1
     - Number of Dark Realms: 0
     - Bosses: 
         - Kasha
@@ -3327,7 +3362,7 @@ The Dream's End (Sub Mission)
     - Mission Rewards: 
     First Time: 
         - Zenki and Goki (hatchets) (divine)
-        - Thunder God Kusarigama (lightning) (divine)
+        - Thunder God Kusarigama (LIGHTNING) (divine)
         - Sarutobi's Gunsticks (tonfas) (divine)
         - Herbal Remedy X1
     ---------- ---------- ----------
@@ -3350,8 +3385,8 @@ Cherry Blossom Viewing in Daigo (Main Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 1 (1 big sudama)
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 1 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 1
     - Bosses: 
         - Gozuki
         - Tokichiro (dream)
@@ -3602,8 +3637,8 @@ In The Eye of the Beholder (Main Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 0
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 3 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 3
     - Bosses: 
         - Gozuki
         - Mezuki
@@ -3680,13 +3715,13 @@ The Trustworthy (Sub Mission)
     - Mission Rewards: 
     First Time: 
         - Samurai's Locks X1
-        - Tombokiri (spear) (lightning) (divine)
+        - Tombokiri (spear) (LIGHTNING) (divine)
         - Hanzo the Demon's Spear (divine)
         - Highest-Quality Tamahagane X5
     ---------- ---------- ----------
     Subsequent Completes:
         - Random Sword [type 1] (divine or below)
-        - Tombokiri (spear) (lightning) (exotic)
+        - Tombokiri (spear) (LIGHTNING) (exotic)
         - Warrior of the East Helmet (exotic)
         - Random Heavy Armor (divine or below)
     ---------- ---------- ----------
@@ -3823,8 +3858,8 @@ A Song to Calm the Storm (Main Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 2 (1 big sudama)
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 1 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 1
     - Bosses: 
         - Benkei
         - Uminyudo
@@ -3859,8 +3894,8 @@ Shadows Creep In Kurama (Sub Mission)
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
     - Number of Sudama: 2 (1 big sudama)
-    - Number of Hot Springs: 1 (0 required)
-    - Number of Dark Realms: 1 (0 required)
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 1
     - Bosses: 
         - Nue
     - Guardian Spirit Unlocked: 
@@ -3929,7 +3964,7 @@ The Loyal Retainer (Sub Mission)
     - Number of Kodama: 0
     - Number of Sudama: 0
     - Number of Hot Springs: 0
-    - Number of Dark Realms: 1 (0 required)
+    - Number of Dark Realms: 1
     - Bosses: 
         - None
     - Guardian Spirit Unlocked: 
@@ -3949,66 +3984,41 @@ The Loyal Retainer (Sub Mission)
     Notable Items During / Post Mission:
         - None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==========
 Eternal Rivals (Main Mission)
 ==========
     - Mission Unlock Requirement:
         - Unlock The Tengu's Disciple (DLC 1) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 224
+    - Gold: 65,800
+    - Amrita: 486,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 1
+    - Number of Hot Springs: 1
+    - Number of Dark Realms: 1
     - Bosses: 
-        - 
+        - Mezuki
+        - Minamoto no Yoshitsune
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Samurai's Locks X1
+        - Semiore Flute (accessory) (divine)
+        - Seto Taisho Soul Core
+        - Fabled Umbracite X1
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Dragon Whistle (accessory) (divine or below)
+        - Highest-Quality Ingot X3
+        - Highest-Quality Leather Cord X3
+        - Daion-Jin's Sake X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 An Encounter Among the Blossoms (Sub Mission)
@@ -4016,28 +4026,34 @@ An Encounter Among the Blossoms (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock The Tengu's Disciple (DLC 1) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 225
+    - Gold: 66,400
+    - Amrita: 498,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Vajra Splitstaff (LIGHTNING) (divine)
+        - Prayer Beads (accessory) (divine)
+        - Bakegani Pincers X2
+        - Embercite Crystal X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Glue X1
+        - Bakegani Pincers's X1
+        - Embercite Crystal X1
+        - Righteous Jasper X1
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Tale of the Taira (Sub Mission)
@@ -4045,28 +4061,65 @@ The Tale of the Taira (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock The Tengu's Disciple (DLC 1) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
+    - Recommended level: 226
+    - Gold: 67,000
+    - Amrita: 510,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
+    - Number of Sudama: 0
+    - Number of Hot Springs: 0
+    - Number of Dark Realms: 0
     - Bosses: 
-        - 
+        - Taira no Kagekiyo
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Chi-Azamaru (dual swords) (divine)
+        - Random Splitstaff (divine)
+        - Taira no Kagekiyo's Helmet (divine)
+        - Taira no Kagekiyo's Cuirass (divine)
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        - Taira no Kagekiyo's Waistguard (divine or below)
+        - Taira no Kagekiyo's Gauntlets (divine or below)
+        - Taira no Kagekiyo's Greaves (divine or below)
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==========
 Prisoners of the Stones (Sub Mission)
@@ -4074,28 +4127,31 @@ Prisoners of the Stones (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock The Tengu's Disciple (DLC 1) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
+    - Recommended level: 227
+    - Gold: 67,600
+    - Amrita: 522,776
+    - Shrine: Yes
+    - Torii Gate Expedition: Yes
+    - Number of Kodama: 0
     - Number of Sudama: 
-    - Number of Hot Springs: 
+    - Number of Hot Springs: 0
     - Number of Dark Realms: 
     - Bosses: 
-        - 
+        - None
     - Guardian Spirit Unlocked: 
         - None
     - Mission Rewards: 
     First Time: 
-        - 
+        - Samurai's Locks X1
+        - Tempest Splitstaff (WATER) (divine)
+        - Nuppeppo Liver X2
+        - Embercite Crystal X2
     ---------- ---------- ----------
     Subsequent Completes:
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Soul of the Warrior Monk (Sub Mission)
