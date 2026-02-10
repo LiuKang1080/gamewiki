@@ -22,19 +22,14 @@ Pools
         - The Defiled Sanctuary
         - The Mystery of Rashomon
         - The Island of Monsters
+        - The Cursed Castle Ruins
 
 
 ==========
 Week 1
 ==========
-Sunday:
-    - 
-    - 
-
-Monday:
-    - 
-    - 
-
+. . .
+. . .
 Tuesday:
     - The Blood Tainted Samurai
     - Darkness Brewing
@@ -63,8 +58,8 @@ Sunday:
     - The Island of Monsters
 
 Monday:
-    - 
-    - 
+    - The Blood Tainted Samurai
+    - The Cursed Castle Ruins
 
 Tuesday:
     - 
