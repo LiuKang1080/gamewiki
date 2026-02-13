@@ -66,16 +66,16 @@ Tuesday:
     - Darkness Brewing
 
 Wednesday:
-    - 
-    - 
+    - ???
+    - ???
 
 Thursday:
     - Wings of the Phoenix
     - The Bewitching Tower
 
 Friday:
-    - 
-    - 
+    - Mountain of the Dark Lord
+    - The Defiled Sanctuary
 
 Saturday:
     - 

@@ -25,7 +25,7 @@ TEMPLATE ()
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -58,7 +58,7 @@ The Way of the Warrior: Veteran (Dojo Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Way of the Ninja: Veteran (Dojo Mission)
@@ -87,7 +87,7 @@ The Way of the Ninja: Veteran (Dojo Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Way of Onmyo: Veteran (Dojo Mission)
@@ -116,7 +116,7 @@ The Way of Onmyo: Veteran (Dojo Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Opening of the Mind's Eye (Dojo Mission)
@@ -145,7 +145,7 @@ Opening of the Mind's Eye (Dojo Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Master of the Dual Blades (Dojo Mission)
@@ -174,7 +174,7 @@ Master of the Dual Blades (Dojo Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Hanzo the Demon (Dojo Mission)
@@ -203,7 +203,7 @@ Hanzo the Demon (Dojo Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Unmoving Mountain (Dojo Mission)
@@ -232,7 +232,7 @@ The Unmoving Mountain (Dojo Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Chain That Splits the Sky (Dojo Mission)
@@ -261,7 +261,7 @@ The Chain That Splits the Sky (Dojo Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Tengu's Blade (Dojo Mission)
@@ -290,7 +290,7 @@ The Tengu's Blade (Dojo Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Like Lightning (Dojo Mission)
@@ -319,7 +319,7 @@ Like Lightning (Dojo Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Unstoppable Whirlwind (Dojo Mission)
@@ -348,7 +348,7 @@ The Unstoppable Whirlwind (Dojo Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Sharp Eyes (Dojo Mission)
@@ -377,7 +377,7 @@ Sharp Eyes (Dojo Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The One Who Lives in the Shadows (Dojo Mission)
@@ -406,7 +406,7 @@ The One Who Lives in the Shadows (Dojo Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Nine Symbols (Dojo Mission)
@@ -435,7 +435,7 @@ The Nine Symbols (Dojo Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Breaking Free (Dojo Mission)
@@ -464,7 +464,7 @@ Breaking Free (Dojo Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Strike Like a Yokai (Dojo Mission)
@@ -493,7 +493,7 @@ Strike Like a Yokai (Dojo Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -526,7 +526,7 @@ The Violet Cherry Blossoms
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Traces of the Raging Blaze
@@ -555,7 +555,7 @@ Traces of the Raging Blaze
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Blood Tainted Samurai
@@ -584,7 +584,7 @@ The Blood Tainted Samurai
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Blood on the Wind
@@ -613,7 +613,7 @@ Blood on the Wind
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Cursed Castle Ruins
@@ -642,7 +642,7 @@ The Cursed Castle Ruins
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Defiled Sanctuary
@@ -671,7 +671,7 @@ The Defiled Sanctuary
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Mountain of the Dark Lord
@@ -700,7 +700,7 @@ Mountain of the Dark Lord
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Island of Monsters
@@ -729,7 +729,7 @@ The Island of Monsters
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Wings of the Phoenix
@@ -758,7 +758,7 @@ Wings of the Phoenix
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Darkness Brewing
@@ -787,7 +787,7 @@ Darkness Brewing
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Mystery of Rashomon
@@ -816,7 +816,7 @@ The Mystery of Rashomon
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Cradle of the Demon
@@ -845,7 +845,7 @@ The Cradle of the Demon
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Bewitching Tower
@@ -874,7 +874,7 @@ The Bewitching Tower
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -910,7 +910,7 @@ The Village of Cursed Blossoms (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Forest Veiled in Darkness (Sub Mission)
@@ -939,7 +939,7 @@ The Forest Veiled in Darkness (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Beast Born of Smoke and Flames (Main Mission)
@@ -968,7 +968,7 @@ The Beast Born of Smoke and Flames (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 A Voice in the Twilight (Sub Mission)
@@ -997,7 +997,7 @@ A Voice in the Twilight (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Dark Omens (Sub Mission)
@@ -1026,7 +1026,7 @@ Dark Omens (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Viper's Sanctum (Main Mission)
@@ -1055,7 +1055,7 @@ The Viper's Sanctum (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 A Favor for the Blacksmith (Sub Mission)
@@ -1084,7 +1084,7 @@ A Favor for the Blacksmith (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Search (Sub Mission)
@@ -1113,7 +1113,7 @@ The Search (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Greedy Hunter (Sub Mission)
@@ -1142,7 +1142,7 @@ The Greedy Hunter (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -1175,7 +1175,7 @@ The Hidden Monsters of Okehazama (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Imagawa Diehard (Sub Mission)
@@ -1204,7 +1204,7 @@ Imagawa Diehard (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Hidetatsu's Dying Wish (Sub Mission)
@@ -1233,7 +1233,7 @@ Hidetatsu's Dying Wish (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 An Error in Calculation (Sub Mission)
@@ -1262,7 +1262,7 @@ An Error in Calculation (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Mysterious One Night Castle (Main Mission)
@@ -1291,7 +1291,7 @@ The Mysterious One Night Castle (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Sunomata Yokai Hunt (Sub Mission)
@@ -1320,7 +1320,7 @@ The Sunomata Yokai Hunt (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 A Hot-blodded Howl (Sub Mission)
@@ -1349,7 +1349,7 @@ A Hot-blodded Howl (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Fire God's Magatama (Sub Mission)
@@ -1378,7 +1378,7 @@ The Fire God's Magatama (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Hollow Fortress (Main Mission)
@@ -1407,7 +1407,7 @@ The Hollow Fortress (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 An End to Seclusion (Sub Mission)
@@ -1436,7 +1436,7 @@ An End to Seclusion (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Shiftling's Wise Judgement (Sub Mission)
@@ -1465,7 +1465,7 @@ The Shiftling's Wise Judgement (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Viper and the Butterfly (Sub Mission)
@@ -1494,7 +1494,7 @@ The Viper and the Butterfly (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -1527,7 +1527,7 @@ A Way Out (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Learning A Lesson (Sub Mission)
@@ -1556,7 +1556,7 @@ Learning A Lesson (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Shrine of Oaths (Sub Mission)
@@ -1585,7 +1585,7 @@ The Shrine of Oaths (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Immovable (Sub Mission)
@@ -1614,7 +1614,7 @@ Immovable (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 A Formal Match (Sub Mission)
@@ -1643,7 +1643,7 @@ A Formal Match (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Corpses and Ice (Main Mission)
@@ -1672,7 +1672,7 @@ Corpses and Ice (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Lingering Snow and Crimson Tracks (Sub Mission)
@@ -1701,7 +1701,7 @@ Lingering Snow and Crimson Tracks (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Tiger Approaches (Sub Mission)
@@ -1730,7 +1730,7 @@ The Tiger Approaches (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Brother's Blades (Sub Mission)
@@ -1759,7 +1759,7 @@ The Brother's Blades (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 A Shadow's Duty (Sub Mission)
@@ -1788,7 +1788,7 @@ A Shadow's Duty (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Fallen Star (Sub Mission)
@@ -1817,7 +1817,7 @@ The Fallen Star (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Horns on Head, Dragonfly in Hand (Sub Mission)
@@ -1846,7 +1846,7 @@ Horns on Head, Dragonfly in Hand (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Bird In A Cage (Main Mission)
@@ -1875,7 +1875,7 @@ Bird In A Cage (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Point of No Return (Sub Mission)
@@ -1904,7 +1904,7 @@ The Point of No Return (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Golden Nation (Sub Mission)
@@ -1933,7 +1933,7 @@ The Golden Nation (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Demon King's Blade (Sub Mission)
@@ -1962,7 +1962,7 @@ The Demon King's Blade (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Child's Prodigy's Invitation (Sub Mission)
@@ -1991,7 +1991,7 @@ The Child's Prodigy's Invitation (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Chinese Bellflower Dagger (Sub Mission)
@@ -2020,7 +2020,7 @@ The Chinese Bellflower Dagger (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 A Strong Bond (Sub Mission)
@@ -2049,7 +2049,7 @@ A Strong Bond (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 
 ========== ========== ========== ========== ==========
@@ -2082,7 +2082,7 @@ Pervading Waters (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Missing Gun (Sub Mission)
@@ -2111,7 +2111,7 @@ The Missing Gun (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Refined Man of the Underworld (Sub Mission)
@@ -2140,7 +2140,7 @@ The Refined Man of the Underworld (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Song of the Yokai (Sub Mission)
@@ -2169,7 +2169,7 @@ Song of the Yokai (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Frenzied Blaze (Main Mission)
@@ -2198,7 +2198,7 @@ The Frenzied Blaze (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Burning Sky (Sub Mission)
@@ -2227,7 +2227,7 @@ The Burning Sky (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Abduction (Sub Mission)
@@ -2256,7 +2256,7 @@ Abduction (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Warrior (Sub Mission)
@@ -2285,7 +2285,7 @@ The Warrior (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Sun Sets on Mount Tenno (Main Mission)
@@ -2314,7 +2314,7 @@ The Sun Sets on Mount Tenno (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Aberrant Mage (Sub Mission)
@@ -2343,7 +2343,7 @@ The Aberrant Mage (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Third Word (Sub Mission)
@@ -2372,7 +2372,7 @@ The Third Word (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Master of the Three Evils (Sub Mission)
@@ -2401,7 +2401,7 @@ Master of the Three Evils (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 
 ========== ========== ========== ========== ==========
@@ -2434,7 +2434,7 @@ Ruin Draws Near (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Okuni's Search (Sub Mission)
@@ -2463,7 +2463,7 @@ Okuni's Search (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Farewell to the Past (Sub Mission)
@@ -2492,7 +2492,7 @@ Farewell to the Past (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Two Faces of Hospitality (Main Mission)
@@ -2521,7 +2521,7 @@ The Two Faces of Hospitality (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The High-Spirited Demon (Main Mission)
@@ -2550,7 +2550,7 @@ The High-Spirited Demon (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 A Message From the Deceased (Sub Mission)
@@ -2579,7 +2579,7 @@ A Message From the Deceased (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Stray Cats (Sub Mission)
@@ -2608,7 +2608,7 @@ Stray Cats (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Calling on the Fire God (Sub Mission)
@@ -2637,7 +2637,7 @@ Calling on the Fire God (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Scattered Fragments (Sub Mission)
@@ -2666,7 +2666,7 @@ Scattered Fragments (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 A Prayer in the Moonlight (Sub Mission)
@@ -2695,7 +2695,7 @@ A Prayer in the Moonlight (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 
 ========== ========== ========== ========== ==========
@@ -2728,7 +2728,7 @@ The Mausoleum of Evil (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Roaming Artisan (Sub Mission)
@@ -2757,7 +2757,7 @@ The Roaming Artisan (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Mataza of the Spear (Sub Mission)
@@ -2786,7 +2786,7 @@ Mataza of the Spear (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Golden Castle (Main Mission)
@@ -2815,7 +2815,7 @@ The Golden Castle (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Bravest of the Brave (Sub Mission)
@@ -2844,7 +2844,7 @@ The Bravest of the Brave (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Dream's End (Sub Mission)
@@ -2873,7 +2873,7 @@ The Dream's End (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Cherry Blossom Viewing in Daigo (Main Mission)
@@ -2902,7 +2902,7 @@ Cherry Blossom Viewing in Daigo (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Restoring Harmony (Sub Mission)
@@ -2931,7 +2931,7 @@ Restoring Harmony (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Japanese Heart, Yokai Smarts (Sub Mission)
@@ -2960,7 +2960,7 @@ Japanese Heart, Yokai Smarts (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Restless Spirits (Sub Mission)
@@ -2989,7 +2989,7 @@ Restless Spirits (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Scented Letter (Sub Mission)
@@ -3018,7 +3018,7 @@ The Scented Letter (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Yaksha Returns (Sub Mission)
@@ -3047,7 +3047,7 @@ Yaksha Returns (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Sealed Fate (Main Mission)
@@ -3076,7 +3076,7 @@ Sealed Fate (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 
 
@@ -3110,7 +3110,7 @@ The Blue-Eyed Samurai (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 In The Eye of the Beholder (Main Mission)
@@ -3139,7 +3139,7 @@ In The Eye of the Beholder (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Dawn of Hope (Sub Mission)
@@ -3168,7 +3168,7 @@ Dawn of Hope (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Trustworthy (Sub Mission)
@@ -3197,7 +3197,7 @@ The Trustworthy (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Winds of Ruin (Sub Mission)
@@ -3226,7 +3226,7 @@ Winds of Ruin (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Wave of Terror (Sub Mission)
@@ -3255,7 +3255,7 @@ Wave of Terror (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Calamity's Pulse (Sub Mission)
@@ -3284,7 +3284,7 @@ Calamity's Pulse (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 
 ========== ========== ========== ========== ==========
@@ -3317,7 +3317,7 @@ A Song to Calm the Storm (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Shadows Creep In Kurama (Sub Mission)
@@ -3346,7 +3346,7 @@ Shadows Creep In Kurama (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Lost Sword (Sub Mission)
@@ -3375,7 +3375,7 @@ The Lost Sword (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Loyal Retainer (Sub Mission)
@@ -3404,7 +3404,7 @@ The Loyal Retainer (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Eternal Rivals (Main Mission)
@@ -3433,7 +3433,7 @@ Eternal Rivals (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 An Encounter Among the Blossoms (Sub Mission)
@@ -3462,7 +3462,7 @@ An Encounter Among the Blossoms (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Tale of the Taira (Sub Mission)
@@ -3491,7 +3491,7 @@ The Tale of the Taira (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Prisoners of the Stones (Sub Mission)
@@ -3520,7 +3520,7 @@ Prisoners of the Stones (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Soul of the Warrior Monk (Sub Mission)
@@ -3549,7 +3549,7 @@ Soul of the Warrior Monk (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Bond of the Blade (Sub Mission)
@@ -3578,7 +3578,7 @@ Bond of the Blade (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 
 ========== ========== ========== ========== ==========
@@ -3611,7 +3611,7 @@ Suzune in the Flames (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Blighted Gate (Main Mission)
@@ -3640,7 +3640,7 @@ The Blighted Gate (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Buddha's Palm (Sub Mission)
@@ -3669,7 +3669,7 @@ The Buddha's Palm (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Insatiable Bloodlust (Sub Mission)
@@ -3698,7 +3698,7 @@ Insatiable Bloodlust (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Palace of the Damned (Main Mission)
@@ -3727,7 +3727,7 @@ Palace of the Damned (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Boundless Chaos (Sub Mission)
@@ -3756,7 +3756,7 @@ Boundless Chaos (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Sweet Scent of Plums (Sub Mission)
@@ -3785,7 +3785,7 @@ The Sweet Scent of Plums (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Demon Slayers (Sub Mission)
@@ -3814,7 +3814,7 @@ The Demon Slayers (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 A Storm in the Underworld (Sub Mission)
@@ -3843,7 +3843,7 @@ A Storm in the Underworld (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Revelry Ends (Sub Mission)
@@ -3872,7 +3872,7 @@ The Revelry Ends (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Dragon Clan (Sub Mission)
@@ -3901,7 +3901,7 @@ The Dragon Clan (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 
 ========== ========== ========== ========== ==========
@@ -3934,7 +3934,7 @@ Dawn of the Demon (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 In Search of the Elixir (Sub Mission)
@@ -3963,7 +3963,7 @@ In Search of the Elixir (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Words of Respite (Sub Mission)
@@ -3992,7 +3992,7 @@ Words of Respite (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 A Distant Dream (Main Mission)
@@ -4021,7 +4021,7 @@ A Distant Dream (Main Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 The Alluring Ancient (Sub Mission)
@@ -4050,7 +4050,7 @@ The Alluring Ancient (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Battle at the Temple (Sub Mission)
@@ -4079,7 +4079,7 @@ Battle at the Temple (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Against All Comers (Sub Mission)
@@ -4108,7 +4108,7 @@ Against All Comers (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 A Spirit's Return (Sub Mission)
@@ -4137,7 +4137,7 @@ A Spirit's Return (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 A Familiar Glow (Sub Mission)
@@ -4166,7 +4166,7 @@ A Familiar Glow (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Rivals Return (Sub Mission)
@@ -4195,7 +4195,7 @@ Rivals Return (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
 
 ==========
 Undying Light (Sub Mission)
@@ -4224,4 +4224,4 @@ Undying Light (Sub Mission)
         - 
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        - None
