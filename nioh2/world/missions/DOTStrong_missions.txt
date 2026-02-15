@@ -1534,7 +1534,7 @@ The Sunomata Yokai Hunt (Sub Mission)
         - None
 
 ==========
-A Hot-blodded Howl (Sub Mission)
+A Hot-blooded Howl (Sub Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "In The Eye of the Beholder" [Dream of the Samurai].

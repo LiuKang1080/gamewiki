@@ -8,21 +8,21 @@ Daily Twilight Mission Information
 Pools
 ==========
     Pool 1 (L2 / LT):
-        - The Blood Tainted Samurai
-        - The Violet Cherry Blossoms
-        - The Cradle of the Demon
-        - Wings of the Phoenix
         - Mountain of the Dark Lord
+        - The Blood Tainted Samurai
+        - The Cradle of the Demon
+        - The Violet Cherry Blossoms
         - Traces of the Raging Blaze
+        - Wings of the Phoenix
 
     Pool 2 (R2 / RT):
-        - Darkness Brewing
         - Blood on the Wind
+        - Darkness Brewing
         - The Bewitching Tower
-        - The Defiled Sanctuary
-        - The Mystery of Rashomon
-        - The Island of Monsters
         - The Cursed Castle Ruins
+        - The Defiled Sanctuary
+        - The Island of Monsters
+        - The Mystery of Rashomon
 
 
 ==========
@@ -78,8 +78,8 @@ Friday:
     - The Defiled Sanctuary
 
 Saturday:
-    - 
-    - 
+    - Traces of the Raging Blaze
+    - The Mystery of Rashomon
 
 ==========
 Week 3
