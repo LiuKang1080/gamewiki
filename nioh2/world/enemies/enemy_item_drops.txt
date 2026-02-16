@@ -603,11 +603,17 @@ Kiryoki
     - 
 
 Seto Taisho / Benkei (boss)
-    - Soul Core
-    - 
+    - Seto Taisho Soul Core
+    - Hidden Skill: Roar Power (Splitstaff)
+    - Smithing Text: Benkei's Axe
+    - Smithing Text: Benkei's Splitstaff
+    - Smithing Text: Benkei's Armor
     ----------
-    - Stone
-    - 
+    - Benkei's Hood
+    - Benkei's Cuirass
+    - Benkei's Gauntlets
+    - Benkei's Waistguard
+    - Benkei's Greaves
     ----------
     - Gold
     - [random rarity] random equippable item
