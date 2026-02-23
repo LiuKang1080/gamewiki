@@ -31,11 +31,12 @@ TEMPLATE ()
 ==========
 Other Notes:
 ==========
-    - Twilight Missions in this difficulty are automatically unlocked when the region their main mission is in are unlocked.
-    - All missions in the Awakening Region (region 1) are automatically unlocked after beating the mission In the Eye of the
-        Beholder in Dream of the Samurai difficulty.
-    - All missions in the Soaring Region (region 2) are automatically unlocked after beating the mission In the Eye of the
-        Beholder in Dream of the Samurai difficulty.
+    - Twilight Missions in this difficulty are automatically unlocked when the region their main mission is in are 
+        unlocked.
+    - All missions in the Awakening Region (region 1) are automatically unlocked after beating the mission In the Eye 
+        of the Beholder in Dream of the Samurai difficulty.
+    - All missions in the Soaring Region (region 2) are automatically unlocked after beating the mission In the Eye of
+        the Beholder in Dream of the Samurai difficulty.
     - The Shadow Region (region 3) is fully unlocked after completing 4 missions.
     - The Dawn Region (region 4) and the Twilight Region (region 5) are fully unlocked after completing 8 missions.
     - The following Dojo Missions are unlocked after completing 8 missions:
@@ -3690,7 +3691,8 @@ Dawn of Hope (Sub Mission)
         - Highest-Quality Leather Cord X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - Unlocks the Smithing Text: Kodama Bowl after completing this mission if all other main and sub mission are complete.
+        - Unlocks the Smithing Text: Kodama Bowl after completing this mission if all other main and sub mission are
+            complete. (Does not include Online Missions)
 
 ==========
 The Trustworthy (Sub Mission)

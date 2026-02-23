@@ -1,7 +1,8 @@
 ========== ========== ========== ========== ==========
 General Info
 ========== ========== ========== ========== ==========
-    - [Tech] Gesture Icons are 83 x 83 pixels [need to place the icon in the middle column, and then extract the image].
+    - [Tech] Gesture Icons are 83 x 83 pixels 
+        [need to place the icon in the middle column, and then extract the image].
 
     - There are a total of X gestures in the game.
     - Gestures are account bound, and the player does not need to collect the same gesture multiple times.
@@ -63,7 +64,8 @@ Neutral Gestures: (8)
     - [img complete] SIT CROSS LEGGED (2,500 Glory)
     - [img complete] DOJO GREETING (2,500 Glory)
     - [img complete] HIDE (3,500 Glory)
-    - [img complete] SOB (3,500 Glory) | Gesture can also be obtained by talking to Saito Toshimitsu in the Interim while character transformed as Fuku.
+    - [img complete] SOB (3,500 Glory) | Gesture can also be obtained by talking to Saito Toshimitsu in the Interim 
+        while character transformed as Fuku.
 
 Hostile Gestures: (3)
     - [img complete] STIFLE A LAUGH (2,500 Glory)
@@ -128,5 +130,6 @@ Hostile Gestures: (18)
     - [img complete] SUMO MOVE: The Unmoving Mountain (mission reward).
     - [img complete] SHURIKEN STARS: Like Lightning (mission reward).
     - [img complete] SUMO VICTORY: The Unstoppable Whirlwind (mission reward).
-    - [img complete] MOVE!: Talk to Tokichiro in the main mission: The Hidden Monsters of Okehazama on Dream of the Strong difficulty.
+    - [img complete] MOVE!: Talk to Tokichiro in the main mission: The Hidden Monsters of Okehazama on Dream of the 
+        Strong difficulty (NG+1).
     - [img complete] FRUSTRATION: Attack or fail at mimmicing the proper gesture to a Mujina, and kill it. 

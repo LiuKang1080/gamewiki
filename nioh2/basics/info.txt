@@ -13,17 +13,18 @@
     - [img complete] Fists: Strength +1
 
     - It is recommended to choose Splitstaff and the Fists.
-    - All other weapons can be obtained from the Boons section at the Shrine (Nioh 2 Complete Edition / The Nioh Collection).
+    - All other weapons can be obtained from the Boons section at the Shrine (Nioh 2 Complete Edition / The Nioh 
+        Collection).
 
 - Guardian Spirits give another +1 to specific attributes:
     - Makami (the fierce wolf) (brute): Strength +1
     - Kagewani (the dark phantasm) (phantom): Magic +1
     - Ame-no-Mitori (the swift bird) (feral): Heart +1
 
-    - The order matters: The order is Feral --> Phantom --> Brute. Regardless of which spirit is chosen, the next one in line to 
-        the right will be given to you. (read and move to the right).
-    - The next opportunity to get one of these spirits is The Shrine of Oaths. The final opportunity to get the final 3rd spirit is 
-        The Point of No Return.
+    - The order matters: The order is Feral --> Phantom --> Brute. Regardless of which spirit is chosen, the next one 
+        in line to the right will be given to you. (read and move to the right).
+    - The next opportunity to get one of these spirits is The Shrine of Oaths. The final opportunity to get the final 
+        3rd spirit is The Point of No Return.
         - Test 1: Brute is chosen 1st --> Completing The Shrine of Oaths gives: Feral --> The Point of No Return gives: Phantom [true].
         - Test 2: Phantom is chosen 1st --> Completing The Shrine of Oaths gives: Brute --> The Point of No Return gives: Feral [true].
         - Test 3: Feral is chosen 1st --> Completing The Shrine of Oaths gives: Phantom --> The Point of No Return gives: Brute [true].

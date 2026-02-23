@@ -36,7 +36,7 @@ const initApp = () => {
 // call the initApp function
 /*
     - listen to when the full HTML DOM has loaded, then call the initApp function
-    - If we try and call the function before the DOM has loaded in the buttons won't exist. Wait for the DOM to fully load, and
-        then call the initApp function.
+    - If we try and call the function before the DOM has loaded in the buttons won't exist. Wait for the DOM to fully
+        load, and then call the initApp function.
 */
 document.addEventListener("DOMContentLoaded", initApp);

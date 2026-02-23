@@ -3075,7 +3075,8 @@ Master of the Three Evils (Sub Mission)
     - Mission Unlock Requirement:
         - Complete the mission: "The Sun Sets on Mount Tenno".
         - Complete the mission: "The Refined Man of the Underworld".
-        - Complete the mission: "Master of the Dual Blades" (Unlocked after completing the Main Mission: Ruin Draws Near (Twilight Region | Region 5)).
+        - Complete the mission: "Master of the Dual Blades" (Unlocked after completing the Main Mission: Ruin Draws 
+            Near (Twilight Region | Region 5)).
     --------------------
     - Recommended level: 80
     - Gold: 17,800

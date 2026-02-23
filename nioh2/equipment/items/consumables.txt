@@ -4,86 +4,86 @@ Hair Locks (all are Exotic rarity)
 Samurai's Locks:
     A lock of hair from a samurai who fell in battle, it is used to obtained 1 samurai skill point
     ----------
-    Since ancient times the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
-    who keep it on their person.
+    Since ancient times the hair of the deceased was said to harbor mystical powers that grant strength and protection 
+    to those who keep it on their person.
 
 Swordsman's Locks:
     A lock of hair from a master swordsmans who fell in battle. It is used to obtained 1 sword skill point.
     ----------
-    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
-    who keep it on their person.
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection 
+    to those who keep it on their person.
 
 Dual Swordsman's Locks:
     A lock of hair from a master dual swordsmans who fell in battle. It is used to obtained 1 dual sword skill point.
     ----------
-    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
-    who keep it on their person.
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection 
+    to those who keep it on their person.
 
 Spearman's Locks:
     A lock of hair from a master spearman who fell in battle. It is used to obtained 1 spear skill point.
     ----------
-    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
-    who keep it on their person.
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection 
+    to those who keep it on their person.
 
 Axeman's Locks:
     A lock of hair from a master axeman who fell in battle. It is used to obtained 1 axe skill point.
     ----------
-    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
-    who keep it on their person.
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection 
+    to those who keep it on their person.
 
 Kusarigama Wielder's Locks:
     A lock of hair from a master kusarigama wielder who fell in battle. It is used to obtained 1 kusarigama skill point.
     ----------
-    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
-    who keep it on their person.
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection 
+    to those who keep it on their person.
 
 Odachi Wielder's Locks:
     A lock of hair from an odachi master who fell in battle. It is used to obtained 1 odachi skill point.
     ----------
-    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
-    who keep it on their person.
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection 
+    to those who keep it on their person.
 
 Tonfa Wielder's Locks:
     A lock of hair from an tonfa master who fell in battle. It is used to obtained 1 tonfa skill point.
     ----------
-    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
-    who keep it on their person.
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection 
+    to those who keep it on their person.
 
 Hatchet Wielder's Locks:
     A lock of hair from an hatchets master who fell in battle. It is used to obtained 1 hatchet skill point.
     ----------
-    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
-    who keep it on their person.
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection 
+    to those who keep it on their person.
 
 Switchglaive Wielder's Locks:
     A lock of hair from an switchglaive master who fell in battle. It is used to obtained 1 switchglaive skill point.
     ----------
-    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
-    who keep it on their person.
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection 
+    to those who keep it on their person.
 
 Splitstaff Wielder's Locks:
     A lock of hair from an splitstaff master who fell in battle. It is used to obtained 1 splitstaff skill point.
     ----------
-    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
-    who keep it on their person.
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection 
+    to those who keep it on their person.
 
 Fist Wielder's Locks:
     A lock of hair from a master fist wielder who fell in battle. It is used to obtained 1 fist skill point.
     ----------
-    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
-    who keep it on their person.
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection 
+    to those who keep it on their person.
 
 Ninja's Locks:
     A lock of hair from a ninja who fell in battle. It is used to obtained 1 Ninja skill point.
     ----------
-    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
-    who keep it on their person.
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection 
+    to those who keep it on their person.
 
 Onmyo Mage's Locks:
     A lock of hair from an Onmyo Mage who fell in battle. It is used to obtained 1 Onmyo skill point.
     ----------
-    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection to those
-    who keep it on their person.
+    Since ancient time the hair of the deceased was said to harbor mystical powers that grant strength and protection 
+    to those who keep it on their person.
 
 
 ========== ========== ========== ========== ==========
@@ -100,28 +100,29 @@ Summoner's Candle (exotic):
     This rare item is made of natural wax extracted from fruits that bloom only once every eight years.
 
 Book of Reincarnation (exotic):
-    When used, you will re-acquire all Amrita used up until that point. [red text] However, this will reset your level. (This 
-    item cannot be used during a mission.)
+    When used, you will re-acquire all Amrita used up until that point. [red text] However, this will reset your level. 
+    (This item cannot be used during a mission.)
     ----------
     This text details the secrets of life, death, and rebirth.
 
 Zen Manual (exotic):
-    You can use this item to gain back all prestige points previously invested in titles. [red text] All prestige titles you've 
-    acquired up until now will be reset. It cannot be used during a mission.
+    You can use this item to gain back all prestige points previously invested in titles. [red text] All prestige titles
+    you've acquired up until now will be reset. It cannot be used during a mission.
     ----------
-    A Zen Manual of study containing philosophical passages and problems called koan. Meditating upon them is said to grant
-    greater insight into the self.
+    A Zen Manual of study containing philosophical passages and problems called koan. Meditating upon them is said to 
+    grant greater insight into the self.
 
 Harakiri Sword (exotic):
     Use this item to commit harakiri. [red text] (You will lose all Amrita and return to the nearest Shrine.)
     ----------
-    The short sword used in the ritual suicide of a famous general. Harakiri, also known as seppuku, was a ritual suicide by
-    disembowelment to atone for carelessness or to show regret for one's actions. The person commiting harakiri retained their
-    honor by showing the determination to accept the ultimate responsibility and punishment for their transgressions.
+    The short sword used in the ritual suicide of a famous general. Harakiri, also known as seppuku, was a ritual 
+    suicide by disembowelment to atone for carelessness or to show regret for one's actions. The person commiting 
+    harakiri retained their honor by showing the determination to accept the ultimate responsibility and punishment 
+    for their transgressions.
 
 Divine Branch Fragment (exotic):
-    Using this ite consumes all of your Amrita, but allows you to quit a mission and return to the starting point. (In certain
-    missions and the tutorial, using it will not cost you Amrita.)
+    Using this ite consumes all of your Amrita, but allows you to quit a mission and return to the starting point. 
+    (In certain missions and the tutorial, using it will not cost you Amrita.)
     ----------
     A splinter of a sacred tree used as a holy vessel in religious rituals.
 
@@ -138,38 +139,38 @@ Sacred Ash (rare):
 Red Spider Lily (rare):
     Use to greatly increase your Anima.
     ----------
-    The fully bloomed corolla of a Red Spider Lily. The flower's Japanese name, Higanbana, came about due to them typically
-    blooming during the fall equinox event, Higane, a time when people would pray for the souls of their ancestors. Ingesting
-    one of these poisonous flowers could also lead to death, sending one to Higan or "the other side", further cementing the
-    connection.
+    The fully bloomed corolla of a Red Spider Lily. The flower's Japanese name, Higanbana, came about due to them 
+    typically blooming during the fall equinox event, Higane, a time when people would pray for the souls of their 
+    ancestors. Ingesting one of these poisonous flowers could also lead to death, sending one to Higan or "the other 
+    side", further cementing the connection.
 
-    The flower goes by countless names, "corpse flowers", "hell flowers", "ghost flowers", to name but a few. While it has some
-    auspicious names, the great majority of them have an ominous tone.
+    The flower goes by countless names, "corpse flowers", "hell flowers", "ghost flowers", to name but a few. While it
+    has some auspicious names, the great majority of them have an ominous tone.
 
 Shinobi Box (rare):
     Restores 30% of Ninjutsu Items that you prepared at a Shrine.
     ----------
-    Contains a surprising number of various ninja tools given the container's compact size. Use it to restore 30% of the Ninjutsu
-    items you previously prepared at a shrine.
+    Contains a surprising number of various ninja tools given the container's compact size. Use it to restore 30% of 
+    the Ninjutsu items you previously prepared at a shrine.
 
 Sacred Brush (rare):
     Restores 30% of Onmyo Magic Items that you prepared at a Shrine.
     ----------
-    A ritually purified brush that restores 30% of the Onmyo Magic items you previously prepared at a Shrine. It has been
-    ceremonially sprinkled with sacred water collected just as the sun rose.
+    A ritually purified brush that restores 30% of the Onmyo Magic items you previously prepared at a Shrine. It has 
+    been ceremonially sprinkled with sacred water collected just as the sun rose.
 
 Noble Dung Ball (rare):
     Counts as 2 Dung Balls. Exchange with Ryunojo the Dung Lover in the Main Mission: A Bird In A Cage
     ----------
-    Excrement harvested from aristocrats, normally used as high quality fertilizer. Use it on an enemy to lower athe effect of any
-    medicines they use, and also drastically lower their guard.
+    Excrement harvested from aristocrats, normally used as high quality fertilizer. Use it on an enemy to lower the 
+    effect of any medicines they use, and also drastically lower their guard.
 
 Righteous Jasper (rare):
-    This precious stone glows with a mysterious light. Legend has it that it grows in the soil of battlefields, born from the
-    blood of fallen soldiers. It is consequently prized amongst warriors.
+    This precious stone glows with a mysterious light. Legend has it that it grows in the soil of battlefields, born 
+    from the blood of fallen soldiers. It is consequently prized amongst warriors.
 
-    When used, a Benevolent Grave will be placed where you are standing. You may not use the Benevolent Grave youself, but you will
-    gain rewards in proportion to the numnber of times it is used by other players.
+    When used, a Benevolent Grave will be placed where you are standing. You may not use the Benevolent Grave youself, 
+    but you will gain rewards in proportion to the numnber of times it is used by other players.
 
 
 
