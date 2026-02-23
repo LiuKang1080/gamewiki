@@ -9,6 +9,7 @@ Gaki / Gaki (big)
     - Warped Jawbone
     ----------
     - Stone
+    - Elixir
     - Gunpowder Bomb
     - Yokai Water Pot
     ----------
@@ -33,34 +34,7 @@ Human
     - Arrow
     - Sacred Arrow
     - Iron Platelet
-    - Highest-Quality Wood
-    - Highest-Quality Ingot
-    - Highest-Quality Lacquer
-    - Highest-Quality Leather Cord
-    - Highest-Quality Iron Platelet
-    - Highest-Quality Leather Platelet
-
-Sohaya Warrior
-    - 
-    - Sohaya Cuirass
-    - 
-    - Sohaya Waistguard
-    - Sohaya Greaves
-    - Smithing Text: Sohaya Garb
-    ----------
-    - Elixir
-    - Stone
-    - Salt
-    - Gunpowder Bomb
-    - Shrapnel Bomb
-    - Uchiko Powder
-    - Righteous Jasper
-    ----------
-    - Gold
-    - [random rarity] random equippable item
-    - Arrow
-    - Sacred Arrow
-    - Iron Platelet
+    - Quality Iron Platelet
     - Highest-Quality Wood
     - Highest-Quality Ingot
     - Highest-Quality Lacquer
@@ -95,6 +69,7 @@ Yoki
 Gozuki (boss)
     - Gozuki Soul Core
     - Large Crooked Horn
+    - Village Cemetery Key
     ----------
     - Righteous Jasper
     - 
@@ -121,6 +96,34 @@ Ippon-Datara
     ----------
     - Gold
     - [random rarity] random equippable item
+    - Highest-Quality Leather Platelet
+
+Sohaya Warrior
+    - 
+    - Sohaya Cuirass
+    - 
+    - Sohaya Waistguard
+    - Sohaya Greaves
+    - Smithing Text: Sohaya Garb
+    ----------
+    - Elixir
+    - Stone
+    - Salt
+    - Gunpowder Bomb
+    - Shrapnel Bomb
+    - Uchiko Powder
+    - Righteous Jasper
+    ----------
+    - Gold
+    - [random rarity] random equippable item
+    - Arrow
+    - Sacred Arrow
+    - Iron Platelet
+    - Highest-Quality Wood
+    - Highest-Quality Ingot
+    - Highest-Quality Lacquer
+    - Highest-Quality Leather Cord
+    - Highest-Quality Iron Platelet
     - Highest-Quality Leather Platelet
 
 Kappa
