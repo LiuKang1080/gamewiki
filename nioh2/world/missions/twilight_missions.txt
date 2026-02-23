@@ -1,7 +1,7 @@
 ========== ========== ==========
 Daily Twilight Mission Information
 ========== ========== ==========
-    - Data recording start date: 2/3/2026 (Feb, 3rd, 2026)
+    - Data recording start date: 2/22/2026 (Feb, 22nd, 2026)
 
 
 ==========
@@ -28,69 +28,75 @@ Pools
 ==========
 Week 1
 ==========
-. . .
-. . .
+Sunday:
+    - The Violet Cherry Blossoms
+    - The Island of Monsters
+
+Monday:
+    - 
+    - 
+
 Tuesday:
-    - The Blood Tainted Samurai
-    - Darkness Brewing
+    - 
+    - 
 
 Wednesday:
-    - The Violet Cherry Blossoms
-    - Blood on the Wind
+    - 
+    - 
 
 Thursday:
-    - The Cradle of the Demon
-    - The Bewitching Tower
+    - 
+    - 
 
 Friday:
-    - Wings of the Phoenix
-    - The Defiled Sanctuary
+    - 
+    - 
 
 Saturday:
-    - Mountain of the Dark Lord
-    - The Mystery of Rashomon
+    - 
+    - 
 
 ==========
 Week 2
 ==========
 Sunday:
-    - Traces of the Raging Blaze
-    - The Island of Monsters
+    - 
+    - 
 
 Monday:
-    - The Blood Tainted Samurai
-    - The Cursed Castle Ruins
+    - 
+    - 
 
 Tuesday:
-    - The Violet Cherry Blossoms
-    - Darkness Brewing
+    - 
+    - 
 
 Wednesday:
-    - ???
-    - ???
+    - 
+    - 
 
 Thursday:
-    - Wings of the Phoenix
-    - The Bewitching Tower
+    - 
+    - 
 
 Friday:
-    - Mountain of the Dark Lord
-    - The Defiled Sanctuary
+    - 
+    - 
 
 Saturday:
-    - Traces of the Raging Blaze
-    - The Mystery of Rashomon
+    - 
+    - 
 
 ==========
 Week 3
 ==========
 Sunday:
-    - The Blood Tainted Samurai
-    - The Island of Monsters
+    - 
+    - 
 
 Monday:
-    - The Violet Cherry Blossoms
-    - The Cursed Castle Ruins
+    - 
+    - 
 
 Tuesday:
     - 
@@ -101,8 +107,8 @@ Wednesday:
     - 
 
 Thursday:
-    - Mountain of the Dark Lord
-    - The Bewitching Tower
+    - 
+    - 
 
 Friday:
     - 
@@ -176,6 +182,68 @@ Saturday:
 
 ==========
 Week 6
+==========
+Sunday:
+    - 
+    - 
+
+Monday:
+    - 
+    - 
+
+Tuesday:
+    - 
+    - 
+
+Wednesday:
+    - 
+    - 
+
+Thursday:
+    - 
+    - 
+
+Friday:
+    - 
+    - 
+
+Saturday:
+    - 
+    - 
+
+==========
+Week 7
+==========
+Sunday:
+    - 
+    - 
+
+Monday:
+    - 
+    - 
+
+Tuesday:
+    - 
+    - 
+
+Wednesday:
+    - 
+    - 
+
+Thursday:
+    - 
+    - 
+
+Friday:
+    - 
+    - 
+
+Saturday:
+    - 
+    - 
+
+==========
+Week 8
 ==========
 Sunday:
     - 
