@@ -16,7 +16,8 @@ Ninjutsu Capacity
         Dexterity.
         - +2 at attribute 6
         - +1 from attribute 7 to 9
-        - +2 at attribute 10 
+        - +2 at attribute 10
+        - 
 
 
 ========== ========== ==========
@@ -27,6 +28,7 @@ Onmyo Magic Capacity
         - +2 at attribute 6
         - +1 from attribute 7 to 9
         - +2 at attribute 10
+        - 
 
 
 ========== ========== ==========
@@ -44,6 +46,28 @@ Weapon Proficiency Requirments
 
 
 ========== ========== ==========
+Ninjutsu Proficiency Requirments
+========== ========== ==========
+    - Ninjutsu starts at lvl 1, with 0 proficiency.
+    - Required proficiency for level:
+        lvl 1: 0
+        lvl 2: 800
+        lvl 3: 2,000
+        lvl 4: 
+
+
+========== ========== ==========
+Onmyo Magic Proficiency Requirments
+========== ========== ==========
+    - Onmyo Magic starts at lvl 1, with 0 proficiency.
+    - Required proficiency for level:
+        lvl 1: 0
+        lvl 2: 800
+        lvl 3: 2,000
+        lvl 4: 
+
+
+========== ========== ==========
 Shiftling Proficiency Requirments
 ========== ========== ==========
     - Shiftling starts at lvl 1, with 0 Soul Fragments.
@@ -54,23 +78,5 @@ Shiftling Proficiency Requirments
         lvl 2: 1,000
         lvl 3: 2,000
         lvl 4: 3,600
-        lvl 5: 5,600
+        lvl 5: 5,600 (Accumulate enough Astral Wisdom to unlock new skills)
         lvl 6: 
-
-
-========== ========== ==========
-Ninjutsu Proficiency Requirments
-========== ========== ==========
-    - Ninjutsu starts at lvl 1, with 0 proficiency.
-    - Required proficiency for level:
-        lvl 1: 0
-        lvl 2: 800
-
-
-========== ========== ==========
-Onmyo Magic Proficiency Requirments
-========== ========== ==========
-    - Onmyo Magic starts at lvl 1, with 0 proficiency.
-    - Required proficiency for level:
-        lvl 1: 0
-        lvl 2: 

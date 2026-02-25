@@ -186,6 +186,11 @@ The Beast Born of Smoke and Flames (Main Mission)
         - Righteous Jasper
         - Divine Branch
 
+    Smithing Materials:
+    --------------------
+        - All smithing materials are unlocked after completing "A Beast Born of Smoke and Flames" and unlocking the
+            blacksmith.
+
 ==========
 The Viper's Sanctum (Main Mission)
 ==========

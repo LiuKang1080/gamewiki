@@ -1270,7 +1270,7 @@ The Village of Cursed Blossoms (Main Mission)
         - Quality Leather Cord x3
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - Gain Samurai Skill points in level.
+        - None
 
 ==========
 The Forest Veiled in Darkness (Sub Mission)
@@ -1342,8 +1342,6 @@ The Beast Born of Smoke and Flames (Main Mission)
     Notable Items During / Post Mission:
         - Ninja's Locks.
         - Onmyo Mage's Locks.
-        - Gain Samurai Skill point in level.
-        - Gain Shiftling point in level.
         - Unlocks Agyo Titles after beating mission.
         - Unlocks Ungyo Titles after beating mission.
         - Unlocks the Blacksmith option at the Starting Point after beating mission.
