@@ -49,6 +49,7 @@ Gaki / Gaki (big)
     ----------
     - Stone
     - Elixir
+    - Antidote
     - Gunpowder Bomb
     - Yokai Water Pot
 
@@ -62,8 +63,19 @@ Human
     - Sacred Arrow
     - Gunpowder Bomb
     - Shrapnel Bomb
+    - Divine Rice
     - Uchiko Powder
     - Righteous Jasper
+
+Ninja
+    - 
+    ----------
+    - Elixir
+
+Ninja Dog
+    - 
+    ----------
+    - 
 
 Enki
     - Enki Soul Core
@@ -97,12 +109,13 @@ Scampuss
     - Clay Bell of Beckoning
 
 Sohaya Warrior
+    - Smithing Text: Sohaya Garb
+    - Smithing Text: Sohaya Armor
     - 
     - Sohaya Cuirass
     - 
     - Sohaya Waistguard
     - Sohaya Greaves
-    - Smithing Text: Sohaya Garb
     ----------
     - Elixir
     - Stone
@@ -135,21 +148,22 @@ Mujina
     - Mujina Soul Core
     - 
     ----------
-    - 
+    - Fire Amulet
 
 Kappa
     - Soul Core
-    - 
+    - Kappa Shell
     ----------
-    - 
+    - Elixir
 
 Nurikabe
     - Nurikabe Soul Core
     - 
     ----------
     - Elixir
+    - Stone
     - Whetstone
-    - 
+    - Divine Rice
 
 Enenra (boss)
     - Enenra Soul Core
@@ -175,45 +189,61 @@ Thunderstorm Oni-Bi
     ----------
     - 
 
-Nure-Onna
-    - Soul Core
-    - 
-    ----------
-    - 
-
 Aberrant Soldier
-    - Soul Core
-    - 
+    - Aberrant Soldier Soul Core
+    - Aberrant Spirit Stone
     ----------
     - Stone
+    - Arrow
     - Sacred Arrow
+
+One-Eyed Imp
+    - Soul Core
+    - One-Eyed Imp's Clogs
+    ----------
+    - Stone
+    - Elixir
+
+One-Eyed Oni / Snowclops
+    - Soul Core
+    - One-Eyed Oni Loincloth
+    ----------
+    - Stone
+    - Elixir
+    - Divine Branch
+
+Karasu Tengu
+    - Karasu Tengu Soul Core
+    - Karasu Tengu Feather
+    - Tengu's Fan
+    ----------
+    - Elixir
+    - 
+
+Nure-Onna
+    - Nure-Onna Soul Core
+    - Glowing Lock of Wet Hair
+    ----------
+    - Elixir
+    - Antidote
+    - Antiparalytic Needle
+    - Divine Rice
 
 Toxic Slime
     - Soul Core
-    - 
+    - Poison Pearl
     ----------
-    - 
+    - Elixir
+    - Antidote
 
 Yatsu-no-Kami (boss)
     - Yatsu-no-Kami Soul Core
     ----------
-    - Antidote
     - Elixir
+    - Antidote
+    - Divine Rice
 
 Yamanba
-    - Soul Core
-    - 
-    ----------
-    - 
-
-One-Eyed Oni / Snowclops
-    - Soul Core
-    - 
-    ----------
-    - Stone
-    - Elixir
-
-Karasu Tengu
     - Soul Core
     - 
     ----------
