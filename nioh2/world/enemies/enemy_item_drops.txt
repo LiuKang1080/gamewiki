@@ -230,6 +230,7 @@ Karasu Tengu
 Nure-Onna
     - Nure-Onna Soul Core
     - Glowing Lock of Wet Hair
+    - Smithing Text: Bloodspider Blade
     ----------
     - Elixir
     - Antidote
@@ -237,7 +238,7 @@ Nure-Onna
     - Divine Rice
 
 Toxic Slime
-    - Soul Core
+    - Toxic Slime Soul Core
     - Poison Pearl
     ----------
     - Elixir

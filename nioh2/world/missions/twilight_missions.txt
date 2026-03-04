@@ -72,8 +72,8 @@ Tuesday:
     - Darkness Brewing
 
 Wednesday:
-    - 
-    - 
+    - Traces of the Raging Blaze
+    - Blood on the Wind
 
 Thursday:
     - 

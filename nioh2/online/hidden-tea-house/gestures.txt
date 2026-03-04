@@ -82,7 +82,8 @@ Dream of the Samurai (NG)
 TOTAL: 47
 Friendly Gestures: (17)
     - [img complete] DON'T WORRY: Forest Veiled in Darkness (mission reward).
-    - [img complete] OVERJOYED: The Beast Born of Smoke and Flames (successfully interact with your first Mujina).
+    - [img complete] OVERJOYED: Successfully interact with your first Mujina. (Can be done at the earliest in the 
+        mission: The Beast Born of Smoke and Flames)
     - [img complete] PROSTRATE: The Beast Born of Smoke and Flames (mission reward).
     - [img complete] KAPPA DANCE: The Sunomata Yokai Hunt (mission reward).
     - [img complete] SORRY!: A Hot-blodded Howl (mission reward).

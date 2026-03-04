@@ -158,7 +158,7 @@ Ninjutsu Proficiency Requirments
         lvl 4: 3,600
         lvl 5: 5,600
         lvl 6: 8,000
-        lvl 7: 
+        lvl 7: 11,000
         lvl 8: 
         lvl 9: 
         lvl 10: 
@@ -215,7 +215,7 @@ Onmyo Magic Proficiency Requirments
         lvl 4: 3,600
         lvl 5: 5,600
         lvl 6: 8,000
-        lvl 7: 
+        lvl 7: 11,000
         lvl 8: 
         lvl 9: 
         lvl 10: 
