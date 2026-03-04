@@ -43,8 +43,8 @@ Weapon Proficiency Requirments
         lvl 5: 5,600
         lvl 6: 8,000
         lvl 7: 11,000
-        lvl 8: 
-        lvl 9: 
+        lvl 8: 14,500
+        lvl 9: 18,700
         lvl 10: 
         lvl 11: 
         lvl 12: 
@@ -66,7 +66,85 @@ Weapon Proficiency Requirments
         lvl 28: 
         lvl 29: 
         lvl 30: 500,000
-        
+
+
+========== ========== ==========
+Shiftling Proficiency Requirments
+========== ========== ==========
+    - Shiftling starts at lvl 1, with 0 Soul Fragments.
+    - Gain soul fragments when you purify soul cores, or perform Resting Rights.
+    - Different soul cores give different amounts of soul fragments.
+    - Required Soul Fragments for level:
+        lvl 1: 0
+        lvl 2: 1,000
+        lvl 3: 2,000
+        lvl 4: 3,600
+        lvl 5: 5,600
+        lvl 6: 8,000
+        lvl 7: 11,000
+        lvl 8: 14,500
+        lvl 9: 18,700
+        lvl 10: 
+        lvl 11: 
+        lvl 12: 
+        lvl 13: 
+        lvl 14: 
+        lvl 15: 
+        lvl 16: 
+        lvl 17: 
+        lvl 18: 
+        lvl 19: 
+        lvl 20: 
+        lvl 21: 
+        lvl 22: 
+        lvl 23: 
+        lvl 24: 
+        lvl 25: 
+        lvl 26: 
+        lvl 27: 
+        lvl 28: 
+        lvl 29: 
+        lvl 30: 
+        lvl 31: 
+        lvl 32: 
+        lvl 33: 
+        lvl 34: 
+        lvl 35: 
+        lvl 36: 
+        lvl 37: 
+        lvl 38: 
+        lvl 39: 
+        lvl 40: 
+        lvl 41: 
+        lvl 42: 
+        lvl 43: 
+        lvl 44: 
+        lvl 45: 
+        lvl 46: 
+        lvl 47: 
+        lvl 48: 
+        lvl 49: 
+        lvl 50: 
+        lvl 51: 
+        lvl 52: 
+        lvl 53: 
+        lvl 54: 
+        lvl 55: 
+        lvl 56: 
+        lvl 57: 
+        lvl 58: 
+        lvl 59: 
+        lvl 60: 
+        lvl 61: 
+        lvl 62: 
+        lvl 63: 
+        lvl 64: 
+        lvl 65: 
+        lvl 66: 
+        lvl 67: 
+        lvl 68: 
+        lvl 69: 
+        lvl 70: 12,000,000
 
 
 ========== ========== ==========
@@ -79,7 +157,7 @@ Ninjutsu Proficiency Requirments
         lvl 3: 2,000
         lvl 4: 3,600
         lvl 5: 5,600
-        lvl 6: 8,000 ???
+        lvl 6: 8,000
         lvl 7: 
         lvl 8: 
         lvl 9: 
@@ -181,82 +259,3 @@ Onmyo Magic Proficiency Requirments
         lvl 48: 
         lvl 49: 
         lvl 50: 3,000,000
-
-
-========== ========== ==========
-Shiftling Proficiency Requirments
-========== ========== ==========
-    - Shiftling starts at lvl 1, with 0 Soul Fragments.
-    - Gain soul fragments when you purify soul cores, or perform Resting Rights.
-    - Different soul cores give different amounts of soul fragments.
-    - Required Soul Fragments for level:
-        lvl 1: 0
-        lvl 2: 1,000
-        lvl 3: 2,000
-        lvl 4: 3,600
-        lvl 5: 5,600 (Accumulate enough Astral Wisdom to unlock new skills)
-        lvl 6: 8,000
-        lvl 7: 11,000
-        lvl 8: 14,500
-        lvl 9: 
-        lvl 10: 
-        lvl 11: 
-        lvl 12: 
-        lvl 13: 
-        lvl 14: 
-        lvl 15: 
-        lvl 16: 
-        lvl 17: 
-        lvl 18: 
-        lvl 19: 
-        lvl 20: 
-        lvl 21: 
-        lvl 22: 
-        lvl 23: 
-        lvl 24: 
-        lvl 25: 
-        lvl 26: 
-        lvl 27: 
-        lvl 28: 
-        lvl 29: 
-        lvl 30: 
-        lvl 31: 
-        lvl 32: 
-        lvl 33: 
-        lvl 34: 
-        lvl 35: 
-        lvl 36: 
-        lvl 37: 
-        lvl 38: 
-        lvl 39: 
-        lvl 40: 
-        lvl 41: 
-        lvl 42: 
-        lvl 43: 
-        lvl 44: 
-        lvl 45: 
-        lvl 46: 
-        lvl 47: 
-        lvl 48: 
-        lvl 49: 
-        lvl 50: 
-        lvl 51: 
-        lvl 52: 
-        lvl 53: 
-        lvl 54: 
-        lvl 55: 
-        lvl 56: 
-        lvl 57: 
-        lvl 58: 
-        lvl 59: 
-        lvl 60: 
-        lvl 61: 
-        lvl 62: 
-        lvl 63: 
-        lvl 64: 
-        lvl 65: 
-        lvl 66: 
-        lvl 67: 
-        lvl 68: 
-        lvl 69: 
-        lvl 70: 12,000,000

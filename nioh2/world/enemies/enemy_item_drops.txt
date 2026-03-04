@@ -134,7 +134,7 @@ Ippon-Datara
 
 Dweller / Dweller (big)
     - Dweller Soul Core
-    - 
+    - Mutated Skin
     ----------
     - Stone
     - Elixir
@@ -146,28 +146,35 @@ Sudama
 
 Mujina
     - Mujina Soul Core
-    - 
+    - Mujina's Scarf
     ----------
     - Fire Amulet
+    - Shrapnel Bomb
 
 Kappa
-    - Soul Core
+    - Kappa Soul Core
     - Kappa Shell
     ----------
     - Elixir
 
 Nurikabe
     - Nurikabe Soul Core
-    - 
+    - Nurikabe Fragment
     ----------
     - Elixir
     - Stone
     - Whetstone
     - Divine Rice
 
+Skeleton Warrior / Skeleton Warrior (big)
+    - Skeleton Warrior Soul Core
+    - Skeletal Warrior's Sacrum
+    ----------
+    - 
+
 Enenra (boss)
     - Enenra Soul Core
-    - 
+    - Smoldering Ash Pile
     ----------
     - 
 
@@ -235,9 +242,11 @@ Toxic Slime
     ----------
     - Elixir
     - Antidote
+    - Divine Rice
 
 Yatsu-no-Kami (boss)
     - Yatsu-no-Kami Soul Core
+    - Bladed Horn
     ----------
     - Elixir
     - Antidote
@@ -262,12 +271,6 @@ Karakasa Umbrella
     - 
 
 Lesser Umi-Bozu
-    - Soul Core
-    - 
-    ----------
-    - 
-
-Skeleton Warrior / Skeleton Warrior (big)
     - Soul Core
     - 
     ----------
