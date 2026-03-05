@@ -84,7 +84,7 @@ Shiftling Proficiency Requirments
         lvl 7: 11,000
         lvl 8: 14,500
         lvl 9: 18,700
-        lvl 10: 
+        lvl 10: 23,700 ??? 23,800 ???
         lvl 11: 
         lvl 12: 
         lvl 13: 
@@ -159,10 +159,10 @@ Ninjutsu Proficiency Requirments
         lvl 5: 5,600
         lvl 6: 8,000
         lvl 7: 11,000
-        lvl 8: 
-        lvl 9: 
-        lvl 10: 
-        lvl 11: 
+        lvl 8: 14,500
+        lvl 9: 18,700
+        lvl 10: 23,700
+        lvl 11: 29,700
         lvl 12: 
         lvl 13: 
         lvl 14: 
@@ -216,10 +216,10 @@ Onmyo Magic Proficiency Requirments
         lvl 5: 5,600
         lvl 6: 8,000
         lvl 7: 11,000
-        lvl 8: 
-        lvl 9: 
-        lvl 10: 
-        lvl 11: 
+        lvl 8: 14,500
+        lvl 9: 18,700
+        lvl 10: 23,700
+        lvl 11: 29,700
         lvl 12: 
         lvl 13: 
         lvl 14: 
