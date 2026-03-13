@@ -26,6 +26,28 @@ Pools
 
 
 ==========
+Pools
+==========
+    - Pool 1 Order:
+        The Violet Cherry Blossoms
+        The Cradle of the Demon
+        Wings of the Phoenix
+        Mountain of the Dark Lord
+        Traces of the Raging Blaze
+        The Blood Tainted Samurai
+        back to... The Violet Cherry Blossoms... repeat
+
+    - Pool 2 Order:
+        Sunday: The Island of Monsters
+        Monday: The Cursed Castle Ruins
+        Tuesday: Darkness Brewing
+        Wednesday: Blood on the Wind
+        Thursday: The Bewitching Tower
+        Friday: The Defiled Sanctuary
+        Saturday: The Mystery of Rashomon
+
+
+==========
 Week 1
 ==========
 Sunday:
@@ -34,7 +56,7 @@ Sunday:
 
 Monday:
     - The Cradle of the Demon
-    - The Cursed Castle Ruins    
+    - The Cursed Castle Ruins
 
 Tuesday:
     - Wings of the Phoenix
@@ -111,8 +133,8 @@ Thursday:
     - The Bewitching Tower
 
 Friday:
-    - 
-    - 
+    - The Cradle of the Demon
+    - The Defiled Sanctuary
 
 Saturday:
     - 
@@ -120,130 +142,6 @@ Saturday:
 
 ==========
 Week 4
-==========
-Sunday:
-    - 
-    - 
-
-Monday:
-    - 
-    - 
-
-Tuesday:
-    - 
-    - 
-
-Wednesday:
-    - 
-    - 
-
-Thursday:
-    - 
-    - 
-
-Friday:
-    - 
-    - 
-
-Saturday:
-    - 
-    - 
-
-==========
-Week 5
-==========
-Sunday:
-    - 
-    - 
-
-Monday:
-    - 
-    - 
-
-Tuesday:
-    - 
-    - 
-
-Wednesday:
-    - 
-    - 
-
-Thursday:
-    - 
-    - 
-
-Friday:
-    - 
-    - 
-
-Saturday:
-    - 
-    - 
-
-==========
-Week 6
-==========
-Sunday:
-    - 
-    - 
-
-Monday:
-    - 
-    - 
-
-Tuesday:
-    - 
-    - 
-
-Wednesday:
-    - 
-    - 
-
-Thursday:
-    - 
-    - 
-
-Friday:
-    - 
-    - 
-
-Saturday:
-    - 
-    - 
-
-==========
-Week 7
-==========
-Sunday:
-    - 
-    - 
-
-Monday:
-    - 
-    - 
-
-Tuesday:
-    - 
-    - 
-
-Wednesday:
-    - 
-    - 
-
-Thursday:
-    - 
-    - 
-
-Friday:
-    - 
-    - 
-
-Saturday:
-    - 
-    - 
-
-==========
-Week 8
 ==========
 Sunday:
     - 
