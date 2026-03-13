@@ -175,6 +175,10 @@ Skeleton Warrior / Skeleton Warrior (big)
 Enenra (boss)
     - Enenra Soul Core
     - Smoldering Ash Pile
+    - Smithing Text: Enenra Mask
+    - Smithing Text: Eccentric's Armor
+    - Smithing Text: Firefly Blade
+    - Smithing Text: Onimaru Kunitsuna
     ----------
     - 
 
