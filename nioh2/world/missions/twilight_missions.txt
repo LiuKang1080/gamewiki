@@ -26,7 +26,7 @@ Pools
 
 
 ==========
-Pools
+Mission Order
 ==========
     - Pool 1 Order:
         The Violet Cherry Blossoms
@@ -137,8 +137,8 @@ Friday:
     - The Defiled Sanctuary
 
 Saturday:
-    - 
-    - 
+    - Wings of the Phoenix
+    - The Mystery of Rashomon
 
 ==========
 Week 4
