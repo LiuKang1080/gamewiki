@@ -148,8 +148,8 @@ Sunday:
     - The Island of Monsters
 
 Monday:
-    - 
-    - 
+    - Traces of the Raging Blaze
+    - The Cursed Castle Ruins
 
 Tuesday:
     - 
