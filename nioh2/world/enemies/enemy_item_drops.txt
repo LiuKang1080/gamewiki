@@ -258,80 +258,94 @@ Yatsu-no-Kami (boss)
     - Divine Rice
 
 Yamanba
-    - Soul Core
+    - Yamanba Soul Core
     - 
     ----------
     - 
 
+Imagawa Yoshimoto
+    - Hidden Skill: Punish The Proud (dual swords)
+    - Hidden Skill: Windswept (switchglaive)
+    - Smithing Text: Tokagemaru (sword)
+    - Smithing Text: Sozasamonji Matsukurago (dual swords)
+    - Smithing Text: White Bone Spirit Tonfa (tonfas)
+    - Smithing Text: Seething Dragon (switchglaive)
+    - Smithing Text: Tengu's Khakkhara (splitstaff)
+    - Smithing Text: Tsuchigumo Clawed Fists
+    - Smithing Text: Master Archer's Bow
+    ----------
+    - 
+
 Waira
-    - Soul Core
+    - Waira Soul Core
     - 
     ----------
     - 
 
 Karakasa Umbrella
-    - Soul Core
+    - Karakasa Umbrella Soul Core
     - 
     ----------
     - 
 
 Lesser Umi-Bozu
-    - Soul Core
+    - Lesser Umi-Bozu Soul Core
     - 
     ----------
     - 
 
 Kamaitachi (boss)
-    - Soul Core
+    - Kamaitachi Soul Core
     - 
     ----------
     - 
 
 Koroka
-    - Soul Core
+    - Koroka Soul Core
     - 
     ----------
     - 
 
 Rokurokubi
-    - Soul Core
+    - Rokurokubi Soul Core
     - 
     ----------
     - 
 
 Onryoki (boss)
-    - Soul Core
+    - Onryoki Soul Core
     - 
     ----------
     - 
 
 Mitsume Yazura
-    - Soul Core
+    - Mitsume Yazura Soul Core
     - 
     ----------
     - 
 
 Biwa Boku-Boku
-    - Soul Core
+    - Biwa Boku-Boku Soul Core
     - 
     ----------
     - 
 
 Tatarimokke (boss)
-    - Soul Core
+    - Tatarimokke Soul Core
     - 
     ----------
     - 
 
 Flying Bolt
-    - Soul Core
+    - Flying Bolt Soul Core
     - 
     ----------
     - 
 
 Namahage
-    - Soul Core
-    - 
+    - Namahage Soul Core
+    - Smithing Text: Dual Bloodstained Cleavers (dual swords)
+    - Smithing Text: Bloodstained Blade (odachi)
     ----------
     - 
 

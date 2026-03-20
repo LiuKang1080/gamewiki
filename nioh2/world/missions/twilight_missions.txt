@@ -160,12 +160,12 @@ Wednesday:
     - Blood on the Wind
 
 Thursday:
-    - 
-    - 
+    - The Cradle of the Demon
+    - The Bewitching Tower
 
 Friday:
-    - 
-    - 
+    - Wings of the Phoenix
+    - The Defiled Sanctuary
 
 Saturday:
     - 
