@@ -53,7 +53,7 @@ Gaki / Gaki (big)
     - Gunpowder Bomb
     - Yokai Water Pot
 
-Human
+Human / Human (big)
     - 
     ----------
     - Elixir
@@ -294,8 +294,18 @@ Imagawa Yoshimoto
     ----------
     - 
 
-Waira
-    - Waira Soul Core
+Okabe Motonobu
+    - 
+    ----------
+    - 
+
+Okabe Masatsuna
+    - 
+    ----------
+    - 
+
+Blue Yoki
+    - Yoki Soul Core
     - 
     ----------
     - 
@@ -306,10 +316,25 @@ Karakasa Umbrella
     ----------
     - 
 
+Biwa Boku-Boku
+    - Biwa Boku-Boku Soul Core
+    - 
+    ----------
+    - 
 
+Waira
+    - Waira Soul Core
+    - 
+    ----------
+    - 
 
 Kamaitachi (boss)
     - Kamaitachi Soul Core
+    - 
+    ----------
+    - 
+
+Adachi the Beheader
     - 
     ----------
     - 
@@ -332,14 +357,41 @@ Onryoki (boss)
     ----------
     - 
 
-Mitsume Yazura
-    - Mitsume Yazura Soul Core
+Saito Yoshitatsu (boss)
+    - Hidden Skill: Dragon Fang (sword)
+    - Hidden Skill: Dragon Claw (dual swords)
+    - Hidden Skill: Dragon Horn (odachi)
+    - Smithing Text: Tokagemaru (sword)
+    - Smithing Text: Udoto (sword)
+    - Smithing Text: Weathered Bone & Bleached Twig (dual swords)
+    - Smithing Text: Bonepile Spear (spear)
+    - Smithing Text: Torch Spear (spear)
+    - Smithing Text: Rotten Rope Cutter (kusarigama)
+    - Smithing Text: Great Kanemitsu (odachi)
+    - Smithing Text: White Bone Spirit Tonfa (tonfa)
+    - Smithing Text: Barbarian's Hatchets (hatchets)
+    - Smithing Text: Seething Dragon (switchglaive)
+    - Smithing Text: Tsuchigumo Clawed Fists (fists)
+    ----------
+    - 
+
+Shibata Katsuie (boss)
     - 
     ----------
     - 
 
-Biwa Boku-Boku
-    - Biwa Boku-Boku Soul Core
+Hachisuka Koroku (boss)
+    - 
+    ----------
+    - 
+
+Revenants
+    - 
+    ----------
+    - 
+
+Mitsume Yazura
+    - Mitsume Yazura Soul Core
     - 
     ----------
     - 
@@ -350,8 +402,17 @@ Tatarimokke (boss)
     ----------
     - 
 
-Flying Bolt
-    - Flying Bolt Soul Core
+Obsidian Samurai (boss)
+    - 
+    ----------
+    - 
+
+Magara Takamoto (odachi)
+    - 
+    ----------
+    - 
+
+Magara Naosumi (odachi)
     - 
     ----------
     - 
@@ -363,68 +424,213 @@ Namahage
     ----------
     - 
 
+Magara Naotaka (boss)
+    - 
+    ----------
+    - 
+
+Flying Bolt
+    - Flying Bolt Soul Core
+    - 
+    ----------
+    - 
+
+Honda Tadakatsu (boss)
+    - 
+    ----------
+    - 
+
+Spider (small / medium / big)
+    - 
+    ----------
+    - 
+
 Tesso
     - Tesso Soul Core
     - 
     ----------
     - 
 
+Azai Nagamasa (boss)
+    - 
+    ----------
+    - 
+
 Ubume
-    - Soul Core
+    - Ubume Soul Core
+    - 
+    ----------
+    - 
+
+Oda Nobunaga (boss)
+    - 
+    ----------
+    - 
+
+Gamo Ujisato (boss)
+    - 
+    ----------
+    - 
+
+Saito Toshimitsu (boss)
+    - 
+    ----------
+    - 
+
+Saika Clan
+    - 
+    ----------
+    - 
+
+Muni (saika warrior) (kusarigama)
     - 
     ----------
     - 
 
 Onyudo
-    - Soul Core
+    - Onyudo Soul Core
+    - 
+    ----------
+    - 
+
+Shimotsuma Rairen (saika warrior) (spear)
+    - 
+    ----------
+    - 
+
+Saika Magoichi (boss)
     - 
     ----------
     - 
 
 Guyki (boss)
-    - Soul Core
+    - Guyki Soul Core
     - 
     ----------
     - 
 
+Kosuzume (saika warrior) (kusarigama)
+    - 
+    ----------
+    - 
 
+Hotaru (saika warrior) (dual swords)
+    - 
+    ----------
+    - 
 
 Kasha (boss)
-    - Soul Core
+    - Kasha Soul Core
     - 
     ----------
     - 
 
 Ryomen Sukuna (boss)
-    - Soul Core
+    - Ryomen Sukuna Soul Core
     - Wheel of Ice and Fire
+    ----------
+    - 
+
+Matsunaga Hisahide (boss)
+    - 
+    ----------
+    - 
+
+Maeda Toshiie (boss)
+    - 
     ----------
     - 
 
 Oni Shibata Katsuie (boss)
     - 
-    ----------
     - Oni Shibata's Helmet
     - Oni Shibata's Greaves
     - Oni Shibata's Waistguard
+    ----------
+    - 
+
+Mysterious Samurai (Akechi Mitsuhide)
+    - 
+    ----------
+    - 
+
+Ikeda Motosuke (sword)
+    - 
+    ----------
+    - 
+
+Mori Nagayoshi (spear)
+    - 
+    ----------
+    - 
+
+Ikeda Tsuneoki (dual swords)
+    - 
+    ----------
+    - 
+
+Tokichiro (boss)
+    - 
+    ----------
+    - 
+
+Magatsu Warrior
+    - Magatsu Warrior Soul Core
+    - 
+    ----------
     - 
 
 Daidara Bocchi (boss)
-    - Soul Core
+    - Daidara Bocchi Soul Core
     - 
     ----------
     - 
-
-Shuten Doji (boss)
-    - Shuten Doji Soul Core
-    ----------
-    - Righteous Jasper
 
 Magatsu Warrior
     - Soul Core
     - 
     ----------
     - 
+
+Sengoku Hidehisa (odachi)
+    - 
+    ----------
+    - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shuten Doji (boss)
+    - Shuten Doji Soul Core
+    ----------
+    - Righteous Jasper
+
+
 
 Lady Osakabe (boss)
     - Soul Core
