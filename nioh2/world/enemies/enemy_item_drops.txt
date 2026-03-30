@@ -90,6 +90,7 @@ Yoki
     - Smiting Text: Demon's Axe
     ----------
     - Elixir
+    - Divine Rice
 
 Gozuki (boss)
     - Gozuki Soul Core
@@ -128,6 +129,8 @@ Sohaya Warrior
 Ippon-Datara
     - Ippon-Datara Soul Core
     - Ippon-Datara Fang
+    - Smithing Text: Ippon-Datara's Hammer (axe)
+    - Smithing Text: Ippon-Datara's Odachi (odachi)
     ----------
     - Stone
     - Elixir
@@ -138,8 +141,10 @@ Dweller / Dweller (big)
     ----------
     - Stone
     - Elixir
-    - Gunpowder Bomb
     - Antidote
+    - Gunpowder Bomb
+    - Shrapnel Bomb
+    - Yokai Water Pot
 
 Sudama
     - Look at the file sudama_info.txt.
@@ -257,6 +262,19 @@ Yatsu-no-Kami (boss)
     - Antidote
     - Divine Rice
 
+Lesser Umi-Bozu
+    - Lesser Umi-Bozu Soul Core
+    - 
+    ----------
+    - Elixir
+
+Wheelmonk
+    - Wheelmonk Soul Core
+    - 
+    ----------
+    - Elixir
+    - Divine Rice
+
 Yamanba
     - Yamanba Soul Core
     - 
@@ -288,11 +306,7 @@ Karakasa Umbrella
     ----------
     - 
 
-Lesser Umi-Bozu
-    - Lesser Umi-Bozu Soul Core
-    - 
-    ----------
-    - 
+
 
 Kamaitachi (boss)
     - Kamaitachi Soul Core
@@ -350,7 +364,7 @@ Namahage
     - 
 
 Tesso
-    - Soul Core
+    - Tesso Soul Core
     - 
     ----------
     - 
@@ -373,11 +387,7 @@ Guyki (boss)
     ----------
     - 
 
-Wheelmonk
-    - Soul Core
-    - 
-    ----------
-    - 
+
 
 Kasha (boss)
     - Soul Core

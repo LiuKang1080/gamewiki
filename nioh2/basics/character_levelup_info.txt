@@ -46,7 +46,7 @@ Weapon Proficiency Requirments
         lvl 8: 14,500
         lvl 9: 18,700
         lvl 10: 23,700
-        lvl 11: 29,700 ???
+        lvl 11: 29,700
         lvl 12: 
         lvl 13: 
         lvl 14: 
@@ -86,7 +86,7 @@ Shiftling Proficiency Requirments
         lvl 9: 18,700
         lvl 10: 23,700
         lvl 11: 29,700
-        lvl 12: 
+        lvl 12: 36,900
         lvl 13: 
         lvl 14: 
         lvl 15: 
