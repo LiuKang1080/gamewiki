@@ -2794,19 +2794,19 @@ The Demon Slayers (Sub Mission)
     - Sohaya Warrior (splitstaff)
     - Human (spear)
     - Human (fire arrow + bow, sword)
-    - Watanabe no Tsuna (boss) (fists) (first time)
+    - Watanabe no Tsuna (fists) (boss) (first time)
     - Sohaya Warrior (fists)
-    - Urabe no Suetake (boss) (fire arrow + bow, spear) (first time)
+    - Urabe no Suetake (fire arrow + bow, spear) (boss) (first time)
     - Rokurokubi (spear)
     - Skeleton Warrior (spear)
     - Skeleton Warrior (sword)
     - Onmyo Mage
     - Human (big) (sword)
-    - Fujiwara no Yasumasa (boss) (fire arrow + bow, sword) (first time)
+    - Fujiwara no Yasumasa (fire arrow + bow, sword) (boss) (first time)
     - Sohaya Warrior (hatchets)
     - Skeleton Warrior (fire arrow + bow, sword)
-    - Usui Sadamitsu (boss) (switchglaive) (first time)
-    - Sakata Kintoki (boss) (hatchets) (first time)
+    - Usui Sadamitsu (switchglaive) (boss) (first time)
+    - Sakata Kintoki (hatchets) (boss) (first time)
     - Minamoto no Yorimitsu (boss)
 
 ==========
@@ -2980,9 +2980,9 @@ A Distant Dream (Main Mission)
     - Skeleton Warrior (big) (hammer)
     - Gaki (big)
     - Dweller (big)
-    - Ongyoki (first time)
-    - Mujina
     - Suiki (first time)
+    - Mujina
+    - Ongyoki (first time)
     - Nure-Onna
     - Itsumade
     - Nightmare Bringer (first time)
@@ -3054,7 +3054,7 @@ Against All Comers (Sub Mission)
     - Ubume
     - Mitsume Yazura
     - Magara Takamoto (odachi) (boss)
-    - Magara Naosumi (odachi) (boss) (first time)
+    - Magara Naosumi (odachi) (boss)
     - Magara Naotaka (boss)
     ---------- checkpoint
     - Onmyo Mage

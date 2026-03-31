@@ -587,7 +587,7 @@ Daidara Bocchi (boss)
     - 
 
 Magatsu Warrior
-    - Soul Core
+    - Magatsu Warrior Soul Core
     - 
     ----------
     - 
@@ -597,49 +597,74 @@ Sengoku Hidehisa (odachi)
     ----------
     - 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Shuten Doji (boss)
     - Shuten Doji Soul Core
     ----------
     - Righteous Jasper
 
-
-
 Lady Osakabe (boss)
-    - Soul Core
+    - Lady Osakabe Soul Core
+    - 
+    ----------
+    - 
+
+Maeda Keiji (boss)
+    - 
+    ----------
+    - 
+
+Katagiri Katsumoto (Seven Spears #1) (spear)
+    - 
+    ----------
+    - 
+
+Fukushima Masanori (Seven Spears #2) (spear)
+    - 
+    ----------
+    - 
+
+Kasuya Takenori (Seven Spears #3) (spear)
+    - 
+    ----------
+    - 
+
+Kato Yoshiaki (Seven Spears #4) (dual swords)
+    - 
+    ----------
+    - 
+
+Hirano Nagayasu (Seven Spears #5) (spear)
+    - 
+    ----------
+    - 
+
+Wakisaka Yasuharu (Seven Spears #6) (spear)
+    - 
+    ----------
+    - 
+
+Kato Kiyomasa (Seven Spears #7) (spear)
+    - 
+    ----------
+    - 
+
+Tokichiro (dream) (boss)
+    - 
+    ----------
+    - 
+
+Kashin Koji (boss)
+    - 
+    ----------
+    - 
+
+William (boss)
     - 
     ----------
     - 
 
 Otakemaru (boss)
-    - Soul Core
+    - Otakemaru Soul Core
     - 
     ----------
     - 
@@ -648,17 +673,17 @@ Otakemaru (boss)
 ========== ========== ========== ========== ==========
 The Tengu's Disciple (DLC 1)
 ========== ========== ========== ========== ==========
-Bakegani
-    - Bakegani Soul Core
-    - 
-    ----------
-    - 
-
 Kiryoki
     - Kiryoki Soul Core
     - Kiryoki Mane
     ----------
     - Lantern Plant Fruit
+    - 
+
+Bakegani
+    - Bakegani Soul Core
+    - 
+    ----------
     - 
 
 Seto Taisho / Benkei (boss)
@@ -675,13 +700,7 @@ Seto Taisho / Benkei (boss)
     - Benkei's Greaves
 
 Uminyudo (boss)
-    - Soul Core
-    - 
-    ----------
-    - 
-
-Nuppeppo
-    - Soul Core
+    - Uminyudo Soul Core
     - 
     ----------
     - 
@@ -694,30 +713,44 @@ Nue (boss)
     ----------
     - 
 
+Taira no Kagekiyo (dual swords) (boss)
+    - 
+    ----------
+    - 
+
+Kajiwara Kagetoki
+    - 
+    ----------
+    - 
+
+Nuppeppo
+    - Nuppeppo Soul Core
+    - 
+    ----------
+    - 
+
+Minamoto no Yoshitsune (boss)
+    - 
+    ----------
+    - 
+
 
 ========== ========== ========== ========== ==========
 Darkness In The Capital (DLC 2)
 ========== ========== ========== ========== ==========
 Oboroguruma
-    - Soul Core
+    - Oboroguruma Soul Core
+    - 
+    ----------
+    - 
+
+Minamoto no Yorimitsu (boss)
     - 
     ----------
     - 
 
 Yasha
-    - Soul Core
-    - 
-    ----------
-    - 
-
-Tsuchigumo (boss)
-    - Soul Core
-    - 
-    ----------
-    - 
-
-Giant Toad (boss)
-    - Soul Core
+    - Yasha Soul Core
     - 
     ----------
     - 
@@ -728,32 +761,79 @@ Infernal Fox Spirit
     ----------
     - 
 
+Tsuchigumo Ninja
+    - 
+    ----------
+    - 
+
+Tsuchigumo (boss)
+    - Tsuchigumo Soul Core
+    - 
+    ----------
+    - 
+
+Giant Toad (boss)
+    - Giant Toad Soul Core
+    - 
+    ----------
+    - 
+
+Hellish Hag
+    - Hellish Hag Soul Core
+    - 
+    ----------
+    - 
+
 Thunderstorm Fox Spirit
     - Soul Core
     - 
     ----------
     - 
 
-Hellish Hag
-    - Soul Core
-    - 
-    ----------
-    - 
-
 White Tiger (boss)
-    - Soul Core
+    - White Tiger Soul Core
     - 
     ----------
     - 
 
 Underworld Soldier
-    - Soul Core
+    - Underworld Soldier Soul Core
+    - 
+    ----------
+    - 
+
+Ashiya Doman (boss)
     - 
     ----------
     - 
 
 Lightning Gods of Yomi (boss)
-    - Soul Core
+    - Lightning Gods of Yomi Soul Core
+    - 
+    ----------
+    - 
+
+Watanabe no Tsuna (fists) (boss)
+    - 
+    ----------
+    - 
+
+Urabe no Suetake (fire arrow + bow, spear) (boss)
+    - 
+    ----------
+    - 
+
+Fujiwara no Yasumasa (fire arrow + bow, sword) (boss)
+    - 
+    ----------
+    - 
+
+Usui Sadamitsu (switchglaive) (boss)
+    - 
+    ----------
+    - 
+
+Ren Hayabusa (boss)
     - 
     ----------
     - 
@@ -762,32 +842,62 @@ Lightning Gods of Yomi (boss)
 ========== ========== ========== ========== ==========
 The First Samurai (DLC 3)
 ========== ========== ========== ========== ==========
-Maelstrom Fox Spirit
-    - Soul Core
+Konaki-Jiji
+    - Konaki-Jiji Soul Core
     - 
     ----------
     - 
 
-Konaki-Jiji
-    - Soul Core
+Ancient Otakemaru (boss)
+    - Ancient Otakemaru Soul Core
     - 
     ----------
     - 
 
 Itsumade
-    - Soul Core
-    - 
-    ----------
-    - 
-
-Harinobo
-    - Soul Core
+    - Itsumade Soul Core
     - 
     ----------
     - 
 
 Tate Eboshi (boss)
-    - Soul Core
+    - Tate Eboshi Soul Core
+    - 
+    ----------
+    - 
+
+Harinobo
+    - Harinobo Soul Core
+    - 
+    ----------
+    - 
+
+Kinki
+    - Kinki Soul Core
+    - 
+    ----------
+    - 
+
+Fuki
+    - Fuki Soul Core
+    - 
+    ----------
+    - 
+
+Suiki
+    - Suiki Soul Core
+    - 
+    ----------
+    - 
+
+Ongyoki
+    - Ongyoki Soul Core
+    - 
+    ----------
+    - 
+
+Nightmare Bringer (boss)
+    - Nightmare Bringer Soul Core
     - 
     ----------
     - 
@@ -798,32 +908,18 @@ Ancient Nyotengu (boss)
     ----------
     - 
 
-Kinki
+Maelstrom Fox Spirit
     - Soul Core
     - 
     ----------
     - 
 
-Fuki
-    - Soul Core
+Fujiwara no Chikata (boss)
     - 
     ----------
     - 
 
-Suiki
-    - Soul Core
-    - 
-    ----------
-    - 
-
-Ongyoki
-    - Soul Core
-    - 
-    ----------
-    - 
-
-Nightmare Bringer (boss)
-    - Soul Core
+Kukai (boss)
     - 
     ----------
     - 
