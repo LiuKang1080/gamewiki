@@ -923,3 +923,42 @@ Kukai (boss)
     - 
     ----------
     - 
+
+
+========== ========== ========== ========== ==========
+Dojo Missions
+========== ========== ========== ========== ==========
+Tsukahara Bokuden (boss)
+    - 
+    ----------
+    - 
+
+Kato Danzo (boss)
+    - 
+    ----------
+    - 
+
+Shisenin Kosen (boss)
+    - 
+    ----------
+    - 
+
+Ashikaga Yoshiteru (boss)
+    - 
+    ----------
+    - 
+
+Hattori Hanzo (boss)
+    - 
+    ----------
+    - 
+
+Sakata Kintoki (boss)
+    - 
+    ----------
+    - 
+
+Mumyo (boss)
+    - 
+    ----------
+    - 
