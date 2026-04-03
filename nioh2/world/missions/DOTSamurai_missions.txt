@@ -1342,6 +1342,7 @@ The Beast Born of Smoke and Flames (Main Mission)
     Notable Items During / Post Mission:
         - Ninja's Locks.
         - Onmyo Mage's Locks.
+        - Increases Astral Wisdom.
         - Unlocks Agyo Titles after beating mission.
         - Unlocks Ungyo Titles after beating mission.
         - Unlocks the Blacksmith option at the Starting Point after beating mission.

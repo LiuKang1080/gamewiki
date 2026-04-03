@@ -159,6 +159,7 @@ Mujina
     - Shrapnel Bomb
     - Summoner's Candle
     - Roaring Gun Ammunation
+    - Lantern Plant Fruit
 
 Kappa
     - Kappa Soul Core
