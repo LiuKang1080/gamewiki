@@ -1636,7 +1636,7 @@ Imagawa Diehard (Sub Mission)
         - Righteous Jasper X2
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - None
+        - Increases Astral Wisdom.
 
 ==========
 Hidetatsu's Dying Wish (Sub Mission)

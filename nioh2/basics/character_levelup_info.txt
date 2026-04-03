@@ -17,7 +17,7 @@ Ninjutsu Capacity
         - +2 at attribute 6
         - +1 from attribute 7 to 9
         - +2 at attribute 10
-        - 
+        - +1 from attribute 11 to 
 
 
 ========== ========== ==========
@@ -87,7 +87,7 @@ Shiftling Proficiency Requirments
         lvl 10: 23,700
         lvl 11: 29,700
         lvl 12: 36,900
-        lvl 13: 
+        lvl 13: 45,700
         lvl 14: 
         lvl 15: 
         lvl 16: 

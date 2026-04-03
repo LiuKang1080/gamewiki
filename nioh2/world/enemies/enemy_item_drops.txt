@@ -71,6 +71,7 @@ Ninja
     - 
     ----------
     - Elixir
+    - Gunpowder Bomb
 
 Ninja Dog
     - 
@@ -145,6 +146,7 @@ Dweller / Dweller (big)
     - Gunpowder Bomb
     - Shrapnel Bomb
     - Yokai Water Pot
+    - Divine Rice
 
 Sudama
     - Look at the file sudama_info.txt.
@@ -155,6 +157,8 @@ Mujina
     ----------
     - Fire Amulet
     - Shrapnel Bomb
+    - Summoner's Candle
+    - Roaring Gun Ammunation
 
 Kappa
     - Kappa Soul Core
@@ -191,19 +195,20 @@ Infernal Oni-Bi
     - Infernal Oni-Bi Soul Core
     - Oni-Bi Core
     ----------
-    - 
+    - Fire Amulet
+    - Divine Rice
 
 Maelstrom Oni-Bi
     - Maelstrom Oni-Bi Soul Core
     - Oni-Bi Core
     ----------
-    - 
+    - Water Amulet
 
 Thunderstorm Oni-Bi
     - Thunderstorm Oni-Bi Soul Core
     - Oni-Bi Core
     ----------
-    - 
+    - Lightning Amulet
 
 Aberrant Soldier
     - Aberrant Soldier Soul Core
@@ -231,6 +236,7 @@ One-Eyed Oni / Snowclops
 Karasu Tengu
     - Karasu Tengu Soul Core
     - Karasu Tengu Feather
+    - Smithing Text: Tengu Mask
     - Tengu's Fan
     ----------
     - Elixir
@@ -264,7 +270,7 @@ Yatsu-no-Kami (boss)
 
 Lesser Umi-Bozu
     - Lesser Umi-Bozu Soul Core
-    - 
+    - Lesser Umi-Bozu's Eyestone
     ----------
     - Elixir
 
@@ -279,7 +285,7 @@ Yamanba
     - Yamanba Soul Core
     - 
     ----------
-    - 
+    - Divine Rice
 
 Imagawa Yoshimoto
     - Hidden Skill: Punish The Proud (dual swords)
@@ -291,42 +297,50 @@ Imagawa Yoshimoto
     - Smithing Text: Tengu's Khakkhara (splitstaff)
     - Smithing Text: Tsuchigumo Clawed Fists
     - Smithing Text: Master Archer's Bow
+    - Master Archer's Hat
+    - Master Archer's Cuirass
+    - Master Archer's Gauntlets
+    - Master Archer's Waistguard
+    - Master Archer's Greaves
+    - Master Archer's Bow
     ----------
     - 
 
 Okabe Motonobu
     - 
     ----------
-    - 
+    - Uchiko Powder
 
 Okabe Masatsuna
     - 
     ----------
-    - 
+    - Elixir
 
 Blue Yoki
     - Yoki Soul Core
     - 
     ----------
-    - 
+    - Elixir
 
 Karakasa Umbrella
     - Karakasa Umbrella Soul Core
-    - 
+    - Umbrella Rib
     ----------
-    - 
+    - Divine Rice
 
 Biwa Boku-Boku
     - Biwa Boku-Boku Soul Core
     - 
     ----------
+    - Fleeting Guardian Amulet
     - 
 
 Waira
     - Waira Soul Core
     - 
     ----------
-    - 
+    - Elixir
+    - Divine Rice
 
 Kamaitachi (boss)
     - Kamaitachi Soul Core
