@@ -52,6 +52,7 @@ Gaki / Gaki (big)
     - Antidote
     - Gunpowder Bomb
     - Yokai Water Pot
+    - Divine Rice
 
 Human / Human (big)
     - 
@@ -72,6 +73,7 @@ Ninja
     ----------
     - Elixir
     - Gunpowder Bomb
+    - Divine Rice
 
 Ninja Dog
     - 
@@ -115,7 +117,7 @@ Sohaya Warrior
     - Smithing Text: Sohaya Armor
     - 
     - Sohaya Cuirass
-    - 
+    - Sohaya Gauntlets
     - Sohaya Waistguard
     - Sohaya Greaves
     ----------
@@ -126,6 +128,7 @@ Sohaya Warrior
     - Shrapnel Bomb
     - Uchiko Powder
     - Righteous Jasper
+    - Divine Rice
 
 Ippon-Datara
     - Ippon-Datara Soul Core
@@ -160,6 +163,7 @@ Mujina
     - Summoner's Candle
     - Roaring Gun Ammunation
     - Lantern Plant Fruit
+    - Daion-Jin's Sake
 
 Kappa
     - Kappa Soul Core
@@ -284,7 +288,8 @@ Wheelmonk
 
 Yamanba
     - Yamanba Soul Core
-    - 
+    - Lock of Grey Hair
+    - Smithing Text: Yamanba's Knives
     ----------
     - Divine Rice
 
@@ -297,6 +302,7 @@ Imagawa Yoshimoto
     - Smithing Text: Seething Dragon (switchglaive)
     - Smithing Text: Tengu's Khakkhara (splitstaff)
     - Smithing Text: Tsuchigumo Clawed Fists
+    - Smithing Text: Master Archer's Armor
     - Smithing Text: Master Archer's Bow
     - Master Archer's Hat
     - Master Archer's Cuirass
