@@ -60,13 +60,14 @@ Human / Human (big)
     - Elixir
     - Stone
     - Salt
-    - Arrow
-    - Sacred Arrow
-    - Gunpowder Bomb
-    - Shrapnel Bomb
     - Divine Rice
     - Uchiko Powder
     - Righteous Jasper
+    - Gunpowder Bomb
+    - Shrapnel Bomb
+    - Arrow
+    - Sacred Arrow
+    - Explosive Rounds
 
 Ninja
     - 
@@ -164,12 +165,14 @@ Mujina
     - Roaring Gun Ammunation
     - Lantern Plant Fruit
     - Daion-Jin's Sake
+    - Shinobi Box
 
 Kappa
     - Kappa Soul Core
     - Kappa Shell
     ----------
     - Elixir
+    - Summoner's Candle
 
 Nurikabe
     - Nurikabe Soul Core
@@ -208,12 +211,14 @@ Maelstrom Oni-Bi
     - Oni-Bi Core
     ----------
     - Water Amulet
+    - Divine Rice
 
 Thunderstorm Oni-Bi
     - Thunderstorm Oni-Bi Soul Core
     - Oni-Bi Core
     ----------
     - Lightning Amulet
+    - Divine Rice
 
 Aberrant Soldier
     - Aberrant Soldier Soul Core
@@ -222,6 +227,7 @@ Aberrant Soldier
     - Stone
     - Arrow
     - Sacred Arrow
+    - Shrapnel Bomb
 
 One-Eyed Imp
     - Soul Core
@@ -237,6 +243,8 @@ One-Eyed Oni / Snowclops
     - Stone
     - Elixir
     - Divine Branch
+    - Divine Rice
+    - Yokai Incense
 
 Karasu Tengu
     - Karasu Tengu Soul Core
@@ -245,7 +253,6 @@ Karasu Tengu
     - Tengu's Fan
     ----------
     - Elixir
-    - 
 
 Nure-Onna
     - Nure-Onna Soul Core
@@ -340,43 +347,51 @@ Biwa Boku-Boku
     - 
     ----------
     - Fleeting Guardian Amulet
-    - 
+    - Yokai Water Pot
 
 Waira
     - Waira Soul Core
-    - 
+    - Waira Claw
     ----------
     - Elixir
     - Divine Rice
 
 Kamaitachi (boss)
     - Kamaitachi Soul Core
-    - 
+    - Sickle Blade Fragments
+    - Smithing Text: Weathered Bone & Bleached Twig (dual swords)
+    - Smithing Text: Tengu's Khakkhara (splitstaff)
+    - Smithing Text: Tsuchigumo Clawed Fists
+    - Smithing Text: Kamaitachi Helmet
+    - Smithing Text: Merchant's Attire
     ----------
     - 
 
 Adachi the Beheader
-    - 
+    - Mortal Soul Core
     ----------
     - 
 
 Koroka
     - Koroka Soul Core
-    - 
+    - Burnt Wick
+    - Smithing Text: Koroka Spear
     ----------
-    - 
+    - Elixir
 
 Rokurokubi
     - Rokurokubi Soul Core
-    - 
+    - Slender Vertebra
     ----------
-    - 
+    - Elixir
+    - Antidote
+    - Shrapnel Bomb
 
 Onryoki (boss)
     - Onryoki Soul Core
-    - 
+    - Hateful Spine
     ----------
-    - 
+    - Onryoki Helmet
 
 Saito Yoshitatsu (boss)
     - Hidden Skill: Dragon Fang (sword)
@@ -392,9 +407,16 @@ Saito Yoshitatsu (boss)
     - Smithing Text: White Bone Spirit Tonfa (tonfa)
     - Smithing Text: Barbarian's Hatchets (hatchets)
     - Smithing Text: Seething Dragon (switchglaive)
-    - Smithing Text: Tsuchigumo Clawed Fists (fists)
+    - Smithing Text: Tsuchigumo Clawed Fists
+    - Smithing Text: Genryu's Armor
+    - Smithing Text: Merchant's Attire
+    - Mortal Soul Core
     ----------
-    - 
+    - Genryu's Helmet
+    - Genryu's Cuirass
+    - Genryu's Gauntlets
+    - Genryu's Waistguard
+    - Genryu's Greaves
 
 Shibata Katsuie (boss)
     - 

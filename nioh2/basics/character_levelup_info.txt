@@ -47,7 +47,7 @@ Weapon Proficiency Requirments
         lvl 9: 18,700
         lvl 10: 23,700
         lvl 11: 29,700
-        lvl 12: 
+        lvl 12: 36,900
         lvl 13: 
         lvl 14: 
         lvl 15: 
@@ -73,7 +73,7 @@ Shiftling Proficiency Requirments
 ========== ========== ==========
     - Shiftling starts at lvl 1, with 0 Soul Fragments.
     - Gain soul fragments when you purify soul cores, or perform Resting Rights.
-    - Different soul cores give different amounts of soul fragments.
+    - Different soul core types and their level give different amounts of soul fragments.
     - Required Soul Fragments for level:
         lvl 1: 0
         lvl 2: 1,000
@@ -87,10 +87,10 @@ Shiftling Proficiency Requirments
         lvl 10: 23,700
         lvl 11: 29,700
         lvl 12: 36,900
-        lvl 13: 45,700
-        lvl 14: 55,700 ???
-        lvl 15: 
-        lvl 16: 
+        lvl 13: 45,600
+        lvl 14: 55,600
+        lvl 15: 67,100 (double check) 
+        lvl 16: 80,300
         lvl 17: 
         lvl 18: 
         lvl 19: 
