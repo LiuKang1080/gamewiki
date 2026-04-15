@@ -311,14 +311,13 @@ Imagawa Yoshimoto
     - Smithing Text: Tsuchigumo Clawed Fists
     - Smithing Text: Master Archer's Armor
     - Smithing Text: Master Archer's Bow
+    ----------
     - Master Archer's Hat
     - Master Archer's Cuirass
     - Master Archer's Gauntlets
     - Master Archer's Waistguard
     - Master Archer's Greaves
     - Master Archer's Bow
-    ----------
-    - 
 
 Okabe Motonobu
     - 
