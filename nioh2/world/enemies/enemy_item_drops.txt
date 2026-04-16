@@ -53,6 +53,7 @@ Gaki / Gaki (big)
     - Gunpowder Bomb
     - Yokai Water Pot
     - Divine Rice
+    - Antiparalytic Needle
 
 Human / Human (big)
     - 
@@ -187,7 +188,8 @@ Skeleton Warrior / Skeleton Warrior (big)
     - Skeleton Warrior Soul Core
     - Skeletal Warrior's Sacrum
     ----------
-    - 
+    - Roaring Gun Ammunation
+    - Hand Cannon Ammunation
 
 Enenra (boss)
     - Enenra Soul Core
