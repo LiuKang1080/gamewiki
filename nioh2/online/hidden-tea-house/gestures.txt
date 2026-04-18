@@ -133,4 +133,4 @@ Hostile Gestures: (18)
     - [img complete] SUMO VICTORY: The Unstoppable Whirlwind (mission reward).
     - [img complete] MOVE!: Talk to Tokichiro in the main mission: The Hidden Monsters of Okehazama on Dream of the 
         Strong difficulty (NG+1).
-    - [img complete] FRUSTRATION: Attack or fail at mimmicing the proper gesture to a Mujina, and kill it. 
+    - [img complete] FRUSTRATION: Attack or fail at mimicking the proper gesture to a Mujina, and kill it.

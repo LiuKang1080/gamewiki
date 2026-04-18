@@ -11,6 +11,7 @@ Global Item Drop Pool
     
     - Gold
     - [random rarity] random equippable item (weapons, armor, accessories)
+    - [random rarity] random Tea Utensil
     - Tamahagane
     - Wood
     - Ingot
@@ -43,6 +44,7 @@ Global Item Drop Pool
     - Umbracite
     - Umbracite Fragment
 
+--------------------------------------------------
 Gaki / Gaki (big)
     - Gaki Soul Core
     - Warped Jawbone
@@ -100,7 +102,7 @@ Yoki
 Gozuki (boss)
     - Gozuki Soul Core
     - Large Crooked Horn
-    - Village Cemetery Key
+    - Village Cemetery Key (The Village of Cursed Blossoms / The Violet Cherry Blossoms)
     ----------
     - Righteous Jasper
 
@@ -138,8 +140,11 @@ Ippon-Datara
     - Smithing Text: Ippon-Datara's Hammer (axe)
     - Smithing Text: Ippon-Datara's Odachi (odachi)
     ----------
+    - Ippon-Datara's Hammer (axe)
+    - Ippon-Datara's Odachi
     - Stone
     - Elixir
+    - Divine Rice
 
 Dweller / Dweller (big)
     - Dweller Soul Core
@@ -161,12 +166,16 @@ Mujina
     - Mujina's Scarf
     ----------
     - Fire Amulet
+    - Travel Amulet
     - Shrapnel Bomb
     - Summoner's Candle
     - Roaring Gun Ammunation
     - Lantern Plant Fruit
     - Daion-Jin's Sake
     - Shinobi Box
+    - Ochoko Cup
+    - Sacred Arrow
+    - Saisetsu-Shin's Sake
 
 Kappa
     - Kappa Soul Core
@@ -191,6 +200,7 @@ Skeleton Warrior / Skeleton Warrior (big)
     ----------
     - Roaring Gun Ammunation
     - Hand Cannon Ammunation
+    - Explosive Rounds
 
 Enenra (boss)
     - Enenra Soul Core
@@ -300,9 +310,10 @@ Wheelmonk
 Yamanba
     - Yamanba Soul Core
     - Lock of Grey Hair
-    - Smithing Text: Yamanba's Knives
+    - Smithing Text: Yamanba's Knives (dual swords)
     ----------
     - Divine Rice
+    - Yamanba's Knives (dual swords)
 
 Imagawa Yoshimoto
     - Hidden Skill: Punish The Proud (dual swords)
@@ -429,18 +440,19 @@ Shibata Katsuie (boss)
 Hachisuka Koroku (boss)
     - 
     ----------
-    - 
+    - Divine Rice
 
 Revenants
     - 
     ----------
-    - 
+    - Elixir
+    - Sacred Water
 
 Mitsume Yazura
     - Mitsume Yazura Soul Core
-    - 
+    - Smithing Text: Demon God Mask
     ----------
-    - 
+    - Elixir
 
 Tatarimokke (boss)
     - Tatarimokke Soul Core
