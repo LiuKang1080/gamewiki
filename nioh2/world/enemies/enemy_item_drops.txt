@@ -41,6 +41,12 @@ Global Item Drop Pool
     - Highest-Quality Leather Platelet
     - Highest-Quality Iron Platelet
 
+    - Divine Rice ???
+
+    Dream of the Samurai
+    ----------
+    - Small Spirit Stone ???
+
     - Umbracite
     - Umbracite Fragment
 
@@ -242,6 +248,7 @@ Aberrant Soldier
     - Sacred Arrow
     - Shrapnel Bomb
     - Small Spirit Stone
+    - Divine Rice
 
 One-Eyed Imp
     - Soul Core
@@ -285,6 +292,10 @@ Toxic Slime
     - Elixir
     - Antidote
     - Divine Rice
+
+Snake Statue
+    - Antidote
+    - Small Spirit Stone
 
 Yatsu-no-Kami (boss)
     - Yatsu-no-Kami Soul Core
@@ -450,6 +461,7 @@ Revenants
 
 Mitsume Yazura
     - Mitsume Yazura Soul Core
+    - Petrified Eye
     - Smithing Text: Demon God Mask
     ----------
     - Elixir
@@ -463,28 +475,38 @@ Tatarimokke (boss)
 Obsidian Samurai (boss)
     - 
     ----------
-    - 
+    - Gozutenno's Axe
+    - Starcutter Sword
+    - Obsidian Helmet
+    - Obsidian Cuirass
+    - Obsidian Gauntlets
+    - Obsidian Waistguard
+    - Obsidian Greaves
 
 Magara Takamoto (odachi)
-    - 
+    - Mortal Soul Core
     ----------
-    - 
+    - Jiro Tachi
+    - Divine Rice
 
 Magara Naosumi (odachi)
-    - 
+    - Mortal Soul Core
     ----------
-    - 
+    - Jiro Tachi
+    - Divine Rice
 
 Namahage
     - Namahage Soul Core
     - Smithing Text: Dual Bloodstained Cleavers (dual swords)
     - Smithing Text: Bloodstained Blade (odachi)
     ----------
-    - 
+    - Dual Bloodstained Cleavers
+    - Bloodstained Blade
 
 Magara Naotaka (boss)
-    - 
+    - Mortal Soul Core
     ----------
+    - Lumicite Shard
     - 
 
 Flying Bolt

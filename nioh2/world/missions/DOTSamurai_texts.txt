@@ -603,29 +603,6 @@ A Way Out (Main Mission)
         - Amulet of Camaraderie
 
 ==========
-Immoveable (Sub Mission)
-==========
-    Head Protection:
-    --------------------
-        - Sohaya Garb Faceplate
-
-    Torso Protection:
-    --------------------
-        - Sohaya Garb Shawl
-
-    Arm Protection:
-    --------------------
-        - Sohaya Garb Bracers
-
-    Leg Protection:
-    --------------------
-        - Sohaya Garb Hakama
-
-    Foot Protection:
-    --------------------
-        - Sohaya Garb Gaiters
-
-==========
 Corpses and Ice (Main Mission)
 ==========
     Sword:
