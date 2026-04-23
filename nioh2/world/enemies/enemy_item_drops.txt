@@ -96,6 +96,7 @@ Enki
     ----------
     - Elixir
     - Lantern Plant Fruit
+    - Divine Rice
 
 Yoki
     - Yoki Soul Core
@@ -211,10 +212,10 @@ Skeleton Warrior / Skeleton Warrior (big)
 Enenra (boss)
     - Enenra Soul Core
     - Smoldering Ash Pile
+    - Smithing Text: Onimaru Kunitsuna
+    - Smithing Text: Firefly Blade
     - Smithing Text: Enenra Mask
     - Smithing Text: Eccentric's Armor
-    - Smithing Text: Firefly Blade
-    - Smithing Text: Onimaru Kunitsuna
     ----------
     - 
 
@@ -251,15 +252,26 @@ Aberrant Soldier
     - Divine Rice
 
 One-Eyed Imp
-    - Soul Core
+    - ??? Soul Core
     - One-Eyed Imp's Clogs
     ----------
     - Stone
     - Elixir
+    - Divine Rice
 
-One-Eyed Oni / Snowclops
-    - Soul Core
+One-Eyed Oni
+    - One-Eyed Oni Soul Core
     - One-Eyed Oni Loincloth
+    ----------
+    - Stone
+    - Elixir
+    - Divine Branch
+    - Divine Rice
+    - Yokai Incense
+
+Snowclops
+    - ??? Soul Core
+    - Snowclops Loincloth
     ----------
     - Stone
     - Elixir
@@ -300,6 +312,8 @@ Snake Statue
 Yatsu-no-Kami (boss)
     - Yatsu-no-Kami Soul Core
     - Bladed Horn
+    - Smithing Text: Shinto Priest's Clothes
+    - Smithing Text: Shrine Maiden
     ----------
     - Elixir
     - Antidote
@@ -369,7 +383,7 @@ Karakasa Umbrella
 
 Biwa Boku-Boku
     - Biwa Boku-Boku Soul Core
-    - 
+    - Biwa Pick
     ----------
     - Fleeting Guardian Amulet
     - Yokai Water Pot
@@ -415,6 +429,7 @@ Rokurokubi
 Onryoki (boss)
     - Onryoki Soul Core
     - Hateful Spine
+    - Smithing Text: Onryoki Helmet
     ----------
     - Onryoki Helmet
 
@@ -449,7 +464,10 @@ Shibata Katsuie (boss)
     - 
 
 Hachisuka Koroku (boss)
-    - 
+    - Hidden Skill: Second Wind
+    - Hidden Skill: Water Drop
+    - Smithing Text: Kawanami Kusarigama
+    - Smithing Text: Kawanami Clan Armor
     ----------
     - Divine Rice
 
@@ -468,12 +486,14 @@ Mitsume Yazura
 
 Tatarimokke (boss)
     - Tatarimokke Soul Core
-    - 
+    - Ominous Bird's Beak
     ----------
     - 
 
 Obsidian Samurai (boss)
-    - 
+    - Hidden Skill: Spirit Storm
+    - Smithing Text: Starcutter Sword
+    - Smithing Text: Gozutenno's Axe
     ----------
     - Gozutenno's Axe
     - Starcutter Sword
@@ -502,8 +522,14 @@ Namahage
     ----------
     - Dual Bloodstained Cleavers
     - Bloodstained Blade
+    - Elixir
+    - Divine Rice
 
 Magara Naotaka (boss)
+    - Hidden Skill: Swirling Snow
+    - Smithing Text: Tobikura Kusarigama
+    - Smithing Text: Taro Tachi
+    - Smithing Text: Double-Headed Snake Tonfa
     - Mortal Soul Core
     ----------
     - Lumicite Shard
@@ -511,12 +537,13 @@ Magara Naotaka (boss)
 
 Flying Bolt
     - Flying Bolt Soul Core
-    - 
+    - White Cloth
     ----------
-    - 
+    - Tattered Note (Lingering Snow and Crimson Tracks)
 
 Honda Tadakatsu (boss)
-    - 
+    - Smithing Text: Tombokiri
+    - Smithing Text: Warrior Of The East Armor
     ----------
     - 
 
@@ -745,7 +772,13 @@ William (boss)
 
 Otakemaru (boss)
     - Otakemaru Soul Core
-    - 
+    - Smithing Text: Ishida Masamune
+    - Smithing Text: Juzumaru Tsunetsugu
+    - Smithing Text: Kusanagi Tsurugi
+    - Smithing Text: Onimaru Kunitsuna
+    - Smithing Text: Big Dipper Blade & Heishishorin-Ken
+    - Smithing Text: Candlestick Slicer & Rigid Rapier
+    - Smithing Text:
     ----------
     - 
 
@@ -914,7 +947,14 @@ Usui Sadamitsu (switchglaive) (boss)
     - 
 
 Ren Hayabusa (boss)
-    - 
+    - Hidden Skill: Izuna Drop
+    - Hidden Skill: Tiger Claws
+    - Hidden Skill: Flame Dragon
+    - Hidden Skill: Umbral Bullet
+    - Hidden Skill: Exorcist Blade
+    - Smithing Text: Dragon Sword
+    - Smithing Text: Falcon Claws
+    - Smithing Text: Hayabusa Dragon Ninja
     ----------
     - 
 
