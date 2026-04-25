@@ -677,7 +677,18 @@ Ikeda Tsuneoki (dual swords)
     - 
 
 Tokichiro (boss)
-    - 
+    - Hidden Skill: Double-Headed Slice (dual swords)
+    - Hidden Skill: Ultimate Sign Of The Cross (dual swords)
+    - Smithing Text: Akechi Chikakage (sword)
+    - Smithing Text: Ogo & Nagamei Masamune (dual swords)
+    - Smithing Text: Realmtaker Spear
+    - Smithing Text: Kamui (odachi)
+    - Smithing Text: Twin Dragon Tonfa
+    - Smithing Text: Radiant Flame (hatchets)
+    - Smithing Text: Raijin's Claw (switchglaive)
+    - Smithing Text: Golden Gourd Armor
+    - Smithing Text: Kingo's Armor
+    - Smithing Text: Merchant's Attire
     ----------
     - 
 
@@ -689,7 +700,18 @@ Magatsu Warrior
 
 Daidara Bocchi (boss)
     - Daidara Bocchi Soul Core
-    - 
+    - Smithing Text: Raikiri (sword)
+    - Smithing Text: Wave Swimmer (sword)
+    - Smithing Text: Realmtaker Spear
+    - Smithing Text: Red Demon Spear
+    - Smithing Text: Kamui (odachi)
+    - Smithing Text: Twin Dragon Tonfa
+    - Smithing Text: Yin-Yang Tonfa
+    - Smithing Text: Iceberg (hatchets)
+    - Smithing Text: Radiant Flame (hatchets)
+    - Smithing Text: Evil-Crusher Splitstaff
+    - Smithing Text: White Lotus Fists
+    - Smithing Text: Warrior of the West Bow
     ----------
     - 
 
@@ -706,12 +728,38 @@ Sengoku Hidehisa (odachi)
 
 Shuten Doji (boss)
     - Shuten Doji Soul Core
+    - Smithing Text: Akechi Chikakage (sword)
+    - Smithing Text: Raikiri (sword)
+    - Smithing Text: Suijingiri Kanemitsu (sword)
+    - Smithing Text: Water God Slayer (sword)
+    - Smithing Text: Wave Swimmer (sword)
+    - Smithing Text: Regal Lion & Bone Eater (dual swords)
+    - Smithing Text: Realmtaker Spear
+    - Smithing Text: Holy Axe
+    - Smithing Text: Shuten Doji's Club (axe)
+    - Smithing Text: Yin-Yang Tonfa
+    - Smithing Text: Iceberg (hatchets)
+    - Smithing Text: Evil-Crusher Switchglaive
+    - Smithing Text: Evil-Crusher Splitstaff
+    - Smithing Text: White Lotus Fists
+    - Smithing Text: Warrior of the West Bow
+    - Smithing Text: Shuten Doji Mask
+    - Smithing Text: Hyuga Director's Armor
+    - Smithing Text: Kingo's Armor
+    - Smithing Text: Legendary Strategist's Garb
+    - Smithing Text: Red Demon Armor
+    - Smithing Text: Warrior of the West Armor
     ----------
     - Righteous Jasper
 
 Lady Osakabe (boss)
     - Lady Osakabe Soul Core
-    - 
+    - Smithing Text: Regal Lion & Bone Eater (dual swords)
+    - Smithing Text: Red Demon Spear
+    - Smithing Text: Firefly Blade (odachi)
+    - Smithing Text: White Lotus Fists
+    - Smithing Text: Legendary Strategist's Garb
+    - Smithing Text: Red Demon Armor
     ----------
     - 
 
@@ -721,17 +769,19 @@ Maeda Keiji (boss)
     - 
 
 Katagiri Katsumoto (Seven Spears #1) (spear)
-    - 
+    - Smithing Text: Black Bear Fur Helmet
     ----------
     - 
 
 Fukushima Masanori (Seven Spears #2) (spear)
-    - 
+    - Smithing Text: Hinomotogo (spear)
+    - Smithing Text: Ichi-no-Tani Kabuto (helmet)
     ----------
     - 
 
 Kasuya Takenori (Seven Spears #3) (spear)
-    - 
+    - Smithing Text: Tarobo Kanemitsu & Rapier (dual swords)
+    - Smithing Text: Mount Fuji Helmet
     ----------
     - 
 
@@ -746,24 +796,42 @@ Hirano Nagayasu (Seven Spears #5) (spear)
     - 
 
 Wakisaka Yasuharu (Seven Spears #6) (spear)
-    - 
+    - Smithing Text: Linked Ring Helmet
     ----------
     - 
 
 Kato Kiyomasa (Seven Spears #7) (spear)
-    - 
+    - Smithing Text: Dodanuki Masakuni (sword)
+    - Smithing Text: Tiger Of Higo's Spear
+    - Smithing Text: Tiger Of Higo's Armor
     ----------
     - 
 
 Tokichiro (dream) (boss)
-    - 
+    - Hidden Skill: Double-Headed Slice (dual swords)
+    - Hidden Skill: Ultimate Sign Of The Cross (dual swords)
+    - Smithing Text: Mikazuki Munechika (sword)
+    - Smithing Text: Ichigo Hitofuri & Oyako Toshiro (dual swords)
+    - Smithing Text: Seventh Sword Tonfa
+    - Smithing Text: Child Of The Sun's Armor
     ----------
     - 
 
 Kashin Koji (boss)
     - Smithing Text: Demon's Maw (sword)
     - Smithing Text: Juzumaru Tsunetsugu (sword)
-    - Smithing Text: 
+    - Smithing Text: Mikazuki Munechika (sword)
+    - Smithing Text: Otegine (spear)
+    - Smithing Text: Demon God Hammer (axe)
+    - Smithing Text: Slayer's Axe
+    - Smithing Text: Nightstorm Kusarigama
+    - Smithing Text: Will - O' - Wisp Blade (kusarigama)
+    - Smithing Text: Seventh Sword Tonfa
+    - Smithing Text: Echoing Thunder (hatchets)
+    - Smithing Text: Raijin's Claw (switchglaive)
+    - Smithing Text: Tempest Splitstaff
+    - Smithing Text: Frost Blossom Clawed Fists
+    - Smithing Text: Arrowsbane Armor
     ----------
     - 
 
