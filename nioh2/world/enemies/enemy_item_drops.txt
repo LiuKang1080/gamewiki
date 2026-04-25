@@ -761,24 +761,92 @@ Tokichiro (dream) (boss)
     - 
 
 Kashin Koji (boss)
-    - 
+    - Smithing Text: Demon's Maw (sword)
+    - Smithing Text: Juzumaru Tsunetsugu (sword)
+    - Smithing Text: 
     ----------
     - 
 
 William (boss)
-    - 
+    - Smithing Text: Demon's Maw (sword)
+    - Smithing Text: Heshikiri Hasabe (sword)
+    - Smithing Text: Juzumaru Tsunetsugu (sword)
+    - Smithing Text: Onimaru Kunitsuna (sword)
+    - Smithing Text: Big Dipper Blade & Heishishorin-Ken (dual swords)
+    - Smithing Text: Candlestick Slicer & Rigid Rapier (dual swords)
+    - Smithing Text: Shichisei & Heishishorin (dual swords)
+    - Smithing Text: Shokudakiri Mitsutada & Shinogito Shiro (dual swords)
+    - Smithing Text: Otegine (spear)
+    - Smithing Text: Tiger Of Higo's Spear
+    - Smithing Text: Demon God Hammer (axe)
+    - Smithing Text: Genno's Hammer (axe)
+    - Smithing Text: Slayer's Axe
+    - Smithing Text: Earthfall Kusarigama
+    - Smithing Text: Nightstorm Kusarigama
+    - Smithing Text: Will - O' - Wisp Blade (kusarigama)
+    - Smithing Text: Firefly Blade (odachi)
+    - Smithing Text: Seventh Sword Tonfa
+    - Smithing Text: Vajra Tonfa
+    - Smithing Text: Echoing Thunder (hatchets)
+    - Smithing Text: Zenki And Goki (hatchets)
+    - Smithing Text: Watatsumi's Watch (switchglaive)
+    - Smithing Text: Tempest Splitstaff
+    - Smithing Text: Vajra Splitstaff
+    - Smithing Text: Frost Blossom Clawed Fists
+    - Smithing Text: Thunderous Fists
+    - Smithing Text: Royal Horned Helm
+    - Smithing Text: Arrowsbane Armor
+    - Smithing Text: One-Eyed Dragon's Armor
+    - Smithing Text: Tosa Governor's Armor
+    - Smithing Text: Yoshiie's Birthright Armor
+    - Smithing Text: Youngblood's Armor
     ----------
     - 
 
 Otakemaru (boss)
     - Otakemaru Soul Core
-    - Smithing Text: Ishida Masamune
-    - Smithing Text: Juzumaru Tsunetsugu
-    - Smithing Text: Kusanagi Tsurugi
-    - Smithing Text: Onimaru Kunitsuna
-    - Smithing Text: Big Dipper Blade & Heishishorin-Ken
-    - Smithing Text: Candlestick Slicer & Rigid Rapier
-    - Smithing Text:
+    - Smithing Text: Ishida Masamune (sword)
+    - Smithing Text: Juzumaru Tsunetsugu (sword)
+    - Smithing Text: Kusanagi Tsurugi (sword)
+    - Smithing Text: Onimaru Kunitsuna (sword)
+    - Smithing Text: Big Dipper Blade & Heishishorin-Ken (dual swords)
+    - Smithing Text: Candlestick Slicer & Rigid Rapier (dual swords)
+    - Smithing Text: Shichisei & Heishishorin (dual swords)
+    - Smithing Text: Shokudakiri Mitsutada & Shinogito Shiro (dual swords)
+    - Smithing Text: Tsuruga Masamune & Hocho Toshiro (dual swords)
+    - Smithing Text: Cross Spear
+    - Smithing Text: Great Chidori Cross Spear
+    - Smithing Text: Great Halberd Of Hihiragi (spear)
+    - Smithing Text: Great Holy Spear
+    - Smithing Text: Sakon's Spear
+    - Smithing Text: Yamauba Spear
+    - Smithing Text: Ame-No-Mahitotsu's Axe
+    - Smithing Text: Demon God Hammer (axe)
+    - Smithing Text: Genno's Hammer (axe)
+    - Smithing Text: Nightstorm Kusarigama
+    - Smithing Text: Snowmelt Kusarigama
+    - Smithing Text: Thunder God Kusarigama (Narukami)
+    - Smithing Text: Futsunomitama (odachi)
+    - Smithing Text: The Drying Pole (odachi)
+    - Smithing Text: Sarutobi's Gunsticks (tonfas)
+    - Smithing Text: Vajra Tonfa
+    - Smithing Text: Zenki And Goki (hatchets)
+    - Smithing Text: Phoenix Wing (switchglaive)
+    - Smithing Text: Watatsumi's Watch (switchglaive)
+    - Smithing Text: Flashfire Splitstaff
+    - Smithing Text: Tempest Splitstaff
+    - Smithing Text: Vajra Splitstaff
+    - Smithing Text: Frost Blossom Clawed Fists
+    - Smithing Text: Raging Fire Clawed Fists
+    - Smithing Text: Thunderous Fists
+    - Smithing Text: Hornthrust Bow
+    - Smithing Text: Tsunonotsuki Bow
+    - Smithing Text: Golden Sun Helmet
+    - Smithing Text: Gallant Armor
+    - Smithing Text: Justice Ministry's Armor
+    - Smithing Text: One-Eyed Dragon's Armor
+    - Smithing Text: Sanada's Crimson Armor
+    - Smithing Text: The Exceptional One's Armor
     ----------
     - 
 
