@@ -712,6 +712,10 @@ Daidara Bocchi (boss)
     - Smithing Text: Evil-Crusher Splitstaff
     - Smithing Text: White Lotus Fists
     - Smithing Text: Warrior of the West Bow
+    - Smithing Text: Kingo's Armor
+    - Smithing Text: Raging Bull Armor
+    - Smithing Text: Red Demon Armor
+    - Smithing Text: Warrior of the West Armor
     ----------
     - 
 
