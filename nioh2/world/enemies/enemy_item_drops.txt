@@ -8,7 +8,7 @@ Base Game Enemies
 Global Item Drop Pool
 ========== ========== ==========
     - All enemies have a chance at dropping the following items:
-    
+
     - Gold
     - [random rarity] random equippable item (weapons, armor, accessories)
     - [random rarity] random Tea Utensil
@@ -64,7 +64,7 @@ Gaki / Gaki (big)
     - Antiparalytic Needle
 
 Human / Human (big)
-    - 
+    -
     ----------
     - Elixir
     - Stone
@@ -79,16 +79,16 @@ Human / Human (big)
     - Explosive Rounds
 
 Ninja
-    - 
+    -
     ----------
     - Elixir
     - Gunpowder Bomb
     - Divine Rice
 
 Ninja Dog
-    - 
+    -
     ----------
-    - 
+    -
 
 Enki
     - Enki Soul Core
@@ -126,7 +126,7 @@ Scampuss
 Sohaya Warrior
     - Smithing Text: Sohaya Garb
     - Smithing Text: Sohaya Armor
-    - 
+    -
     - Sohaya Cuirass
     - Sohaya Gauntlets
     - Sohaya Waistguard
@@ -217,7 +217,7 @@ Enenra (boss)
     - Smithing Text: Enenra Mask
     - Smithing Text: Eccentric's Armor
     ----------
-    - 
+    -
 
 Infernal Oni-Bi
     - Infernal Oni-Bi Soul Core
@@ -327,7 +327,7 @@ Lesser Umi-Bozu
 
 Wheelmonk
     - Wheelmonk Soul Core
-    - 
+    -
     ----------
     - Elixir
     - Divine Rice
@@ -360,18 +360,18 @@ Imagawa Yoshimoto
     - Master Archer's Bow
 
 Okabe Motonobu
-    - 
+    -
     ----------
     - Uchiko Powder
 
 Okabe Masatsuna
-    - 
+    -
     ----------
     - Elixir
 
 Blue Yoki
     - Yoki Soul Core
-    - 
+    -
     ----------
     - Elixir
 
@@ -404,12 +404,12 @@ Kamaitachi (boss)
     - Smithing Text: Kamaitachi Helmet
     - Smithing Text: Merchant's Attire
     ----------
-    - 
+    -
 
 Adachi the Beheader
     - Mortal Soul Core
     ----------
-    - 
+    -
 
 Koroka
     - Koroka Soul Core
@@ -459,9 +459,9 @@ Saito Yoshitatsu (boss)
     - Genryu's Greaves
 
 Shibata Katsuie (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Hachisuka Koroku (boss)
     - Hidden Skill: Second Wind
@@ -472,7 +472,7 @@ Hachisuka Koroku (boss)
     - Divine Rice
 
 Revenants
-    - 
+    -
     ----------
     - Elixir
     - Sacred Water
@@ -488,7 +488,7 @@ Tatarimokke (boss)
     - Tatarimokke Soul Core
     - Ominous Bird's Beak
     ----------
-    - 
+    -
 
 Obsidian Samurai (boss)
     - Hidden Skill: Spirit Storm
@@ -533,7 +533,7 @@ Magara Naotaka (boss)
     - Mortal Soul Core
     ----------
     - Lumicite Shard
-    - 
+    -
 
 Flying Bolt
     - Flying Bolt Soul Core
@@ -545,136 +545,136 @@ Honda Tadakatsu (boss)
     - Smithing Text: Tombokiri
     - Smithing Text: Warrior Of The East Armor
     ----------
-    - 
+    -
 
 Spider (small / medium / big)
-    - 
+    -
     ----------
-    - 
+    -
 
 Tesso
     - Tesso Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Azai Nagamasa (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Ubume
     - Ubume Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Oda Nobunaga (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Gamo Ujisato (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Saito Toshimitsu (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Saika Clan
-    - 
+    -
     ----------
-    - 
+    -
 
 Muni (saika warrior) (kusarigama)
-    - 
+    -
     ----------
-    - 
+    -
 
 Onyudo
     - Onyudo Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Shimotsuma Rairen (saika warrior) (spear)
-    - 
+    -
     ----------
-    - 
+    -
 
 Saika Magoichi (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Guyki (boss)
     - Guyki Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Kosuzume (saika warrior) (kusarigama)
-    - 
+    -
     ----------
-    - 
+    -
 
 Hotaru (saika warrior) (dual swords)
-    - 
+    -
     ----------
-    - 
+    -
 
 Kasha (boss)
     - Kasha Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Ryomen Sukuna (boss)
     - Ryomen Sukuna Soul Core
     - Wheel of Ice and Fire
     ----------
-    - 
+    -
 
 Matsunaga Hisahide (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Maeda Toshiie (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Oni Shibata Katsuie (boss)
-    - 
-    - Oni Shibata's Helmet
-    - Oni Shibata's Greaves
-    - Oni Shibata's Waistguard
+    - Hidden Skill: Deadly Spiral (hatchets)
+    - Smithing Text: Smirkwiper ()
     ----------
-    - 
+    -
 
 Mysterious Samurai (Akechi Mitsuhide)
-    - 
+    -
     ----------
-    - 
+    -
 
 Ikeda Motosuke (sword)
-    - 
+    -
     ----------
-    - 
+    -
 
 Mori Nagayoshi (spear)
-    - 
+    - Smithing Text: Ningen Mukotsu (spear)
+    - Smithing Text: Dragon Head Helmet
     ----------
-    - 
+    -
 
 Ikeda Tsuneoki (dual swords)
-    - 
+    - Smithing Text: Great Kanehira Sword & Nightingale (dual swords)
+    - Smithing Text: Curious Crown Helmet
     ----------
-    - 
+    -
 
 Tokichiro (boss)
     - Hidden Skill: Double-Headed Slice (dual swords)
@@ -690,13 +690,13 @@ Tokichiro (boss)
     - Smithing Text: Kingo's Armor
     - Smithing Text: Merchant's Attire
     ----------
-    - 
+    -
 
 Magatsu Warrior
     - Magatsu Warrior Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Daidara Bocchi (boss)
     - Daidara Bocchi Soul Core
@@ -717,12 +717,12 @@ Daidara Bocchi (boss)
     - Smithing Text: Red Demon Armor
     - Smithing Text: Warrior of the West Armor
     ----------
-    - 
+    -
 
 Sengoku Hidehisa (odachi)
-    - 
+    -
     ----------
-    - 
+    -
 
 Shuten Doji (boss)
     - Shuten Doji Soul Core
@@ -759,51 +759,51 @@ Lady Osakabe (boss)
     - Smithing Text: Legendary Strategist's Garb
     - Smithing Text: Red Demon Armor
     ----------
-    - 
+    -
 
 Maeda Keiji (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Katagiri Katsumoto (Seven Spears #1) (spear)
     - Smithing Text: Black Bear Fur Helmet
     ----------
-    - 
+    -
 
 Fukushima Masanori (Seven Spears #2) (spear)
     - Smithing Text: Hinomotogo (spear)
     - Smithing Text: Ichi-no-Tani Kabuto (helmet)
     ----------
-    - 
+    -
 
 Kasuya Takenori (Seven Spears #3) (spear)
     - Smithing Text: Tarobo Kanemitsu & Rapier (dual swords)
     - Smithing Text: Mount Fuji Helmet
     ----------
-    - 
+    -
 
 Kato Yoshiaki (Seven Spears #4) (dual swords)
-    - 
+    -
     ----------
-    - 
+    -
 
 Hirano Nagayasu (Seven Spears #5) (spear)
-    - 
+    -
     ----------
-    - 
+    -
 
 Wakisaka Yasuharu (Seven Spears #6) (spear)
     - Smithing Text: Linked Ring Helmet
     ----------
-    - 
+    -
 
 Kato Kiyomasa (Seven Spears #7) (spear)
     - Smithing Text: Dodanuki Masakuni (sword)
     - Smithing Text: Tiger Of Higo's Spear
     - Smithing Text: Tiger Of Higo's Armor
     ----------
-    - 
+    -
 
 Tokichiro (dream) (boss)
     - Hidden Skill: Double-Headed Slice (dual swords)
@@ -813,7 +813,7 @@ Tokichiro (dream) (boss)
     - Smithing Text: Seventh Sword Tonfa
     - Smithing Text: Child Of The Sun's Armor
     ----------
-    - 
+    -
 
 Kashin Koji (boss)
     - Smithing Text: Demon's Maw (sword)
@@ -831,7 +831,7 @@ Kashin Koji (boss)
     - Smithing Text: Frost Blossom Clawed Fists
     - Smithing Text: Arrowsbane Armor
     ----------
-    - 
+    -
 
 William (boss)
     - Smithing Text: Demon's Maw (sword)
@@ -867,7 +867,7 @@ William (boss)
     - Smithing Text: Yoshiie's Birthright Armor
     - Smithing Text: Youngblood's Armor
     ----------
-    - 
+    -
 
 Otakemaru (boss)
     - Otakemaru Soul Core
@@ -914,7 +914,7 @@ Otakemaru (boss)
     - Smithing Text: Sanada's Crimson Armor
     - Smithing Text: The Exceptional One's Armor
     ----------
-    - 
+    -
 
 
 ========== ========== ========== ========== ==========
@@ -925,13 +925,13 @@ Kiryoki
     - Kiryoki Mane
     ----------
     - Lantern Plant Fruit
-    - 
+    -
 
 Bakegani
     - Bakegani Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Seto Taisho / Benkei (boss)
     - Seto Taisho Soul Core
@@ -948,38 +948,38 @@ Seto Taisho / Benkei (boss)
 
 Uminyudo (boss)
     - Uminyudo Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Nue (boss)
     - Nue Soul Core
     - Nue's Claw
     - Smithing Text: Mitsuyo Kusarigama
-    - 
+    -
     ----------
-    - 
+    -
 
 Taira no Kagekiyo (dual swords) (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Kajiwara Kagetoki
-    - 
+    -
     ----------
-    - 
+    -
 
 Nuppeppo
     - Nuppeppo Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Minamoto no Yoshitsune (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 
 ========== ========== ========== ========== ==========
@@ -987,98 +987,98 @@ Darkness In The Capital (DLC 2)
 ========== ========== ========== ========== ==========
 Oboroguruma
     - Oboroguruma Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Minamoto no Yorimitsu (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Yasha
     - Yasha Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Infernal Fox Spirit
     - Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Tsuchigumo Ninja
-    - 
+    -
     ----------
-    - 
+    -
 
 Tsuchigumo (boss)
     - Tsuchigumo Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Giant Toad (boss)
     - Giant Toad Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Hellish Hag
     - Hellish Hag Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Thunderstorm Fox Spirit
     - Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 White Tiger (boss)
     - White Tiger Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Underworld Soldier
     - Underworld Soldier Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Ashiya Doman (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Lightning Gods of Yomi (boss)
     - Lightning Gods of Yomi Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Watanabe no Tsuna (fists) (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Urabe no Suetake (fire arrow + bow, spear) (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Fujiwara no Yasumasa (fire arrow + bow, sword) (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Usui Sadamitsu (switchglaive) (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Ren Hayabusa (boss)
     - Hidden Skill: Izuna Drop
@@ -1090,7 +1090,7 @@ Ren Hayabusa (boss)
     - Smithing Text: Falcon Claws
     - Smithing Text: Hayabusa Dragon Ninja
     ----------
-    - 
+    -
 
 
 ========== ========== ========== ========== ==========
@@ -1098,121 +1098,121 @@ The First Samurai (DLC 3)
 ========== ========== ========== ========== ==========
 Konaki-Jiji
     - Konaki-Jiji Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Ancient Otakemaru (boss)
     - Ancient Otakemaru Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Itsumade
     - Itsumade Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Tate Eboshi (boss)
     - Tate Eboshi Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Harinobo
     - Harinobo Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Kinki
     - Kinki Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Fuki
     - Fuki Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Suiki
     - Suiki Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Ongyoki
     - Ongyoki Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Nightmare Bringer (boss)
     - Nightmare Bringer Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Ancient Nyotengu (boss)
     - Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Maelstrom Fox Spirit
     - Soul Core
-    - 
+    -
     ----------
-    - 
+    -
 
 Fujiwara no Chikata (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Kukai (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 
 ========== ========== ========== ========== ==========
 Dojo Missions
 ========== ========== ========== ========== ==========
 Tsukahara Bokuden (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Kato Danzo (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Shisenin Kosen (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Ashikaga Yoshiteru (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Hattori Hanzo (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Sakata Kintoki (boss)
-    - 
+    -
     ----------
-    - 
+    -
 
 Mumyo (boss)
-    - 
+    -
     ----------
-    - 
+    -
