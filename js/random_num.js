@@ -12,7 +12,7 @@ Randomly generate a number between 1 and 11, each number representing a weapon:
     10 Splitstaff
     11 Fists
 
-    - Math.random() returns a number between 0 and 1, we multiply this by the upper limit (not including that number) 
+    - Math.random() returns a number between 0 and 1, we multiply this by the upper limit (not including that number)
         of the number range. In our example we will multiply by 12.
 */
 
@@ -20,12 +20,12 @@ Randomly generate a number between 1 and 11, each number representing a weapon:
 function generate_rand_num(limit) {
     /*
     ==========
-    Parameters: 
+    Parameters:
         - [num] limit: This is the upper limit, we will add 1 to this because Math.random() is excluding the upper
         limit.
 
     ==========
-    Return: 
+    Return:
         - [none] console.log().
     */
 
@@ -35,7 +35,7 @@ function generate_rand_num(limit) {
     // labeled statement
     label: while(true) {
         num = Math.floor(Math.random() * (limit + 1));
-        
+
         if (num === 0) {
             continue label;
         } else {

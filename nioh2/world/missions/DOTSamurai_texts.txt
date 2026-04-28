@@ -3,7 +3,7 @@ Missions that unlock Smithing Texts for Weapons, Armor, and Items:
 ==========
 TEMPLATE ()
 ==========
-    - 
+    -
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -258,7 +258,7 @@ The Viper's Sanctum (Main Mission)
         - Fuma Ninja Hakama
         - Brawler's Waistguard
         - Mino Veteran's Waistguard
-    
+
     Foot Protection:
     --------------------
         - Fuma Ninja Greaves
@@ -280,11 +280,11 @@ The Hidden Monsters of Okehazama (Main Mission)
     --------------------
         - Senjuin Uchigatana
         - Bizen Osafune
-    
+
     Dual Swords:
     --------------------
         - Seki Dual Tachi
-    
+
     Spear:
     --------------------
         - Officer's Spear
@@ -606,7 +606,7 @@ A Way Out (Main Mission)
 Corpses and Ice (Main Mission)
 ==========
     Sword:
-    --------------------        
+    --------------------
         - Kobizen Tomonari
 
     Dual Swords:
@@ -692,7 +692,7 @@ Bird In A Cage (Main Mission)
     Sword:
     --------------------
         - Mantra Sword
-    
+
     Dual Swords:
     --------------------
         - Hasebe Kunishige Dual Katana
@@ -855,7 +855,7 @@ The Frenzied Blaze (Main Mission)
     Sword:
     --------------------
         - Blossomed Blade
-        
+
     Dual Swords:
     --------------------
         - Magoroku Kanemoto Dual Katana
@@ -1074,7 +1074,7 @@ The Two Faces of Hospitality (Main Mission)
     Dual Swords:
     --------------------
         - Go-no-Yoshihiro Twin Swords
-    
+
     Spear:
     --------------------
         - Potsticker Spear

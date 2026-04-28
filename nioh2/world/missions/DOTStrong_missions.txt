@@ -4,36 +4,36 @@ TEMPLATE ()
     - Mission Unlock Requirement:
         - Complete the mission: "".
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 
 ==========
 Other Notes:
 ==========
-    - Twilight Missions in this difficulty are automatically unlocked when the region their main mission is in are 
+    - Twilight Missions in this difficulty are automatically unlocked when the region their main mission is in are
         unlocked.
-    - All missions in the Awakening Region (region 1) are automatically unlocked after beating the mission In the Eye 
+    - All missions in the Awakening Region (region 1) are automatically unlocked after beating the mission In the Eye
         of the Beholder in Dream of the Samurai difficulty.
     - All missions in the Soaring Region (region 2) are automatically unlocked after beating the mission In the Eye of
         the Beholder in Dream of the Samurai difficulty.
@@ -74,28 +74,28 @@ The Way of the Warrior: Veteran (Dojo Mission)
     - Mission Unlock Requirement:
         - Complete 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
+        -
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 The Way of the Ninja: Veteran (Dojo Mission)
@@ -103,28 +103,28 @@ The Way of the Ninja: Veteran (Dojo Mission)
     - Mission Unlock Requirement:
         - Complete 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
+        -
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 The Way of Onmyo: Veteran (Dojo Mission)
@@ -132,28 +132,28 @@ The Way of Onmyo: Veteran (Dojo Mission)
     - Mission Unlock Requirement:
         - Complete 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
+        -
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 Opening of the Mind's Eye (Dojo Mission)
@@ -161,28 +161,28 @@ Opening of the Mind's Eye (Dojo Mission)
     - Mission Unlock Requirement:
         - Complete 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
+        -
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 Master of the Dual Blades (Dojo Mission)
@@ -190,28 +190,28 @@ Master of the Dual Blades (Dojo Mission)
     - Mission Unlock Requirement:
         - Complete 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
+        -
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 Hanzo the Demon (Dojo Mission)
@@ -219,28 +219,28 @@ Hanzo the Demon (Dojo Mission)
     - Mission Unlock Requirement:
         - Complete 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
+        -
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 The Unmoving Mountain (Dojo Mission)
@@ -248,28 +248,28 @@ The Unmoving Mountain (Dojo Mission)
     - Mission Unlock Requirement:
         - Complete 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
+        -
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 The Chain That Splits the Sky (Dojo Mission)
@@ -277,28 +277,28 @@ The Chain That Splits the Sky (Dojo Mission)
     - Mission Unlock Requirement:
         - Complete 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
+        -
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 The Tengu's Blade (Dojo Mission)
@@ -306,28 +306,28 @@ The Tengu's Blade (Dojo Mission)
     - Mission Unlock Requirement:
         - Complete 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
+        -
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 Like Lightning (Dojo Mission)
@@ -335,28 +335,28 @@ Like Lightning (Dojo Mission)
     - Mission Unlock Requirement:
         - Complete 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
+        -
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 The Unstoppable Whirlwind (Dojo Mission)
@@ -364,28 +364,28 @@ The Unstoppable Whirlwind (Dojo Mission)
     - Mission Unlock Requirement:
         - Complete 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
+        -
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 Sharp Eyes (Dojo Mission)
@@ -393,28 +393,28 @@ Sharp Eyes (Dojo Mission)
     - Mission Unlock Requirement:
         - Complete 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
+        -
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 The One Who Lives in the Shadows (Dojo Mission)
@@ -422,28 +422,28 @@ The One Who Lives in the Shadows (Dojo Mission)
     - Mission Unlock Requirement:
         - Complete 8 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
+        -
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 The Nine Symbols (Dojo Mission)
@@ -451,28 +451,28 @@ The Nine Symbols (Dojo Mission)
     - Mission Unlock Requirement:
         - Complete 12 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
+        -
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 Breaking Free (Dojo Mission)
@@ -480,28 +480,28 @@ Breaking Free (Dojo Mission)
     - Mission Unlock Requirement:
         - Complete 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
+        -
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 Strike Like a Yokai (Dojo Mission)
@@ -509,28 +509,28 @@ Strike Like a Yokai (Dojo Mission)
     - Mission Unlock Requirement:
         - Complete 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
+        -
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -551,13 +551,13 @@ The Violet Cherry Blossoms
     - Number of Sudama: 3
     - Number of Hot Springs: 0
     - Number of Dark Realms: 2
-    - Bosses: 
+    - Bosses:
         - Gozuki
         - Mezuki
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Quality Umbracite X1
         - Sacred Arrow X4
         - Highest-Quality Leather Platelet X2
@@ -587,12 +587,12 @@ Traces of the Raging Blaze
     - Number of Sudama: 3
     - Number of Hot Springs: 1
     - Number of Dark Realms: 2
-    - Bosses: 
+    - Bosses:
         - Enenra
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Quality Umbracite X1
         - Highest-Quality Ingot X2
         - Highest-Quality Tamahagane X2
@@ -622,12 +622,12 @@ The Blood Tainted Samurai
     - Number of Sudama: 1
     - Number of Hot Springs: 0
     - Number of Dark Realms: 1
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Quality Umbracite X1
         - Lumicite Crystal X1
         - Karasu Tengu Feather X1
@@ -691,12 +691,12 @@ Blood on the Wind
     - Number of Sudama: 1
     - Number of Hot Springs: 0
     - Number of Dark Realms: 2
-    - Bosses: 
+    - Bosses:
         - Kamaitachi
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Quality Umbracite X1
         - Sickle Blade Fragments X1
         - Highest-Quality Wood X2
@@ -726,12 +726,12 @@ The Cursed Castle Ruins
     - Number of Sudama: 2 (1 big sudama)
     - Number of Hot Springs: 1
     - Number of Dark Realms: 3
-    - Bosses: 
+    - Bosses:
         - Azai Nagamasa
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Quality Umbracite X1
         - Kamaitachi's Front Teeth X1
         - Burnt Wick X1
@@ -761,12 +761,12 @@ The Defiled Sanctuary
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Kasha
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Quality Umbracite X1
         - Summoner's Candle X1
         - Highest-Quality Wood X5
@@ -795,12 +795,12 @@ Mountain of the Dark Lord
     - Number of Sudama: 1
     - Number of Hot Springs: 1
     - Number of Dark Realms: 2
-    - Bosses: 
+    - Bosses:
         - Ryomen Sukuna
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Quality Umbracite X1
         - Wheel of Ice and Fire X1
         - Waira Claw X2
@@ -830,12 +830,12 @@ The Island of Monsters
     - Number of Sudama: 1
     - Number of Hot Springs: 1
     - Number of Dark Realms: 1
-    - Bosses: 
+    - Bosses:
         - Tatarimokke
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Quality Umbracite X1
         - Summoner's Candle X1
         - Highest-Quality Tamahagane X3
@@ -865,12 +865,12 @@ Wings of the Phoenix
     - Number of Sudama: 0
     - Number of Hot Springs: 1
     - Number of Dark Realms: 2
-    - Bosses: 
+    - Bosses:
         - Shuten Doji
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Quality Umbracite X1
         - Shuten Doji's Gourd (accessory) (divine)
         - Shuten Doji's Club (axe) (divine)
@@ -898,12 +898,12 @@ Darkness Brewing
     - Number of Sudama: 1 (1 big sudama)
     - Number of Hot Springs: 1
     - Number of Dark Realms: 1
-    - Bosses: 
+    - Bosses:
         - Nue
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Quality Umbracite X1
         - Random Splitstaff (divine)
         - Nue's Claw X1
@@ -924,28 +924,28 @@ The Mystery of Rashomon
     - Mission Unlock Requirement:
         - Unlock Darkness In The Capital (DLC 2) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold:  / 
-    - Amrita:  / 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Recommended level:
+    - Gold:  /
+    - Amrita:  /
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
+        -
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 The Cradle of the Demon
@@ -953,28 +953,28 @@ The Cradle of the Demon
     - Mission Unlock Requirement:
         - Unlock The First Samurai (DLC 3) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold:  / 
-    - Amrita:  / 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Recommended level:
+    - Gold:  /
+    - Amrita:  /
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
+        -
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 The Bewitching Tower
@@ -982,28 +982,28 @@ The Bewitching Tower
     - Mission Unlock Requirement:
         - Unlock The First Samurai (DLC 3) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold:  / 
-    - Amrita:  / 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
-        - 
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Recommended level:
+    - Gold:  /
+    - Amrita:  /
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
+        -
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -1027,13 +1027,13 @@ The Village of Cursed Blossoms (Main Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 2
-    - Bosses: 
+    - Bosses:
         - Gozuki
         - Mezuki
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Fabled Umbracite X1
         - Metalworking Chisel X2
         - Lone Wolf's Cuirass (divine)
@@ -1063,12 +1063,12 @@ The Forest Veiled in Darkness (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Lumicite Shard X3
         - Yokai Incense X1
         - Mountain Bandit Hetchets (divine)
@@ -1097,12 +1097,12 @@ The Beast Born of Smoke and Flames (Main Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 1
     - Number of Dark Realms: 2
-    - Bosses: 
+    - Bosses:
         - Enenra
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Fabled Umbracite X1
         - Enenra Mask (helmet piece) (divine)
         - Ippon-Datara's Hammer (divine)
@@ -1132,12 +1132,12 @@ A Voice in the Twilight (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Gozuki
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Clay Bell of Beckoning X1
         - Summoner's Candle X1
         - Bandit Axe (divine)
@@ -1167,12 +1167,12 @@ Dark Omens (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Sacred Ash X1
         - Lumicite Crystal X1
         - Genin's Kusarigama (divine)
@@ -1202,12 +1202,12 @@ The Viper's Sanctum (Main Mission)
     - Number of Sudama: 2 (1 big Sudama)
     - Number of Hot Springs: 1
     - Number of Dark Realms: 3
-    - Bosses: 
+    - Bosses:
         - Yatsu-no-Kami
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Shinto Priest's Hunting Garb
         - Shinto Priest's Hakama
         - Fabled Umbracite X1
@@ -1236,12 +1236,12 @@ A Favor for the Blacksmith (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Kobizen Odachi (divine)
         - Bronze Hammer (axe) (divine)
         - Officer's Spear (divine)
@@ -1271,12 +1271,12 @@ The Search (Sub Mission)
     - Number of Sudama: 4
     - Number of Hot Springs: 0
     - Number of Dark Realms: 2
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Kodama Bowl (head gear) (divine)
         - Possessed Kodama Bowl X1
         - Glowing Lock of Wet Hair X2
@@ -1305,12 +1305,12 @@ The Greedy Hunter (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Gyosha hand Axe (hatchets) (divine)
         - Seven Scalp Switchglaive (divine)
         - Sohaya Garb Faceplate (divine)
@@ -1343,12 +1343,12 @@ The Hidden Monsters of Okehazama (Main Mission)
     - Number of Sudama: 2 (1 big sudama)
     - Number of Hot Springs: 1
     - Number of Dark Realms: 2
-    - Bosses: 
+    - Bosses:
         - Imagawa Yoshimoto
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Samurai's Locks X1
         - Fabled Umbracite X1
         - Master Archer's Cuirass (chest piece) (divine)
@@ -1378,12 +1378,12 @@ Imagawa Diehard (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Imagawa Yoshimoto
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Master Archer's Hat (divine)
         - Wild Boar Crest Helmet (divine)
         - Sessai's Switchglaive (divine)
@@ -1412,12 +1412,12 @@ Hidetatsu's Dying Wish (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 1
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Smithing Text: Transient Blade
         - Smithing Text: Coin Threader
         - Smithing Text: Pit Viper's Garments
@@ -1446,12 +1446,12 @@ An Error in Calculation (Sub Mission)
     - Number of Sudama: 1
     - Number of Hot Springs: 1
     - Number of Dark Realms: 1
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Warrior's Cross Spear (divine)
         - Abacus (accessory) (divine)
         - High-Quality Leather Platelet X3
@@ -1480,12 +1480,12 @@ The Mysterious One Night Castle (Main Mission)
     - Number of Sudama: 2 (1 big sudama)
     - Number of Hot Springs: 2
     - Number of Dark Realms: 2
-    - Bosses: 
+    - Bosses:
         - Kamaitachi
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Fabled Umbracite X1
         - Metalworking Chisel X2
         - Ferryman's Robes (divine)
@@ -1515,12 +1515,12 @@ The Sunomata Yokai Hunt (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Custom Kusarigama (divine)
         - Japanese Scissors (accessory) (divine)
         - Red Spider Lily X1
@@ -1549,12 +1549,12 @@ A Hot-blooded Howl (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Captain's Spear (divine)
         - High-Quality Tamahagane X3
         - Whetstone X2
@@ -1583,12 +1583,12 @@ The Fire God's Magatama (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 3
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Swordsmith's Hammer (divine)
         - Kiku Ichimonji (sword) [type 1] (divine)
         - Seki Kaneyoshi Dual Tachi (dual swords) (divine)
@@ -1618,13 +1618,13 @@ The Hollow Fortress (Main Mission)
     - Number of Sudama: 2
     - Number of Hot Springs: 2
     - Number of Dark Realms: 2
-    - Bosses: 
+    - Bosses:
         - Onryoki
         - Saito Yoshitatsu
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Genryu's Helmet (divine)
         - Fabled Umbracite X1
         - Metalworking Chisel X2
@@ -1654,12 +1654,12 @@ An End to Seclusion (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Tobikura Kusarigama (divine)
         - Sacred Arrow X4
         - Roaring Gun Ammunition X3
@@ -1687,13 +1687,13 @@ The Shiftling's Wise Judgement (Sub Mission)
     - Number of Sudama: 1
     - Number of Hot Springs: 1
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Shibata Katsuie
         - Hachisuka Koroku
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Double-headed Snake Tonfa (divine)
         - Borehole Bow (divine)
         - Sakai Rifle (divine)
@@ -1722,12 +1722,12 @@ The Viper and the Butterfly (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 1
     - Number of Dark Realms: 1
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Smithing Text: Sasayuki
         - Principal Governor's Cuirass (divine)
         - Principal Governor's Waistguard (divine)
@@ -1760,12 +1760,12 @@ A Way Out (Main Mission)
     - Number of Sudama: 2 (1 big sudama)
     - Number of Hot Springs: 1
     - Number of Dark Realms: 3
-    - Bosses: 
+    - Bosses:
         - Tatarimokke
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Sohaya Mask (divine)
         - Fabled Umbracite X1
         - Metalworking Chisel X2
@@ -1795,12 +1795,12 @@ Learning A Lesson (Sub Mission)
     - Number of Sudama: 1
     - Number of Hot Springs: 0
     - Number of Dark Realms: 1
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Jikkyu Mitsutada (sword) [type 1] (divine)
         - Sacred Water X5
         - Embercite Shard X3
@@ -1830,12 +1830,12 @@ The Shrine of Oaths (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Petrified Eye X1
         - Poison Omamori (accessory) (divine)
         - Prayer Beads (accessory) (divine)
@@ -1863,12 +1863,12 @@ Immovable (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 1
     - Number of Dark Realms: 1
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Extinction Switchglaive (divine)
         - Embercite Shard X7
         - Summoner's Candle X1
@@ -1898,12 +1898,12 @@ A Formal Match (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Yasuke
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Gozutenno's Axe (divine)
         - Obsidian Helmet (divine)
         - Obsidian Cuirass (divine)
@@ -1932,12 +1932,12 @@ Corpses and Ice (Main Mission)
     - Number of Sudama: 1 (1 big sudama)
     - Number of Hot Springs: 1
     - Number of Dark Realms: 3
-    - Bosses: 
+    - Bosses:
         - Magara Naotaka
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Taro Tachi (odachi) (WATER) (divine)
         - Water Omamori (accessory) (divine)
         - Fabled Umbracite X1
@@ -1967,12 +1967,12 @@ Lingering Snow and Crimson Tracks (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Haguro Ninja Hatchets (divine)
         - Governor's Helmet (divine)
         - Governor's Cuirass (divine)
@@ -2001,12 +2001,12 @@ The Tiger Approaches (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Samurai's Locks X1
         - Shinobi Cuirass (divine)
         - Shinobi Waistguard (divine)
@@ -2035,12 +2035,12 @@ The Brother's Blades (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 1
-    - Bosses: 
+    - Bosses:
         - Magara Naotaka
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Taro Tachi (odachi) (WATER) (divine)
         - Jiro Tachi (odachi) (divine)
         - Embercite Crystal X2
@@ -2067,15 +2067,15 @@ A Shadow's Duty (Sub Mission)
     - Shrine: Yes
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
-    - Number of Sudama: 
+    - Number of Sudama:
     - Number of Hot Springs: 0
     - Number of Dark Realms: 1
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Ninja's Locks X1
         - Greater Good Helmet (divine)
         - Greater Good Cuirass (divine)
@@ -2105,12 +2105,12 @@ The Fallen Star (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Kaikunigo (sword) [type 2] (divine)
         - Suwa Myojin Helmet (divine)
         - Tatenashi Cuirass (divine)
@@ -2139,12 +2139,12 @@ Horns on Head, Dragonfly in Hand (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Honda Tadakatsu
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Tombokiri (spear) (LIGHTNING) (divine)
         - Warrior of the East Helmet (divine)
         - Warrior of the East Cuirass (divine)
@@ -2172,12 +2172,12 @@ Bird In A Cage (Main Mission)
     - Number of Sudama: 1 (1 big sudama)
     - Number of Hot Springs: 1
     - Number of Dark Realms: 2
-    - Bosses: 
+    - Bosses:
         - Azai Nagamasa
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Samurai's Locks X1
         - Fabled Umbracite X1
         - Metalworking Chisel X2
@@ -2207,12 +2207,12 @@ The Point of No Return (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Saito Yoshitatsu
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Hand Mirror (accessory) (divine)
         - Summoner's Candle X1
         - Book of Reincarnation X1
@@ -2241,12 +2241,12 @@ The Golden Nation (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Onryoki
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Smithing Text: Wisdom Sutra Sword & Plane Cutter
         - Swallowtail Helmet (divine)
         - Smithing Text: Swallowtail Armor
@@ -2275,12 +2275,12 @@ The Demon King's Blade (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Oda Nobunaga
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Vice-Minister's Cuirass (divine)
         - Vice-Minister's Waistguard (divine)
         - Vice-Minister's Gauntlets (divine)
@@ -2309,12 +2309,12 @@ The Child's Prodigy's Invitation (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Gamo Ujisato
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Wisdom Sutra Sword & Plane Cutter (dual swords) (divine)
         - Hino Rifle (divine)
         - Swallowtail Greaves (divine)
@@ -2343,12 +2343,12 @@ The Chinese Bellflower Dagger (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Saito Toshimitsu
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Onmyo Mage's Locks X1
         - Great Kanemitsu (odachi) (divine)
         - Onmyo Warrior's Cuirass (divine)
@@ -2377,12 +2377,12 @@ A Strong Bond (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 1
     - Number of Dark Realms: 1
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Heshikiri Hasebe (sword) [type 1] (divine)
         - Legendary Strategist's Garb (chest) (divine)
         - Legendary Strategist's Hakama (legs) (divine)
@@ -2415,13 +2415,13 @@ Pervading Waters (Main Mission)
     - Number of Sudama: 2 (1 big sudama)
     - Number of Hot Springs: 1
     - Number of Dark Realms: 2
-    - Bosses: 
+    - Bosses:
         - Saika Magoichi
         - Gyuki
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Ravenwing Rifle (divine)
         - Yatagarasu Cuirass (divine)
         - Fabled Umbracite X1
@@ -2451,12 +2451,12 @@ The Missing Gun (Sub Mission)
     - Number of Sudama: 1
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Roaring Gun Ammunition X5
         - Tactician's Helmet (divine)
         - Tactician's Cuirass (divine)
@@ -2485,13 +2485,13 @@ The Refined Man of the Underworld (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Gozuki
         - Mezuki
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Karamono Hyotan (tea utensil) (exotic)
         - Summoner's Candle X1
         - Yokai Water Pot X3
@@ -2519,12 +2519,12 @@ Song of the Yokai (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 7
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Dancing Blade (sword) [type 1] (divine)
         - Yokai Incense X1
         - Comb (accessory) (divine)
@@ -2553,12 +2553,12 @@ The Frenzied Blaze (Main Mission)
     - Number of Sudama: 2
     - Number of Hot Springs: 1
     - Number of Dark Realms: 3
-    - Bosses: 
+    - Bosses:
         - Kasha
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Firestarter Hood (divine)
         - Firestarter Cuirass (divine)
         - Fabled Umbracite X1
@@ -2588,12 +2588,12 @@ The Burning Sky (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 1
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Kamui (odachi) (FIRE) (divine)
         - Radiant Flame (hatchets) (FIRE) (divine)
         - Twin Dragon Tonfa (FIRE) (divine)
@@ -2623,12 +2623,12 @@ Abduction (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Baby Stone Fragment X1
         - Omamori (accessory) (divine)
         - Prayer Beads (accessory) (divine)
@@ -2657,12 +2657,12 @@ The Warrior (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 1
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Smithing Text: Conqueror's Armor
         - Conqueror's Cuirass (divine)
         - Conqueror's Gauntlets (divine)
@@ -2692,12 +2692,12 @@ The Sun Sets on Mount Tenno (Main Mission)
     - Number of Sudama: 1
     - Number of Hot Springs: 1
     - Number of Dark Realms: 2
-    - Bosses: 
+    - Bosses:
         - Ryomen Sukuna
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Onmyo Mage's Locks X1
         - Fabled Umbracite X1
         - Metalworking Chisel X2
@@ -2726,12 +2726,12 @@ The Aberrant Mage (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Onmyo Mage's Locks X1
         - Onmyo Hunting Garb (chest piece) (divine)
         - Onmyo Hunting Hakama (divine)
@@ -2760,12 +2760,12 @@ The Third Word (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Saika Magoichi
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Highest-Quality Leather Platelet X3
         - Highest-Quality Leather Cord X3
         - Highest-Quality Lacquer X3
@@ -2795,12 +2795,12 @@ Master of the Three Evils (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Matsunaga Hisahide
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Fudo Kuniyuki & Yagen Toshiro (dual swords) (FIRE) (divine)
         - Malefactor's Helmet (divine)
         - Malefactor's Cuirass (divine)
@@ -2833,13 +2833,13 @@ Ruin Draws Near (Main Mission)
     - Number of Sudama: 2 (1 big sudama)
     - Number of Hot Springs: 1
     - Number of Dark Realms: 4
-    - Bosses: 
+    - Bosses:
         - Maeda Toshiie
         - Oni Shibata Katsuie
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Samurai's Locks X1
         - Urn Splitter Hatchets (divine)
         - Fabled Umbracite X1
@@ -2865,16 +2865,16 @@ Okuni's Search (Sub Mission)
     - Amrita: 276,776
     - Shrine: Yes
     - Torii Gate Expedition: Yes
-    - Number of Kodama: 
+    - Number of Kodama:
     - Number of Sudama: 0
     - Number of Hot Springs: 7
     - Number of Dark Realms: 2
-    - Bosses: 
+    - Bosses:
         - Enenra
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Dancing Blade (sword) [type 1] (divine)
         - Fan (accessory) (divine)
         - Glowing Lock of Wet Hair X3
@@ -2902,12 +2902,12 @@ Farewell to the Past (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Akechi Chikakage (sword) [type 1] (divine)
         - Hyuga Director's Helmet (divine)
         - Hyuga Director's Cuirass (divine)
@@ -2936,12 +2936,12 @@ The Two Faces of Hospitality (Main Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 1
     - Number of Dark Realms: 2
-    - Bosses: 
+    - Bosses:
         - Tokichiro
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Fabled Umbracite X1
         - Metalworking Chisel X2
         - Golden Gourd Cuirass (divine)
@@ -2971,15 +2971,15 @@ The High-Spirited Demon (Main Mission)
     - Number of Sudama: 1 (1 big sudama)
     - Number of Hot Springs: 1
     - Number of Dark Realms: 3
-    - Bosses: 
+    - Bosses:
         - Kamaitachi
         - Hachisuka Koroku
         - Mezuki
         - Daidara Bocchi
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Demon's Maw (sword) [type 1] (divine)
         - Red Kappa Helmet (divine)
         - Fabled Umbracite X1
@@ -3009,12 +3009,12 @@ A Message From the Deceased (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 1
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Onmyo Mage's Locks X1
         - Tosa Governor's Helmet (divine)
         - Braided Straw Helmet (divine)
@@ -3043,12 +3043,12 @@ Stray Cats (Sub Mission)
     - Number of Sudama: 1
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Onryoki
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Ninja's Locks X1
         - Clay Bell of Beckoning X3
         - Highest-Quality Leather Cord X5
@@ -3076,12 +3076,12 @@ Calling on the Fire God (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 1
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Ame-no-Mahitotsu's Axe (FIRE) (divine)
         - Seventh Sword Tonfa (divine)
         - Echoing Thunder (hatchets) (LIGHTNING) (divine)
@@ -3110,12 +3110,12 @@ Scattered Fragments (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Kamuro (tea utensil) (exotic)
         - Zen Manual X1
         - Herbal Remedy X1
@@ -3143,12 +3143,12 @@ A Prayer in the Moonlight (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 1
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Sekishu Kazusada (odachi) (divine)
         - Moonprayer Cuirass (divine)
         - Moonprayer Waistguard (divine)
@@ -3182,12 +3182,12 @@ The Mausoleum of Evil (Main Mission)
     - Number of Sudama: 2
     - Number of Hot Springs: 1
     - Number of Dark Realms: 2
-    - Bosses: 
+    - Bosses:
         - Shuten Doji
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Dojikiri Yasutsuna (sword) [type 2] (divine)
         - Genmei Onmyo Mage's Hat (divine)
         - Fabled Umbracite X1
@@ -3216,12 +3216,12 @@ The Roaming Artisan (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Basket Blade & Boar Cutter (dual swords) (divine)
         - Metalworking Chisel X3
         - Highest-Quality Tamahagane X4
@@ -3250,12 +3250,12 @@ Mataza of the Spear (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Maeda Toshiie
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Mataza's Long Spear (divine)
         - Mataza's Helmet (divine)
         - Mataza's Cuirass (divine)
@@ -3283,17 +3283,17 @@ The Golden Castle (Main Mission)
     - Number of Sudama: 2 (1 big sudama)
     - Number of Hot Springs: 1
     - Number of Dark Realms: 3
-    - Bosses: 
+    - Bosses:
         - Enenra
         - Gozuki
         - Mezuki
         - Yatsu-no-Kami
         - Kasha
         - Lady Osakabe
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Mikazuki Munechika (sword) [type 2] (LIGHTNING) (divine)
         - Onimaru Kunisuna (sword) [type 2] (FIRE) (divine)
         - Fabled Umbracite X1
@@ -3323,12 +3323,12 @@ The Bravest of the Brave (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 1
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Maeda Keiji
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Vermillion Spear (divine)
         - Eccentric's Helmet (divine)
         - Eccentric's Cuirass (divine)
@@ -3356,12 +3356,12 @@ The Dream's End (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 1
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Kasha
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Zenki and Goki (hatchets) (divine)
         - Thunder God Kusarigama (LIGHTNING) (divine)
         - Sarutobi's Gunsticks (tonfas) (divine)
@@ -3388,14 +3388,14 @@ Cherry Blossom Viewing in Daigo (Main Mission)
     - Number of Sudama: 1 (1 big sudama)
     - Number of Hot Springs: 1
     - Number of Dark Realms: 1
-    - Bosses: 
+    - Bosses:
         - Gozuki
         - Tokichiro (dream)
         - Kashin Koji
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Ichigo Hitofuri & Oyako Toshiro (dual swords) (divine)
         - Child of the Sun's Cuirass (divine)
         - Fabled Umbracite X1
@@ -3424,12 +3424,12 @@ Restoring Harmony (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Ryomen Sukuna
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Onmyo Mage's Locks X1
         - Smithing Text: Great Kanemitsu
         - Smithing Text: Onmyo Warrior's Armor
@@ -3458,12 +3458,12 @@ Japanese Heart, Yokai Smarts (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Hachisuka Koroku
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Kawanami Kusarigama (divine)
         - Kawanami Clan Vest (divine)
         - Kawanami Clan Waistguard (divine)
@@ -3491,12 +3491,12 @@ Restless Spirits (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Oni Shibata Katsuie
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Urn Splitter Hatchets (divine)
         - Oni Shibata's Waistguard (divine)
         - Oni Shibata's Gauntlets (divine)
@@ -3526,12 +3526,12 @@ The Scented Letter (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Imakomei's Helmet (divine)
         - Imakomei's Cuirass (divine)
         - Summoner's Candle X1
@@ -3561,12 +3561,12 @@ Yaksha Returns (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Azai Nagamasa
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Azai Ichimonji (sword) [type 1] (divine)
         - Kohoku Master's Waistguard (divine)
         - Kohoku Master's Gauntlets (divine)
@@ -3605,12 +3605,12 @@ The Blue-Eyed Samurai (Main Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - William
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Youngblood Cuirass (exotic)
         - Youngblood Waistguard (exotic)
         - Fabled Umbracite X1
@@ -3640,14 +3640,14 @@ In The Eye of the Beholder (Main Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 1
     - Number of Dark Realms: 3
-    - Bosses: 
+    - Bosses:
         - Gozuki
         - Mezuki
         - Otakemaru
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Kusanagi Tsurugi (sword) (divine)
         - Yasakani Magatama (accessory) (divine)
         - Fabled Umbracite X1
@@ -3676,12 +3676,12 @@ Dawn of Hope (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Onryoki
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Samurai's Locks X1
         - Shoulder Strap (accessory) (divine)
     ---------- ---------- ----------
@@ -3709,13 +3709,13 @@ The Trustworthy (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Hattori Hanzo
         - Honda Tadakatsu
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Samurai's Locks X1
         - Tombokiri (spear) (LIGHTNING) (divine)
         - Hanzo the Demon's Spear (divine)
@@ -3745,7 +3745,7 @@ Winds of Ruin (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Tsukahara Bokuden
         - Sakata Kintoki
         - Shisenin Kosen
@@ -3753,10 +3753,10 @@ Winds of Ruin (Sub Mission)
         - Ashikaga Yoshiteru
         - Hattori Hanzo
         - Mumyo
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Samurai's Locks X1
         - Black Lotus (switchglaive) (divine)
         - Random Accessory (divine)
@@ -3785,14 +3785,14 @@ Wave of Terror (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Gozuki
         - Ryomen Sukuna
         - Shibata Katsuie
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Fabled Umbracite X1
         - Ryomen Sukuna's Bow (divine)
         - Ryomen Sukuna's Sword (odachi) (divine)
@@ -3822,14 +3822,14 @@ Calamity's Pulse (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Yatsu-no-Kami
         - Shuten Doji
         - Otakemaru
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Fabled Umbracite X1
         - Sanmyo Blade Fragment X1
         - Random Equipment [chest icon] [EQUIPMENT in all caps](divine)
@@ -3862,13 +3862,13 @@ A Song to Calm the Storm (Main Mission)
     - Number of Sudama: 2 (1 big sudama)
     - Number of Hot Springs: 1
     - Number of Dark Realms: 1
-    - Bosses: 
+    - Bosses:
         - Benkei
         - Uminyudo
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Random Splitstaff (divine)
         - Benkei's Hood (divine)
         - Fabled Umbracite X1
@@ -3898,12 +3898,12 @@ Shadows Creep In Kurama (Sub Mission)
     - Number of Sudama: 2 (1 big sudama)
     - Number of Hot Springs: 1
     - Number of Dark Realms: 1
-    - Bosses: 
+    - Bosses:
         - Nue
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Flashfire Splitstaff (FIRE) (divine)
         - Tengu Mask (divine)
         - Tengu's Fan X2
@@ -3932,12 +3932,12 @@ The Lost Sword (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Taira no Kagekiyo
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Smithing Text: Fan-Piercing Bow
         - Smithing Text: Blessed Sleeve Armor
         - Yoichi's Bow (divine)
@@ -3967,12 +3967,12 @@ The Loyal Retainer (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 1
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Random Splitstaff (divine)
         - Glue X1
         - Embercite Crystal X2
@@ -4001,13 +4001,13 @@ Eternal Rivals (Main Mission)
     - Number of Sudama: 1
     - Number of Hot Springs: 1
     - Number of Dark Realms: 1
-    - Bosses: 
+    - Bosses:
         - Mezuki
         - Minamoto no Yoshitsune
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Samurai's Locks X1
         - Semiore Flute (accessory) (divine)
         - Seto Taisho Soul Core
@@ -4037,12 +4037,12 @@ An Encounter Among the Blossoms (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Vajra Splitstaff (LIGHTNING) (divine)
         - Prayer Beads (accessory) (divine)
         - Bakegani Pincers X2
@@ -4072,12 +4072,12 @@ The Tale of the Taira (Sub Mission)
     - Number of Sudama: 0
     - Number of Hot Springs: 0
     - Number of Dark Realms: 0
-    - Bosses: 
+    - Bosses:
         - Taira no Kagekiyo
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Chi-Azamaru (dual swords) (divine)
         - Random Splitstaff (divine)
         - Taira no Kagekiyo's Helmet (divine)
@@ -4135,22 +4135,22 @@ Prisoners of the Stones (Sub Mission)
     - Shrine: Yes
     - Torii Gate Expedition: Yes
     - Number of Kodama: 0
-    - Number of Sudama: 
+    - Number of Sudama:
     - Number of Hot Springs: 0
-    - Number of Dark Realms: 
-    - Bosses: 
+    - Number of Dark Realms:
+    - Bosses:
         - None
-    - Guardian Spirit Unlocked: 
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
+    - Mission Rewards:
+    First Time:
         - Samurai's Locks X1
         - Tempest Splitstaff (WATER) (divine)
         - Nuppeppo Liver X2
         - Embercite Crystal X2
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
         - None
@@ -4161,28 +4161,28 @@ Soul of the Warrior Monk (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock The Tengu's Disciple (DLC 1) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 Bond of the Blade (Sub Mission)
@@ -4190,28 +4190,28 @@ Bond of the Blade (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock The Tengu's Disciple (DLC 1) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 
 ========== ========== ========== ========== ==========
@@ -4223,28 +4223,28 @@ Suzune in the Flames (Main Mission)
     - Mission Unlock Requirement:
         - Unlock Darkness In The Capital (DLC 2) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 The Blighted Gate (Main Mission)
@@ -4252,28 +4252,28 @@ The Blighted Gate (Main Mission)
     - Mission Unlock Requirement:
         - Unlock Darkness In The Capital (DLC 2) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 The Buddha's Palm (Sub Mission)
@@ -4281,28 +4281,28 @@ The Buddha's Palm (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock Darkness In The Capital (DLC 2) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 Insatiable Bloodlust (Sub Mission)
@@ -4310,28 +4310,28 @@ Insatiable Bloodlust (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock Darkness In The Capital (DLC 2) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 Palace of the Damned (Main Mission)
@@ -4339,28 +4339,28 @@ Palace of the Damned (Main Mission)
     - Mission Unlock Requirement:
         - Unlock Darkness In The Capital (DLC 2) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 Boundless Chaos (Sub Mission)
@@ -4368,28 +4368,28 @@ Boundless Chaos (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock Darkness In The Capital (DLC 2) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 The Sweet Scent of Plums (Sub Mission)
@@ -4397,28 +4397,28 @@ The Sweet Scent of Plums (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock Darkness In The Capital (DLC 2) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 The Demon Slayers (Sub Mission)
@@ -4426,28 +4426,28 @@ The Demon Slayers (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock Darkness In The Capital (DLC 2) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 A Storm in the Underworld (Sub Mission)
@@ -4455,28 +4455,28 @@ A Storm in the Underworld (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock Darkness In The Capital (DLC 2) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 The Revelry Ends (Sub Mission)
@@ -4484,28 +4484,28 @@ The Revelry Ends (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock Darkness In The Capital (DLC 2) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 The Dragon Clan (Sub Mission)
@@ -4513,28 +4513,28 @@ The Dragon Clan (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock Darkness In The Capital (DLC 2) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 
 ========== ========== ========== ========== ==========
@@ -4546,28 +4546,28 @@ Dawn of the Demon (Main Mission)
     - Mission Unlock Requirement:
         - Unlock The First Samurai (DLC 3) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 In Search of the Elixir (Sub Mission)
@@ -4575,28 +4575,28 @@ In Search of the Elixir (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock The First Samurai (DLC 3) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 Words of Respite (Sub Mission)
@@ -4604,28 +4604,28 @@ Words of Respite (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock The First Samurai (DLC 3) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 A Distant Dream (Main Mission)
@@ -4633,28 +4633,28 @@ A Distant Dream (Main Mission)
     - Mission Unlock Requirement:
         - Unlock The First Samurai (DLC 3) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 The Alluring Ancient (Sub Mission)
@@ -4662,28 +4662,28 @@ The Alluring Ancient (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock The First Samurai (DLC 3) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 Battle at the Temple (Sub Mission)
@@ -4691,28 +4691,28 @@ Battle at the Temple (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock The First Samurai (DLC 3) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 Against All Comers (Sub Mission)
@@ -4720,28 +4720,28 @@ Against All Comers (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock The First Samurai (DLC 3) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 A Spirit's Return (Sub Mission)
@@ -4749,28 +4749,28 @@ A Spirit's Return (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock The First Samurai (DLC 3) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 A Familiar Glow (Sub Mission)
@@ -4778,28 +4778,28 @@ A Familiar Glow (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock The First Samurai (DLC 3) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 Rivals Return (Sub Mission)
@@ -4807,28 +4807,28 @@ Rivals Return (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock The First Samurai (DLC 3) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -
 
 ==========
 Undying Light (Sub Mission)
@@ -4836,25 +4836,25 @@ Undying Light (Sub Mission)
     - Mission Unlock Requirement:
         - Unlock The First Samurai (DLC 3) by completing 18 missions.
     --------------------
-    - Recommended level: 
-    - Gold: 
-    - Amrita: 
-    - Shrine: 
-    - Torii Gate Expedition: 
-    - Number of Kodama: 
-    - Number of Sudama: 
-    - Number of Hot Springs: 
-    - Number of Dark Realms: 
-    - Bosses: 
-        - 
-    - Guardian Spirit Unlocked: 
+    - Recommended level:
+    - Gold:
+    - Amrita:
+    - Shrine:
+    - Torii Gate Expedition:
+    - Number of Kodama:
+    - Number of Sudama:
+    - Number of Hot Springs:
+    - Number of Dark Realms:
+    - Bosses:
+        -
+    - Guardian Spirit Unlocked:
         - None
-    - Mission Rewards: 
-    First Time: 
-        - 
+    - Mission Rewards:
+    First Time:
+        -
     ---------- ---------- ----------
     Subsequent Completes:
-        - 
+        -
     ---------- ---------- ----------
     Notable Items During / Post Mission:
-        - 
+        -

@@ -15,7 +15,7 @@ Key Items
 
     - Back Room Key [img complete]:
         - Key found after defeating Ubume in the gauntlet section at the end of the Sub Mission: Song of the Yokai.
-        - Back Room Key removed from inventory after opening the final door releasing Okuni in the Sub Mission: Song of the 
+        - Back Room Key removed from inventory after opening the final door releasing Okuni in the Sub Mission: Song of the
             Yokai.
 
     - Beaded Hairpin [img complete]:
@@ -84,7 +84,7 @@ Key Items
     - Hiragumo Fragment I - IV [imgs complete]:
         - Fragments I-IV are obtained in the Sub Mission: Scattered Fragments.
         - All 4 Fragments are removed from inventory after completing the Sub Mission: Scattered Fragments.
-        - The Key Item: Repaired Hiragumo Kettle is given to the player in replacement, after completing the Sub Mission: 
+        - The Key Item: Repaired Hiragumo Kettle is given to the player in replacement, after completing the Sub Mission:
             Scattered Fragments.
 
     - Hot Spring Chamber Key [img complete]:
@@ -106,7 +106,7 @@ Key Items
         - All 3 Wooden Tiles are removed from the player's inventory upon opening the final wooden door requiring the 3 tiles.
 
     - Jailer's Keys [img complete]:
-        - Obtained in the following Sub Missions: 
+        - Obtained in the following Sub Missions:
             - Stray Cats.
             - The Bravest of the Brave.
         - Item is removed from player's inventory after completing the above Sub Missions.
@@ -196,7 +196,7 @@ Key Items
 
 
 ========== ========== ==========
-Proficiency 
+Proficiency
 ========== ========== ==========
     - Max level for Dream of the Samurai and Dream of the Strong:
         - Weapons: LVL 30 (500,000 proficiency)
@@ -262,7 +262,7 @@ Dream of the Strong (NG+1) Notes:
     - Yasakani Magatama can randomly drop as loot.
     - Defeating Otakemaru in the mission: In The Eye of the Beholder on Dream of the Strong and above (on every difficulty) for
         the first time will guaranteed drop a Yasakani Magatama. (Credits: Oolong Tea)
-    - Obtain the Smithing Text: Kodama Bowl upon completing all Main and Sub missions on Dream of the Strong. 
+    - Obtain the Smithing Text: Kodama Bowl upon completing all Main and Sub missions on Dream of the Strong.
         (Online missions are not counted towards this)
     - Gain access to the Silabar Ingot for the Blacksmith after completing In The Eye of the Beholder on this difficulty.
     - Maximum gear level: 170 (average 160)
@@ -282,7 +282,7 @@ Dream of the Demon (NG+2) Notes:
     - Gain access to Silibar Ingots (Store Amrita). Obtained by completing In the Eye of the Beholder on Dream of the Strong.
     - Gain access to Scroll of the Demon Picture Scrolls.
     - Starred atrribute effects can be found on randomly dropped loot.
-    - Obtain the Smiting Text: Scampuss Hat upon completing all Main and Sub missions on Dream of the Demon. 
+    - Obtain the Smiting Text: Scampuss Hat upon completing all Main and Sub missions on Dream of the Demon.
         (Online missions are not counted towards this)
 
     - Gain access to the following Graces and Sets:
@@ -316,7 +316,7 @@ Dream of the Demon (NG+2) Notes:
     - Maximum Soul Core level: 180 (average 170)
 
     - Spirit Stones that drop on Dream of the Demon (NG+2):
-        - 
+        -
 
 ========== ========== ==========
 Dream of the Wise (NG+3) Notes:
@@ -327,7 +327,7 @@ Dream of the Wise (NG+3) Notes:
     - Gain access to Scroll of the Wise Picture Scrolls.
     - Gain access to Ultimate atrributes on Scroll of the Wise Picture Scrolls.
     - Gain access to Dream of the Nioh and The Underworld upon completing In the Eye of the Beholder on Dream of the Wise.
-    - Obtain the Smithing text: Sudama Skull upon completing all Main and Sub missions on Dream of the Wise. 
+    - Obtain the Smithing text: Sudama Skull upon completing all Main and Sub missions on Dream of the Wise.
         (Online missions are not counted towards this)
     - Character Stats can now go above 99 up to a maximum of 200.
 
@@ -361,7 +361,7 @@ Dream of the Wise (NG+3) Notes:
     - Maximum Soul Core level: 190 (average 180)
 
     - Spirit Stones that drop on Dream of the Wise (NG+3):
-        - 
+        -
 
 ========== ========== ==========
 Dream of the Nioh (NG+4) Notes:
@@ -369,7 +369,7 @@ Dream of the Nioh (NG+4) Notes:
     - Requires The First Samurai (DLC 3).
     - Gain access to Ethreal Soul Cores. Maximum level of Soul Core Rank is now 30, from 20.
     - Gain access to Scroll of the Nioh Picture Scrolls.
-    - Obtain the Smithing Text: Mumyo's Mask upon completing all Main and Sub missions on Dream of the Nioh. 
+    - Obtain the Smithing Text: Mumyo's Mask upon completing all Main and Sub missions on Dream of the Nioh.
         (Online missions are not counted towards this)
 
     - Gain access to the following Graces and Sets (Dream of the Nioh):
@@ -418,7 +418,7 @@ Dream of the Nioh (NG+4) Notes:
     - Maximum Soul Core level for Underworld: 200
 
     - Spirit Stones that drop on Dream of the Nioh (NG+4) and Underworld:
-        - 
+        -
 
 
 [Credits for NG+ notes]:
@@ -441,5 +441,5 @@ Notes on iframes:
     - Low Stance front and back dodge is 10 frames
     - Sword and Spear side dodge is 15 iframes.
     - High Stance dodge roll is 18 iframes.
-    - Mid Stance side dodge is 10 iframes and the dodge roll is 18 iframes. 
+    - Mid Stance side dodge is 10 iframes and the dodge roll is 18 iframes.
         (There are 2-3 frames in between the side dodge and the roll where you can be hit.)

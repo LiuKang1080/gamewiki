@@ -1,11 +1,11 @@
 ==========
 TEMPLATE ()
 ==========
-    - Quest Giver: 
+    - Quest Giver:
     - Characters:
-        - 
+        -
     --------------------
-    - 
+    -
 
 
 ========== ========== ========== ========== ========== ========== ==========
@@ -70,7 +70,7 @@ The Way of the Onmyo: Adept (Dojo Mission)
     - Karakasa Umbrella
     - Infernal Oni-Bi
     - Ippon-Datara (hammer)
-    
+
 ==========
 The Way of the Warrior: Veteran (Dojo Mission)
 ==========
@@ -775,8 +775,8 @@ Hidetatsu's Dying Wish (Sub Mission)
     - Human (big) (axe)
     - Human (bow + fire arrow, sword)
     - Sohaya Warrior (hatchets)
-    - Human (big) (odachi)  
-    - Human (big) (sword) 
+    - Human (big) (odachi)
+    - Human (big) (sword)
     - Nure-Onna
     - One-Eyed Oni
     - Gaki
@@ -816,7 +816,7 @@ The Mysterious One Night Castle (Main Mission)
     - Human (axe)
     - Human (bow + fire arrow, sword)
     - Human (spear)
-    - Human (big) (odachi) 
+    - Human (big) (odachi)
     - Gaki
     - Aberrant Soldier
     - Karasu Tengu
@@ -1084,7 +1084,7 @@ The Shrine of Oaths (Sub Mission)
     - Aberrant Soldier
     - Yoki (axe)
     - Yoki (sword)
-    - Mitsume Yazura 
+    - Mitsume Yazura
     - One-Eyed Oni
     - Gaki
     - Koroka
@@ -1126,7 +1126,7 @@ Immoveable (Sub Mission)
 A Formal Match (Sub Mission)
 ==========
     - Quest Giver: Tokichiro
-    - Characters: 
+    - Characters:
         - Tokichiro (NPC)
         - Oda Nobunaga (NPC)
     --------------------
@@ -1136,7 +1136,7 @@ A Formal Match (Sub Mission)
 Corpses and Ice (Main Mission)
 ==========
     - Quest Giver: Tokichiro
-    - Characters: 
+    - Characters:
         - Oda Nobunaga (Cutscenes)
         - Maeda Toshiie (Cutscenes)
         - Shibata Katsuie (Cutscenes)
@@ -1175,7 +1175,7 @@ Corpses and Ice (Main Mission)
 Lingering Snow and Crimson Tracks (Sub Mission)
 ==========
     - Quest Giver: Takenaka Hanbei
-    - Characters: 
+    - Characters:
         - None
     --------------------
     - Karakasa Umbrella
@@ -1191,7 +1191,7 @@ Lingering Snow and Crimson Tracks (Sub Mission)
 The Tiger Approaches (Sub Mission)
 ==========
     - Quest Giver: Tokichiro
-    - Characters: 
+    - Characters:
         - Honda Tadakatsu (Ally)
     --------------------
     - Aberrant Soldier
@@ -1210,7 +1210,7 @@ The Tiger Approaches (Sub Mission)
 The Brother's Baldes (Sub Mission)
 ==========
     - Quest Giver: Honda Tadakatsu
-    - Characters: 
+    - Characters:
         - None
     --------------------
     - Rokurokubi (torch, spear)
@@ -1224,7 +1224,7 @@ The Brother's Baldes (Sub Mission)
 A Shadow's Duty (Sub Mission)
 ==========
     - Quest Giver: Honda Tadakatsu
-    - Characters: 
+    - Characters:
         - Hattori Hanzo (NPC)
     --------------------
     - Human (big) (axe)
@@ -1252,7 +1252,7 @@ A Shadow's Duty (Sub Mission)
 The Fallen Star (Sub Mission)
 ==========
     - Quest Giver: Maeda Toshiie
-    - Characters: 
+    - Characters:
         - Maeda Toshiie (Ally)
     --------------------
     - Takeda Shingen (first time)
@@ -1265,7 +1265,7 @@ The Fallen Star (Sub Mission)
 Horns on Head, Dragonfly in Hand (Main Mission)
 ==========
     - Quest Giver: Honda Tadakatsu
-    - Characters: 
+    - Characters:
         - None
     --------------------
     - Honda Tadakatsu (boss) (first time)
@@ -1274,7 +1274,7 @@ Horns on Head, Dragonfly in Hand (Main Mission)
 Bird In A Cage (Main Mission)
 ==========
     - Quest Giver: Tokichiro
-    - Characters: 
+    - Characters:
         - Ryunojo the Dung Lover (NPC)
             - 1st Reward (5 Dung Balls): Lumicite Shard / Gesture: THANKS
             - 2nd Reward (10 Dung Balls): Lumicite Crystal
@@ -1323,7 +1323,7 @@ Bird In A Cage (Main Mission)
 The Point of No Return (Sub Mission)
 ==========
     - Quest Giver: Takenaka Hanbei
-    - Characters: 
+    - Characters:
         - None
     --------------------
     - Saito Yoshitatsu (boss)
@@ -1332,7 +1332,7 @@ The Point of No Return (Sub Mission)
 The Golden Nation (Sub Mission)
 ==========
     - Quest Giver: Takenaka Hanbei
-    - Characters: 
+    - Characters:
         - Gamo Ujisato (NPC)
     --------------------
     - Rokurokubi (dual swords)
@@ -1353,7 +1353,7 @@ The Golden Nation (Sub Mission)
 The Demon King's Blade (Sub Mission)
 ==========
     - Quest Giver: Oda Nobunaga
-    - Characters: 
+    - Characters:
         - Oda Nobunaga (Cutscenes)
     --------------------
     - Oda Nobunaga (boss) (first time)
@@ -1362,7 +1362,7 @@ The Demon King's Blade (Sub Mission)
 The Child's Prodigy's Invitation (Sub Mission)
 ==========
     - Quest Giver: Tokichiro
-    - Characters: 
+    - Characters:
         - None
     --------------------
     - Gamo Ujisato (boss) (first time)
@@ -1371,7 +1371,7 @@ The Child's Prodigy's Invitation (Sub Mission)
 The Chinese Bellflower Dagger (Sub Mission)
 ==========
     - Quest Giver: Saito Toshimitsu
-    - Characters: 
+    - Characters:
         - None
     --------------------
     - Saito Toshimitsu (boss) (first time)
@@ -1380,7 +1380,7 @@ The Chinese Bellflower Dagger (Sub Mission)
 A Strong Bond (Sub Mission)
 ==========
     - Quest Giver: Hakutaku
-    - Characters: 
+    - Characters:
         - Takenaka Hanbei (NPC)
     --------------------
     - Human (big) (torch, odachi)
@@ -1410,7 +1410,7 @@ Dawn Region (Region 4)
 Pervading Waters (Main Mission)
 ==========
     - Quest Giver: Tokichiro
-    - Characters: 
+    - Characters:
         - Shibata Katsuie (Cutscenes, NPC, Ally)
         - Oda Nobunaga (Cutscenes)
         - Tokichiro (Cutscenes, NPC)
@@ -1450,7 +1450,7 @@ Pervading Waters (Main Mission)
 The Missing Gun (Sub Mission)
 ==========
     - Quest Giver: Shibata Katsuie
-    - Characters: 
+    - Characters:
         - None
     --------------------
     - Saika Clan (dual pistols, rifle, dual swords)
@@ -1478,7 +1478,7 @@ The Missing Gun (Sub Mission)
 The Refined Man of the Underworld (Sub Mission)
 ==========
     - Quest Giver: Matsunaga Hisahide
-    - Characters: 
+    - Characters:
         - None
     --------------------
     - Gaki
@@ -1490,7 +1490,7 @@ The Refined Man of the Underworld (Sub Mission)
 Song of the Yokai (Sub Mission)
 ==========
     - Quest Giver: Hachisuka Koroku
-    - Characters: 
+    - Characters:
         - Okuni (NPC)
     --------------------
     - Rokurokubi (sword)
@@ -1511,7 +1511,7 @@ Song of the Yokai (Sub Mission)
 The Frenzied Blaze (Main Mission)
 ==========
     - Quest Giver: Mumyo
-    - Characters: 
+    - Characters:
         - Akechi Mitsuhide (Cutscenes)
         - Saito Toshimitsu (Cutscenes)
         - Oda Nobunaga (Cutscenes)
@@ -1552,7 +1552,7 @@ The Frenzied Blaze (Main Mission)
 The Burning Sky (Sub Mission)
 ==========
     - Quest Giver: Senji Toyo
-    - Characters: 
+    - Characters:
         - None
     --------------------
     - Gaki
@@ -1574,7 +1574,7 @@ The Burning Sky (Sub Mission)
 Abduction (Sub Mission)
 ==========
     - Quest Giver: Mumyo
-    - Characters: 
+    - Characters:
         - None
     --------------------
     - Gaki
@@ -1594,7 +1594,7 @@ Abduction (Sub Mission)
 The Warrior (Sub Mission)
 ==========
     - Quest Giver: Mumyo
-    - Characters: 
+    - Characters:
         - Obsidian Samurai (NPC)
     --------------------
     - Skeleton Warrior (spear)
@@ -1624,7 +1624,7 @@ The Warrior (Sub Mission)
 The Sun Sets on Mount Tenno (Main Mission)
 ==========
     - Quest Giver: Mumyo
-    - Characters: 
+    - Characters:
         - Akechi Mitsuhide (Cutscenes)
         - Saito Toshimitsu (Cutscenes)
         - Kashin Koji (Cutscenes)
@@ -1664,7 +1664,7 @@ The Sun Sets on Mount Tenno (Main Mission)
 The Aberrant Mage (Sub Mission)
 ==========
     - Quest Giver: Mumyo
-    - Characters: 
+    - Characters:
         - Saika Magoichi (Ally)
     --------------------
     - Human (sword)
@@ -1690,7 +1690,7 @@ The Aberrant Mage (Sub Mission)
 The Third Word (Sub Mission)
 ==========
     - Quest Giver: Mumyo
-    - Characters: 
+    - Characters:
         - None
     --------------------
     - Saika Magoichi (boss)
@@ -1699,7 +1699,7 @@ The Third Word (Sub Mission)
 Master of the Three Evils (Sub Mission)
 ==========
     - Quest Giver: Matsunaga Hisahide
-    - Characters: 
+    - Characters:
         - None
     --------------------
     - Matsunaga Hisahide (boss) (first time)
@@ -1712,7 +1712,7 @@ Twilight Region (Region 5)
 Ruin Draws Near (Main Mission)
 ==========
     - Quest Giver: Mumyo
-    - Characters: 
+    - Characters:
         - Oichi (Cutscenes)
     --------------------
     - Skeleton Warrior (cannon, sword)
@@ -1741,7 +1741,7 @@ Ruin Draws Near (Main Mission)
 Okuni's Search (Sub Mission)
 ==========
     - Quest Giver: Okuni
-    - Characters: 
+    - Characters:
         - Okuni (Ally)
     --------------------
     - Nure-Onna
@@ -1762,7 +1762,7 @@ Okuni's Search (Sub Mission)
 Farewell to the Past (Sub Mission)
 ==========
     - Quest Giver: Tenkai (Akechi Mitsuhide)
-    - Characters: 
+    - Characters:
         - None
     --------------------
     - Human (dual swords)
@@ -2004,7 +2004,7 @@ Mataza of the Spear (Sub Mission)
 
 ==========
 The Golden Castle (Main Mission)
-==========    
+==========
     - Quest Giver: Mumyo
     - Characters:
         - Mumyo (Cutscenes, NPC)
@@ -2869,7 +2869,7 @@ Dawn of the Demon (Main Mission)
     - Konaki-Jiji (first time)
     - Revenant (fists) (first time)
     - Mujina
-    - Ancient Otakemaru (boss) (first time)        
+    - Ancient Otakemaru (boss) (first time)
     - Nure-Onna
     - Bakegani
     - Aberrant Soldier
