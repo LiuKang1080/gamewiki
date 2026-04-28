@@ -99,9 +99,9 @@ Enki
     - Divine Rice
 
 Yoki
+    - Smiting Text: Demon's Axe
     - Yoki Soul Core
     - Demon's Horn
-    - Smiting Text: Demon's Axe
     ----------
     - Elixir
     - Divine Rice
@@ -142,10 +142,10 @@ Sohaya Warrior
     - Divine Rice
 
 Ippon-Datara
-    - Ippon-Datara Soul Core
-    - Ippon-Datara Fang
     - Smithing Text: Ippon-Datara's Hammer (axe)
     - Smithing Text: Ippon-Datara's Odachi (odachi)
+    - Ippon-Datara Soul Core
+    - Ippon-Datara Fang
     ----------
     - Ippon-Datara's Hammer (axe)
     - Ippon-Datara's Odachi
@@ -210,12 +210,12 @@ Skeleton Warrior / Skeleton Warrior (big)
     - Explosive Rounds
 
 Enenra (boss)
-    - Enenra Soul Core
-    - Smoldering Ash Pile
     - Smithing Text: Onimaru Kunitsuna
     - Smithing Text: Firefly Blade
     - Smithing Text: Enenra Mask
     - Smithing Text: Eccentric's Armor
+    - Enenra Soul Core
+    - Smoldering Ash Pile
     ----------
     -
 
@@ -288,9 +288,9 @@ Karasu Tengu
     - Elixir
 
 Nure-Onna
+    - Smithing Text: Bloodspider Blade
     - Nure-Onna Soul Core
     - Glowing Lock of Wet Hair
-    - Smithing Text: Bloodspider Blade
     ----------
     - Elixir
     - Antidote
@@ -310,10 +310,10 @@ Snake Statue
     - Small Spirit Stone
 
 Yatsu-no-Kami (boss)
-    - Yatsu-no-Kami Soul Core
-    - Bladed Horn
     - Smithing Text: Shinto Priest's Clothes
     - Smithing Text: Shrine Maiden
+    - Yatsu-no-Kami Soul Core
+    - Bladed Horn
     ----------
     - Elixir
     - Antidote
@@ -333,9 +333,9 @@ Wheelmonk
     - Divine Rice
 
 Yamanba
+    - Smithing Text: Yamanba's Knives (dual swords)
     - Yamanba Soul Core
     - Lock of Grey Hair
-    - Smithing Text: Yamanba's Knives (dual swords)
     ----------
     - Divine Rice
     - Yamanba's Knives (dual swords)
@@ -396,13 +396,13 @@ Waira
     - Divine Rice
 
 Kamaitachi (boss)
-    - Kamaitachi Soul Core
-    - Sickle Blade Fragments
     - Smithing Text: Weathered Bone & Bleached Twig (dual swords)
     - Smithing Text: Tengu's Khakkhara (splitstaff)
     - Smithing Text: Tsuchigumo Clawed Fists
     - Smithing Text: Kamaitachi Helmet
     - Smithing Text: Merchant's Attire
+    - Kamaitachi Soul Core
+    - Sickle Blade Fragments
     ----------
     -
 
@@ -412,9 +412,9 @@ Adachi the Beheader
     -
 
 Koroka
+    - Smithing Text: Koroka Spear
     - Koroka Soul Core
     - Burnt Wick
-    - Smithing Text: Koroka Spear
     ----------
     - Elixir
 
@@ -427,9 +427,9 @@ Rokurokubi
     - Shrapnel Bomb
 
 Onryoki (boss)
+    - Smithing Text: Onryoki Helmet
     - Onryoki Soul Core
     - Hateful Spine
-    - Smithing Text: Onryoki Helmet
     ----------
     - Onryoki Helmet
 
@@ -459,7 +459,10 @@ Saito Yoshitatsu (boss)
     - Genryu's Greaves
 
 Shibata Katsuie (boss)
-    -
+    - Hidden Skill: Deadly Spiral (hatchets)
+    - Smithing Text: Smirkwiper (sword)
+    - Smithing Text: Urn Splitter Hatchets (hatchets)
+    - Smithing Text: Oni Shibata's Armor
     ----------
     -
 
@@ -478,9 +481,9 @@ Revenants
     - Sacred Water
 
 Mitsume Yazura
+    - Smithing Text: Demon God Mask
     - Mitsume Yazura Soul Core
     - Petrified Eye
-    - Smithing Text: Demon God Mask
     ----------
     - Elixir
 
@@ -516,9 +519,9 @@ Magara Naosumi (odachi)
     - Divine Rice
 
 Namahage
-    - Namahage Soul Core
     - Smithing Text: Dual Bloodstained Cleavers (dual swords)
     - Smithing Text: Bloodstained Blade (odachi)
+    - Namahage Soul Core
     ----------
     - Dual Bloodstained Cleavers
     - Bloodstained Blade
@@ -559,7 +562,12 @@ Tesso
     -
 
 Azai Nagamasa (boss)
-    -
+    - Hidden Skill: True And Through (sword)
+    - Smithing Text: Azai Ichimonji (sword)
+    - Smithing Text: Sohaya Tsurugi (sword)
+    - Smithing Text: Tobikura Kusarigama
+    - Smithing Text: Greater Good Armor
+    - Smithing Text: Kohoku Mater's Armor
     ----------
     -
 
@@ -570,7 +578,8 @@ Ubume
     -
 
 Oda Nobunaga (boss)
-    -
+    - Smithing Text: Jikkyu Mitsutada (sword)
+    - Smithing Text: Vice-Minister's Armor
     ----------
     -
 
@@ -580,7 +589,7 @@ Gamo Ujisato (boss)
     -
 
 Saito Toshimitsu (boss)
-    -
+    - Smithing Text: Great Kanemitsu (odachi)
     ----------
     -
 
@@ -606,7 +615,9 @@ Shimotsuma Rairen (saika warrior) (spear)
     -
 
 Saika Magoichi (boss)
-    -
+    - Smithing Text: Haccho Nenbutsu (sword)
+    - Smithing Text: Ravenwing Rifle
+    - Smithing Text: Yatagarasu Armor
     ----------
     -
 
@@ -627,30 +638,44 @@ Hotaru (saika warrior) (dual swords)
     -
 
 Kasha (boss)
+    - Smithing Text: Hikoemon Ichimonji (sword)
+    - Smithing Text: Sohaya Tsurugi (sword)
+    - Smithing Text: Red Demon Spear
     - Kasha Soul Core
-    -
     ----------
     -
 
 Ryomen Sukuna (boss)
+    - Smithing Text: Hikoemon Ichimonji (sword)
+    - Smithing Text: Red Demon Spear
+    - Smithing Text: Ryomen Sukuna's Axe
+    - Smithing Text: Ryomen Sukuna's Sword
+    - Smithing Text: Ryomen Sukuna's Bow
     - Ryomen Sukuna Soul Core
     - Wheel of Ice and Fire
     ----------
     -
 
 Matsunaga Hisahide (boss)
-    -
+    - Smithing Text: Fudo Kuniyuki & Yagen Toshiro (dual swords)
+    - Smithing Text: Maelfactor's Armor
     ----------
     -
 
 Maeda Toshiie (boss)
-    -
+    - Hidden Skill: Bracing Breeze (spear)
+    - Hidden Skill: Triple Threat (spear)
+    - Smithing Text: Odenta Mitsuyo (sword)
+    - Smithing Text: Mataza's Long Spear (spear)
+    - Smithing Text: Mataza's Armor
     ----------
     -
 
 Oni Shibata Katsuie (boss)
     - Hidden Skill: Deadly Spiral (hatchets)
-    - Smithing Text: Smirkwiper ()
+    - Smithing Text: Smirkwiper (sword)
+    - Smithing Text: Urn Splitter Hatchets (hatchets)
+    - Smithing Text: Oni Shibata's Armor
     ----------
     -
 
@@ -934,11 +959,11 @@ Bakegani
     -
 
 Seto Taisho / Benkei (boss)
-    - Seto Taisho Soul Core
     - Hidden Skill: Roar Power (Splitstaff)
     - Smithing Text: Benkei's Axe
     - Smithing Text: Benkei's Splitstaff
     - Smithing Text: Benkei's Armor
+    - Seto Taisho Soul Core
     ----------
     - Benkei's Hood
     - Benkei's Cuirass
@@ -953,15 +978,16 @@ Uminyudo (boss)
     -
 
 Nue (boss)
+    - Smithing Text: Mitsuyo Kusarigama
     - Nue Soul Core
     - Nue's Claw
-    - Smithing Text: Mitsuyo Kusarigama
-    -
     ----------
     -
 
 Taira no Kagekiyo (dual swords) (boss)
-    -
+    - Smithing Text: Chi-Azamaru (dual swords)
+    - Smithing Text: Little Crow & Quickdraw (dual swords)
+    - Smithing Text: Taira no Kagekiyo's Armor
     ----------
     -
 
@@ -977,7 +1003,11 @@ Nuppeppo
     -
 
 Minamoto no Yoshitsune (boss)
-    -
+    - Hidden Skill: Kurama Sword Dance
+    - Hidden Skill: Sacred Bird Cry (any weapon)
+    - Smithing Text: Usumidori (sword)
+    - Smithing Text: Kurama Swordmaster Armor
+    - Smithing Text: Yoshitune's Armor
     ----------
     -
 
@@ -992,7 +1022,11 @@ Oboroguruma
     -
 
 Minamoto no Yorimitsu (boss)
-    -
+    - Hidden Skill: Severing Spin (sword)
+    - Hidden Skill: Sacred Bird Flight (any weapon)
+    - Smithing Text: Dojikiri Yasutsuna (sword)
+    - Smithing Text: Bloodsucker & Spider Cutter (dual swords)
+    - Smithing Text: Demon Slayer
     ----------
     -
 
@@ -1009,19 +1043,20 @@ Infernal Fox Spirit
     -
 
 Tsuchigumo Ninja
-    -
+    - Smithing Text: Tsuchigumo Clawed Fists
+    - Smithing Text: Tsuchigumo Attire
     ----------
     -
 
 Tsuchigumo (boss)
+    - Smithing Text: Suwa Myojin Sickle (kusarigama)
     - Tsuchigumo Soul Core
-    -
     ----------
     -
 
 Giant Toad (boss)
+    - Smithing Text: Dragon King Splitstaff
     - Giant Toad Soul Core
-    -
     ----------
     -
 
@@ -1038,8 +1073,8 @@ Thunderstorm Fox Spirit
     -
 
 White Tiger (boss)
+    - Smithing Text: Blessed Vajra Hammer (axe)
     - White Tiger Soul Core
-    -
     ----------
     -
 
@@ -1050,42 +1085,48 @@ Underworld Soldier
     -
 
 Ashiya Doman (boss)
-    -
+    - Hidden Skill: Luminous Blade Talisman (onmyo)
     ----------
     -
 
 Lightning Gods of Yomi (boss)
+    - Smithing Text: Pagoda Tonfa
     - Lightning Gods of Yomi Soul Core
-    -
     ----------
     -
 
 Watanabe no Tsuna (fists) (boss)
-    -
+    - Smithing Text: Demon Cutter (sword)
+    - Smithing Text: Beardcutter & Hobbler (dual swords)
+    - Smithing Text: Demon Arm Fists
+    - Smithing Text: Brave Demon Hunter
     ----------
     -
 
 Urabe no Suetake (fire arrow + bow, spear) (boss)
-    -
+    - Smithing Text: Bishamon Spear
+    - Smithing Text: Scion Of Tamura
     ----------
     -
 
 Fujiwara no Yasumasa (fire arrow + bow, sword) (boss)
-    -
+    - Smithing Text: Samurai Noble's Attire
     ----------
     -
 
 Usui Sadamitsu (switchglaive) (boss)
-    -
+    - Smithing Text: Stone Splitter (odachi)
+    - Smithing Text: Myojin Scythe (switchglaive)
+    - Smithing Text: Sincere Buddha Armor
     ----------
     -
 
 Ren Hayabusa (boss)
-    - Hidden Skill: Izuna Drop
-    - Hidden Skill: Tiger Claws
-    - Hidden Skill: Flame Dragon
-    - Hidden Skill: Umbral Bullet
-    - Hidden Skill: Exorcist Blade
+    - Hidden Skill: Izuna Drop (sword / fists)
+    - Hidden Skill: Tiger Claws (fists)
+    - Hidden Skill: Flame Dragon (ninjutsu)
+    - Hidden Skill: Umbral Bullet (ninjutsu)
+    - Hidden Skill: Exorcist Blade (ninjutsu)
     - Smithing Text: Dragon Sword
     - Smithing Text: Falcon Claws
     - Smithing Text: Hayabusa Dragon Ninja
@@ -1103,8 +1144,14 @@ Konaki-Jiji
     -
 
 Ancient Otakemaru (boss)
-    - Ancient Otakemaru Soul Core
-    -
+    - Hidden Skill: Brutal Combustion (shiftling)
+    - Hidden Skill: Ferocious Gale (shiftling)
+    - Hidden Skill: Phantasmic Burst (shiftling)
+    - Smithing Text: Black Lacquer Long Sword (odachi)
+    - Smithing Text: Seer's Bow
+    - Smithing Text: Dreaming Demon Armor
+    - Smithing Text: Legendary Shogun's Armor
+    - Otakemaru Soul Core
     ----------
     -
 
@@ -1115,8 +1162,12 @@ Itsumade
     -
 
 Tate Eboshi (boss)
+    - Hidden Skill: Arc Of Chaos (switchglaive)
+    - Smithing Text: Searing Bolt Tonfa
+    - Smithing Text: Black Rain & Thunder (hatchets)
+    - Smithing Text: Tate Eboshi's Switchglaive
+    - Smithing Text: Suzuka's Armor
     - Tate Eboshi Soul Core
-    -
     ----------
     -
 
@@ -1133,8 +1184,8 @@ Kinki
     -
 
 Fuki
+    - Smithing Text: Fuki's Kusarigama
     - Fuki Soul Core
-    -
     ----------
     -
 
@@ -1151,14 +1202,22 @@ Ongyoki
     -
 
 Nightmare Bringer (boss)
+    - Hidden Skill: Brutal Combustion (shiftling)
+    - Hidden Skill: Ferocious Gale (shiftling)
+    - Hidden Skill: Phantasmic Burst (shiftling)
+    - Smithing Text: Kenmyoren
+    - Smithing Text: Daitoren & Shotoren (dual swords)
+    - Smithing Text: Gojinka Hammer (axe)
+    - Smithing Text: Exorcist Fists
     - Nightmare Bringer Soul Core
-    -
     ----------
     -
 
 Ancient Nyotengu (boss)
+    - Smithing Text: Hayakaze Spear
+    - Smithing Text: Scampuss Fists
+    - Smithing Text: Ancient Vestments
     - Soul Core
-    -
     ----------
     -
 
@@ -1169,12 +1228,13 @@ Maelstrom Fox Spirit
     -
 
 Fujiwara no Chikata (boss)
-    -
+    - Hidden Skill: Reverse Impact (sword)
     ----------
     -
 
 Kukai (boss)
-    -
+    - Smithing Text: Kobo Daishi's Khakkara (splitstaff)
+    - Smithing Text: Kobo Daishi's Priest Vestments
     ----------
     -
 
@@ -1183,36 +1243,55 @@ Kukai (boss)
 Dojo Missions
 ========== ========== ========== ========== ==========
 Tsukahara Bokuden (boss)
-    -
+    - Smithing Text: Bizen Kageyasu (sword)
+    - Smithing Text: Wooden Sword
+    - Smithing Text: Master Swordsman's Attire
     ----------
     -
 
 Kato Danzo (boss)
-    -
+    - Smithing Text: Swift Hawk (sword)
+    - Smithing Text: Wooden Fists
+    - Smithing Text: Flying Kato's Attire
     ----------
     -
 
 Shisenin Kosen (boss)
-    -
+    - Smithing Text: Shishido Kusarigama
+    - Smithing Text: Wooden Kusarigama
+    - Smithing Text: Wooden Odachi
     ----------
     -
 
 Ashikaga Yoshiteru (boss)
-    -
+    - Smithing Text: Bamboo Cutter & Bone Feaster (dual swords)
+    - Smithing Text: Wooden Dual Swords
+    - Smithing Text: Master Swordsman's Armor
     ----------
     -
 
 Hattori Hanzo (boss)
-    -
+    - Hidden Skill: Storm of Strikes
+    - Smithing Text: Hanzo The Demon's Spear
+    - Smithing Text: Wooden Spear
+    - Smithing Text: Wooden Tonfa
+    - Smithing Text: Wooden Splitstaff
+    - Smithing Text: Iga Jonin Apparel
     ----------
     -
 
 Sakata Kintoki (boss)
-    -
+    - Smithing Text: Kintaro's Axe
+    - Smithing Text: Wooden Axe
+    - Smithing Text: Wave Cutter Hatchets
+    - Smithing Text: Wooden Hatchets
+    - Smithing Text: Kintaro's Armor
     ----------
     -
 
 Mumyo (boss)
-    -
+    - Hidden Skill: Fleeting Edge
+    - Smithing Text: Black Lotus (switchglaive)
+    - Smithing Text: Wooden Switchglaive
     ----------
     -
