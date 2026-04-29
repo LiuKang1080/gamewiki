@@ -529,7 +529,7 @@ Namahage
     - Divine Rice
 
 Magara Naotaka (boss)
-    - Hidden Skill: Swirling Snow
+    - Hidden Skill: Swirling Snow (odachi)
     - Smithing Text: Tobikura Kusarigama
     - Smithing Text: Taro Tachi
     - Smithing Text: Double-Headed Snake Tonfa
@@ -546,10 +546,16 @@ Flying Bolt
     - Tattered Note (Lingering Snow and Crimson Tracks)
 
 Honda Tadakatsu (boss)
-    - Smithing Text: Tombokiri
+    - Smithing Text: Tombokiri (spear)
     - Smithing Text: Warrior Of The East Armor
     ----------
-    -
+    - Tombokiri (spear)
+    - Warrior of the East Helmet
+    - Warrior of the East Cuirass
+    - Warrior of the East Gauntlets
+    - Warrior of the East Waistguard
+    - Warrior of the East Greaves
+    - Stone
 
 Spider (small / medium / big)
     -
@@ -559,8 +565,9 @@ Spider (small / medium / big)
 Tesso
     - Tesso Soul Core
     -
+    - Dung Ball
     ----------
-    -
+    - Elixir
 
 Azai Nagamasa (boss)
     - Hidden Skill: True And Through (sword)
