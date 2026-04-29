@@ -535,8 +535,9 @@ Magara Naotaka (boss)
     - Smithing Text: Double-Headed Snake Tonfa
     - Mortal Soul Core
     ----------
+    - Taro Tachi (odachi)
     - Lumicite Shard
-    -
+    - Lumicite Crystal
 
 Flying Bolt
     - Flying Bolt Soul Core
