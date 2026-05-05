@@ -2,15 +2,15 @@
 Key Items
 ========== ========== ==========
     - Agyo Key Piece [img complete]:
-        - Key item obtained in the mission: A Distant Dream (main mission), after defeating Suiki.
+        - Key item obtained in the Main Mission: A Distant Dream, after defeating Suiki.
         - Item is combined with the Ungyo Key Piece to form the Aun Key.
 
     - Aun Key [img complete]:
         - Item is formed automatically when the player obtains both the Agyo Key Piece and the Ungyo Key Piece.
-        - Item is removed from the player's inventory upon completing the mission: A Distant Dream (main mission).
+        - Item is removed from the player's inventory upon completing the Main Mission: A Distant Dream.
 
     - Ame-no-Murakumo Tsurugi [img complete]:
-        - Key item obtained from a chest in the mission: The Lost Sword (Main Mission).
+        - Key item obtained from a chest in the Main Mission: The Lost Sword.
         - This item is given away to Minamoto no Yoshitsune upon completing this mission.
 
     - Back Room Key [img complete]:
@@ -39,11 +39,11 @@ Key Items
         - Item is given away at the end of the Sub Mission: The Refined Man of the Underworld.
 
     - Cherry Blossom Chapbook [img complete]:
-        - Complete the mission: The Scented Letter (Sub Mission).
+        - Complete the Sub Mission: The Scented Letter.
         - Item is removed from player's inventory upon completing mission.
 
     - Commendation From Katsuie [img complete]:
-        - Ally and help Shibata Katsuie in the mission: The Shiftling's Wise Judgement (Sub Mission).
+        - Ally and help Shibata Katsuie in the Sub Mission: The Shiftling's Wise Judgement.
 
     - Divine Branch Fragment [img complete]:
         - Obtained at the beginning of the game before entering the 1st mission: The Village of Cursed Blossoms (Main Mission).
@@ -53,33 +53,33 @@ Key Items
         - Single Dragon Jewel is removed from inventory when using the Dragon Statue.
 
     - Foreign Necklace [img complete]:
-        - Complete the mission: A Formal Match (Sub Mission).
+        - Complete the Sub Mission: A Formal Match.
 
     - Founder's Hall Gate Key [img complete]:
-        - Key item obtained after defeating Saika Magoichi in the Main Mission Pervading Waters.
+        - Key item obtained after defeating Saika Magoichi in the Main Mission: Pervading Waters.
         - Key item is removed from inventory after completing mission.
 
     - Grand Master's Brush I - IV [img complete]:
-        - There are 4 Grand Master's Brushes spread across the mission: Words of Respite. All 4 key items are given away to
+        - There are 4 Grand Master's Brushes spread across the Sub Mission: Words of Respite. All 4 key items are given away to
             Kukai at the end of the mission.
 
     - Grilled Tang Sweet [img complete]:
         - Obtained in the following missions:
-            - Dawn of the Demon.
-            - In Search of the Elixir.
-            - A Distant Dream.
+            - Dawn of the Demon (Main Mission).
+            - In Search of the Elixir (Sub Mission).
+            - A Distant Dream (Main Mission).
 
     - Handmade Doll [img complete]:
-        - Defeat Ryomen Sukuna in the mission: Restoring Harmony (Sub Mission).
+        - Defeat Ryomen Sukuna in the Sub Mission: Restoring Harmony.
         - Item is removed from player's inventory after completing mission.
 
     - Hand-Picked Plum Blossoms [img complete]:
-        - Item obtained in the mission: The Sweet Scent of Plums.
+        - Item obtained in the Sub Mission: The Sweet Scent of Plums.
         - The player gives this key item to Fujiwara no Yasumasa at the end of the mission, and is removed from the players
             inventory.
 
     - Harakiri Sword [img complete]:
-        - Pick up item during the mission: The Village of Cursed Blossoms (Main Mission).
+        - Pick up item during the Main Mission: The Village of Cursed Blossoms.
 
     - Hiragumo Fragment I - IV [imgs complete]:
         - Fragments I-IV are obtained in the Sub Mission: Scattered Fragments.
@@ -88,14 +88,14 @@ Key Items
             Scattered Fragments.
 
     - Hot Spring Chamber Key [img complete]:
-        - Obtained in the main mission: Eternal Rivals.
+        - Obtained in the Main Mission: Eternal Rivals.
         - Item is removed from inventory upon completing the mission.
 
     - Incendiary Longbow Arrow [img complete]:
-        - There are a total of 3 Longbow Arrows in the mission: A Song to Calm the Storm (Main Mission).
+        - There are a total of 3 Longbow Arrows in the Main Mission: A Song to Calm the Storm.
 
     - Inner Shrine Key [img complete]:
-        - Key item obtained at the beginning of the mission: The Village of Cursed Blossoms.
+        - Key item obtained at the beginning of the Main Mission: The Village of Cursed Blossoms.
         - Key item is removed upon completing the mission.
 
     - I-Ro-Ha Wooden Tiles [img complete]:
@@ -126,23 +126,23 @@ Key Items
         - Item is removed from inventory upon completing the mission.
 
     - Large Baby Stone [img complete]:
-        - Key item obtained during the mission: Boundless Chaos.
+        - Key item obtained during the Sub Mission: Boundless Chaos.
         - This item is removed at the end of the mission.
 
     - Plum Blossoms / Hand-Picked Plum Blossoms [img complete]:
-        - Key item obtained towards the end of the mission: The Sweet Scent of Plums.
+        - Key item obtained towards the end of the Sub Mission: The Sweet Scent of Plums.
         - Item can be given to Fujiwara no Yasumasa at the end of the mission.
 
     - Prison Key [img complete]:
-        - Key item obtained in the mission A Distant Dream (main mission).
+        - Key item obtained in the Main Mission: A Distant Dream.
         - Item is removed from the inventory upon completing the mission.
 
     - Purifying Arrow [img complete]:
-        - Key item obtained during the mission: Boundless Chaos.
+        - Key item obtained during the Sub Mission: Boundless Chaos.
         - This item is removed at the end of the mission.
 
     - Repaired Hiragumo Kettle [img complete]:
-        - Complete the mission: Scattered Fragments (Sub Mission). The player must collect all 4 Hiragumo Fragments in the level.
+        - Complete the Sub Mission: Scattered Fragments. The player must collect all 4 Hiragumo Fragments in the level.
             The Repaired Hiragumo Kettle will be given to the player after completing the mission.
         - This item is removed from the inventory after speaking to Matsunaga Hisahide in the Interim after completing the Main
             Mission: The Mausoleum of Evil. In exchange for the Repaired Hiragumo Kettle, Matsunaga Hisahide will give the player
@@ -161,38 +161,38 @@ Key Items
 
     - Saigyo's Poems I - III [img complete]:
         - Obtained in the following missions:
-            - A Song to Calm the Storm.
-            - Eternal Rivals.
-            - Shadows Creep in Kurama.
+            - A Song to Calm the Storm (Main Mission).
+            - Eternal Rivals (Main Mission).
+            - Shadows Creep in Kurama (Sub Mission).
 
     - Sanbo-In Key [img complete]:
         - Obtained in the Main Mission: Cherry Blossom Viewing Daigo.
         - Item is removed from inventory after completing the mission.
 
     - Spirit Stone Hairpin [img complete]:
-        - Obtained at the end of the mission "The Dream's End" after defeating Kasha.
+        - Obtained at the end of the Sub Mission: The Dream's End after defeating Kasha.
         - The player has the option to give this item to Okuni at the end of the mission.
 
     - Tattered Note [img complete]:
-        - Complete the mission: Lingering Snow and Crimson Tracks (Sub Mission).
+        - Complete the Sub Mission: Lingering Snow and Crimson Tracks.
 
     - Umebachi Abacus [img complete]:
-        - Obtained at the end of the mission "An Error in Calculation" in a Treasure Chest.
+        - Obtained at the end of the Sub Mission: An Error in Calculation in a Treasure Chest.
         - This item is given away to Maeda Toshiie upon completing this mission.
 
     - Ungyo Key Piece [img complete]:
-        - Obtained in the mission: A Distant Dream (main mission), after defeating Ongyoki.
+        - Obtained in the Main Mission: A Distant Dream, after defeating Ongyoki.
         - Item is combined with the Agyo Key Piece to form the Aun Key.
 
     - Village Cemetery Key [img complete]:
-        - Key item obtained at the beginning of the mission: The Village of Cursed Blossoms.
+        - Key item obtained at the beginning of the Main Mission: The Village of Cursed Blossoms.
         - Key item is removed upon completing the mission.
 
     - Village Gate Key [img complete]:
-        - Key item obtained during the mission: Dawn of the Demon.
+        - Key item obtained during the Main Mission: Dawn of the Demon.
 
     - Wooden Kannon Sculpture [img complete]:
-        - Complete the mission: The Tiger Approaches (Sub Mission).
+        - Complete the Sub Mission: The Tiger Approaches.
 
 
 ========== ========== ==========

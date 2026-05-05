@@ -118,6 +118,7 @@ Gozuki (boss)
 Mezuki (boss)
     - Mezuki Soul Core
     - Blood-Encrusted Sawtooth
+    - Chinese Tea Vessel (The Refined Man of the Underworld)
     ----------
     - Righteous Jasper
 
@@ -133,6 +134,7 @@ Sohaya Warrior
     - Sohaya Gauntlets
     - Sohaya Waistguard
     - Sohaya Greaves
+    - Sohaya Warrior Revenant: Broken Comb (Immovable)
     ----------
     - Elixir
     - Stone
@@ -218,6 +220,7 @@ Enenra (boss)
     - Smithing Text: Eccentric's Armor
     - Enenra Soul Core
     - Smoldering Ash Pile
+    - Beaded Hairpin (Okuni's Search)
     ----------
     -
 
@@ -293,6 +296,7 @@ Nure-Onna
     - Smithing Text: Bloodspider Blade
     - Nure-Onna Soul Core
     - Glowing Lock of Wet Hair
+    - Wood Tile: Ro (Song of the Yokai)
     ----------
     - Elixir
     - Antidote
@@ -338,6 +342,7 @@ Yamanba
     - Smithing Text: Yamanba's Knives (dual swords)
     - Yamanba Soul Core
     - Lock of Grey Hair
+    - Wood Tile: Ha (Song of the Yokai)
     ----------
     - Divine Rice
     - Yamanba's Knives (dual swords)
@@ -432,6 +437,7 @@ Onryoki (boss)
     - Smithing Text: Onryoki Helmet
     - Onryoki Soul Core
     - Hateful Spine
+    - Rusty Key (The Golden Nation)
     ----------
     - Onryoki Helmet
 
@@ -499,6 +505,7 @@ Obsidian Samurai (boss)
     - Hidden Skill: Spirit Storm
     - Smithing Text: Starcutter Sword
     - Smithing Text: Gozutenno's Axe
+    - Foreign Necklace (A Formal Match)
     ----------
     - Gozutenno's Axe
     - Starcutter Sword
@@ -544,8 +551,10 @@ Magara Naotaka (boss)
 Flying Bolt
     - Flying Bolt Soul Core
     - White Cloth
-    ----------
     - Tattered Note (Lingering Snow and Crimson Tracks)
+    - Wood Tile: I (Song of the Yokai)
+    ----------
+    -
 
 Honda Tadakatsu (boss)
     - Smithing Text: Tombokiri (spear)
@@ -587,10 +596,10 @@ Azai Nagamasa (boss)
     - Kohaku Master's Greaves
     - Lumicite Crystal
 
-
 Ubume
     - Ubume Soul Core
     -
+    - Back Room Key (Song of the Yokai)
     ----------
     -
 
@@ -598,12 +607,21 @@ Oda Nobunaga (boss)
     - Smithing Text: Jikkyu Mitsutada (sword)
     - Smithing Text: Vice-Minister's Armor
     ----------
-    -
+    - Jikkyu Mitsutada (sword)
+    - Vice-Minister's
+    - Vice-Minister's Cuirass
+    - Vice-Minister's Gauntlets
+    - Vice-Minister's Waistguard
+    - Vice-Minister's Greaves
 
 Gamo Ujisato (boss)
     -
     ----------
-    -
+    - Swallowtail Helmet
+    - Swallowtail Cuirass
+    - Swallowtail Gauntlets
+    - Swallowtail Waistguard
+    - Swallowtail Greaves
 
 Saito Toshimitsu (boss)
     - Smithing Text: Great Kanemitsu (odachi)
@@ -635,6 +653,7 @@ Saika Magoichi (boss)
     - Smithing Text: Haccho Nenbutsu (sword)
     - Smithing Text: Ravenwing Rifle
     - Smithing Text: Yatagarasu Armor
+    - Founder's Hall Gate Key ()
     ----------
     -
 
@@ -659,6 +678,7 @@ Kasha (boss)
     - Smithing Text: Sohaya Tsurugi (sword)
     - Smithing Text: Red Demon Spear
     - Kasha Soul Core
+    - Spirit Stone Hairpin (The Dream's End)
     ----------
     -
 
@@ -670,6 +690,7 @@ Ryomen Sukuna (boss)
     - Smithing Text: Ryomen Sukuna's Bow
     - Ryomen Sukuna Soul Core
     - Wheel of Ice and Fire
+    - Handmade Doll (Restoring Harmony)
     ----------
     -
 
@@ -1209,12 +1230,14 @@ Fuki
 Suiki
     - Suiki Soul Core
     -
+    - Agyo Key Piece (A Distant Dream)
     ----------
     -
 
 Ongyoki
     - Ongyoki Soul Core
     -
+    - Ungyo Key Piece (A Distant Dream)
     ----------
     -
 
