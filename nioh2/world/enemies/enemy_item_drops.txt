@@ -46,6 +46,8 @@ Global Item Drop Pool
     Dream of the Samurai
     ----------
     - Small Spirit Stone ???
+    - Lumicite Shard
+    - Lumicite Crystal
 
     - Umbracite
     - Umbracite Fragment
@@ -560,7 +562,7 @@ Honda Tadakatsu (boss)
 Spider (small / medium / big)
     -
     ----------
-    -
+    - Gunpowder Bomb
 
 Tesso
     - Tesso Soul Core
@@ -577,7 +579,14 @@ Azai Nagamasa (boss)
     - Smithing Text: Greater Good Armor
     - Smithing Text: Kohoku Mater's Armor
     ----------
-    -
+    - Azai Ichimonji (sword)
+    - Kohaku Master's Helmet
+    - Kohaku Master's Cuirass
+    - Kohaku Master's Gauntlets
+    - Kohaku Master's Waistguard
+    - Kohaku Master's Greaves
+    - Lumicite Crystal
+
 
 Ubume
     - Ubume Soul Core
