@@ -180,7 +180,7 @@ Mujina
     - Travel Amulet
     - Shrapnel Bomb
     - Summoner's Candle
-    - Roaring Gun Ammunation
+    - Roaring Gun Ammunition
     - Lantern Plant Fruit
     - Daion-Jin's Sake
     - Shinobi Box
@@ -209,9 +209,11 @@ Skeleton Warrior / Skeleton Warrior (big)
     - Skeleton Warrior Soul Core
     - Skeletal Warrior's Sacrum
     ----------
-    - Roaring Gun Ammunation
-    - Hand Cannon Ammunation
+    - Rifle Ammunition
+    - Roaring Gun Ammunition
+    - Hand Cannon Ammunition
     - Explosive Rounds
+    - Divine Rice
 
 Enenra (boss)
     - Smithing Text: Onimaru Kunitsuna
@@ -576,7 +578,9 @@ Spider (small / medium / big)
 Tesso
     - Tesso Soul Core
     -
+    - Kamaitachi's Front Teeth
     - Dung Ball
+    - Noble Dung Ball
     ----------
     - Elixir
 
@@ -598,9 +602,10 @@ Azai Nagamasa (boss)
 
 Ubume
     - Ubume Soul Core
-    -
+    - Baby Stone Fragment
     - Back Room Key (Song of the Yokai)
     ----------
+    - Elixir
     -
 
 Oda Nobunaga (boss)
@@ -629,37 +634,56 @@ Saito Toshimitsu (boss)
     -
 
 Saika Clan
-    -
+    - Tanegashima Matchlock
     ----------
-    -
+    - Gunpowder Bomb
+    - Rifle Ammunition
+    - Elixir
+    - Divine Rice
 
 Muni (saika warrior) (kusarigama)
     -
     ----------
     -
+    -
+    -
+    -
+    - Saika Clan Greaves
+    - Elixir
 
 Onyudo
     - Onyudo Soul Core
     -
     ----------
-    -
+    - Elixir
 
 Shimotsuma Rairen (saika warrior) (spear)
     -
     ----------
+    - Imperial Monk's Hood
     -
+    -
+    - Imperial Monk's Waistguard
+    - Gunpowder Bomb
+    - Elixir
 
 Saika Magoichi (boss)
     - Smithing Text: Haccho Nenbutsu (sword)
     - Smithing Text: Ravenwing Rifle
     - Smithing Text: Yatagarasu Armor
-    - Founder's Hall Gate Key ()
+    - Founder's Hall Gate Key (Pervading Waters)
     ----------
-    -
+    - Haccho Nenbutsu (sword)
+    - Ravenwing Rifle
+    - Yatagarasu Headband
+    - Yatagarasu Cuirass
+    - Yatagarasu Gauntlets
+    - Yatagarasu Waistguard
+    - Yatagarasu Greaves
 
 Guyki (boss)
     - Guyki Soul Core
-    -
+    - Guyki Wing Membrane
     ----------
     -
 
@@ -1294,7 +1318,11 @@ Kato Danzo (boss)
     - Smithing Text: Wooden Fists
     - Smithing Text: Flying Kato's Attire
     ----------
-    -
+    - Flying Kato
+    - Flying Kato Robes
+    - Flying Kato Gauntlets
+    - Flying Kato
+    - Flying Kato
 
 Shisenin Kosen (boss)
     - Smithing Text: Shishido Kusarigama
