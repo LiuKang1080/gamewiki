@@ -176,17 +176,19 @@ Mujina
     - Mujina Soul Core
     - Mujina's Scarf
     ----------
+    - Daion-Jin's Sake
     - Fire Amulet
-    - Travel Amulet
+    - Herbal Remedy
+    - Lantern Plant Fruit
+    - Ochoko Cup
+    - Roaring Gun Ammunition
+    - Sacred Arrow
+    - Sacred Ash
+    - Saisetsu-Shin's Sake
+    - Shinobi Box
     - Shrapnel Bomb
     - Summoner's Candle
-    - Roaring Gun Ammunition
-    - Lantern Plant Fruit
-    - Daion-Jin's Sake
-    - Shinobi Box
-    - Ochoko Cup
-    - Sacred Arrow
-    - Saisetsu-Shin's Sake
+    - Travel Amulet
 
 Kappa
     - Kappa Soul Core
@@ -335,10 +337,11 @@ Lesser Umi-Bozu
 
 Wheelmonk
     - Wheelmonk Soul Core
-    -
+    - Broken Wheel Piece
     ----------
     - Elixir
     - Divine Rice
+    - Divine Branch
 
 Yamanba
     - Smithing Text: Yamanba's Knives (dual swords)
@@ -434,6 +437,8 @@ Rokurokubi
     - Elixir
     - Antidote
     - Shrapnel Bomb
+    - Gunpowder Bomb
+    - Divine Rice
 
 Onryoki (boss)
     - Smithing Text: Onryoki Helmet
@@ -556,7 +561,7 @@ Flying Bolt
     - Tattered Note (Lingering Snow and Crimson Tracks)
     - Wood Tile: I (Song of the Yokai)
     ----------
-    -
+    - Yokai Incense
 
 Honda Tadakatsu (boss)
     - Smithing Text: Tombokiri (spear)
@@ -571,9 +576,11 @@ Honda Tadakatsu (boss)
     - Stone
 
 Spider (small / medium / big)
-    -
+    - Web Netting
     ----------
+    - Elixir
     - Gunpowder Bomb
+    - Sacred Ash
 
 Tesso
     - Tesso Soul Core
@@ -601,6 +608,7 @@ Azai Nagamasa (boss)
     - Lumicite Crystal
 
 Ubume
+    - Smithing Text: Woman's Face Mask
     - Ubume Soul Core
     - Baby Stone Fragment
     - Back Room Key (Song of the Yokai)
@@ -646,8 +654,8 @@ Muni (saika warrior) (kusarigama)
     ----------
     -
     -
-    -
-    -
+    - Saika Clan Cuirass
+    - Saika Clan Waistguard
     - Saika Clan Greaves
     - Elixir
 
@@ -690,11 +698,22 @@ Guyki (boss)
 Kosuzume (saika warrior) (kusarigama)
     -
     ----------
-    -
+    - Rifle Ammunition
+    - Gunpowder Bomb
 
 Hotaru (saika warrior) (dual swords)
     -
     ----------
+    -
+    -
+    - Saika Clan Cuirass
+    - Saika Clan Waistguard
+    - Saika Clan Greaves
+
+Onmyo Mage
+    -
+    ----------
+    - Elixir
     -
 
 Kasha (boss)
@@ -702,8 +721,11 @@ Kasha (boss)
     - Smithing Text: Sohaya Tsurugi (sword)
     - Smithing Text: Red Demon Spear
     - Kasha Soul Core
+    - Infernal Nail
     - Spirit Stone Hairpin (The Dream's End)
     ----------
+    - Divine Rice
+    - Righteous Jasper
     -
 
 Ryomen Sukuna (boss)
@@ -1311,7 +1333,12 @@ Tsukahara Bokuden (boss)
     - Smithing Text: Wooden Sword
     - Smithing Text: Master Swordsman's Attire
     ----------
-    -
+    - Bizen Kageyasu (sword)
+    - Wooden Sword
+    - Master Swordsman's Robes
+    - Master Swordsman's Bracer
+    - Master Swordsman's Hakama
+    - Master Swordsman's Sandals
 
 Kato Danzo (boss)
     - Smithing Text: Swift Hawk (sword)
