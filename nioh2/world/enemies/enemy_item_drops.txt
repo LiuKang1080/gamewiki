@@ -100,7 +100,7 @@ Enki
     - Lantern Plant Fruit
     - Divine Rice
 
-Yoki
+Yoki / Blue Yoki
     - Smiting Text: Demon's Axe
     - Yoki Soul Core
     - Demon's Horn
@@ -377,12 +377,6 @@ Okabe Motonobu
     - Uchiko Powder
 
 Okabe Masatsuna
-    -
-    ----------
-    - Elixir
-
-Blue Yoki
-    - Yoki Soul Core
     -
     ----------
     - Elixir
@@ -711,7 +705,8 @@ Hotaru (saika warrior) (dual swords)
     - Saika Clan Greaves
 
 Onmyo Mage
-    -
+    - Smithing Text: Black Fox Mask
+    - Smithing Text: White Fox Mask
     ----------
     - Elixir
     -
@@ -738,7 +733,9 @@ Ryomen Sukuna (boss)
     - Wheel of Ice and Fire
     - Handmade Doll (Restoring Harmony)
     ----------
-    -
+    - Ryomen Sukuna's Sword
+    - Ryomen Sukuna's Bow
+    - Righteous Jasper
 
 
 

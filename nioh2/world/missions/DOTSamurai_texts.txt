@@ -1002,6 +1002,12 @@ The Sun Sets on Mount Tenno (Main Mission)
     --------------------
         - Sacred Brush
 
+==========
+The Aberrant Mage (Sub Mission)
+==========
+    Tools:
+    --------------------
+        - Sacred Ash
 
 ========== ========== ========== ========== ==========
 Twilight Region (Region 5)
