@@ -165,7 +165,7 @@ The Way of the Warrior: Adept (Dojo Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "The Mysterious One Night Castle".
-        - Required Weapon Proficiency: 20,000.
+        - Required Weapon Proficiency: 20,000 (~LVL 10).
     --------------------
     - Recommended level: 59
     - Shrine: No
@@ -198,7 +198,7 @@ The Way of the Ninja: Adept (Dojo Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "The Mysterious One Night Castle".
-        - Required Ninjutsu Proficiency: 30,000.
+        - Required Ninjutsu Proficiency: 30,000 (~LVL 12).
     --------------------
     - Recommended level: 59
     - Shrine: No
@@ -229,7 +229,7 @@ The Way of the Onmyo: Adept (Dojo Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "The Mysterious One Night Castle".
-        - Required Onmyo Magic Proficiency: 30,000.
+        - Required Onmyo Magic Proficiency: 30,000 (~LVL 12).
     --------------------
     - Recommended level: 59
     - Shrine: No
@@ -260,7 +260,7 @@ The Way of the Warrior: Veteran (Dojo Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "Pervading Waters".
-        - Required Weapon Proficiency: 80,000.
+        - Required Weapon Proficiency: 80,000 (~LVL 16).
     --------------------
     - Recommended level: 88
     - Shrine: No
@@ -293,7 +293,7 @@ The Way of the Ninja: Veteran (Dojo Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "Pervading Waters".
-        - Required Ninjutsu Proficiency: 100,000.
+        - Required Ninjutsu Proficiency: 100,000 (~LVL 19).
     --------------------
     - Recommended level: 88
     - Shrine: No
@@ -327,7 +327,7 @@ The Way of the Onmyo: Veteran (Dojo Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "Pervading Waters".
-        - Required Onmyo Magic Proficiency: 100,000.
+        - Required Onmyo Magic Proficiency: 100,000 (~LVL 19).
     --------------------
     - Recommended level: 88
     - Shrine: No
@@ -707,7 +707,7 @@ The One Who Lives in the Shadows (Dojo Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "The High-Spirited Demon".
-        - Required Ninjutsu Proficiency: 200,000.
+        - Required Ninjutsu Proficiency: 200,000 (~LVL 22).
     --------------------
     - Recommended level: 100
     - Shrine: No

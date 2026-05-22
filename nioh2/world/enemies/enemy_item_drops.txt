@@ -422,6 +422,7 @@ Koroka
     - Koroka Soul Core
     - Burnt Wick
     ----------
+    - Koroka Spear
     - Elixir
 
 Rokurokubi
@@ -737,7 +738,34 @@ Ryomen Sukuna (boss)
     - Ryomen Sukuna's Bow
     - Righteous Jasper
 
+Maeda Toshiie (boss)
+    - Hidden Skill: Bracing Breeze (spear)
+    - Hidden Skill: Triple Threat (spear)
+    - Smithing Text: Odenta Mitsuyo (sword)
+    - Smithing Text: Mataza's Long Spear (spear)
+    - Smithing Text: Mataza's Armor
+    - Kitanosho Keep Key (Ruin Draws Near)
+    ----------
+    - Mataza's Long Spear
+    - Mataza's Helmet
+    - Mataza's Cuirass
+    - Mataza's
+    - Mataza's
+    - Mataza's Greaves
 
+Oni Shibata Katsuie (boss)
+    - Hidden Skill: Deadly Spiral (hatchets)
+    - Smithing Text: Smirkwiper (sword)
+    - Smithing Text: Urn Splitter Hatchets (hatchets)
+    - Smithing Text: Oni Shibata's Armor
+    ----------
+    - Smirkwiper
+    - Urn Splitter Hatchets
+    - Oni Shibata's
+    - Oni Shibata's
+    - Oni Shibata's Gauntlets
+    - Oni Shibata's
+    - Oni Shibata's
 
 
 
@@ -773,22 +801,7 @@ Matsunaga Hisahide (boss)
     ----------
     -
 
-Maeda Toshiie (boss)
-    - Hidden Skill: Bracing Breeze (spear)
-    - Hidden Skill: Triple Threat (spear)
-    - Smithing Text: Odenta Mitsuyo (sword)
-    - Smithing Text: Mataza's Long Spear (spear)
-    - Smithing Text: Mataza's Armor
-    ----------
-    -
 
-Oni Shibata Katsuie (boss)
-    - Hidden Skill: Deadly Spiral (hatchets)
-    - Smithing Text: Smirkwiper (sword)
-    - Smithing Text: Urn Splitter Hatchets (hatchets)
-    - Smithing Text: Oni Shibata's Armor
-    ----------
-    -
 
 Mysterious Samurai (Akechi Mitsuhide)
     -
