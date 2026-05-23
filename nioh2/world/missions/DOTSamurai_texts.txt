@@ -1023,7 +1023,6 @@ Ruin Draws Near (Main Mission)
     Dual Swords:
     --------------------
         - Magoroku Kanemoto Dual Katana
-        - Soshu Masamune Dual Katana
 
     Spear:
     --------------------
@@ -1045,20 +1044,7 @@ Ruin Draws Near (Main Mission)
 
     Switchglaive:
     --------------------
-        - Aberrant Switchglaive
         - Night Heron's Switchglaive
-
-    Splitstaff:
-    --------------------
-        - Head Ninja's Splitstaff
-
-    Fists:
-    --------------------
-        - Chief's Fists
-
-    Bow:
-    --------------------
-        - Yoichi's Bow
 
     Rifle:
     --------------------
@@ -1073,6 +1059,10 @@ Ruin Draws Near (Main Mission)
     --------------------
         - Japanese Crown Helmet
         - Chinese Crown Helmet
+
+    Tools:
+    --------------------
+        - Yokai Incense
 
 ==========
 The Two Faces of Hospitality (Main Mission)
