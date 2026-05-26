@@ -57,56 +57,44 @@ Gaki / Gaki (big)
     - Gaki Soul Core
     - Warped Jawbone
     ----------
-    - Stone
-    - Elixir
     - Antidote
-    - Gunpowder Bomb
-    - Yokai Water Pot
-    - Divine Rice
     - Antiparalytic Needle
+    - Divine Rice
+    - Elixir
+    - Gunpowder Bomb
+    - Stone
+    - Yokai Water Pot
 
 Human / Human (big)
     -
     ----------
-    - Elixir
-    - Stone
-    - Salt
-    - Divine Rice
-    - Uchiko Powder
-    - Righteous Jasper
-    - Gunpowder Bomb
-    - Shrapnel Bomb
     - Arrow
-    - Sacred Arrow
-    - Explosive Rounds
-
-Ninja
-    -
-    ----------
-    - Elixir
-    - Gunpowder Bomb
     - Divine Rice
-
-Ninja Dog
-    -
-    ----------
-    -
+    - Elixir
+    - Explosive Rounds
+    - Gunpowder Bomb
+    - Righteous Jasper
+    - Sacred Arrow
+    - Salt
+    - Shrapnel Bomb
+    - Stone
+    - Uchiko Powder
 
 Enki
     - Enki Soul Core
     - Enki Pelt
     ----------
+    - Divine Rice
     - Elixir
     - Lantern Plant Fruit
-    - Divine Rice
 
 Yoki / Blue Yoki
     - Smiting Text: Demon's Axe
     - Yoki Soul Core
     - Demon's Horn
     ----------
-    - Elixir
     - Divine Rice
+    - Elixir
 
 Gozuki (boss)
     - Gozuki Soul Core
@@ -124,26 +112,26 @@ Mezuki (boss)
 
 Scampuss
     - Scampuss Soul Core
+    ----------
     - Clay Bell of Beckoning
 
 Sohaya Warrior
     - Smithing Text: Sohaya Garb
     - Smithing Text: Sohaya Armor
-    -
+    - Sohaya Warrior Revenant: Broken Comb (Immovable)
+    ----------
+    - Divine Rice
+    - Elixir
+    - Gunpowder Bomb
+    - Righteous Jasper
+    - Salt
+    - Shrapnel Bomb
     - Sohaya Cuirass
     - Sohaya Gauntlets
     - Sohaya Waistguard
     - Sohaya Greaves
-    - Sohaya Warrior Revenant: Broken Comb (Immovable)
-    ----------
-    - Elixir
     - Stone
-    - Salt
-    - Gunpowder Bomb
-    - Shrapnel Bomb
     - Uchiko Powder
-    - Righteous Jasper
-    - Divine Rice
 
 Ippon-Datara
     - Smithing Text: Ippon-Datara's Hammer (axe)
@@ -151,23 +139,23 @@ Ippon-Datara
     - Ippon-Datara Soul Core
     - Ippon-Datara Fang
     ----------
+    - Divine Rice
+    - Elixir
     - Ippon-Datara's Hammer (axe)
     - Ippon-Datara's Odachi
     - Stone
-    - Elixir
-    - Divine Rice
 
 Dweller / Dweller (big)
     - Dweller Soul Core
     - Mutated Skin
     ----------
-    - Stone
-    - Elixir
     - Antidote
+    - Divine Rice
+    - Elixir
     - Gunpowder Bomb
     - Shrapnel Bomb
+    - Stone
     - Yokai Water Pot
-    - Divine Rice
 
 Sudama
     - Look at the file sudama_info.txt.
@@ -195,27 +183,27 @@ Kappa
     - Kappa Shell
     ----------
     - Elixir
-    - Summoner's Candle
     - Sacred Ash
+    - Summoner's Candle
 
 Nurikabe
     - Nurikabe Soul Core
     - Nurikabe Fragment
     ----------
+    - Divine Rice
     - Elixir
     - Stone
     - Whetstone
-    - Divine Rice
 
 Skeleton Warrior / Skeleton Warrior (big)
     - Skeleton Warrior Soul Core
     - Skeletal Warrior's Sacrum
     ----------
+    - Divine Rice
+    - Explosive Rounds
+    - Hand Cannon Ammunition
     - Rifle Ammunition
     - Roaring Gun Ammunition
-    - Hand Cannon Ammunition
-    - Explosive Rounds
-    - Divine Rice
 
 Enenra (boss)
     - Smithing Text: Onimaru Kunitsuna
@@ -232,60 +220,60 @@ Infernal Oni-Bi
     - Infernal Oni-Bi Soul Core
     - Oni-Bi Core
     ----------
-    - Fire Amulet
     - Divine Rice
+    - Fire Amulet
 
 Maelstrom Oni-Bi
     - Maelstrom Oni-Bi Soul Core
     - Oni-Bi Core
     ----------
-    - Water Amulet
     - Divine Rice
+    - Water Amulet
 
 Thunderstorm Oni-Bi
     - Thunderstorm Oni-Bi Soul Core
     - Oni-Bi Core
     ----------
-    - Lightning Amulet
     - Divine Rice
+    - Lightning Amulet
 
 Aberrant Soldier
     - Aberrant Soldier Soul Core
     - Aberrant Spirit Stone
     ----------
-    - Stone
     - Arrow
+    - Divine Rice
     - Sacred Arrow
     - Shrapnel Bomb
     - Small Spirit Stone
-    - Divine Rice
+    - Stone
 
 One-Eyed Imp
     - ??? Soul Core
     - One-Eyed Imp's Clogs
     ----------
-    - Stone
-    - Elixir
     - Divine Rice
+    - Elixir
+    - Stone
 
 One-Eyed Oni
     - One-Eyed Oni Soul Core
     - One-Eyed Oni Loincloth
     ----------
-    - Stone
-    - Elixir
     - Divine Branch
     - Divine Rice
+    - Elixir
+    - Stone
     - Yokai Incense
 
 Snowclops
     - ??? Soul Core
     - Snowclops Loincloth
     ----------
-    - Stone
-    - Elixir
     - Divine Branch
     - Divine Rice
+    - Elixir
+    - Stone
     - Yokai Incense
 
 Karasu Tengu
@@ -296,24 +284,36 @@ Karasu Tengu
     ----------
     - Elixir
 
+Ninja
+    -
+    ----------
+    - Divine Rice
+    - Elixir
+    - Gunpowder Bomb
+
+Ninja Dog
+    -
+    ----------
+    -
+
 Nure-Onna
     - Smithing Text: Bloodspider Blade
     - Nure-Onna Soul Core
     - Glowing Lock of Wet Hair
     - Wood Tile: Ro (Song of the Yokai)
     ----------
-    - Elixir
     - Antidote
     - Antiparalytic Needle
     - Divine Rice
+    - Elixir
 
 Toxic Slime
     - Toxic Slime Soul Core
     - Poison Pearl
     ----------
-    - Elixir
     - Antidote
     - Divine Rice
+    - Elixir
 
 Snake Statue
     - Antidote
@@ -325,9 +325,9 @@ Yatsu-no-Kami (boss)
     - Yatsu-no-Kami Soul Core
     - Bladed Horn
     ----------
-    - Elixir
     - Antidote
     - Divine Rice
+    - Elixir
 
 Lesser Umi-Bozu
     - Lesser Umi-Bozu Soul Core
@@ -339,9 +339,9 @@ Wheelmonk
     - Wheelmonk Soul Core
     - Broken Wheel Piece
     ----------
-    - Elixir
-    - Divine Rice
     - Divine Branch
+    - Divine Rice
+    - Elixir
 
 Yamanba
     - Smithing Text: Yamanba's Knives (dual swords)
@@ -398,8 +398,8 @@ Waira
     - Waira Soul Core
     - Waira Claw
     ----------
-    - Elixir
     - Divine Rice
+    - Elixir
 
 Kamaitachi (boss)
     - Smithing Text: Weathered Bone & Bleached Twig (dual swords)
@@ -429,11 +429,11 @@ Rokurokubi
     - Rokurokubi Soul Core
     - Slender Vertebra
     ----------
-    - Elixir
     - Antidote
-    - Shrapnel Bomb
-    - Gunpowder Bomb
     - Divine Rice
+    - Elixir
+    - Gunpowder Bomb
+    - Shrapnel Bomb
 
 Onryoki (boss)
     - Smithing Text: Onryoki Helmet
@@ -510,34 +510,34 @@ Obsidian Samurai (boss)
     - Foreign Necklace (A Formal Match)
     ----------
     - Gozutenno's Axe
-    - Starcutter Sword
     - Obsidian Helmet
     - Obsidian Cuirass
     - Obsidian Gauntlets
     - Obsidian Waistguard
     - Obsidian Greaves
+    - Starcutter Sword
 
 Magara Takamoto (odachi)
     - Mortal Soul Core
     ----------
-    - Jiro Tachi
     - Divine Rice
+    - Jiro Tachi
 
 Magara Naosumi (odachi)
     - Mortal Soul Core
     ----------
-    - Jiro Tachi
     - Divine Rice
+    - Jiro Tachi
 
 Namahage
     - Smithing Text: Dual Bloodstained Cleavers (dual swords)
     - Smithing Text: Bloodstained Blade (odachi)
     - Namahage Soul Core
     ----------
-    - Dual Bloodstained Cleavers
     - Bloodstained Blade
-    - Elixir
     - Divine Rice
+    - Dual Bloodstained Cleavers
+    - Elixir
 
 Magara Naotaka (boss)
     - Hidden Skill: Swirling Snow (odachi)
@@ -546,9 +546,9 @@ Magara Naotaka (boss)
     - Smithing Text: Double-Headed Snake Tonfa
     - Mortal Soul Core
     ----------
-    - Taro Tachi (odachi)
     - Lumicite Shard
     - Lumicite Crystal
+    - Taro Tachi (odachi)
 
 Flying Bolt
     - Flying Bolt Soul Core
@@ -568,7 +568,6 @@ Honda Tadakatsu (boss)
     - Warrior of the East Gauntlets
     - Warrior of the East Waistguard
     - Warrior of the East Greaves
-    - Stone
 
 Spider (small / medium / big)
     - Web Netting
@@ -609,7 +608,6 @@ Ubume
     - Back Room Key (Song of the Yokai)
     ----------
     - Elixir
-    -
 
 Oda Nobunaga (boss)
     - Smithing Text: Jikkyu Mitsutada (sword)
@@ -639,20 +637,20 @@ Saito Toshimitsu (boss)
 Saika Clan
     - Tanegashima Matchlock
     ----------
+    - Divine Rice
+    - Elixir
     - Gunpowder Bomb
     - Rifle Ammunition
-    - Elixir
-    - Divine Rice
 
 Muni (saika warrior) (kusarigama)
     -
     ----------
+    - Elixir
     -
     -
     - Saika Clan Cuirass
     - Saika Clan Waistguard
     - Saika Clan Greaves
-    - Elixir
 
 Onyudo
     - Onyudo Soul Core
@@ -693,8 +691,8 @@ Guyki (boss)
 Kosuzume (saika warrior) (kusarigama)
     -
     ----------
-    - Rifle Ammunition
     - Gunpowder Bomb
+    - Rifle Ammunition
 
 Hotaru (saika warrior) (dual swords)
     -
@@ -722,7 +720,6 @@ Kasha (boss)
     ----------
     - Divine Rice
     - Righteous Jasper
-    -
 
 Ryomen Sukuna (boss)
     - Smithing Text: Hikoemon Ichimonji (sword)
@@ -734,9 +731,9 @@ Ryomen Sukuna (boss)
     - Wheel of Ice and Fire
     - Handmade Doll (Restoring Harmony)
     ----------
-    - Ryomen Sukuna's Sword
-    - Ryomen Sukuna's Bow
     - Righteous Jasper
+    - Ryomen Sukuna's Bow
+    - Ryomen Sukuna's Sword
 
 Maeda Toshiie (boss)
     - Hidden Skill: Bracing Breeze (spear)
@@ -759,13 +756,13 @@ Oni Shibata Katsuie (boss)
     - Smithing Text: Urn Splitter Hatchets (hatchets)
     - Smithing Text: Oni Shibata's Armor
     ----------
-    - Smirkwiper
-    - Urn Splitter Hatchets
     - Oni Shibata's
     - Oni Shibata's
     - Oni Shibata's Gauntlets
     - Oni Shibata's
     - Oni Shibata's
+    - Smirkwiper (sword)
+    - Urn Splitter Hatchets
 
 
 
