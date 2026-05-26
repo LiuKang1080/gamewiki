@@ -168,6 +168,7 @@ Mujina
     - Fire Amulet
     - Herbal Remedy
     - Lantern Plant Fruit
+    - Lumicite Crystal
     - Ochoko Cup
     - Roaring Gun Ammunition
     - Sacred Arrow
@@ -290,6 +291,7 @@ Ninja
     - Divine Rice
     - Elixir
     - Gunpowder Bomb
+    - Shinobi Box
 
 Ninja Dog
     -
@@ -492,6 +494,7 @@ Revenants
 
 Mitsume Yazura
     - Smithing Text: Demon God Mask
+    - Smithing Text: Female Demon Mask
     - Mitsume Yazura Soul Core
     - Petrified Eye
     ----------
@@ -735,6 +738,12 @@ Ryomen Sukuna (boss)
     - Ryomen Sukuna's Bow
     - Ryomen Sukuna's Sword
 
+Matsunaga Hisahide (boss)
+    - Smithing Text: Fudo Kuniyuki & Yagen Toshiro (dual swords)
+    - Smithing Text: Maelfactor's Armor
+    ----------
+    -
+
 Maeda Toshiie (boss)
     - Hidden Skill: Bracing Breeze (spear)
     - Hidden Skill: Triple Threat (spear)
@@ -764,61 +773,32 @@ Oni Shibata Katsuie (boss)
     - Smirkwiper (sword)
     - Urn Splitter Hatchets
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Matsunaga Hisahide (boss)
-    - Smithing Text: Fudo Kuniyuki & Yagen Toshiro (dual swords)
-    - Smithing Text: Maelfactor's Armor
-    ----------
-    -
-
-
-
 Mysterious Samurai (Akechi Mitsuhide)
     -
     ----------
-    -
+    - Akechi Chikakage (sword)
+    - Hyuga Director's Helmet
+    - Hyuga Director's Cuirass
+    - Hyuga Director's Gauntlets
+    - Hyuga Director's Waistguard
+    - Hyuga Director's Greaves
 
 Ikeda Motosuke (sword)
-    -
+    - Mortal Soul Core
     ----------
     -
 
 Mori Nagayoshi (spear)
     - Smithing Text: Ningen Mukotsu (spear)
     - Smithing Text: Dragon Head Helmet
+    - Mortal Soul Core
     ----------
     -
 
 Ikeda Tsuneoki (dual swords)
     - Smithing Text: Great Kanehira Sword & Nightingale (dual swords)
     - Smithing Text: Curious Crown Helmet
+    - Mortal Soul Core
     ----------
     -
 
@@ -836,7 +816,43 @@ Tokichiro (boss)
     - Smithing Text: Kingo's Armor
     - Smithing Text: Merchant's Attire
     ----------
-    -
+    - Golden Gourd Plated Headband
+    - Golden Gourd Cuirass
+    - Golden Gourd Gauntlets
+    - Golden Gourd Waistguard
+    - Golden Gourd Greaves
+    - Ogo & Nagamei Masamune (dual swords)
+    - Tokichiro's Gourd (accessory)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Magatsu Warrior
     - Magatsu Warrior Soul Core
