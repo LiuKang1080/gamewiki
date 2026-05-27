@@ -405,6 +405,7 @@ Waira
 
 Kamaitachi (boss)
     - Smithing Text: Weathered Bone & Bleached Twig (dual swords)
+    - Smithing Text: Rotten Rope Cutter (kusarigama)
     - Smithing Text: Tengu's Khakkhara (splitstaff)
     - Smithing Text: Tsuchigumo Clawed Fists
     - Smithing Text: Kamaitachi Helmet
@@ -490,6 +491,7 @@ Revenants
     -
     ----------
     - Elixir
+    - Ochoko Cup
     - Sacred Water
 
 Mitsume Yazura
@@ -858,6 +860,7 @@ Magatsu Warrior
     - Magatsu Warrior Soul Core
     -
     ----------
+    - Elixir
     -
 
 Daidara Bocchi (boss)
