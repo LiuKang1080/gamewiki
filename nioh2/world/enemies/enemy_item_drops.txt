@@ -170,6 +170,7 @@ Mujina
     - Lantern Plant Fruit
     - Lumicite Crystal
     - Ochoko Cup
+    - Righteous Jasper
     - Roaring Gun Ammunition
     - Sacred Arrow
     - Sacred Ash
@@ -486,6 +487,12 @@ Hachisuka Koroku (boss)
     - Smithing Text: Kawanami Clan Armor
     ----------
     - Divine Rice
+    - Kawanami Clan Plated Headband
+    - Kawanami Clan
+    - Kawanami Clan
+    - Kawanami Clan Waistguard
+    - Kawanami Clan
+    - Kawanami Kusarigama
 
 Revenants
     -
@@ -826,45 +833,14 @@ Tokichiro (boss)
     - Ogo & Nagamei Masamune (dual swords)
     - Tokichiro's Gourd (accessory)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Magatsu Warrior
     - Magatsu Warrior Soul Core
-    -
+    - Rusty Key (The High-Spirited Demon)
     ----------
     - Elixir
     -
 
 Daidara Bocchi (boss)
-    - Daidara Bocchi Soul Core
     - Smithing Text: Raikiri (sword)
     - Smithing Text: Wave Swimmer (sword)
     - Smithing Text: Realmtaker Spear
@@ -881,8 +857,39 @@ Daidara Bocchi (boss)
     - Smithing Text: Raging Bull Armor
     - Smithing Text: Red Demon Armor
     - Smithing Text: Warrior of the West Armor
+    - Daidara Bocchi Soul Core
     ----------
     -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Sengoku Hidehisa (odachi)
     -
