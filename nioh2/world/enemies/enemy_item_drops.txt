@@ -894,7 +894,11 @@ Daidara Bocchi (boss)
 Sengoku Hidehisa (odachi)
     -
     ----------
-    -
+    - Yoriki
+    - Yoriki Cuirass
+    - Yoriki Gauntlets
+    - Yoriki
+    - Yoriki Greaves
 
 Shuten Doji (boss)
     - Shuten Doji Soul Core
