@@ -666,9 +666,10 @@ Muni (saika warrior) (kusarigama)
 
 Onyudo
     - Onyudo Soul Core
-    -
+    - Writhing Tongue
     ----------
     - Elixir
+    - Yokai Incense
 
 Shimotsuma Rairen (saika warrior) (spear)
     -

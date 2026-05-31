@@ -361,7 +361,7 @@ Opening of the Mind's Eye (Dojo Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "Ruin Draws Near".
-        - Required Sword Proficiency: 120,000.
+        - Required Sword Proficiency: 120,000 (~LVL 18).
     --------------------
     - Recommended level: 100
     - Shrine: No
@@ -391,7 +391,7 @@ Master of the Dual Blades (Dojo Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "Ruin Draws Near".
-        - Required Dual Swords Proficiency: 120,000.
+        - Required Dual Swords Proficiency: 120,000 (~LVL 18).
     --------------------
     - Recommended level: 100
     - Shrine: No
@@ -424,7 +424,7 @@ Hanzo the Demon (Dojo Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "Ruin Draws Near".
-        - Required Spear Proficiency: 120,000.
+        - Required Spear Proficiency: 120,000 (~LVL 18).
     --------------------
     - Recommended level: 100
     - Shrine: No
@@ -457,7 +457,7 @@ The Unmoving Mountain (Dojo Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "Ruin Draws Near".
-        - Required Axe Proficiency: 120,000.
+        - Required Axe Proficiency: 120,000 (~LVL 18).
     --------------------
     - Recommended level: 100
     - Shrine: No
@@ -491,7 +491,7 @@ The Chain That Splits the Sky (Dojo Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "Ruin Draws Near".
-        - Required Kusarigama Proficiency: 120,000.
+        - Required Kusarigama Proficiency: 120,000 (~LVL 18).
     --------------------
     - Recommended level: 100
     - Shrine: No
@@ -522,7 +522,7 @@ The Tengu's Blade (Dojo Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "Ruin Draws Near".
-        - Required Odachi Proficiency: 120,000.
+        - Required Odachi Proficiency: 120,000 (~LVL 18).
     --------------------
     - Recommended level: 100
     - Shrine: No
@@ -552,7 +552,7 @@ Like Lightning (Dojo Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "Ruin Draws Near".
-        - Required Tonfa Proficiency: 120,000.
+        - Required Tonfa Proficiency: 120,000 (~LVL 18).
     --------------------
     - Recommended level: 100
     - Shrine: No
@@ -584,7 +584,7 @@ The Unstoppable Whirlwind (Dojo Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "Ruin Draws Near".
-        - Required Hatchets Proficiency: 120,000.
+        - Required Hatchets Proficiency: 120,000 (~LVL 18).
     --------------------
     - Recommended level: 100
     - Shrine: No
@@ -615,7 +615,7 @@ Sharp Eyes (Dojo Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "Ruin Draws Near".
-        - Required Switchglaive Proficiency: 120,000.
+        - Required Switchglaive Proficiency: 120,000 (~LVL 18).
     --------------------
     - Recommended level: 100
     - Shrine: No
@@ -645,7 +645,7 @@ Breaking Free (Dojo Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "Ruin Draws Near".
-        - Required Splitstaff Proficiency: 120,000.
+        - Required Splitstaff Proficiency: 120,000 (~LVL 18).
     --------------------
     - Recommended level: 100
     - Shrine: No
@@ -676,7 +676,7 @@ Strike Like a Yokai (Dojo Mission)
 ==========
     - Mission Unlock Requirement:
         - Complete the mission: "Ruin Draws Near".
-        - Required Fists Proficiency: 120,000.
+        - Required Fists Proficiency: 120,000 (~LVL 18).
     --------------------
     - Recommended level: 100
     - Shrine: No
