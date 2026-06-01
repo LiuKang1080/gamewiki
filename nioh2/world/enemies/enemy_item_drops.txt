@@ -425,6 +425,7 @@ Koroka
     - Smithing Text: Koroka Spear
     - Koroka Soul Core
     - Burnt Wick
+    - Kagatsuchi's Magatama (Calling on the Fire God)
     ----------
     - Koroka Spear
     - Elixir
@@ -779,7 +780,7 @@ Oni Shibata Katsuie (boss)
     - Oni Shibata's
     - Oni Shibata's Gauntlets
     - Oni Shibata's
-    - Oni Shibata's
+    - Oni Shibata's Greaves
     - Smirkwiper (sword)
     - Urn Splitter Hatchets
 
