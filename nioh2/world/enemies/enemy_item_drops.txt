@@ -773,7 +773,7 @@ Maeda Toshiie (boss)
 Oni Shibata Katsuie (boss)
     - Hidden Skill: Deadly Spiral (hatchets)
     - Smithing Text: Smirkwiper (sword)
-    - Smithing Text: Urn Splitter Hatchets (hatchets)
+    - Smithing Text: Urn Splitter Hatchets
     - Smithing Text: Oni Shibata's Armor
     ----------
     - Oni Shibata's
