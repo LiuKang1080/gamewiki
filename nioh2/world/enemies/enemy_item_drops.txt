@@ -138,6 +138,7 @@ Ippon-Datara
     - Smithing Text: Ippon-Datara's Odachi (odachi)
     - Ippon-Datara Soul Core
     - Ippon-Datara Fang
+    - Hiragumo Fragment II (Scattered Fragments)
     ----------
     - Divine Rice
     - Elixir
@@ -393,6 +394,7 @@ Karakasa Umbrella
 Biwa Boku-Boku
     - Biwa Boku-Boku Soul Core
     - Biwa Pick
+    - Hiragumo Fragment III (Scattered Fragments)
     ----------
     - Fleeting Guardian Amulet
     - Yokai Water Pot
@@ -426,6 +428,7 @@ Koroka
     - Koroka Soul Core
     - Burnt Wick
     - Kagatsuchi's Magatama (Calling on the Fire God)
+    - Hiragumo Fragment IV (Scattered Fragments)
     ----------
     - Koroka Spear
     - Elixir
@@ -507,6 +510,7 @@ Mitsume Yazura
     - Smithing Text: Female Demon Mask
     - Mitsume Yazura Soul Core
     - Petrified Eye
+    - Hiragumo Fragment I (Scattered Fragments)
     ----------
     - Elixir
 
@@ -872,8 +876,10 @@ Sengoku Hidehisa (odachi)
     - Yoriki
     - Yoriki Greaves
 
-
-
+Yamanaka Shikanosuke (sword)
+    -
+    ----------
+    - Righteous Jasper
 
 
 
