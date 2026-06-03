@@ -12,34 +12,34 @@ Global Item Drop Pool
     - Gold
     - [random rarity] random equippable item (weapons, armor, accessories)
     - [random rarity] random Tea Utensil
-    - Tamahagane
-    - Wood
+    - Iron Platelet
     - Ingot
     - Lacquer
     - Leather Cord
     - Leather Platelet
-    - Iron Platelet
-    - Quality Tamahagane
-    - Quality Wood
+    - Tamahagane
+    - Wood
+    - Quality Iron Platelet
     - Quality Ingot
     - Quality Lacquer
     - Quality Leather Cord
+    - Quality Tamahagane
     - Quality Leather Platelet
-    - Quality Iron Platelet
-    - High-Quality Tamahagane
-    - High-Quality Wood
+    - Quality Wood
+    - High-Quality Iron Platelet
     - High-Quality Ingot
     - High-Quality Lacquer
     - High-Quality Leather Cord
     - High-Quality Leather Platelet
-    - High-Quality Iron Platelet
-    - Highest-Quality Tamahagane
-    - Highest-Quality Wood
+    - High-Quality Tamahagane
+    - High-Quality Wood
+    - Highest-Quality Iron Platelet
     - Highest-Quality Ingot
     - Highest-Quality Lacquer
     - Highest-Quality Leather Cord
     - Highest-Quality Leather Platelet
-    - Highest-Quality Iron Platelet
+    - Highest-Quality Tamahagane
+    - Highest-Quality Wood
 
     - Divine Rice ???
 
@@ -881,35 +881,7 @@ Yamanaka Shikanosuke (sword)
     ----------
     - Righteous Jasper
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Shuten Doji (boss)
-    - Shuten Doji Soul Core
     - Smithing Text: Akechi Chikakage (sword)
     - Smithing Text: Raikiri (sword)
     - Smithing Text: Suijingiri Kanemitsu (sword)
@@ -931,8 +903,39 @@ Shuten Doji (boss)
     - Smithing Text: Legendary Strategist's Garb
     - Smithing Text: Red Demon Armor
     - Smithing Text: Warrior of the West Armor
+    - Shuten Doji Soul Core
+    - Shuten Doji's Red Hair
     ----------
+    - Shuten Doji's Club (axe)
+    - Shuten Doji's Mask
     - Righteous Jasper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Lady Osakabe (boss)
     - Lady Osakabe Soul Core
