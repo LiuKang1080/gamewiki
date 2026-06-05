@@ -443,3 +443,7 @@ Notes on iframes:
     - High Stance dodge roll is 18 iframes.
     - Mid Stance side dodge is 10 iframes and the dodge roll is 18 iframes.
         (There are 2-3 frames in between the side dodge and the roll where you can be hit.)
+
+Dark Realm Info
+    - All small boxes can be opened: ex) The Search
+    - Certain treasure boxes can be opened in the dark realm: ex)
