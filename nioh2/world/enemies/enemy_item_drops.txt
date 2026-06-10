@@ -465,6 +465,7 @@ Saito Yoshitatsu (boss)
     - Smithing Text: White Bone Spirit Tonfa (tonfa)
     - Smithing Text: Barbarian's Hatchets (hatchets)
     - Smithing Text: Seething Dragon (switchglaive)
+    - Smithing Text: Tengu's Khakkara (splitstaff)
     - Smithing Text: Tsuchigumo Clawed Fists
     - Smithing Text: Genryu's Armor
     - Smithing Text: Merchant's Attire
