@@ -840,6 +840,11 @@ Tokichiro (boss)
     - Ogo & Nagamei Masamune (dual swords)
     - Tokichiro's Gourd (accessory)
 
+Red Kappa
+    - Smithing Text: Red Kappa Helmet
+    ----------
+    - Red Kappa Helmet
+
 Magatsu Warrior
     - Magatsu Warrior Soul Core
     - Rusty Key (The High-Spirited Demon)
