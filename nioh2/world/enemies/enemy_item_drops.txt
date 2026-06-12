@@ -409,6 +409,7 @@ Waira
 Kamaitachi (boss)
     - Smithing Text: Weathered Bone & Bleached Twig (dual swords)
     - Smithing Text: Rotten Rope Cutter (kusarigama)
+    - Smithing Text: Barbarian Hatchets
     - Smithing Text: Tengu's Khakkhara (splitstaff)
     - Smithing Text: Tsuchigumo Clawed Fists
     - Smithing Text: Kamaitachi Helmet
