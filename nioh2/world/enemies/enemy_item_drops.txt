@@ -170,6 +170,7 @@ Mujina
     - Herbal Remedy
     - Lantern Plant Fruit
     - Lumicite Crystal
+    - Lumicite Fragment
     - Ochoko Cup
     - Righteous Jasper
     - Roaring Gun Ammunition
