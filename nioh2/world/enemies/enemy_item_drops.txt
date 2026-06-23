@@ -241,6 +241,11 @@ Thunderstorm Oni-Bi
     - Divine Rice
     - Lightning Amulet
 
+Oni-Bi Lantern:
+    - Large Spirit Stone
+    - Small Spirit Stone
+    - Spirit Stone
+
 Aberrant Soldier
     - Aberrant Soldier Soul Core
     - Aberrant Spirit Stone
