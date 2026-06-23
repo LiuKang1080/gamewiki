@@ -167,6 +167,7 @@ Mujina
     ----------
     - Daion-Jin's Sake
     - Fire Amulet
+    - Hand Cannon Ammunition
     - Herbal Remedy
     - Lantern Plant Fruit
     - Lumicite Crystal
@@ -687,12 +688,13 @@ Onyudo
 Shimotsuma Rairen (saika warrior) (spear)
     -
     ----------
-    - Imperial Monk's Hood
-    -
-    -
-    - Imperial Monk's Waistguard
-    - Gunpowder Bomb
     - Elixir
+    - Gunpowder Bomb
+    - Imperial Monk's Hood
+    - Imperial Monk's Cuirass
+    - Imperial Monk's Gauntlets
+    - Imperial Monk's Waistguard
+    - Imperial Monk's Greaves
 
 Saika Magoichi (boss)
     - Smithing Text: Haccho Nenbutsu (sword)
@@ -1439,8 +1441,9 @@ Kato Danzo (boss)
     - Flying Kato
     - Flying Kato Robes
     - Flying Kato Gauntlets
+    - Flying Kato Waistguard
     - Flying Kato
-    - Flying Kato
+    - Swift Hawk
 
 Shisenin Kosen (boss)
     - Smithing Text: Shishido Kusarigama
