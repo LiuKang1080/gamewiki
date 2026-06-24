@@ -165,6 +165,7 @@ Mujina
     - Mujina Soul Core
     - Mujina's Scarf
     ----------
+    - Burning Oil Jar
     - Daion-Jin's Sake
     - Fire Amulet
     - Hand Cannon Ammunition
@@ -721,6 +722,7 @@ Kosuzume (saika warrior) (kusarigama)
     ----------
     - Gunpowder Bomb
     - Rifle Ammunition
+    - Roaring Gun Ammunition
 
 Hotaru (saika warrior) (dual swords)
     -
@@ -730,6 +732,7 @@ Hotaru (saika warrior) (dual swords)
     - Saika Clan Cuirass
     - Saika Clan Waistguard
     - Saika Clan Greaves
+    - Rifle Ammunition
 
 Onmyo Mage
     - Smithing Text: Black Fox Mask
