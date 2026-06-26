@@ -139,7 +139,7 @@ No Conflict Stats
     - [DONE] Soul Core Drop Rate
     - [DONE] Soul Core Drop Rate (Yokai Shift)
     - [DONE] Enemy Sensor
-    - Treasure Sensor
+    - [DONE] Treasure Sensor
     - Amrita Sensor
     - [DONE] Kodama Sensor
     - [DONE] Sentience Charge

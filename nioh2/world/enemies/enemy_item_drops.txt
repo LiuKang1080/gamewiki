@@ -763,9 +763,11 @@ Ryomen Sukuna (boss)
     - Wheel of Ice and Fire
     - Handmade Doll (Restoring Harmony)
     ----------
+    - Rifle Ammunition
     - Righteous Jasper
     - Ryomen Sukuna's Bow
     - Ryomen Sukuna's Sword
+    - Sacred Arrow
 
 Matsunaga Hisahide (boss)
     - Smithing Text: Fudo Kuniyuki & Yagen Toshiro (dual swords)
