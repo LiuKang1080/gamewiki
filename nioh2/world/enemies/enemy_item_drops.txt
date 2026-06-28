@@ -797,9 +797,9 @@ Oni Shibata Katsuie (boss)
     - Smithing Text: Oni Shibata's Armor
     ----------
     - Oni Shibata's Helmet
-    - Oni Shibata's
+    - Oni Shibata's Cuirass
     - Oni Shibata's Gauntlets
-    - Oni Shibata's
+    - Oni Shibata's Waistguard
     - Oni Shibata's Greaves
     - Smirkwiper (sword)
     - Urn Splitter Hatchets
@@ -1079,7 +1079,6 @@ William (boss)
     -
 
 Otakemaru (boss)
-    - Otakemaru Soul Core
     - Smithing Text: Ishida Masamune (sword)
     - Smithing Text: Juzumaru Tsunetsugu (sword)
     - Smithing Text: Kusanagi Tsurugi (sword)
@@ -1122,6 +1121,7 @@ Otakemaru (boss)
     - Smithing Text: One-Eyed Dragon's Armor
     - Smithing Text: Sanada's Crimson Armor
     - Smithing Text: The Exceptional One's Armor
+    - Otakemaru Soul Core
     ----------
     -
 
