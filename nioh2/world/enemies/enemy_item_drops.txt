@@ -796,7 +796,7 @@ Oni Shibata Katsuie (boss)
     - Smithing Text: Urn Splitter Hatchets
     - Smithing Text: Oni Shibata's Armor
     ----------
-    - Oni Shibata's
+    - Oni Shibata's Helmet
     - Oni Shibata's
     - Oni Shibata's Gauntlets
     - Oni Shibata's
@@ -857,6 +857,7 @@ Tokichiro (boss)
 
 Red Kappa
     - Smithing Text: Red Kappa Helmet
+    - Red Kappa Shell
     ----------
     - Red Kappa Helmet
 
