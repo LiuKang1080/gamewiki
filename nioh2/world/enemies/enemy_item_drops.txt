@@ -212,8 +212,8 @@ Skeleton Warrior / Skeleton Warrior (big)
     - Roaring Gun Ammunition
 
 Enenra (boss)
-    - Smithing Text: Onimaru Kunitsuna
-    - Smithing Text: Firefly Blade
+    - Smithing Text: Onimaru Kunitsuna (sword)
+    - Smithing Text: Firefly Blade (odachi)
     - Smithing Text: Enenra Mask
     - Smithing Text: Eccentric's Armor
     - Enenra Soul Core
@@ -288,9 +288,9 @@ Snowclops
     - Yokai Incense
 
 Karasu Tengu
+    - Smithing Text: Tengu Mask
     - Karasu Tengu Soul Core
     - Karasu Tengu Feather
-    - Smithing Text: Tengu Mask
     - Tengu's Fan
     ----------
     - Elixir
@@ -309,7 +309,7 @@ Ninja Dog
     -
 
 Nure-Onna
-    - Smithing Text: Bloodspider Blade
+    - Smithing Text: Bloodspider Blade (odachi)
     - Nure-Onna Soul Core
     - Glowing Lock of Wet Hair
     - Wood Tile: Ro (Song of the Yokai)
@@ -503,7 +503,7 @@ Hachisuka Koroku (boss)
     - Divine Rice
     - Kawanami Clan Plated Headband
     - Kawanami Clan
-    - Kawanami Clan
+    - Kawanami Clan Gauntlets
     - Kawanami Clan Waistguard
     - Kawanami Clan
     - Kawanami Kusarigama
@@ -569,7 +569,7 @@ Namahage
 Magara Naotaka (boss)
     - Hidden Skill: Swirling Snow (odachi)
     - Smithing Text: Tobikura Kusarigama
-    - Smithing Text: Taro Tachi
+    - Smithing Text: Taro Tachi (odachi)
     - Smithing Text: Double-Headed Snake Tonfa
     - Mortal Soul Core
     ----------
@@ -662,12 +662,13 @@ Saito Toshimitsu (boss)
     -
 
 Saika Clan
-    - Tanegashima Matchlock
+    -
     ----------
     - Divine Rice
     - Elixir
     - Gunpowder Bomb
     - Rifle Ammunition
+    - Tanegashima Matchlock
 
 Muni (saika warrior) (kusarigama)
     -
@@ -886,6 +887,7 @@ Daidara Bocchi (boss)
     - Smithing Text: Red Demon Armor
     - Smithing Text: Warrior of the West Armor
     - Daidara Bocchi Soul Core
+    - Primordial Mud
     ----------
     -
 
@@ -901,6 +903,11 @@ Sengoku Hidehisa (odachi)
 Yamanaka Shikanosuke (sword)
     -
     ----------
+    - Moonprayer Helmet
+    - Moonprayer Cuirass
+    - Moonprayer Gauntlets
+    - Moonprayer Waistguard
+    - Moonprayer
     - Righteous Jasper
 
 Shuten Doji (boss)
