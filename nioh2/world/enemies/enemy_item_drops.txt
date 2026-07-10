@@ -1241,6 +1241,7 @@ Tsuchigumo Ninja
 
 Tsuchigumo (boss)
     - Smithing Text: Suwa Myojin Sickle (kusarigama)
+    - Smithing Text: Tsuchigumo Attire
     - Tsuchigumo Soul Core
     ----------
     -
