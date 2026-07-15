@@ -340,6 +340,11 @@ Yatsu-no-Kami (boss)
     - Antidote
     - Divine Rice
     - Elixir
+    - Shinto Priest's
+    - Shinto Priest's Hunting Garb
+    - Shinto Priest's Sleeves
+    - Shinto Priest's Hakama
+    - Shinto Priest's
 
 Lesser Umi-Bozu
     - Lesser Umi-Bozu Soul Core
@@ -939,43 +944,44 @@ Shuten Doji (boss)
     - Shuten Doji's Mask
     - Righteous Jasper
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Lady Osakabe (boss)
-    - Lady Osakabe Soul Core
     - Smithing Text: Regal Lion & Bone Eater (dual swords)
     - Smithing Text: Red Demon Spear
     - Smithing Text: Firefly Blade (odachi)
     - Smithing Text: White Lotus Fists
     - Smithing Text: Legendary Strategist's Garb
     - Smithing Text: Red Demon Armor
+    - Lady Osakabe Soul Core
+    - Broken Demon Tile
     ----------
     -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Maeda Keiji (boss)
     -
