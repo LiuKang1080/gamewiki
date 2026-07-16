@@ -62,6 +62,7 @@ Gaki / Gaki (big)
     - Divine Rice
     - Elixir
     - Gunpowder Bomb
+    - Shrapnel Bomb
     - Stone
     - Yokai Water Pot
 
@@ -956,37 +957,42 @@ Lady Osakabe (boss)
     ----------
     -
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Maeda Keiji (boss)
     -
     ----------
-    -
+    - Eccentric Helmet
+    - Eccentric Cuirass
+    - Eccentric Gauntlets
+    - Eccentric Waistguard
+    - Eccentric Greaves
+    - Vermillion Spear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Katagiri Katsumoto (Seven Spears #1) (spear)
     - Smithing Text: Black Bear Fur Helmet
