@@ -168,6 +168,7 @@ Mujina
     ----------
     - Burning Oil Jar
     - Daion-Jin's Sake
+    - Explosive Rounds
     - Fire Amulet
     - Hand Cannon Ammunition
     - Herbal Remedy
