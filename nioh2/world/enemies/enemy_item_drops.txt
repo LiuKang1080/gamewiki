@@ -263,6 +263,7 @@ Aberrant Soldier
 
 One-Eyed Imp
     - ??? Soul Core
+    - Mortal Soul Core ***(double check and confirm)***
     - One-Eyed Imp's Clogs
     ----------
     - Divine Rice
