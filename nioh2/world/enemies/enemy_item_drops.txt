@@ -96,6 +96,8 @@ Yoki / Blue Yoki
     ----------
     - Divine Rice
     - Elixir
+    - Explosive Rounds
+    - Hand Cannon Ammunition
 
 Gozuki (boss)
     - Gozuki Soul Core
@@ -256,6 +258,8 @@ Aberrant Soldier
     ----------
     - Arrow
     - Divine Rice
+    - Elixir
+    - Gunpowder Bomb
     - Sacred Arrow
     - Shrapnel Bomb
     - Small Spirit Stone
@@ -782,7 +786,12 @@ Matsunaga Hisahide (boss)
     - Smithing Text: Fudo Kuniyuki & Yagen Toshiro (dual swords)
     - Smithing Text: Maelfactor's Armor
     ----------
-    -
+    - Fudo Kuniyuki & Yagen Toshiro (dual swords)
+    - Maelfactor's Helmet
+    - Maelfactor's Cuirass
+    - Maelfactor's Gauntlets
+    - Maelfactor's Waistguard
+    - Maelfactor's Greaves
 
 Maeda Toshiie (boss)
     - Hidden Skill: Bracing Breeze (spear)
@@ -969,71 +978,57 @@ Maeda Keiji (boss)
     - Eccentric Greaves
     - Vermillion Spear
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Katagiri Katsumoto (Seven Spears #1) (spear)
     - Smithing Text: Black Bear Fur Helmet
     ----------
-    -
+    - Black Bear Fur Helmet
+    - Elixir
 
 Fukushima Masanori (Seven Spears #2) (spear)
     - Smithing Text: Hinomotogo (spear)
     - Smithing Text: Ichi-no-Tani Kabuto (helmet)
     ----------
-    -
+    - Elixir
+    - Hinomotogo (spear)
+    - Ichi-no-Tani Kabuto (helmet)
 
 Kasuya Takenori (Seven Spears #3) (spear)
     - Smithing Text: Tarobo Kanemitsu & Rapier (dual swords)
     - Smithing Text: Mount Fuji Helmet
     ----------
-    -
+    - Elixir
+    - Uchiko Powder
 
 Kato Yoshiaki (Seven Spears #4) (dual swords)
     -
     ----------
-    -
+    - Elixir
+    - Tarobo Kanemitsu & Rapier (dual swords)
 
 Hirano Nagayasu (Seven Spears #5) (spear)
     -
     ----------
-    -
+    - Elixir
 
 Wakisaka Yasuharu (Seven Spears #6) (spear)
     - Smithing Text: Linked Ring Helmet
     ----------
-    -
+    - Elixir
+    - Linked Ring Helmet
+    - Uchiko Powder
 
 Kato Kiyomasa (Seven Spears #7) (spear)
     - Smithing Text: Dodanuki Masakuni (sword)
     - Smithing Text: Tiger Of Higo's Spear
     - Smithing Text: Tiger Of Higo's Armor
     ----------
-    -
+    - Dodanuki Masakuni (sword)
+    - Tiger Of Higo's
+    - Tiger Of Higo's
+    - Tiger Of Higo's Gauntlets
+    - Tiger Of Higo's
+    - Tiger Of Higo's
+    - Tiger Of Higo's Spear
 
 Tokichiro (dream) (boss)
     - Hidden Skill: Double-Headed Slice (dual swords)
@@ -1043,10 +1038,18 @@ Tokichiro (dream) (boss)
     - Smithing Text: Seventh Sword Tonfa
     - Smithing Text: Child Of The Sun's Armor
     ----------
-    -
+    - Child Of The Sun's Helmet
+    - Child Of The Sun's Cuirass
+    - Child Of The Sun's Gauntlets
+    - Child Of The Sun's Waistguard
+    - Child Of The Sun's Greaves
+    - Ichigo Hitofuri & Oyako Toshiro (dual swords)
+    - Mikazuki Munechika (sword)
+    - Seventh Sword Tonfa
 
 Kashin Koji (boss)
     - Smithing Text: Demon's Maw (sword)
+    - Smithing Text: Heshikiri Hasabe (sword)
     - Smithing Text: Juzumaru Tsunetsugu (sword)
     - Smithing Text: Mikazuki Munechika (sword)
     - Smithing Text: Otegine (spear)
@@ -1060,6 +1063,7 @@ Kashin Koji (boss)
     - Smithing Text: Tempest Splitstaff
     - Smithing Text: Frost Blossom Clawed Fists
     - Smithing Text: Arrowsbane Armor
+    - Smithing Text: Yoshiie's Birthright Armor
     ----------
     -
 
@@ -1097,7 +1101,11 @@ William (boss)
     - Smithing Text: Yoshiie's Birthright Armor
     - Smithing Text: Youngblood's Armor
     ----------
-    -
+    - Youngblood
+    - Youngblood Cuirass
+    - Youngblood Gauntlets
+    - Youngblood Waistguard
+    - Youngblood Greaves
 
 Otakemaru (boss)
     - Smithing Text: Ishida Masamune (sword)
@@ -1144,7 +1152,47 @@ Otakemaru (boss)
     - Smithing Text: The Exceptional One's Armor
     - Otakemaru Soul Core
     ----------
-    -
+    - Tokagemaru (sword) (divine)
+    - Weathered Bone & Bleached Twig (dual swords) (divine)
+    - Bonespile Spear (divine)
+    - Demon's Axe (divine)
+    - Rotten Rope Cutter (kusarigama) (divine)
+    - Bloodspider Blade (odachi) (divine)
+    - White Bone Spirit Tonfa (divine)
+    - Barbarian's Hatchets (divine)
+    - Seething Dragon (switchglaive) (divine)
+    - Tengu's Khakkara (splitstaff) (divine)
+    - Tsuchigumo Clawed Fists (divine)
+    - Longbow (divine)
+    - Tanegashima Matchlock (rifle) (divine)
+    - Hand Cannon (divine)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ========== ========== ========== ========== ==========
@@ -1486,7 +1534,13 @@ Ashikaga Yoshiteru (boss)
     - Smithing Text: Wooden Dual Swords
     - Smithing Text: Master Swordsman's Armor
     ----------
-    -
+    - Bamboo Cutter & Bone Feaster (dual swords)
+    - Dual Wooden Swords
+    - Master Swordsman's Crown
+    - Master Swordsman's
+    - Master Swordsman's Greaves
+    - Master Swordsman's Waistguard
+    - Master Swordsman's
 
 Hattori Hanzo (boss)
     - Hidden Skill: Storm of Strikes
