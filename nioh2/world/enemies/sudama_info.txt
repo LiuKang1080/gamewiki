@@ -6,16 +6,20 @@ Items dropped from Sudama from exchange:
     - Clay Bell of Beckoning
     - Fleeting Guardian Amulet
     - Inspiriting Gem
+    - Kodama Soul Core
     - Lantern Plant Fruit
     - Red Spider Lily
     - Righteous Jasper
     - Sacred Brush
     - Salt
-    - Small Spirit Stone
-    - Spirit Stone
     - Summoner's Candle
     - Uchiko Powder
     - Whetstone
+
+---------- Spirit Stones ----------
+    - Lumicite Crystal
+    - Small Spirit Stone
+    - Spirit Stone
 
 ---------- Smithing Materials ----------
     - Lacquer
