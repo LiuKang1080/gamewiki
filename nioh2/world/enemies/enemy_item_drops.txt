@@ -41,6 +41,13 @@ Global Item Drop Pool
     - Highest-Quality Tamahagane
     - Highest-Quality Wood
 
+    - Arrow
+    - Sacred Arrow
+    - Rifle Ammunition
+    - Roaring Gun Ammunition
+    - Hand Cannon Ammunition
+    - Explosive Rounds
+
     - Divine Rice ???
 
     Dream of the Samurai
@@ -69,7 +76,6 @@ Gaki / Gaki (big)
     - Divine Rice
     - Elixir
     - Gunpowder Bomb
-    - Rifle Ammunition
     - Shrapnel Bomb
     - Stone
     - Yokai Water Pot
@@ -77,13 +83,10 @@ Gaki / Gaki (big)
 Human / Human (big)
     -
     ----------
-    - Arrow
     - Divine Rice
     - Elixir
-    - Explosive Rounds
     - Gunpowder Bomb
     - Righteous Jasper
-    - Sacred Arrow
     - Salt
     - Shrapnel Bomb
     - Stone
@@ -104,8 +107,6 @@ Yoki / Blue Yoki
     ----------
     - Divine Rice
     - Elixir
-    - Explosive Rounds
-    - Hand Cannon Ammunition
 
 Gozuki (boss)
     - Gozuki Soul Core
@@ -180,18 +181,14 @@ Mujina
     ----------
     - Burning Oil Jar
     - Daion-Jin's Sake
-    - Explosive Rounds
     - Fire Amulet
     - Glue
-    - Hand Cannon Ammunition
     - Herbal Remedy
     - Lantern Plant Fruit
     - Lumicite Crystal
     - Lumicite Fragment
     - Ochoko Cup
     - Righteous Jasper
-    - Roaring Gun Ammunition
-    - Sacred Arrow
     - Sacred Ash
     - Saisetsu-Shin's Sake
     - Shinobi Box
@@ -203,9 +200,11 @@ Kappa
     - Kappa Soul Core
     - Kappa Shell
     ----------
+    - Daion-Jin's Sake
     - Elixir
     - Sacred Ash
     - Summoner's Candle
+    - Hundred Night Incense
 
 Nurikabe
     - Nurikabe Soul Core
@@ -221,11 +220,7 @@ Skeleton Warrior / Skeleton Warrior (big)
     - Skeletal Warrior's Sacrum
     ----------
     - Divine Rice
-    - Explosive Rounds
-    - Hand Cannon Ammunition
     - Shrapnel Bomb
-    - Rifle Ammunition
-    - Roaring Gun Ammunition
 
 Enenra (boss)
     - Smithing Text: Onimaru Kunitsuna (sword)
@@ -268,11 +263,9 @@ Aberrant Soldier
     - Aberrant Soldier Soul Core
     - Aberrant Spirit Stone
     ----------
-    - Arrow
     - Divine Rice
     - Elixir
     - Gunpowder Bomb
-    - Sacred Arrow
     - Shrapnel Bomb
     - Small Spirit Stone
     - Stone
@@ -313,6 +306,7 @@ Karasu Tengu
     - Tengu's Fan
     ----------
     - Elixir
+    - Lantern Plant Fruit
 
 Ninja
     -
@@ -691,7 +685,6 @@ Saika Clan
     - Divine Rice
     - Elixir
     - Gunpowder Bomb
-    - Rifle Ammunition
     - Tanegashima Matchlock
 
 Muni (saika warrior) (kusarigama)
@@ -747,8 +740,6 @@ Kosuzume (saika warrior) (kusarigama)
     -
     ----------
     - Gunpowder Bomb
-    - Rifle Ammunition
-    - Roaring Gun Ammunition
 
 Hotaru (saika warrior) (dual swords)
     -
@@ -758,7 +749,6 @@ Hotaru (saika warrior) (dual swords)
     - Saika Clan Cuirass
     - Saika Clan Waistguard
     - Saika Clan Greaves
-    - Rifle Ammunition
 
 Onmyo Mage
     - Smithing Text: Black Fox Mask
@@ -788,11 +778,9 @@ Ryomen Sukuna (boss)
     - Wheel of Ice and Fire
     - Handmade Doll (Restoring Harmony)
     ----------
-    - Rifle Ammunition
     - Righteous Jasper
     - Ryomen Sukuna's Bow
     - Ryomen Sukuna's Sword
-    - Sacred Arrow
 
 Matsunaga Hisahide (boss)
     - Smithing Text: Fudo Kuniyuki & Yagen Toshiro (dual swords)
@@ -1163,6 +1151,8 @@ Otakemaru (boss)
     - Smithing Text: Sanada's Crimson Armor
     - Smithing Text: The Exceptional One's Armor
     - Otakemaru Soul Core
+    ----------
+    Dream of the Samurai
     ----------
     - Tokagemaru (sword) (divine)
     - Weathered Bone & Bleached Twig (dual swords) (divine)
