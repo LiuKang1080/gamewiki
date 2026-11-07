@@ -448,3 +448,12 @@ Notes on iframes:
 Dark Realm Info
     - All small boxes can be opened: ex) The Search
     - Certain treasure boxes can be opened in the dark realm: ex)
+
+Divine Drop Rate Using Ochoko Cups:
+    - Divine drop rate is dependent on the number of red swords for difficulty.
+    - on average 1 sword = 2% divine drop rate.
+    - 1 swords = 2%
+    - 2 swords = 4%
+    - 3 swords = 6%
+    - 4 swords = 8%
+    - 5 swords = 10%
