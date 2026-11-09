@@ -86,7 +86,7 @@ Equipment [Main Menu Card 3]:
     - Onmyo Magic
     - Soul Cores
     - Guardian Spirits
-    - Accessories 
+    - Accessories
     - Demon Parade Picture Scrolls
     - Graces & Sets
     - Items
@@ -108,7 +108,7 @@ World [Main Menu Card 4]:
         - The Tengu's Disciple (DLC 1)
         - The Darkness in the Capital (DLC 2)
         - The First Samurai (DLC 3)
-		- Twilight Missions
+		- Twilight Missions (each twilight mission is within it's own mission page)
         - Dojo Missions
 
         - Kodama & Sudama:
@@ -147,7 +147,7 @@ Tools & Resources [Main Menu Card 5]:
 
     - Blacksmith:
         - Forging:
-            [Link to Farming Yokai parts / Divine Fragments] 
+            [Link to Farming Yokai parts / Divine Fragments]
 
         - Soul Matching
         - Inheritables
