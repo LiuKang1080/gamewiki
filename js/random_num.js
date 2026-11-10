@@ -29,16 +29,40 @@ function generate_rand_num(limit) {
     */
 
     // initialize variables:
-    let num = 0;
+    let num;
+    let temp;
     let arr = ["sword", "dual swords", "spear", "axe", "kusarigama", "odachi", "tonfa", "hatchets", "switchglaive", "splitstaff", "fists"];
 
-    // generate a random number
-    num = Math.floor(Math.random() * (limit));
+    // loop 2 times to generate 2 weapons:
+    for (let x = 0; x < 2; x++) {
+        // iteration 1:
+        if (x === 0) {
+            // generate a random number
+            num = Math.floor(Math.random() * (limit));
+            temp = num;
 
-    // return the number+1 and the name of the weapon name from the array
-    return num+1 + ": " + arr[num];
+            // print (number + 1) and the name of the weapon name from the array
+            console.log(num+1 + " :" + arr[num]);
+
+        } else {
+        // iteration 2:
+            label: while(true) {
+                // generate a random number
+                num = Math.floor(Math.random() * (limit));
+
+                if (num === temp) {
+                    continue label;
+                } else {
+                    break;
+                }
+            }
+
+            // print (number + 1) and the name of the weapon name from the array
+            console.log(num+1 + " :" + arr[num]);
+        }
+    }
 }
 
 
 // call and print the result of rand function
-console.log(generate_rand_num(11));
+generate_rand_num(11);
