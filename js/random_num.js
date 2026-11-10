@@ -42,7 +42,7 @@ function generate_rand_num(limit) {
             temp = num;
 
             // print (number + 1) and the name of the weapon name from the array
-            console.log(num+1 + " :" + arr[num]);
+            console.log(num+1 + ": " + arr[num]);
 
         } else {
         // iteration 2:
@@ -58,7 +58,7 @@ function generate_rand_num(limit) {
             }
 
             // print (number + 1) and the name of the weapon name from the array
-            console.log(num+1 + " :" + arr[num]);
+            console.log(num+1 + ": " + arr[num]);
         }
     }
 }
