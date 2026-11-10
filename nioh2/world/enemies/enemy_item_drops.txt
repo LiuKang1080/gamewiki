@@ -400,6 +400,7 @@ Imagawa Yoshimoto
     - Master Archer's Waistguard
     - Master Archer's Greaves
     - Master Archer's Bow
+    - Sozasamonji Matsukurago (dual swords)
 
 Okabe Motonobu
     -
@@ -510,7 +511,12 @@ Shibata Katsuie (boss)
     - Smithing Text: Urn Splitter Hatchets (hatchets)
     - Smithing Text: Oni Shibata's Armor
     ----------
-    -
+    - Oni Shibata's Helmet
+    - Oni Shibata's
+    - Oni Shibata's
+    - Oni Shibata's Waistguard
+    - Oni Shibata's Greaves
+    - Urn Splitter Hatchets
 
 Hachisuka Koroku (boss)
     - Hidden Skill: Second Wind
@@ -520,7 +526,7 @@ Hachisuka Koroku (boss)
     ----------
     - Divine Rice
     - Kawanami Clan Plated Headband
-    - Kawanami Clan
+    - Kawanami Clan Vest
     - Kawanami Clan Gauntlets
     - Kawanami Clan Waistguard
     - Kawanami Clan
@@ -636,7 +642,7 @@ Azai Nagamasa (boss)
     - Smithing Text: Sohaya Tsurugi (sword)
     - Smithing Text: Tobikura Kusarigama
     - Smithing Text: Greater Good Armor
-    - Smithing Text: Kohoku Mater's Armor
+    - Smithing Text: Kohoku Master's Armor
     ----------
     - Azai Ichimonji (sword)
     - Kohaku Master's Helmet
@@ -769,6 +775,7 @@ Kasha (boss)
     - Righteous Jasper
 
 Ryomen Sukuna (boss)
+    - Smithing Text: Diehard's Armor
     - Smithing Text: Hikoemon Ichimonji (sword)
     - Smithing Text: Red Demon Spear
     - Smithing Text: Ryomen Sukuna's Axe
@@ -953,6 +960,7 @@ Shuten Doji (boss)
     - Shuten Doji's Red Hair
     ----------
     - Shuten Doji's Club (axe)
+    - Shuten Doji's Gourd (accessory)
     - Shuten Doji's Mask
     - Righteous Jasper
 
@@ -1506,22 +1514,22 @@ Tsukahara Bokuden (boss)
     - Smithing Text: Master Swordsman's Attire
     ----------
     - Bizen Kageyasu (sword)
-    - Wooden Sword
     - Master Swordsman's Robes
     - Master Swordsman's Bracer
     - Master Swordsman's Hakama
     - Master Swordsman's Sandals
+    - Wooden Sword
 
 Kato Danzo (boss)
     - Smithing Text: Swift Hawk (sword)
     - Smithing Text: Wooden Fists
     - Smithing Text: Flying Kato's Attire
     ----------
-    - Flying Kato
-    - Flying Kato Robes
-    - Flying Kato Gauntlets
-    - Flying Kato Waistguard
-    - Flying Kato
+    - Flying Kato's Mask
+    - Flying Kato's Robes
+    - Flying Kato's Gauntlets
+    - Flying Kato's Waistguard
+    - Flying Kato's
     - Swift Hawk
 
 Shisenin Kosen (boss)
@@ -1539,10 +1547,10 @@ Ashikaga Yoshiteru (boss)
     - Bamboo Cutter & Bone Feaster (dual swords)
     - Dual Wooden Swords
     - Master Swordsman's Crown
-    - Master Swordsman's
-    - Master Swordsman's Greaves
+    - Master Swordsman's Cuirass
+    - Master Swordsman's Gauntlets
     - Master Swordsman's Waistguard
-    - Master Swordsman's
+    - Master Swordsman's Greaves
 
 Hattori Hanzo (boss)
     - Hidden Skill: Storm of Strikes
@@ -1552,7 +1560,12 @@ Hattori Hanzo (boss)
     - Smithing Text: Wooden Splitstaff
     - Smithing Text: Iga Jonin Apparel
     ----------
-    -
+    - Hanzo the Demon's Spear
+    - Iga Jonin Headband
+    - Iga Jonin Cuirass
+    - Iga Jonin Gauntlets
+    - Iga Jonin Waistguard
+    - Iga Jonin Greaves
 
 Sakata Kintoki (boss)
     - Smithing Text: Kintaro's Axe
@@ -1561,11 +1574,16 @@ Sakata Kintoki (boss)
     - Smithing Text: Wooden Hatchets
     - Smithing Text: Kintaro's Armor
     ----------
-    -
+    - Kintaro's Axe
+    - Kintaro's Headband
+    - Kintaro's
+    - Kintaro's Gauntlets
+    - Kintaro's Waistguard
+    - Kintaro's Greaves
 
 Mumyo (boss)
     - Hidden Skill: Fleeting Edge
     - Smithing Text: Black Lotus (switchglaive)
     - Smithing Text: Wooden Switchglaive
     ----------
-    -
+    - Black Lotus (switchglaive)

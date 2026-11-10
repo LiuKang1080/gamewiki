@@ -421,7 +421,6 @@ Dream of the Nioh (NG+4) Notes:
     - Spirit Stones that drop on Dream of the Nioh (NG+4) and Underworld:
         -
 
-
 [Credits for NG+ notes]:
     - Lef, Fat Valentine
 
@@ -457,3 +456,17 @@ Divine Drop Rate Using Ochoko Cups:
     - 3 swords = 6%
     - 4 swords = 8%
     - 5 swords = 10%
+
+Number of Kodama:
+    - 150 Kodama in the base game (25 in each region except the last region (Afterglow))
+    - 25 Kodama in DLC 1
+    - 25 Kodama in DLC 2
+    - 25 Kodama in DLC 3
+
+Sudama(big) Info:
+    - Give it 2 of the same type of piece will return that piece. ex) giving it 2 chest pieces will return a chest piece.
+    - Any ethereal piece + helmet will return that piece with all same stats and re-roll the grace to Sukunahikona's Grace.
+    - Any ethereal piece + fists will return that piece with all same stats and re-roll the grace to Tajikarao's Grace.
+
+[Credits]:
+    - Fluffi, Uteh
