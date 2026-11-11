@@ -811,8 +811,8 @@ Maeda Toshiie (boss)
     - Mataza's Long Spear
     - Mataza's Helmet
     - Mataza's Cuirass
-    - Mataza's
-    - Mataza's
+    - Mataza's Gauntlets
+    - Mataza's Waistguard
     - Mataza's Greaves
 
 Oni Shibata Katsuie (boss)
@@ -1587,3 +1587,12 @@ Mumyo (boss)
     - Smithing Text: Wooden Switchglaive
     ----------
     - Black Lotus (switchglaive)
+
+
+========== ========== ========== ========== ==========
+Other Notes
+========== ========== ========== ========== ==========
+- Smithing Text: Regal Lion & Bone Eater (dual swords) also drops as Lion Lord & Bone Eater.
+    This is a translation error between the two texts. There are no 2 different texts, they are both the same.
+    It will drop as Lion Lord & Bone Eater. When you turn in the Smithing Text it will resolve into
+    Regal Lion & Bone Eater (dual swords) at the Blacksmith.
