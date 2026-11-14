@@ -182,7 +182,9 @@ Mujina
     - Burning Oil Jar
     - Daion-Jin's Sake
     - Fire Amulet
+    - Fleeting Guardian Amulet
     - Glue
+    - Gunpowder Bomb
     - Herbal Remedy
     - Lantern Plant Fruit
     - Lumicite Crystal
@@ -193,6 +195,7 @@ Mujina
     - Saisetsu-Shin's Sake
     - Shinobi Box
     - Shrapnel Bomb
+    - Spirit Stone
     - Summoner's Candle
     - Travel Amulet
 
@@ -391,8 +394,8 @@ Imagawa Yoshimoto
     - Smithing Text: Seething Dragon (switchglaive)
     - Smithing Text: Tengu's Khakkhara (splitstaff)
     - Smithing Text: Tsuchigumo Clawed Fists
-    - Smithing Text: Master Archer's Armor
     - Smithing Text: Master Archer's Bow
+    - Smithing Text: Master Archer's Armor
     ----------
     - Master Archer's Hat
     - Master Archer's Cuirass
@@ -403,9 +406,10 @@ Imagawa Yoshimoto
     - Sozasamonji Matsukurago (dual swords)
 
 Okabe Motonobu
-    -
+    - Smithing Text: Wild Boar Crest Helmet
     ----------
     - Uchiko Powder
+    - Wild Boar Crest Helmet
 
 Okabe Masatsuna
     -
@@ -435,7 +439,9 @@ Waira
 
 Kamaitachi (boss)
     - Smithing Text: Weathered Bone & Bleached Twig (dual swords)
+    - Smithing Text: Bonepile Spear
     - Smithing Text: Rotten Rope Cutter (kusarigama)
+    - Smithing Text: White Bone Spirit Tonfa
     - Smithing Text: Barbarian Hatchets
     - Smithing Text: Tengu's Khakkhara (splitstaff)
     - Smithing Text: Tsuchigumo Clawed Fists
@@ -486,8 +492,8 @@ Saito Yoshitatsu (boss)
     - Smithing Text: Tokagemaru (sword)
     - Smithing Text: Udoto (sword)
     - Smithing Text: Weathered Bone & Bleached Twig (dual swords)
-    - Smithing Text: Bonepile Spear (spear)
-    - Smithing Text: Torch Spear (spear)
+    - Smithing Text: Bonepile Spear
+    - Smithing Text: Torch Spear
     - Smithing Text: Rotten Rope Cutter (kusarigama)
     - Smithing Text: Great Kanemitsu (odachi)
     - Smithing Text: White Bone Spirit Tonfa (tonfa)
@@ -506,16 +512,9 @@ Saito Yoshitatsu (boss)
     - Genryu's Greaves
 
 Shibata Katsuie (boss)
-    - Hidden Skill: Deadly Spiral (hatchets)
     - Smithing Text: Smirkwiper (sword)
     - Smithing Text: Urn Splitter Hatchets (hatchets)
-    - Smithing Text: Oni Shibata's Armor
     ----------
-    - Oni Shibata's Helmet
-    - Oni Shibata's
-    - Oni Shibata's
-    - Oni Shibata's Waistguard
-    - Oni Shibata's Greaves
     - Urn Splitter Hatchets
 
 Hachisuka Koroku (boss)
@@ -529,7 +528,7 @@ Hachisuka Koroku (boss)
     - Kawanami Clan Vest
     - Kawanami Clan Gauntlets
     - Kawanami Clan Waistguard
-    - Kawanami Clan
+    - Kawanami Clan Greaves
     - Kawanami Kusarigama
 
 Revenants
@@ -542,6 +541,8 @@ Revenants
 Mitsume Yazura
     - Smithing Text: Demon God Mask
     - Smithing Text: Female Demon Mask
+    - Smithing Text: Old Sage Mask
+    - Smithing Text: Vengeful Spirit Mask
     - Mitsume Yazura Soul Core
     - Petrified Eye
     - Hiragumo Fragment I (Scattered Fragments)
@@ -549,6 +550,7 @@ Mitsume Yazura
     - Elixir
 
 Tatarimokke (boss)
+    - Smithing Text: Torch Spear
     - Tatarimokke Soul Core
     - Ominous Bird's Beak
     ----------
@@ -558,9 +560,11 @@ Obsidian Samurai (boss)
     - Hidden Skill: Spirit Storm
     - Smithing Text: Starcutter Sword
     - Smithing Text: Gozutenno's Axe
+    - Smithing Text: Obsidian Armor
     - Foreign Necklace (A Formal Match)
     ----------
     - Gozutenno's Axe
+    - Lumicite Shard
     - Obsidian Helmet
     - Obsidian Cuirass
     - Obsidian Gauntlets
@@ -592,6 +596,7 @@ Namahage
 
 Magara Naotaka (boss)
     - Hidden Skill: Swirling Snow (odachi)
+    - Smithing Text: Torch Spear
     - Smithing Text: Tobikura Kusarigama
     - Smithing Text: Taro Tachi (odachi)
     - Smithing Text: Double-Headed Snake Tonfa
@@ -818,6 +823,7 @@ Maeda Toshiie (boss)
 Oni Shibata Katsuie (boss)
     - Hidden Skill: Deadly Spiral (hatchets)
     - Smithing Text: Smirkwiper (sword)
+    - Smithing Text: Radiant Flame (hatchets)
     - Smithing Text: Urn Splitter Hatchets
     - Smithing Text: Oni Shibata's Armor
     ----------
@@ -853,7 +859,7 @@ Mori Nagayoshi (spear)
 
 Ikeda Tsuneoki (dual swords)
     - Smithing Text: Great Kanehira Sword & Nightingale (dual swords)
-    - Smithing Text: Curious Crown Helmet
+    - Smithing Text: Curious Crown Helm
     - Mortal Soul Core
     ----------
     -
@@ -1529,7 +1535,7 @@ Kato Danzo (boss)
     - Flying Kato's Robes
     - Flying Kato's Gauntlets
     - Flying Kato's Waistguard
-    - Flying Kato's
+    - Flying Kato's Greaves
     - Swift Hawk
 
 Shisenin Kosen (boss)
@@ -1537,7 +1543,9 @@ Shisenin Kosen (boss)
     - Smithing Text: Wooden Kusarigama
     - Smithing Text: Wooden Odachi
     ----------
-    -
+    - Shishido Kusarigama
+    - Wooden Kusarigama
+    - Wooden Odachi
 
 Ashikaga Yoshiteru (boss)
     - Smithing Text: Bamboo Cutter & Bone Feaster (dual swords)
@@ -1566,6 +1574,9 @@ Hattori Hanzo (boss)
     - Iga Jonin Gauntlets
     - Iga Jonin Waistguard
     - Iga Jonin Greaves
+    - Wooden Spear
+    - Wooden Tonfa
+    - Wooden Splitstaff
 
 Sakata Kintoki (boss)
     - Smithing Text: Kintaro's Axe
@@ -1576,10 +1587,13 @@ Sakata Kintoki (boss)
     ----------
     - Kintaro's Axe
     - Kintaro's Headband
-    - Kintaro's
+    - Kintaro's Cuirass
     - Kintaro's Gauntlets
     - Kintaro's Waistguard
     - Kintaro's Greaves
+    - Wave Cutter Hatchets
+    - Wooden Axe
+    - Wooden Hatchets
 
 Mumyo (boss)
     - Hidden Skill: Fleeting Edge
@@ -1587,6 +1601,7 @@ Mumyo (boss)
     - Smithing Text: Wooden Switchglaive
     ----------
     - Black Lotus (switchglaive)
+    - Wooden Switchglaive
 
 
 ========== ========== ========== ========== ==========
