@@ -2,9 +2,6 @@
 Enemy Item Drops
 ========== ========== ========== ========== ==========
 ========== ========== ==========
-Base Game Enemies
-========== ========== ==========
-========== ========== ==========
 Global Item Drop Pool
 ========== ========== ==========
     - All enemies have a chance at dropping the following items:
@@ -40,7 +37,6 @@ Global Item Drop Pool
     - Highest-Quality Leather Platelet
     - Highest-Quality Tamahagane
     - Highest-Quality Wood
-
     - Arrow
     - Sacred Arrow
     - Rifle Ammunition
@@ -50,12 +46,12 @@ Global Item Drop Pool
 
     - Divine Rice ???
 
+
     Dream of the Samurai
     ---------- ---------- ----------
-    - Small Spirit Stone ???
     - Lumicite Shard (DLCs)
     - Lumicite Crystal (DLCs)
-
+    - Small Spirit Stone ???
     - Umbracite
     - Umbracite Fragment
 
@@ -63,10 +59,28 @@ Global Item Drop Pool
     Dream of the Strong
     ---------- ---------- ----------
     - Divine Fragment
+    - Demon Parade Picture Scrolls
     - Lumicite Fragment
 
 
---------------------------------------------------
+    Dream of the Demon
+    ---------- ---------- ----------
+    -
+
+
+    Dream of the Wise
+    ---------- ---------- ----------
+    -
+
+
+    Dream of the Nioh
+    ---------- ---------- ----------
+    -
+
+
+========== ========== ========== ========== ==========
+Base Game Enemies
+========== ========== ========== ========== ==========
 Gaki / Gaki (big)
     - Gaki Soul Core
     - Warped Jawbone

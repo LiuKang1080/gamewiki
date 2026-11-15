@@ -2,7 +2,7 @@
 Anima Stats
 ========== ========== ==========
     - [DONE] Anima Bonus (Amrita Absorption)
-    - Anima Bonus (Critical Amrita)
+    - [DONE] Anima Bonus (Critical Amrita)
     - [DONE] Anima Bonus (Unscathed Amrita)
     - [DONE] Anima Bonus (Elemental Attack)
     - Anima Bonus (Unscathed Enemy)
@@ -42,7 +42,7 @@ Anima Stats
     - [DONE] Anima Charge (Enhanced)
     - [DONE] Anima Charge Bonus (Cumulative Damage)
     - [DONE] Anima Charge Bonus (Amrita Gauge) [BLUE]
-    - Anima Charge Bonus (Amrita Gauge)
+    - [DONE] Anima Charge Bonus (Amrita Gauge)
     - [DONE] Anima Bonus (Timely Guard) [Innate Stat]
     - [DONE] Anima Bonus (Water Attack) [Innate Stat]
 
@@ -68,7 +68,7 @@ Damage Stats
     - [DONE] Backstab Damage [Innate Stat / Cannot Be Rolled]
     - [DONE] Elemental Weapon Damage [Innate Stat / Cannot Be Rolled]
     - [DONE] Thrust Damage [Innate Stat / Cannot Be Rolled]
-    - Damage Bonus (Equipment Weight) [Innate Stat / Cannot Be Rolled]
+    - [DONE] Damage Bonus (Equipment Weight) [Innate Stat / Cannot Be Rolled]
     - [DONE] Bare-Handed Attack Damage [Innate Stat / Cannot Be Rolled]
     - [DONE] Ranged Damage [Innate Stat / Cannot Be Rolled]
     - [DONE] Melee Damage vs. Corrupted Enemy [Innate Stat / Cannot Be Rolled]
@@ -140,7 +140,7 @@ No Conflict Stats
     - [DONE] Soul Core Drop Rate (Yokai Shift)
     - [DONE] Enemy Sensor
     - [DONE] Treasure Sensor
-    - Amrita Sensor
+    - [DONE] Amrita Sensor
     - [DONE] Kodama Sensor
     - [DONE] Sentience Charge
     - [DONE] Damage Taken vs. Yokai
