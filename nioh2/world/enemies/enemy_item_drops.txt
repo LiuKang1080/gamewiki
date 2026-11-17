@@ -1198,48 +1198,24 @@ Otakemaru (boss)
     - Hand Cannon (divine)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ========== ========== ========== ========== ==========
 The Tengu's Disciple (DLC 1)
 ========== ========== ========== ========== ==========
 Kiryoki
+    - Smithing Text: Kiryoki's Splitstaff
+    - Smithing Text: Kiryoki's Switchglaive
     - Kiryoki Soul Core
     - Kiryoki Mane
     ----------
+    - Kiryoki's Splitstaff
+    - Kiryoki's Switchglaive
     - Lantern Plant Fruit
-    -
 
 Bakegani
     - Bakegani Soul Core
-    -
+    - Bakegani Pincers
     ----------
-    -
+    - Sacred Brush
 
 Seto Taisho / Benkei (boss)
     - Hidden Skill: Roar Power (Splitstaff)
@@ -1255,10 +1231,42 @@ Seto Taisho / Benkei (boss)
     - Benkei's Greaves
 
 Uminyudo (boss)
+    - Smithing Text: Little Crow & Quickdraw (dual swords)
+    - Smithing Text: Swan Spear
+    - Smithing Text: Lost Kingdom Tonfa
+    - Smithing Text: Five-Man Bow
+    - Smithing Text: Great Hachiryo Armor
     - Uminyudo Soul Core
-    -
+    - Transparent Blade
     ----------
     -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Nue (boss)
     - Smithing Text: Mitsuyo Kusarigama
