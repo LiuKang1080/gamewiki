@@ -1216,6 +1216,7 @@ Bakegani
     - Bakegani Pincers
     ----------
     - Sacred Brush
+    - Yokai Incense
 
 Seto Taisho / Benkei (boss)
     - Hidden Skill: Roar Power (Splitstaff)
@@ -1241,39 +1242,42 @@ Uminyudo (boss)
     ----------
     -
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Nue (boss)
     - Smithing Text: Mitsuyo Kusarigama
+    - Smithing Text: Nene Slayer (odachi)
+    - Smithing Text: Sun and Moon Hatchets
+    - Smithing Text: Raishodo (bow)
     - Nue Soul Core
     - Nue's Claw
     ----------
     -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Taira no Kagekiyo (dual swords) (boss)
     - Smithing Text: Chi-Azamaru (dual swords)

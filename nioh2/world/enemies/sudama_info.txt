@@ -13,6 +13,7 @@ Items dropped from Sudama from exchange:
     - Sacred Brush
     - Salt
     - Summoner's Candle
+    - Travel Amulet
     - Uchiko Powder
     - Whetstone
 
