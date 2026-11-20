@@ -1252,39 +1252,44 @@ Nue (boss)
     ----------
     -
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Taira no Kagekiyo (dual swords) (boss)
     - Smithing Text: Chi-Azamaru (dual swords)
     - Smithing Text: Little Crow & Quickdraw (dual swords)
     - Smithing Text: Taira no Kagekiyo's Armor
     ----------
-    -
+    - Chi-Azamaru (dual swords)
+    - Taira no Kagekiyo's Helmet
+    - Taira no Kagekiyo's Cuirass
+    - Taira no Kagekiyo's Gauntlets
+    - Taira no Kagekiyo's Waistguard
+    - Taira no Kagekiyo's Greaves
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Kajiwara Kagetoki
     -
@@ -1563,6 +1568,7 @@ Kato Danzo (boss)
     - Flying Kato's Waistguard
     - Flying Kato's Greaves
     - Swift Hawk
+    - Wooden Fists
 
 Shisenin Kosen (boss)
     - Smithing Text: Shishido Kusarigama
@@ -1572,6 +1578,7 @@ Shisenin Kosen (boss)
     - Shishido Kusarigama
     - Wooden Kusarigama
     - Wooden Odachi
+    - Wooden Sword
 
 Ashikaga Yoshiteru (boss)
     - Smithing Text: Bamboo Cutter & Bone Feaster (dual swords)
